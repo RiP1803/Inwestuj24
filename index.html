@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Inwestuj24 — wiadomości o inwestycjach</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="logo">Inwestuj24</h1>
+      <nav class="main-nav">
+        <input id="search" placeholder="Szukaj..." />
+        <select id="filter">
+          <option value="all">Wszystkie</option>
+          <option value="pl">Polska</option>
+          <option value="us">USA</option>
+          <option value="eu">Europa</option>
+          <option value="crypto">Kryptowaluty</option>
+          <option value="analizy">Analizy</option>
+        </select>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="top-stats" class="card stats">
+      <div>SP500: <span id="sp500">—</span></div>
+      <div>WIG20: <span id="wig20">—</span></div>
+      <div>BTC: <span id="btc">—</span></div>
+    </section>
+
+    <section id="news-list"></section>
+
+    <aside class="sidebar">
+      <div class="card">
+        <h3>Źródła</h3>
+        <ul id="sources"></ul>
+      </div>
+      <div class="card">
+        <h3>O nas</h3>
+        <p>Inwestuj24 — agregator wiadomości o inwestycjach. Linkujemy do oryginalnych artykułów.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© Inwestuj24 — Wszystkie linki prowadzą do oryginalnych serwisów.</div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

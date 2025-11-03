@@ -1,0 +1,13 @@
+{
+  "generated_at": "2025-11-03T00:00:00Z",
+  "articles": [
+    {
+      "title": "Przykładowy tytuł: spółka X rośnie",
+      "link": "https://example.com/article1",
+      "summary": "Krótki lead lub podsumowanie newsa.",
+      "published": "2025-11-03T00:00:00Z",
+      "source": "Bankier.pl",
+      "category": "pl"
+    }
+  ]
+}
