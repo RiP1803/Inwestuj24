@@ -1,0 +1,1 @@
+console.log('Inwestuj24.pl działa!');

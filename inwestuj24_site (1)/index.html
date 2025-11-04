@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Inwestuj24.pl – najnowsze wiadomości inwestycyjne</title>
+  <meta name="description" content="Inwestuj24.pl – najnowsze wiadomości o inwestowaniu, giełdzie, finansach i gospodarce. Aktualizacje co 3 godziny z Polski, USA i Europy.">
+  <meta name="keywords" content="inwestycje, giełda, finanse, Polska, USA, Europa, akcje, kryptowaluty, dywidendy">
+  <link rel="canonical" href="https://inwestuj24.pl/">
+  <meta property="og:site_name" content="Inwestuj24.pl">
+  <meta property="og:title" content="Inwestuj24.pl – najnowsze wiadomości inwestycyjne">
+  <meta property="og:description" content="Aktualizacje co 3 godziny: Polska, USA, Europa, kryptowaluty.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://inwestuj24.pl/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "url": "https://inwestuj24.pl/",
+        "name": "Inwestuj24.pl",
+        "description": "Inwestuj24.pl – najnowsze wiadomości o inwestowaniu, giełdzie i finansach."
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <h1>Inwestuj24.pl</h1>
+        <p class="tagline">najnowsze wiadomości inwestycyjne</p>
+      </div>
+      <div class="controls">
+        <input id="search" placeholder="Szukaj..." aria-label="Szukaj" />
+        <select id="filter" aria-label="Filtr">
+          <option value="all">Wszystkie</option>
+          <option value="pl">Polska</option>
+          <option value="us">USA</option>
+          <option value="eu">Europa</option>
+          <option value="crypto">Kryptowaluty</option>
+          <option value="analizy">Analizy</option>
+        </select>
+      </div>
+    </div>
+  </header>
+  <main class="container main-grid">
+    <section id="news-list" class="news-column" aria-live="polite"></section>
+    <aside class="sidebar">
+      <div class="card stats">
+        <h3>Indeksy</h3>
+        <div class="stat-row"><span>SP500:</span> <span id="sp500">—</span></div>
+        <div class="stat-row"><span>WIG20:</span> <span id="wig20">—</span></div>
+        <div class="stat-row"><span>BTC:</span> <span id="btc">—</span></div>
+      </div>
+      <div class="card sources">
+        <h3>Źródła</h3>
+        <ul id="sources"></></ul>
+      </div>
+      <div class="card about">
+        <h3>O nas</h3>
+        <p>Inwestuj24.pl — agregator wiadomości o inwestycjach. Linkujemy do oryginalnych artykułów.</p>
+      </div>
+    </aside>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      © 2025 Inwestuj24.pl – Aktualności inwestycyjne
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
