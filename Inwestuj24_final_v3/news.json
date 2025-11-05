@@ -1,0 +1,165 @@
+{
+  "generated_at": "2025-11-05T19:25:05.539733Z",
+  "articles": [
+    {
+      "title": "Bankier.pl: wiadomość o rynku 1",
+      "link": "https://bankier.pl.example/article1",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T19:25:05.539733Z",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bankier.pl: wiadomość o rynku 2",
+      "link": "https://bankier.pl.example/article2",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T18:25:05.539733Z",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Money.pl: wiadomość o rynku 3",
+      "link": "https://money.pl.example/article3",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T17:25:05.539733Z",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "PulsBiznesu.pl: wiadomość o rynku 4",
+      "link": "https://pulsbiznesu.pl.example/article4",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T16:25:05.539733Z",
+      "source": "PulsBiznesu.pl",
+      "category": "pl"
+    },
+    {
+      "title": "StockWatch.pl: wiadomość o rynku 5",
+      "link": "https://stockwatch.pl.example/article5",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T15:25:05.539733Z",
+      "source": "StockWatch.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bankier.pl: wiadomość o rynku 6",
+      "link": "https://bankier.pl.example/article6",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T14:25:05.539733Z",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bankier.pl: wiadomość o rynku 7",
+      "link": "https://bankier.pl.example/article7",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T13:25:05.539733Z",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Parkiet.com: wiadomość o rynku 8",
+      "link": "https://parkiet.com.example/article8",
+      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
+      "published": "2025-11-05T12:25:05.539733Z",
+      "source": "Parkiet.com",
+      "category": "pl"
+    },
+    {
+      "title": "Nvidia: komentarze i wyniki kwartalne",
+      "link": "https://reuters.example/article9",
+      "summary": "Analiza najnowszych wyników Nvidia i wpływ na kurs akcji.",
+      "published": "2025-11-05T11:25:05.539733Z",
+      "source": "Reuters",
+      "category": "us"
+    },
+    {
+      "title": "Meta: komentarze i wyniki kwartalne",
+      "link": "https://marketwatch.example/article10",
+      "summary": "Analiza najnowszych wyników Meta i wpływ na kurs akcji.",
+      "published": "2025-11-05T10:25:05.539733Z",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Microsoft: komentarze i wyniki kwartalne",
+      "link": "https://cnbc.example/article11",
+      "summary": "Analiza najnowszych wyników Microsoft i wpływ na kurs akcji.",
+      "published": "2025-11-05T09:25:05.539733Z",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Alphabet: komentarze i wyniki kwartalne",
+      "link": "https://reuters.example/article12",
+      "summary": "Analiza najnowszych wyników Alphabet i wpływ na kurs akcji.",
+      "published": "2025-11-05T08:25:05.539733Z",
+      "source": "Reuters",
+      "category": "us"
+    },
+    {
+      "title": "Microsoft: komentarze i wyniki kwartalne",
+      "link": "https://yahoofinance.example/article13",
+      "summary": "Analiza najnowszych wyników Microsoft i wpływ na kurs akcji.",
+      "published": "2025-11-05T07:25:05.539733Z",
+      "source": "YahooFinance",
+      "category": "us"
+    },
+    {
+      "title": "Amazon: komentarze i wyniki kwartalne",
+      "link": "https://cnbc.example/article14",
+      "summary": "Analiza najnowszych wyników Amazon i wpływ na kurs akcji.",
+      "published": "2025-11-05T06:25:05.539733Z",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Microsoft: komentarze i wyniki kwartalne",
+      "link": "https://reuters.example/article15",
+      "summary": "Analiza najnowszych wyników Microsoft i wpływ na kurs akcji.",
+      "published": "2025-11-05T05:25:05.539733Z",
+      "source": "Reuters",
+      "category": "us"
+    },
+    {
+      "title": "Europa: wydarzenie sektorowe 16",
+      "link": "https://comparic.pl.example/article16",
+      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
+      "published": "2025-11-05T04:25:05.539733Z",
+      "source": "Comparic.pl",
+      "category": "eu"
+    },
+    {
+      "title": "Europa: wydarzenie sektorowe 17",
+      "link": "https://stooq.pl.example/article17",
+      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
+      "published": "2025-11-05T03:25:05.539733Z",
+      "source": "Stooq.pl",
+      "category": "eu"
+    },
+    {
+      "title": "Europa: wydarzenie sektorowe 18",
+      "link": "https://comparic.pl.example/article18",
+      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
+      "published": "2025-11-05T02:25:05.539733Z",
+      "source": "Comparic.pl",
+      "category": "eu"
+    },
+    {
+      "title": "Europa: wydarzenie sektorowe 19",
+      "link": "https://stooq.pl.example/article19",
+      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
+      "published": "2025-11-05T01:25:05.539733Z",
+      "source": "Stooq.pl",
+      "category": "eu"
+    },
+    {
+      "title": "Europa: wydarzenie sektorowe 20",
+      "link": "https://fxmag.pl.example/article20",
+      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
+      "published": "2025-11-05T00:25:05.539733Z",
+      "source": "FXMag.pl",
+      "category": "eu"
+    }
+  ]
+}
