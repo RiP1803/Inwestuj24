@@ -1,36 +1,51 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Inwestuj24.pl — Najnowsze wiadomości o giełdzie i inwestycjach</title>
   <meta name="description" content="Codzienne wiadomości o giełdzie i inwestycjach...">
   <meta name="keywords" content="giełda, inwestycje, akcje, USA, Polska, spółki, finanse, inwestowanie">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://inwestuj24.netlify.app">
-  
-  <!-- Open Graph for social sharing -->
+  <meta property="og:site_name" content="Inwestuj24.pl">
   <meta property="og:title" content="Inwestuj24.pl — Najnowsze wiadomości o giełdzie i inwestycjach">
   <meta property="og:description" content="Codzienne wiadomości o giełdzie i inwestycjach...">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://inwestuj24.netlify.app">
-  <meta property="og:site_name" content="Inwestuj24.pl">
-
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header>
-    <h1>Inwestuj24.pl</h1>
-    <p>Codzienne wiadomości o giełdzie i inwestycjach</p>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand"><h1>Inwestuj24.pl<span class="dot">•</span></h1></div>
+      <nav class="main-nav">
+        <a class="nav-item">Polska</a>
+        <a class="nav-item">USA</a>
+        <a class="nav-item">Europa</a>
+        <a class="nav-item">Kryptowaluty</a>
+        <a class="nav-item">Spółki USA</a>
+        <a class="nav-item">Rynki</a>
+      </nav>
+    </div>
   </header>
 
-  <main id="news-container">
-    <p>Ładowanie aktualnych wiadomości...</p>
+  <main class="container main-grid">
+    <section id="news-list" class="news-column" aria-live="polite"></section>
+
+    <aside class="sidebar">
+      <div class="card stats">
+        <h3>Indeksy</h3>
+        <div class="stat-row"><span>SP500:</span> <span id="sp500">—</span></div>
+        <div class="stat-row"><span>WIG20:</span> <span id="wig20">—</span></div>
+        <div class="stat-row"><span>BTC:</span> <span id="btc">—</span></div>
+      </div>
+      <div class="card sources"><h3>Źródła</h3><ul id="sources"></ul></div>
+      <div class="card about"><h3>O nas</h3><p>Inwestuj24.pl — agregator wiadomości o inwestycjach. Linkujemy do oryginalnych artykułów.</p></div>
+    </aside>
   </main>
 
-  <footer>
-    <p>© 2025 Inwestuj24.pl — Aktualności finansowe i giełdowe</p>
-  </footer>
+  <footer class="site-footer"><div class="container">© 2025 Inwestuj24.pl – Aktualności inwestycyjne</div></footer>
 
   <script src="script.js"></script>
 </body>
