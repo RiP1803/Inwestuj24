@@ -1,165 +1,765 @@
 {
-  "generated_at": "2025-11-05T20:39:45.181069Z",
+  "generated_at": "2025-11-06T21:23:50.164412",
   "articles": [
     {
-      "title": "PulsBiznesu.pl: wiadomość o rynku 1",
-      "link": "https://pulsbiznesu.pl.example/article1",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T20:39:45.181069Z",
-      "source": "PulsBiznesu.pl",
-      "category": "pl"
+      "title": "Lucid misses Wall Street expectations, narrows production guidance",
+      "link": "https://www.cnbc.com/2025/11/05/lucid-lcid-earnings-q3-2025.html",
+      "summary": "Lucid also said it has agreed to increase a term loan credit facility from $750 million to roughly $2 billion from Saudi Arabia's Public Investment Fund.",
+      "published": "Wed, 05 Nov 2025 23:27:40 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
-      "title": "PulsBiznesu.pl: wiadomość o rynku 2",
-      "link": "https://pulsbiznesu.pl.example/article2",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T19:39:45.181069Z",
-      "source": "PulsBiznesu.pl",
-      "category": "pl"
+      "title": "Retailers are raising prices to meet tariffs. Amazon is hiking more than others",
+      "link": "https://www.cnbc.com/2025/11/05/amazon-target-walmart-raising-prices-tariffs.html",
+      "summary": "Prices on Amazon, Walmart and Target have all increased this year as retailers grapple with higher costs due to tariffs.",
+      "published": "Wed, 05 Nov 2025 22:25:16 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
-      "title": "StockWatch.pl: wiadomość o rynku 3",
-      "link": "https://stockwatch.pl.example/article3",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T18:39:45.181069Z",
-      "source": "StockWatch.pl",
-      "category": "pl"
+      "title": "E.l.f. Beauty stock plunges 29% on weak guidance, tariff impact",
+      "link": "https://www.cnbc.com/2025/11/05/elf-beauty-elf-earnings-q2-2026.html",
+      "summary": "E.l.f. Beauty, which acquired Hailey Bieber's beauty brand Rhode earlier this year, expects the brand to increase annual run rate revenue by $300 million.",
+      "published": "Wed, 05 Nov 2025 21:33:05 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
-      "title": "Bankier.pl: wiadomość o rynku 4",
-      "link": "https://bankier.pl.example/article4",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T17:39:45.181069Z",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Read Paramount's argument for why its WBD buyout offer is superior to splitting the company",
+      "link": "https://www.cnbc.com/2025/11/05/warner-bros-discovery-wbd-sale-split-plans-deadline.html",
+      "summary": "Warner Bros. Discovery plans to announce either a sale or that it's moving forward with splitting the company — or both — by Christmas, sources told CNBC.",
+      "published": "Wed, 05 Nov 2025 21:31:37 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
-      "title": "StockWatch.pl: wiadomość o rynku 5",
-      "link": "https://stockwatch.pl.example/article5",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T16:39:45.181069Z",
-      "source": "StockWatch.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Bankier.pl: wiadomość o rynku 6",
-      "link": "https://bankier.pl.example/article6",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T15:39:45.181069Z",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Bankier.pl: wiadomość o rynku 7",
-      "link": "https://bankier.pl.example/article7",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T14:39:45.181069Z",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Money.pl: wiadomość o rynku 8",
-      "link": "https://money.pl.example/article8",
-      "summary": "Krótkie podsumowanie: wydarzenia na rynku akcji i sprawozdania firm.",
-      "published": "2025-11-05T13:39:45.181069Z",
+      "title": "Szczerze o ostrych szefach. \"Zabierają pieniądze\"",
+      "link": "https://www.money.pl/pieniadze/szczerze-o-ostrych-szefach-zabieraja-pieniadze-7218684189529729v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/cd839835-b083-4d9d-8cbf-67d626a60445.png\" width=\"308\" /> - Menedżer, który dostarcza pracownikom zbyt wiele zbędnego stresu, zabiera właścicielowi pieniądze - mówi w <a href=\"https://www.money.pl/pieniadze/gorzkie-slowa-o-szefach-zabieraja-pieniadze-7216818748754592a.html\" rel=\"noopener noreferrer\">\"Biznes Klasie\"</a> <a href=\"http://so-ma",
+      "published": "Wed, 05 Nov 2025 21:29:47 +0100",
       "source": "Money.pl",
       "category": "pl"
     },
     {
-      "title": "Visa: komentarze i wyniki kwartalne",
-      "link": "https://cnbc.example/article9",
-      "summary": "Analiza najnowszych wyników Visa i wpływ na kurs akcji.",
-      "published": "2025-11-05T12:39:45.181069Z",
+      "title": "Starbucks union authorizes open-ended strike as busy holiday season begins",
+      "link": "https://www.cnbc.com/2025/11/05/starbucks-union-authorizes-open-ended-strike-as-holiday-season-begins.html",
+      "summary": "Starbucks union baristas have voted to authorize an open-ended strike.",
+      "published": "Wed, 05 Nov 2025 19:21:52 GMT",
       "source": "CNBC",
       "category": "us"
     },
     {
-      "title": "Apple: komentarze i wyniki kwartalne",
-      "link": "https://yahoofinance.example/article10",
-      "summary": "Analiza najnowszych wyników Apple i wpływ na kurs akcji.",
-      "published": "2025-11-05T11:39:45.181069Z",
-      "source": "YahooFinance",
+      "title": "Alarm w ochronie zdrowia. \"Dwie ustawy kompletnie rozwaliły system\"",
+      "link": "https://www.money.pl/pieniadze/alarm-w-ochronie-zdrowia-dwie-ustawy-kompletnie-rozwalily-system-7218586619820864a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0f582dea-decb-46b4-b19f-d94cb263b259\" width=\"308\" /> Prawie 130 mld zł może wynieść luka finansowa systemu ochrony zdrowia w Polsce w latach 2025-2027 - wynika z raportu o stanie finansów opieki zdrowotnej. - Ten scenariusz już częściowo się realizuje. Dwie ustawy kompletnie rozwaliły system - mówi money.pl Kamil Barczyk, d",
+      "published": "Wed, 05 Nov 2025 17:58:32 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Sejmowa komisja za uchyleniem immunitetu Ziobrze. Chce zgody na jego zatrzymanie i aresztowanie",
+      "link": "https://www.bankier.pl/wiadomosc/Sejmowa-komisja-za-uchyleniem-immunitetu-Ziobrze-Chce-zgody-na-jego-zatrzymanie-i-aresztowanie-9036278.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/9/19db913ff600bc-948-568-0-89-2986-1791.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja regulaminowa poparła wniosek o uchylenie immunitetu b. ministrowi sprawiedliwości, posłowi PiS Zbigniewowi Ziobrze, któremu prokuratura chce postawić 26 zarzutów, w tym ",
+      "published": "Thu, 6 Nov 2025 20:10:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ławrow popadł w niełaskę na Kremlu po nieudanej rozmowie z Rubio",
+      "link": "https://www.bankier.pl/wiadomosc/Moscow-Times-Lawrow-popadl-w-nielaske-na-Kremlu-po-nieudanej-rozmowie-z-Rubio-9036275.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/b/36a2949a768513-948-568-0-169-3356-2013.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister spraw zagranicznych Rosji Siergiej Ławow popadł w niełaskę na Kremlu po nieudanej rozmowie telefonicznej z sekretarzem stanu USA Markiem Rubio, która doprowadziła do o",
+      "published": "Thu, 6 Nov 2025 20:03:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Leki na otyłość będą tańsze. Trump ogłosił ważne porozumienie",
+      "link": "https://www.bankier.pl/wiadomosc/Leki-na-otylosc-beda-tansze-Trump-oglosil-wazne-porozumienie-9036271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/2/0b0215bea3e296-948-568-0-128-1900-1139.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump ogłosił w czwartek porozumienie z koncernami farmaceutycznymi Novo Nordisk i Eli Lilly w sprawie obniżenia cen popularnych leków na otyłość GLP-1. W ",
+      "published": "Thu, 6 Nov 2025 19:59:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Niemiecki przemysł stalowy w głębokim kryzysie. Merz: Czasy wolnego rynku niestety minęły",
+      "link": "https://www.bankier.pl/wiadomosc/Niemiecki-przemysl-stalowy-w-glebokim-kryzysie-Merz-Czasy-wolnego-rynku-niestety-minely-9036269.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/d/50b8c78b29fdf6-948-568-0-0-2848-1708.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Niemiecki przemysł stalowy znajduje się w kryzysie zagrażającym jego istnieniu - ocenił w czwartek kanclerz Niemiec Friedrich Merz. Opowiadając się za protekcjonistycznymi rozwią",
+      "published": "Thu, 6 Nov 2025 19:50:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "USA dokonają inwazji na Nigerię? \"Armia na rozkaz Trumpa opracowała plany\"",
+      "link": "https://www.bankier.pl/wiadomosc/USA-dokonaja-inwazji-na-Nigerie-Armia-na-rozkaz-Trumpa-opracowala-plany-9036240.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/b20f13edacaa7b-948-568-0-79-3958-2374.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dowództwo Stanów Zjednoczonych w Afryce (AFRICOM) opracowało na rozkaz prezydenta Donalda Trumpa plany, mające położyć kres domniemanemu masowemu mordowaniu chrześcijan przez mu",
+      "published": "Thu, 6 Nov 2025 18:47:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zysk netto Dino poniżej oczekiwań. Spółka podsumowała III kwartał 2025",
+      "link": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-III-kw-481-9-mln-zl-zysku-netto-j-d-wobec-konsensusu-497-9-mln-zl-zysku-9036237.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/c0cc4aef447f55-945-560-0-0-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zysk netto jednostki dominującej grupy Dino Polska wyniósł w trzecim kwartale 2025 roku 481,9 mln zł wobec 438,2 mln zł zysku rok wcześniej - podała spółka w raporcie kwartalnym.",
+      "published": "Thu, 6 Nov 2025 18:46:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Meta zarabia miliardy dolarów na reklamach oszustw. Firma... nalicza im wyższe stawki",
+      "link": "https://www.bankier.pl/wiadomosc/Meta-zarabia-na-reklam-oszustw-i-zakazanych-towarow-Firma-nalicza-im-wyzsze-stawki-9036223.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/a/748e510aef8aeb-948-568-610-640-3383-2030.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pod koniec ubiegłego roku Meta prognozowała, że ok.10 proc. jej całkowitych rocznych przychodów – czyli 16 mld dolarów – będzie pochodziło z reklam oszustw i zakazanych towar",
+      "published": "Thu, 6 Nov 2025 18:25:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Szacunkowa skorygowana EBITDA Unimotu w III kw. zgodna z konsensusem",
+      "link": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-87-mln-zl-zgodnie-z-konsensusem-9036192.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/f/6e19e0cbc5a926-945-560-6-474-2786-1671.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2025 roku wyniosła 87 mln zł - poinformowała paliwowa spółka w komunikacie. Wynik jest zgodny z oczekiwaniami analitykó",
+      "published": "Thu, 6 Nov 2025 17:44:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wynik EBITDA Tauronu w III kw. powyżej konsensusu",
+      "link": "https://www.bankier.pl/wiadomosc/Tauron-szacuje-wynik-EBITDA-w-III-kw-na-1-918-mld-zl-wobec-1-83-mld-zl-konsensusu-9036188.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/4/3dcbb743d4dc40-948-568-54-0-1200-720.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Tauron szacuje, że w trzecim kwartale 2025 r. jego wynik EBITDA wyniósł 1,918 mld zł, a zysk netto sięgnął 844 mln zł. Konsensus PAP Biznes zakładał 1,83 mln zł EBITDA oraz 794 m",
+      "published": "Thu, 6 Nov 2025 17:38:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czwartek na GPW: wyniki PKO BP, CCC w MSCI i wyjaśnienia po awarii XTB",
+      "link": "https://www.bankier.pl/wiadomosc/Depesza-z-GPW-6-11-2025-PKO-BP-pokazal-wyniki-banki-sila-GPW-9036095.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/6/d1324057eb0c35-948-568-0-234-2340-1404.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Główne indeksy GPW rosły w czwartek, pchane do góry przez mocny sektor bankowy. Wyniki PKO BP przerosły oczekiwania analityków, a po sesji kwartalny raport miało przedstawić Di",
+      "published": "Thu, 6 Nov 2025 17:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Śmiertelny wypadek na A1. Sebastian M. obciąża ofiary",
+      "link": "https://www.bankier.pl/wiadomosc/Smiertelny-wypadek-na-A1-Swiadkowie-nie-pamietaja-zderzenia-Sebastian-M-obciaza-ofiary-9036157.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/7/2ac11e94d66594-948-568-16-320-3184-1910.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pasażerowie BMW, którzy jechali z Sebastianem M. w dniu wypadku na autostradzie A1 we wrześniu 2023 r. zeznali przed sądem w Piotrkowie Trybunalskim, że usłyszeli od oskarżone",
+      "published": "Thu, 6 Nov 2025 17:09:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kropiwnicki odszedł z MAP. Cieszy się Polska 2050, a czeka TK?",
+      "link": "https://www.bankier.pl/wiadomosc/Kropiwnicki-odszedl-z-MAP-Cieszy-sie-Polska-2050-a-czeka-TK-9036123.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/7/8d58908de6b9b6-948-568-385-175-2741-1645.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Politycy KO mówią nieoficjalnie, że decyzja o odejściu Roberta Kropiwnickiego z MAP zapadła już wcześniej i czekano na moment, by „ogłosić ją bez politycznego szumu”. Z kolei",
+      "published": "Thu, 6 Nov 2025 16:26:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Podatek od zysków banków w górę. Senat zaproponował poprawki",
+      "link": "https://www.bankier.pl/wiadomosc/Podatek-od-zyskow-bankow-w-gore-Senat-zaproponowal-poprawki-9036090.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/b/58cf07784394e5-948-568-0-0-1293-776.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Senat w czwartek zaproponował poprawki do ustawy podnoszącej stawkę podatku dochodowego od banków. Ma ona wynieść 30 proc. w 2026 r., 26 proc. w 2027 r. i 23 proc. od 2028 r. Popr",
+      "published": "Thu, 6 Nov 2025 15:59:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Senat zamyka luki w fundacjach rodzinnych. Podatkowy cios we właścicieli nieruchomości",
+      "link": "https://www.bankier.pl/wiadomosc/Senat-zamyka-luki-w-fundacjach-rodzinnych-Podatkowy-cios-we-wlascicieli-nieruchomosci-9036081.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/f/f42bdbf91b76ac-948-568-125-131-2375-1424.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W czwartek Senat nie wprowadził poprawek do ustawy, która ma zmienić opodatkowanie fundacji rodzinnych, w tym objąć podatkiem dochody fundacji z najmu innego niż mieszkaniowy",
+      "published": "Thu, 6 Nov 2025 15:52:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Glapiński: W przyszłym roku inflacja może być niższa niż oczekiwaliśmy",
+      "link": "https://www.bankier.pl/wiadomosc/Czy-RPP-wcisnie-pauze-w-obnizkach-stop-procentowych-Konferencja-Adama-Glapinskiego-9035943.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/5/d9faa76c8cbc30-948-568-0-0-2048-1228.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na listopadowym posiedzeniu Rada Polityki Pieniężnej obniżyła stopy procentowe o 25 pb. Decyzja RPP nie była zaskoczeniem dla rynkowych analityków, lecz komentarz prezesa NBP pro",
+      "published": "Thu, 6 Nov 2025 15:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tylu będzie Polaków w 2060 roku. Demograficzne trzęsienie ziemi w symulacji GUS-u",
+      "link": "https://www.bankier.pl/wiadomosc/Tylu-bedzie-Polakow-w-2060-roku-Demograficzne-trzesienie-ziemi-w-symulacji-GUS-u-9036000.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/2/9454a7118a4625-948-568-21-95-2904-1742.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Liczba ludności Polski w 2060 r. przy założeniu niskiej dzietności na poziomie z 2024 r. (TFR 1,10) może wynieść 28,4 mln, tj. o 24,3 proc. mniej niż w ubiegłym roku - podał GU",
+      "published": "Thu, 6 Nov 2025 15:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "JSW przewiduje, że w 2026 r. roczny poziom wydobycia węgla ogółem wyniesie ok. 13,5 mln ton",
+      "link": "https://www.bankier.pl/wiadomosc/JSW-przewiduje-ze-w-2026-r-roczny-poziom-wydobycia-wegla-ogolem-wyniesie-ok-13-5-mln-ton-9035999.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/9/6f83c3e7cf57d2-948-568-0-254-2715-1628.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jastrzębska Spółka Węglowa przygotowuje plan restrukturyzacji biznesowej; z jej analiz w obszarze produkcyjno-handlowym wynika, że w 2026 r. planowane jest wydobycie ok. 13,5 m",
+      "published": "Thu, 6 Nov 2025 14:36:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Deweloperzy: Jeśli popyt wzrósł, to dlaczego miały nie wzrosnąć ceny?",
+      "link": "https://www.bankier.pl/wiadomosc/Deweloperzy-Jesli-popyt-wzrosl-to-dlaczego-mialy-nie-wzrosnac-ceny-9035933.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/f/af796a882fa0f4-948-568-0-129-1991-1194.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rynek deweloperski ma zbyt wiele barier, a każda ingerencja rządzących w branżę deweloperską jest z jej punktu widzenia zła. Dostępność mieszkań można z kolei zwiększyć głównie",
+      "published": "Thu, 6 Nov 2025 13:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "XTB z kolejną dużą awarią. Broker wyjaśnia przyczyny",
+      "link": "https://www.bankier.pl/wiadomosc/XTB-z-kolejna-duza-awaria-Broker-znow-nadwyreza-zaufanie-klientow-9035803.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/8/fae9c73dd8dbd7-948-568-10-65-990-594.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />XTB, czyli największy w Polsce dom maklerski pod względem liczby prowadzonych rachunków inwestycyjnych, mierzył się w środę z problemami technicznymi, które uniemożliwiły obsługę",
+      "published": "Thu, 6 Nov 2025 09:42:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Płać kartą przez 3 miesiące i odbierz bez dopłat Apple Watch SE. Nagroda gwarantowana",
+      "link": "https://www.bankier.pl/wiadomosc/Rob-codzienne-zakupy-spozywcze-i-odbierz-Apple-Watch-Zasady-promocji-9032388.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/3/4c02ede102bb87-948-567-0-0-950-569.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W zamian za wydawanie 1000 zł miesięcznie kartą przez trzy miesiące można odebrać bez dodatkowych opłat najnowszy zegarek Apple Watch SE. Zakupy można robić wszędzie – od spożywcza",
+      "published": "Thu, 30 Oct 2025 09:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Podwyżka CIT dla banków. Jest ostateczna decyzja parlamentu",
+      "link": "https://www.money.pl/banki/podwyzka-cit-dla-bankow-jest-ostateczna-decyzja-parlamentu-7219036739038016a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4423728a-32b3-4a3f-994b-1de669cbfadc\" width=\"308\" /> Sejm poparł w czwartek poprawki Senatu do ustawy podnoszącej stawkę podatku dochodowego od banków, co oznacza, że ustawa przeszła już całą ścieżkę legislacyjną w parlamencie i trafi teraz na biurko prezydenta Karola Nawrockiego.",
+      "published": "Thu, 06 Nov 2025 21:54:17 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Airbnb suggests consumers are starting to feel better about vacations. Here’s why profits could still take a hit.",
+      "link": "https://www.marketwatch.com/story/airbnb-suggests-consumers-are-starting-to-feel-better-about-vacations-heres-why-profits-could-still-take-a-hit-36320b1c?mod=mw_rss_topstories",
+      "summary": "Vacation-rental platform Airbnb Inc. on Thursday said demand held up through October and forecast fourth-quarter sales that were above expectations, but the company said spending on new services and political battles would cut into profits.",
+      "published": "Thu, 06 Nov 2025 21:18:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Berkshire Hathaway: komentarze i wyniki kwartalne",
-      "link": "https://yahoofinance.example/article11",
-      "summary": "Analiza najnowszych wyników Berkshire Hathaway i wpływ na kurs akcji.",
-      "published": "2025-11-05T10:39:45.181069Z",
-      "source": "YahooFinance",
+      "title": "Up to 40% of flights could be delayed this weekend from FAA cuts. What to do if you have to travel.",
+      "link": "https://www.marketwatch.com/story/heres-what-to-do-if-your-travel-plans-are-disrupted-by-the-faa-cutting-10-of-flights-at-the-40-biggest-airports-482314d5?mod=mw_rss_topstories",
+      "summary": "Travelers are bracing for a worst-case scenario. Airlines say they will be flexible when it comes to passengers changing or canceling their plans.",
+      "published": "Thu, 06 Nov 2025 21:16:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Visa: komentarze i wyniki kwartalne",
-      "link": "https://cnbc.example/article12",
-      "summary": "Analiza najnowszych wyników Visa i wpływ na kurs akcji.",
-      "published": "2025-11-05T09:39:45.181069Z",
+      "title": "FAA announces flight reductions at 40 airports. Here's where cuts are expected and what travelers need to know",
+      "link": "https://www.cnbc.com/2025/11/06/airport-flight-reductions-faa.html",
+      "summary": "The Federal Aviation Administration announced a reduction across 40 airports beginning Friday. Here's what travelers need to know.",
+      "published": "Thu, 06 Nov 2025 21:14:18 GMT",
       "source": "CNBC",
       "category": "us"
     },
     {
-      "title": "Microsoft: komentarze i wyniki kwartalne",
-      "link": "https://marketwatch.example/article13",
-      "summary": "Analiza najnowszych wyników Microsoft i wpływ na kurs akcji.",
-      "published": "2025-11-05T08:39:45.181069Z",
+      "title": "SoundHound’s earnings beat reflects this emerging trend in voice AI",
+      "link": "https://www.marketwatch.com/story/soundhound-earnings-beat-reflects-this-emerging-trend-in-voice-ai-a2006a3f?mod=mw_rss_topstories",
+      "summary": "The company is raising its full-year guidance thanks to ‘booming’ enterprise AI adoption.",
+      "published": "Thu, 06 Nov 2025 21:14:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Nvidia: komentarze i wyniki kwartalne",
-      "link": "https://marketwatch.example/article14",
-      "summary": "Analiza najnowszych wyników Nvidia i wpływ na kurs akcji.",
-      "published": "2025-11-05T07:39:45.181069Z",
+      "title": "CarMax stock falls 24% as CEO steps down, used car retailer releases weak outlook",
+      "link": "https://www.cnbc.com/2025/11/06/carmax-stock-kmx-ceo.html",
+      "summary": "CarMax said board member David McCreight, a retail clothing executive who has served as CEO of Lulu's Fashion Lounge Holdings, will serve as interim CEO.",
+      "published": "Thu, 06 Nov 2025 21:08:17 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Wide Treasury-market swings highlight investors’ confusion about where the economy is headed",
+      "link": "https://www.marketwatch.com/story/wide-treasury-market-swings-highlight-investors-confusion-about-where-the-economy-is-headed-697e83c5?mod=mw_rss_topstories",
+      "summary": "Yields on U.S. government debt have seen big swings over the past two days, as the latest round of nongovernment data on the labor market has left investors scratching their heads.",
+      "published": "Thu, 06 Nov 2025 21:07:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Microsoft: komentarze i wyniki kwartalne",
-      "link": "https://marketwatch.example/article15",
-      "summary": "Analiza najnowszych wyników Microsoft i wpływ na kurs akcji.",
-      "published": "2025-11-05T06:39:45.181069Z",
+      "title": "Startup Omada Health to start prescribing GLP-1s, other obesity medications as membership grows",
+      "link": "https://www.cnbc.com/2025/11/06/omada-health-to-start-prescribing-glp-1s-other-obesity-medications.html",
+      "summary": "The announcement expands the offerings under the company's weight management program as its membership grows to more than 100,000.",
+      "published": "Thu, 06 Nov 2025 21:05:46 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "McDonald's U.S. boss puts focus on 'value and affordability' as consumer spending splits",
+      "link": "https://www.cnbc.com/2025/11/06/mcdonalds-us-boss-memo-value-affordability.html",
+      "summary": "McDonald's U.S. President Joe Erlinger told operators the brand was \"moving in the right direction\" as it continues a more-than-yearlong push on value.",
+      "published": "Thu, 06 Nov 2025 21:00:27 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Ford’s electric F-150 could be the first victim of the recent EV slowdown",
+      "link": "https://www.marketwatch.com/story/fords-electric-f-150-could-be-the-first-victim-of-the-recent-ev-slowdown-bc12f3a2?mod=mw_rss_topstories",
+      "summary": "The F-150 Lightning, which started its run in 2022, could be among the first, and most visible, casualties of the EV slowdown that has hit carmakers this year.",
+      "published": "Thu, 06 Nov 2025 20:54:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Europa: wydarzenie sektorowe 16",
-      "link": "https://fxmag.pl.example/article16",
-      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
-      "published": "2025-11-05T05:39:45.181069Z",
-      "source": "FXMag.pl",
-      "category": "eu"
+      "title": "What your friendships and 401(k) have in common — and how to get the best return on investment",
+      "link": "https://www.marketwatch.com/story/what-your-friendships-and-401-k-have-in-common-and-how-to-get-the-best-return-on-investment-279f5be6?mod=mw_rss_topstories",
+      "summary": "Like creating a nest egg, building community also requires repeated contributions in order to be beneficial in the long run.",
+      "published": "Thu, 06 Nov 2025 20:47:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
-      "title": "Europa: wydarzenie sektorowe 17",
-      "link": "https://fxmag.pl.example/article17",
-      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
-      "published": "2025-11-05T04:39:45.181069Z",
-      "source": "FXMag.pl",
-      "category": "eu"
+      "title": "Trump rolls out pricing deal with weight-loss-drug giants Eli Lilly, Novo Nordisk. Analysts say the pact raises more questions than it answers.",
+      "link": "https://www.marketwatch.com/story/trump-white-house-confirms-pricing-deal-with-weight-loss-drug-giants-eli-lilly-novo-nordisk-f5d06535?mod=mw_rss_topstories",
+      "summary": "The Trump administration on Thursday rolled out a much-anticipated deal with drugmakers Eli Lilly and Novo Nordisk that aims to deliver lower prices for their popular GLP-1 drugs to certain Medicare and Medicaid beneficiaries and to users of TrumpRx.gov, the administration’s new direct-to-consumer website.",
+      "published": "Thu, 06 Nov 2025 20:35:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
-      "title": "Europa: wydarzenie sektorowe 18",
-      "link": "https://fxmag.pl.example/article18",
-      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
-      "published": "2025-11-05T03:39:45.181069Z",
-      "source": "FXMag.pl",
-      "category": "eu"
+      "title": "Big Tech drags down S&P 500 amid jitters over highly valued stock market",
+      "link": "https://www.marketwatch.com/story/big-tech-drags-down-s-p-500-amid-jitters-over-highly-valued-stock-market-d7258835?mod=mw_rss_topstories",
+      "summary": "U.S. stocks are stumbling this month amid worries over stretched valuations, with the S&amp;P 500’s concentration in Big Tech making it vulnerable to pullbacks like the one seen Thursday.",
+      "published": "Thu, 06 Nov 2025 20:34:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
-      "title": "Europa: wydarzenie sektorowe 19",
-      "link": "https://comparic.pl.example/article19",
-      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
-      "published": "2025-11-05T02:39:45.181069Z",
+      "title": "‘He lives paycheck to paycheck’: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
+      "link": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
+      "summary": "“He seems to think ‘bill due’ dates are a suggestion. He has literally no savings.”",
+      "published": "Thu, 06 Nov 2025 20:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Microsoft’s stock is suffering its longest losing streak in years. What gives?",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-its-longest-losing-streak-in-years-what-gives-269f7676?mod=mw_rss_topstories",
+      "summary": "Analysts say investors are rotating out of “laggard” Big Tech stocks in favor of momentum plays. They may also be spooked by Microsoft’s higher AI spending.",
+      "published": "Thu, 06 Nov 2025 20:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Younger consumers are eating less Chipotle and Cava. They are buying more Coach bags",
+      "link": "https://www.cnbc.com/2025/11/06/tapestry-tpr-q1-2026-earnings.html",
+      "summary": "The split in company results indicates consumers are splurging in some areas, as they save in others.",
+      "published": "Thu, 06 Nov 2025 20:22:03 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Jest kolejne weto Karola Nawrockiego. Chodzi o firmy ubezpieczeniowe",
+      "link": "https://businessinsider.com.pl/finanse/karol-nawrocki-zawetowal-kolejna-ustawe-dotyczy-branzy-ubezpieczeniowej/1yn7ws7",
+      "summary": "Prezydent Karol Nawrocki zawetował nowelizację ustawy, która znosiła obowiązek nakładania przez Komisję Nadzoru Finansowego (KNF) kar na firmy ubezpieczeniowe za opóźnienia w likwidacji szkód. Jak poinformowała w czwartek Kancelaria Prezydenta, głowa państwa uznała, że przepisy mogłyby doprowadzić do \"upowszechnienia negatywnych praktyk\" wśród ubezpieczycieli i osłabić ochronę klientów.",
+      "published": "Thu, 06 Nov 2025 20:13:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage",
+      "link": "https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html",
+      "summary": "The deals are among the most politically significant announcements to date in the Trump administration's efforts to rein in high U.S. drug costs.",
+      "published": "Thu, 06 Nov 2025 19:55:14 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Te osoby już wkrótce dostaną wyższe emerytury. Nawet kilkaset złotych",
+      "link": "https://businessinsider.com.pl/praca/emerytury/te-osoby-juz-wkrotce-dostana-wyzsze-emerytury-tyle-wyniesie-srednia-podwyzka/zp8czyz",
+      "summary": "ZUS ponownie przeliczy część emerytur, co oznacza wyższe świadczenie dla 103 tys. osób. Chodzi o konkretną grupę, która może zyskać nawet kilkaset złotych miesięcznie. Nowe przepisy wejdą w życie już w styczniu 2026 r. Do tego nie trzeba składać żadnych wniosków, bo ZUS sam przyjrzy się świadczeniom.",
+      "published": "Thu, 06 Nov 2025 19:53:13 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Retailers' holiday hiring to hit lowest level since the Great Recession, says major industry trade group",
+      "link": "https://www.cnbc.com/2025/11/06/retail-holiday-hiring-to-hit-lowest-level-in-15-years-nrf.html",
+      "summary": "The major industry group's prediction offers the latest glimpse into the jobs market as the record government shutdown stretches on.",
+      "published": "Thu, 06 Nov 2025 19:48:52 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Here's how much weight loss drugs could cost you under Trump's deals with Eli Lilly, Novo Nordisk",
+      "link": "https://www.cnbc.com/2025/11/06/obesity-drug-prices-trump-deals-eli-lilly-novo-nordisk.html",
+      "summary": "The monthly out-of-pocket cost of popular injections and upcoming pills could range from $50 to $350, depending on the dosage and insurance coverage.",
+      "published": "Thu, 06 Nov 2025 19:45:10 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Te zakłady zwalniają. Ogłoszono cięcia tysięcy etatów",
+      "link": "https://www.money.pl/gospodarka/te-zaklady-zwalniaja-ogloszono-ciecia-tysiecy-etatow-7218893364861728a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2977f6d5-9483-4ac5-b6ce-c0a97fc950c6\" width=\"308\" /> Kolejne firmy zapowiedziały przeprowadzenie zwolnień grupowych lub nawet likwidację całych zakładów w Polsce. Latem po raz ostatni publikowaliśmy mapę zwolnień, od tego czasu pojawiły się nowe informacje dotyczące sytuacji na rynku pracy. Oto najważniejsze zmiany.",
+      "published": "Thu, 06 Nov 2025 19:30:05 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Areszt i uchylenie immunitetu. Jest decyzja w sprawie Zbigniewa Ziobry",
+      "link": "https://businessinsider.com.pl/wiadomosci/uchylenie-immunitetu-i-areszt-dla-zbigniewa-ziobry-komisja-sejmowa-zdecydowala/skg07g1",
+      "summary": "W czwartek sejmowa komisja Regulaminowa, Spraw Poselskich i Immunitetowych zagłosowała za wnioskiem prokuratury o pociągnięcie do odpowiedzialności karnej Zbigniewa Ziobry, a także o jego zatrzymanie i tymczasowe aresztowanie w związku z nadużyciami przy dotacjach z Funduszu Sprawiedliwości.",
+      "published": "Thu, 06 Nov 2025 19:08:20 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Peloton recalls 833,000 more bikes over seat post issue, two injuries reported",
+      "link": "https://www.cnbc.com/2025/11/06/peloton-recalls-833000-more-bikes-over-seat-post-issue.html",
+      "summary": "Peloton is again doing a recall after receiving reports that the seat post on its original Bike+ model detached and broke during use, leading to two injuries.",
+      "published": "Thu, 06 Nov 2025 18:34:20 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Donald Trump grozi powrotem do testów jądrowych. Dmitrij Miedwiediew odpowiada",
+      "link": "https://businessinsider.com.pl/wiadomosci/miedwiediew-reaguje-na-slowa-donalda-trumpa-chodzi-o-testy-jadrowe-usa/rmfkfdz",
+      "summary": "Wiceprzewodniczący Rady Bezpieczeństwa Federacji Rosyjskiej Dmitrij Miedwiediew skomentował w środę wypowiedzi prezydenta USA Donalda Trumpa o możliwym wznowieniu amerykańskich testów jądrowych.",
+      "published": "Thu, 06 Nov 2025 18:32:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Sprawy, które wstrząsnęły Polską. Europejski Nakaz Aresztowania w akcji",
+      "link": "https://businessinsider.com.pl/wiadomosci/sprawy-ktore-wstrzasnely-polska-europejski-nakaz-aresztowania-w-akcji/r8772vh",
+      "summary": "Patryk M., znany w środowisku jako \"Wielki Bu\", został przekazany stronie polskiej przez władze niemieckie. To realizacja Europejskiego Nakazu Aresztowania, którym mężczyzna był poszukiwany w związku ze śledztwem prowadzonym w sprawie udziału w zorganizowanej grupie przestępczej. Wyjaśniamy, czym jest instytucja ENA oraz czym różni się od ekstradycji.",
+      "published": "Thu, 06 Nov 2025 18:00:32 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Media: Donald Trump zlecił wojsku przygotowanie planów inwazji na Nigerię",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-rozwaza-militarna-interwencje-w-nigerii-africom-szykuje-plany/683kz3f",
+      "summary": "Na zlecenie prezydenta Donalda Trumpa, Dowództwo Stanów Zjednoczonych w Afryce (AFRICOM) przygotowało plany interwencji wojskowej w Nigerii. Ich celem ma być zakończenie przemocy, której ofiarą padają chrześcijanie w tym afrykańskim kraju.",
+      "published": "Thu, 06 Nov 2025 17:56:03 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Black Friday już niedługo. Czy opłaca się robić zakupy?",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/kiedy-jest-black-friday-oto-data-i-jak-nie-dac-sie-naciagnac/v8ke63n",
+      "summary": "Black Friday, czyli Czarny Piątek, to okazja, by znaleźć promocje na niemal wszystko — od sprzętu AGD, przez elektronikę, odzież, obuwie, aż po kosmetyki czy nawet wycieczki. Jednak obniżki rzędu 70 proc. nie zawsze oznaczają realne oszczędności. Aby uniknąć rozczarowania, warto przygotować się wcześniej. Jak?",
+      "published": "Thu, 06 Nov 2025 17:52:01 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "KO zwiększa przewagę nad PiS. Jest najnowszy sondaż partyjny",
+      "link": "https://businessinsider.com.pl/wiadomosci/najnowszy-sondaz-partyjny-duza-przewaga-ko-nad-pis/ry9fp3x",
+      "summary": "Koalicja Obywatelska utrzymuje pozycję lidera i wzmacnia przewagę nad Prawem i Sprawiedliwością — wynika z najnowszego sondażu pracowni Opinia24 dla Faktów TVN i TVN24.",
+      "published": "Thu, 06 Nov 2025 17:35:30 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Czy to koniec cyklu Bitcoina? BTC stracił 12 000 USD w dwa dni",
+      "link": "https://comparic.pl/czy-to-koniec-cyklu-bitcoina-btc-stracil-12-000-usd-w-dwa-dni/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Thu, 06 Nov 2025 17:23:34 +0000",
       "source": "Comparic.pl",
-      "category": "eu"
+      "category": "pl"
     },
     {
-      "title": "Europa: wydarzenie sektorowe 20",
-      "link": "https://stooq.pl.example/article20",
-      "summary": "Informacja o wydarzeniach gospodarczych w Europie.",
-      "published": "2025-11-05T01:39:45.181069Z",
-      "source": "Stooq.pl",
-      "category": "eu"
+      "title": "Rynek nieruchomości w Polsce – ożywienie na rynku wtórnym i nowe kierunki inwestycji Polaków",
+      "link": "https://comparic.pl/rynek-nieruchomosci-w-polsce-ozywienie-na-rynku-wtornym-i-nowe-kierunki-inwestycji-polakow/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-mieszkanie.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-conten",
+      "published": "Thu, 06 Nov 2025 17:23:20 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ma paść świąteczny rekord. Amerykanie wydadzą ponad bilion dolarów na prezenty",
+      "link": "https://businessinsider.com.pl/gospodarka/usa-swiateczna-sprzedaz-detaliczna-pobije-rekord-bilion-dolarow-w-zasiegu/nyf2771",
+      "summary": "Narodowa Federacja Handlu Detalicznego (NRF – National Retail Federation) w USA opublikowała coroczną prognozę świąteczną, z której wynika, że sprzedaż w listopadzie i grudniu 2025 r. przekroczy po raz pierwszy w historii bilion dolarów. Według analiz, wydatki Amerykanów wzrosną od 3,7 do 4,2 proc. w porównaniu z 2024 r., osiągając poziom 1,01–1,02 biliona dolarów. Dla porównania, w ubiegłym roku ",
+      "published": "Thu, 06 Nov 2025 17:19:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Najpierw zwalniali, teraz zatrudniają ponownie. Tam sztuczna inteligencja się nie sprawdziła",
+      "link": "https://businessinsider.com.pl/praca/najpierw-zwalniali-teraz-zatrudniaja-ponownie-tam-sztuczna-inteligencja-sie-nie/966ngrk",
+      "summary": "Nowe dane Visier pokazują, że rośnie odsetek osób, które po redukcjach wracają do dawnych pracodawców. W próbie 2,4 mln pracowników z 142 firm na świecie 5,3 proc. zwolnionych zostało ponownie zatrudnionych — wskaźnik utrzymywał się przez lata na podobnym poziomie, ale ostatnio zaczął rosnąć. To sygnał, że automatyzacja i cyfrowi pracownicy nie zastępują etatów w takiej skali, jak sugerowały plany",
+      "published": "Thu, 06 Nov 2025 17:13:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wielki krok. Klejny kraj zapowiada pełną gotowość na euro",
+      "link": "https://businessinsider.com.pl/gospodarka/przyjecie-euro-w-bulgarii-pelna-gotowosc-i-plany-na-2026-rok/d1z5x4j",
+      "summary": "Strefa euro powiększy się w 2026 r. Bułgaria jest gotowa na wprowadzenie euro jako swojej oficjalnej waluty od 1 stycznia — zapewnił premier Rosen Żelazkow. Jednym z kluczowych elementów przygotowań jest szeroko zakrojona kampania informacyjna na temat korzyści płynących z wprowadzenia wspólnej waluty. Społeczeństwo bułgarskie jest w tej kwestii podzielone.",
+      "published": "Thu, 06 Nov 2025 17:04:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polacy już nie będą się denerwować. Najnowszy komunikat Poczty Polskiej",
+      "link": "https://businessinsider.com.pl/wiadomosci/papierowe-awizo-odchodzi-do-lamusa-nowa-era-w-poczcie-polskiej/qlvt35n",
+      "summary": "Poczta Polska ogłosiła zmianę, która wpłynie na życie wielu Polek i Polaków. Nowy rok przyniesie koniec papierowych awiz w kontaktach z wieloma urzędami. Administracja publiczna będzie zobowiązana do korzystania z systemu e-Doręczeń.",
+      "published": "Thu, 06 Nov 2025 16:58:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Masowa kontrola paczek od Shein we Francji. Rząd mówi o akcji na \"wyjątkową skalę\"",
+      "link": "https://businessinsider.com.pl/finanse/platforma-shein-pod-lupa-we-francji-ruszyla-masowa-kontrola-paczek/btn0x5z",
+      "summary": "Francuskie władze rozpoczęły w czwartek bezprecedensową kontrolę wszystkich przesyłek pochodzących z chińskiej platformy Shein. Operacja, obejmująca 200 tys. paczek na paryskim lotnisku Charles de Gaulle (CDG), ma na celu sprawdzenie zgodności towarów z krajowymi przepisami oraz wykrycie ewentualnych naruszeń celnych i fiskalnych.",
+      "published": "Thu, 06 Nov 2025 16:57:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wraca temat podatku od mieszkań. Razem wykłada na stół projekt. Znajdzie sprzymierzeńców?",
+      "link": "https://www.money.pl/podatki/wraca-temat-podatku-od-mieszkan-razem-wyklada-na-stol-projekt-znajdzie-sprzymierzencow-7218824002591520a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5ce62b78-b981-4cb7-b574-218d29b9a70c\" width=\"308\" /> Partia Razem chciałaby wprowadzenia nowego podatku od nieruchomości. Szuka posłów gotowych poprzeć jej nowy projekt. Nie zrobią tego jednak ani KO, ani Nowa Lewica, która przekonuje, że projekt \"jest niekompletny i dziurawy\". Doradca podatkowy Małgorzata Samborska punktuj",
+      "published": "Thu, 06 Nov 2025 16:51:58 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
+      "link": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
+      "summary": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
+      "published": "Thu, 06 Nov 2025 16:45:08 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Wraz ze spadkiem ceny Bitcoina, ten altcoin notuje bardziej agresywny wzrost – 100 USD może zamienić się w 75 000 USD",
+      "link": "https://comparic.pl/wraz-ze-spadkiem-ceny-bitcoina-ten-altcoin-notuje-bardziej-agresywny-wzrost-100-usd-moze-zamienic-sie-w-75-000-usd/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/11/As-Bitcoin-Rally-Cools-This-Altcoin-Stages-a-More-Aggressive-Surge-—-100-Could-Turn-Into-75000.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-co",
+      "published": "Thu, 06 Nov 2025 16:42:43 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Dwóch najlepszych konkurentów XRP do kupienia poniżej 1 USD z ponad 500-krotnym zwrotem z inwestycji w 2025 r.",
+      "link": "https://comparic.pl/dwoch-najlepszych-konkurentow-xrp-do-kupienia-ponizej-1-usd-z-ponad-500-krotnym-zwrotem-z-inwestycji-w-2025-r/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/11/Top-2-Best-XRP-Rivals-to-Buy-Under-1-for-Over-500x-ROI.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/11/Top-2-Best-XRP-Riv",
+      "published": "Thu, 06 Nov 2025 16:37:15 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wyższy podatek dla banków. Senat zdecydował, wprowadził też poprawki",
+      "link": "https://www.money.pl/banki/wyzszy-podatek-dla-bankow-senat-zdecydowal-wprowadzil-tez-poprawki-7218960795634496a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/717946cd-8ba2-4c5f-9b79-76e5eff50a7c\" width=\"308\" /> Senat zdecydował o wprowadzeniu poprawek do projektu ustawy podnoszącej stawkę CIT dla banków do poziomu 30 procent w 2026 roku. Izba wyższa parlamentu proponuje niższy o dwa procent podatek CIT dla banków spółdzielczych oraz SKOK-ów.",
+      "published": "Thu, 06 Nov 2025 16:35:19 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Warty 1,5 biliona dolarów gigant finansowy Franklin Templeton aktualizuje zgłoszenie ETF XRP",
+      "link": "https://comparic.pl/warty-15-biliona-dolarow-gigant-finansowy-franklin-templeton-aktualizuje-zgloszenie-etf-xrp/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/11/1.5-Trillion-Financial-Giant-Franklin-Templeton-Updates-XRP-ETF-Filing.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/11/1.",
+      "published": "Thu, 06 Nov 2025 16:31:45 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Elon Musk mówi „Czas nadszedł” – ale czy Dogecoin nadal słucha?",
+      "link": "https://comparic.pl/elon-musk-mowi-czas-nadszedl-ale-czy-dogecoin-nadal-slucha/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/11/Elon-Musk-Says-Its-Time-—-But-Is-Dogecoin-Still-Listening.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/11/Elon-Musk-Says-",
+      "published": "Thu, 06 Nov 2025 16:29:14 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kilka centymetrów za blisko i… kara 5000 zł. Oto, co muszą wiedzieć właściciele działek",
+      "link": "https://businessinsider.com.pl/wiadomosci/szopa-moze-byc-samowola-budowlana-za-nielegalne-postawienie-wysoka-kara/z0r9fdd",
+      "summary": "Nieodpowiednia odległość szopy od granicy działki może oznaczać poważne konsekwencje finansowe. Jeśli budynek stoi bliżej niż 1,5 m od granicy, urzędnicy mogą uznać to za samowolę budowlaną. Legalizacja i grzywna mogą kosztować właściciela nawet 10 tys. zł. Wyjaśniamy, jakie są przepisy i jak ich przestrzegać.",
+      "published": "Thu, 06 Nov 2025 16:10:10 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ustawa o wyższym CIT dla banków w Senacie. Jest decyzja izby wyżej parlamentu",
+      "link": "https://businessinsider.com.pl/finanse/wyzszy-cit-dla-bankow-w-senacie-jest-decyzja-w-sprawie-ustawy/7ld98ke",
+      "summary": "Senat przyjął w czwartek poprawki do ustawy podnoszącej stawkę podatku dochodowego od banków. Nowe przepisy zakładają, że w 2026 r. CIT dla sektora bankowego wyniesie 30 proc., w 2027 r. — 26 proc., a od 2028 r. — 23 proc. Senatorowie wprowadzili m.in. rozwiązania łagodzące dla banków spółdzielczych i Spółdzielczych Kas Oszczędnościowo-Kredytowych (SKOK-ów).",
+      "published": "Thu, 06 Nov 2025 15:48:33 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rok od wyboru Donalda Trumpa na prezydenta. \"Nie dotrzymał największej obietnicy\"",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-jako-prezydent-usa-co-zmienil-od-ponownego-objecia-wladzy/vqgqy28",
+      "summary": "Donald Trump został wybrany na prezydenta USA rok temu. Urząd objął 20 stycznia 2025 r., czyli dokładnie 290 dni temu. Co od tego czasu zmieniło się w amerykańskiej gospodarce? Wygląda na to, że na razie Trumpowi nie udało się dotrzymać największej obietnicy złożonej w trakcie kampanii.",
+      "published": "Thu, 06 Nov 2025 15:43:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Bezrobocie kolejny miesiąc w górę. Najgorsze dane od prawie pięciu lat",
+      "link": "https://businessinsider.com.pl/gospodarka/bezrobocie-kolejny-miesiac-w-gore-najgorsze-dane-od-prawie-pieciu-lat/q7phjzq",
+      "summary": "Liczba bezrobotnych wzrosła w październiku piąty miesiąc z rzędu — wynika z danych Ministerstwa Rodziny, Pracy i Polityki Społecznej. W skali 12 miesięcy to wzrost o prawie 103 tys., największy od prawie pięciu lat.",
+      "published": "Thu, 06 Nov 2025 15:37:37 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "PKO BP uśpione mimo świetnych wyników! KGHM wraca do gry! Alior Bank -10% w kilka dni! Pepco kończy korektę? – co jest grane na GPW?",
+      "link": "https://comparic.pl/pko-bp-uspione-mimo-swietnych-wynikow-kghm-wraca-do-gry-alior-bank-10-w-kilka-dni-pepco-konczy-korekte-co-jest-grane-na-gpw/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"450\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-kryptowaluty-cryptocurrency-stock-market-chart-hossa-wzrost-growth.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04",
+      "published": "Thu, 06 Nov 2025 15:23:08 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ryanair i Wizz Air ograniczają połączenia z Polski. Te lotniska najwięcej stracą",
+      "link": "https://businessinsider.com.pl/wiadomosci/gdansk-i-krakow-traca-polaczenia-ryanair-i-wizz-air-zawieszaja-loty/57j6mtn",
+      "summary": "Dwa polskie lotniska — Gdańsk i Kraków — straciły w ostatnich tygodniach łącznie cztery międzynarodowe połączenia. To efekt decyzji największych niskokosztowych przewoźników w Europie — Ryanaira i Wizz Aira. Jak poinformowało RMF FM, \"na wskazanych trasach nie można już rezerwować biletów\", co oznacza ich faktyczne zawieszenie.",
+      "published": "Thu, 06 Nov 2025 15:22:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ripple pozyskuje 500 mln USD od Fortress i Citadel, wycena spółki sięga 40 mld USD",
+      "link": "https://comparic.pl/ripple-pozyskuje-500-mln-usd-od-fortress-i-citadel-wycena-spolki-siega-40-mld-usd/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-2-324x235.jpg\" style=\"float: left",
+      "published": "Thu, 06 Nov 2025 15:20:30 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tania spółka walczy o nową hossę po 70% krachu! W tle duże wzrosty w wynikach finansowych! Czy warto kupić akcje?",
+      "link": "https://comparic.pl/tania-spolka-walczy-o-nowa-hosse-po-70-krachu-w-tle-duze-wzrosty-w-wynikach-finansowych-czy-warto-kupic-akcje/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"754\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-buy-or-sell-kupno-zakup-long-sprzedaz-wzrosty-spadki-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-bu",
+      "published": "Thu, 06 Nov 2025 15:19:34 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Szok! Przychody w górę o 100% i historyczny rekord! Nowa strategia z zawrotnymi efektami! 32% korekta to idealny moment na kupno?",
+      "link": "https://comparic.pl/szok-przychody-w-gore-o-100-i-historyczny-rekord-nowa-strategia-z-zawrotnymi-efektami-32-korekta-to-idealny-moment-na-kupno/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"794\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-6.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-6-324x235.j",
+      "published": "Thu, 06 Nov 2025 15:17:52 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Target's sloppier stores are wearing on shoppers, and its turnaround could hinge on cleaning them up",
+      "link": "https://www.cnbc.com/2025/11/06/target-store-delivery-pickup-ceo-michael-fiddelke.html",
+      "summary": "The big-box retailer, which has long relied on stores as fulfillment hubs, is tweaking its approach to try to improve customers' experiences within the aisles.",
+      "published": "Thu, 06 Nov 2025 15:16:19 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Były szef NATO: Europa musi działać, inaczej czeka nas \"wojna bez końca\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/anders-fogh-rasmussen-ostrzega-przed-wieczna-wojna-na-ukrainie/vjeh072",
+      "summary": "Ukraina stoi w obliczu groźby \"wiecznej wojny\" i stopniowej utraty terytoriów, jeśli Europa nie zwiększy presji na Rosję — ostrzega były sekretarz generalny NATO Anders Fogh Rasmussen. W rozmowie z \"The Guardian\" polityk stwierdził, że Zachód powinien nie tylko rozszerzyć pomoc wojskową dla Kijowa, ale też rozmieścić systemy obrony powietrznej na terytoriach państw NATO graniczących z Ukrainą.",
+      "published": "Thu, 06 Nov 2025 15:02:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kreml traci na sankcjach. Wpływy podatkowe od firm naftowych spadły",
+      "link": "https://www.money.pl/gielda/kreml-traci-na-sankcjach-wplywy-podatkowe-od-firm-naftowych-spadly-7218942710487872a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0614db86-0eac-4772-814a-5da5d05d8ab4\" width=\"308\" /> Aż o 27 proc. niższe niż przed rokiem są wpływy podatkowe od rosyjskich firm naftowych i gazowych. Tak wynika z danych resortu finansów, o których napisał The Moscow Times. Tylko w tym jednym miesiącu \"wyrwa\" wyniosła 322 mld rubli, czyli równowartość 14,6 mld zł.",
+      "published": "Thu, 06 Nov 2025 15:02:22 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Dodatkowe opłaty w Ryanairze. UOKiK patrzy im na ręce",
+      "link": "https://businessinsider.com.pl/wiadomosci/dodatkowe-oplaty-w-ryanairze-sprawie-przyglada-sie-uokik/lc0q5wp",
+      "summary": "Ryanair zmienia zasady i rezygnuje z papierowych kart pokładowych. Zamiast tego każdy pasażer będzie musiał odprawić się przez internet i pobrać cyfrowy bilet przez aplikację. Jeśli ktoś tego nie zrobi, będzie musiał uiścić opłatę za odprawę na lotnisku. Pojawiają się pytania o dyskryminację, bo co, jeśli ktoś zwyczajnie nie ma telefonu. UOKiK wyjaśnia, że każdy przedsiębiorca powinien starać się ",
+      "published": "Thu, 06 Nov 2025 14:57:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "DraftKings takes over ESPN sports betting partnership from Penn Entertainment",
+      "link": "https://www.cnbc.com/2025/11/06/disneys-espn-penn-entertainment-to-wind-down-espn-bet.html",
+      "summary": "In separate releases Thursday, ESPN said it was terminating its agreement with Penn years earlier than planned and had signed an agreement with DraftKings.",
+      "published": "Thu, 06 Nov 2025 14:04:41 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Family offices make fewer deals but still flock to AI startup mega-rounds",
+      "link": "https://www.cnbc.com/2025/11/06/family-offices-deals-october-ai.html",
+      "summary": "Investment firms of the ultra-rich seek bigger returns and to tap into the AI boom.",
+      "published": "Thu, 06 Nov 2025 12:30:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Eli Lilly to start late-stage trials on amylin obesity drug after it shows up to 20% weight loss in study",
+      "link": "https://www.cnbc.com/2025/11/06/eli-lilly-amylin-obesity-drug-study-weight-loss-trials.html",
+      "summary": "The highest dose of Eli Lilly's weekly injection helped patients with obesity or who are overweight lose 20.1% of their body weight on average at 48 weeks.",
+      "published": "Thu, 06 Nov 2025 11:50:41 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "NWSL creates star-studded advisory board to guide league's growth",
+      "link": "https://www.cnbc.com/2025/11/06/nwsl-advisory-board-league-growth.html",
+      "summary": "NWSL Commissioner Jessica Berman is leaning on her star-studded ownership groups to help shape the league's future.",
+      "published": "Thu, 06 Nov 2025 11:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Rząd odpowiada na pomysł prezydenta. Tyle zyskaliby seniorzy",
+      "link": "https://www.money.pl/emerytury/rzad-odpowiada-na-pomysl-prezydenta-tyle-zyskaliby-seniorzy-7218831090912064a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/83af6a83-a0bc-43f1-a809-773947bb388d\" width=\"308\" /> Minister rodziny Agnieszka Dziemianowicz-Bąk zapowiada własny sposób na podwyżki emerytur – bez zmiany ustawy i bez politycznych sporów - podaje \"Fakt\". To odpowiedź na projekt prezydenta Karola Nawrockiego, który proponuje waloryzację kwotowo-procentową z minimalnym wzro",
+      "published": "Thu, 06 Nov 2025 07:53:12 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 06.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-06-11-2025-7218826963393344a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 06.11.2025. W czwartek za jedno euro (EUR) trzeba zapłacić 4.2548 zł.",
+      "published": "Thu, 06 Nov 2025 07:02:09 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 06.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-06-11-2025-7218826940271424a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 06.11.2025. W czwartek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.8287 zł.",
+      "published": "Thu, 06 Nov 2025 07:02:04 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 06.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-06-11-2025-7218826863377216a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 06.11.2025. W czwartek za jednego franka (CHF) trzeba zapłacić 4.5693 zł.",
+      "published": "Thu, 06 Nov 2025 07:01:45 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 06.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-06-11-2025-7218826838047552a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 06.11.2025. W czwartek za jednego dolara (USD) trzeba zapłacić 3.6971 zł.",
+      "published": "Thu, 06 Nov 2025 07:01:39 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Produkowali 2 tys. materacy dziennie. Zakład upadł",
+      "link": "https://www.money.pl/gospodarka/produkowali-2-tys-materacy-dziennie-zaklad-upadl-7218819102808864a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/3f51e54c-593f-4e30-9834-a2fff4f99c3c\" width=\"308\" /> Sąd w Łodzi zajął się wnioskiem o upadłość Aquinos Bedding Poland. Łódzki producent materacy borykał się z zaległościami płacowymi i spadkiem produkcji po przejęciu przez portugalską grupę - podał serwis dlahandlu.pl.",
+      "published": "Thu, 06 Nov 2025 06:55:55 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Stopy procentowe w dół. Tak skurczy się miesięczna rata kredytu",
+      "link": "https://www.money.pl/banki/stopy-procentowe-w-dol-tak-skurczy-sie-miesieczna-rata-kredytu-7218820017449760a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0f4869e1-b20b-4161-b5fc-70fdbd937ca4\" width=\"308\" /> RPP po raz piąty obniżyła w tym roku stopy procentowe. W zależności od kwoty kredytu, w porównaniu do poprzedniego miesiąca, miesięczna rata kredytu hipotecznego zmniejszy się od 18 zł do 184 zł. Średnia wartość kredytu, o jaki wnioskowali we wrześniu Polacy, wyniosła 472",
+      "published": "Thu, 06 Nov 2025 06:47:56 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Gigantyczny zysk największego banku w Polsce",
+      "link": "https://www.money.pl/pieniadze/gigantyczny-zysk-najwiekszego-banku-w-polsce-7218812745132832a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cba7db8d-5e45-4d9d-9ebb-3304573d7bc0\" width=\"308\" /> Skonsolidowany zysk netto grupy kapitałowej PKO Banku Polskiego za trzy kwartały 2025 r. wyniósł 7 mld 967 mln zł - podał bank w raporcie finansowym. To wynik o ponad 1,1 mld zł wyższy niż w analogicznym okresie ubiegłego roku.",
+      "published": "Thu, 06 Nov 2025 06:19:04 +0100",
+      "source": "Money.pl",
+      "category": "pl"
     }
   ]
 }
