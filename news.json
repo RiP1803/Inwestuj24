@@ -1,19 +1,11 @@
 {
-  "generated_at": "2025-11-06T21:23:50.164412",
+  "generated_at": "2025-11-07T02:02:27.911977",
   "articles": [
     {
       "title": "Lucid misses Wall Street expectations, narrows production guidance",
       "link": "https://www.cnbc.com/2025/11/05/lucid-lcid-earnings-q3-2025.html",
       "summary": "Lucid also said it has agreed to increase a term loan credit facility from $750 million to roughly $2 billion from Saudi Arabia's Public Investment Fund.",
       "published": "Wed, 05 Nov 2025 23:27:40 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Retailers are raising prices to meet tariffs. Amazon is hiking more than others",
-      "link": "https://www.cnbc.com/2025/11/05/amazon-target-walmart-raising-prices-tariffs.html",
-      "summary": "Prices on Amazon, Walmart and Target have all increased this year as retailers grapple with higher costs due to tariffs.",
-      "published": "Wed, 05 Nov 2025 22:25:16 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -55,6 +47,14 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0f582dea-decb-46b4-b19f-d94cb263b259\" width=\"308\" /> Prawie 130 mld zł może wynieść luka finansowa systemu ochrony zdrowia w Polsce w latach 2025-2027 - wynika z raportu o stanie finansów opieki zdrowotnej. - Ten scenariusz już częściowo się realizuje. Dwie ustawy kompletnie rozwaliły system - mówi money.pl Kamil Barczyk, d",
       "published": "Wed, 05 Nov 2025 17:58:32 +0100",
       "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Morze czerwieni na Wall Street. Spora wyprzedaż bigtechów",
+      "link": "https://www.bankier.pl/wiadomosc/Morze-czerwieni-na-Wall-Street-Spora-wyprzedaz-bigtechow-9036330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/1/0bf201c7c43d46-948-568-210-150-3790-2273.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czwartkowa sesja na nowojorskich giełdach zakończyła się dotkliwymi spadkami głównych indeksów. Najmocniej wyprzedawano akcje wielkich koncernów technologicznych.</p>",
+      "published": "Thu, 6 Nov 2025 22:08:00 +0100",
+      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -110,14 +110,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Meta-zarabia-na-reklam-oszustw-i-zakazanych-towarow-Firma-nalicza-im-wyzsze-stawki-9036223.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/a/748e510aef8aeb-948-568-610-640-3383-2030.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pod koniec ubiegłego roku Meta prognozowała, że ok.10 proc. jej całkowitych rocznych przychodów – czyli 16 mld dolarów – będzie pochodziło z reklam oszustw i zakazanych towar",
       "published": "Thu, 6 Nov 2025 18:25:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szacunkowa skorygowana EBITDA Unimotu w III kw. zgodna z konsensusem",
-      "link": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-87-mln-zl-zgodnie-z-konsensusem-9036192.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/f/6e19e0cbc5a926-945-560-6-474-2786-1671.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2025 roku wyniosła 87 mln zł - poinformowała paliwowa spółka w komunikacie. Wynik jest zgodny z oczekiwaniami analitykó",
-      "published": "Thu, 6 Nov 2025 17:44:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -218,6 +210,22 @@
       "category": "pl"
     },
     {
+      "title": "Tesla investors approve Elon Musk’s $1 trillion pay package — but the money won’t come easy",
+      "link": "https://www.marketwatch.com/story/teslas-investor-meeting-is-just-hours-away-musks-1-trillion-pay-package-is-at-stake-f71a1666?mod=mw_rss_topstories",
+      "summary": "The CEO will have to meet a series of goals to earn the rewards, including raising Tesla’s market capitalization to $8.5 trillion.",
+      "published": "Thu, 06 Nov 2025 23:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Peloton posts bullish holiday forecast, betting that shoppers will spend big on new product lineup",
+      "link": "https://www.cnbc.com/2025/11/06/peloton-pton-earnings-q1-2026.html",
+      "summary": "Peloton beat Wall Street's expectations on the top and bottom lines and issued strong holiday guidance.",
+      "published": "Thu, 06 Nov 2025 23:15:15 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
       "title": "Podwyżka CIT dla banków. Jest ostateczna decyzja parlamentu",
       "link": "https://www.money.pl/banki/podwyzka-cit-dla-bankow-jest-ostateczna-decyzja-parlamentu-7219036739038016a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4423728a-32b3-4a3f-994b-1de669cbfadc\" width=\"308\" /> Sejm poparł w czwartek poprawki Senatu do ustawy podnoszącej stawkę podatku dochodowego od banków, co oznacza, że ustawa przeszła już całą ścieżkę legislacyjną w parlamencie i trafi teraz na biurko prezydenta Karola Nawrockiego.",
@@ -226,35 +234,27 @@
       "category": "pl"
     },
     {
-      "title": "Airbnb suggests consumers are starting to feel better about vacations. Here’s why profits could still take a hit.",
-      "link": "https://www.marketwatch.com/story/airbnb-suggests-consumers-are-starting-to-feel-better-about-vacations-heres-why-profits-could-still-take-a-hit-36320b1c?mod=mw_rss_topstories",
-      "summary": "Vacation-rental platform Airbnb Inc. on Thursday said demand held up through October and forecast fourth-quarter sales that were above expectations, but the company said spending on new services and political battles would cut into profits.",
-      "published": "Thu, 06 Nov 2025 21:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Up to 40% of flights could be delayed this weekend from FAA cuts. What to do if you have to travel.",
-      "link": "https://www.marketwatch.com/story/heres-what-to-do-if-your-travel-plans-are-disrupted-by-the-faa-cutting-10-of-flights-at-the-40-biggest-airports-482314d5?mod=mw_rss_topstories",
-      "summary": "Travelers are bracing for a worst-case scenario. Airlines say they will be flexible when it comes to passengers changing or canceling their plans.",
-      "published": "Thu, 06 Nov 2025 21:16:00 GMT",
-      "source": "MarketWatch",
+      "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage",
+      "link": "https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html",
+      "summary": "The deals are among the most politically significant announcements to date in the Trump administration's efforts to rein in high U.S. drug costs.",
+      "published": "Thu, 06 Nov 2025 21:47:53 GMT",
+      "source": "CNBC",
       "category": "us"
     },
     {
       "title": "FAA announces flight reductions at 40 airports. Here's where cuts are expected and what travelers need to know",
       "link": "https://www.cnbc.com/2025/11/06/airport-flight-reductions-faa.html",
       "summary": "The Federal Aviation Administration announced a reduction across 40 airports beginning Friday. Here's what travelers need to know.",
-      "published": "Thu, 06 Nov 2025 21:14:18 GMT",
+      "published": "Thu, 06 Nov 2025 21:36:45 GMT",
       "source": "CNBC",
       "category": "us"
     },
     {
-      "title": "SoundHound’s earnings beat reflects this emerging trend in voice AI",
-      "link": "https://www.marketwatch.com/story/soundhound-earnings-beat-reflects-this-emerging-trend-in-voice-ai-a2006a3f?mod=mw_rss_topstories",
-      "summary": "The company is raising its full-year guidance thanks to ‘booming’ enterprise AI adoption.",
-      "published": "Thu, 06 Nov 2025 21:14:00 GMT",
-      "source": "MarketWatch",
+      "title": "Startup Omada Health to start prescribing GLP-1s, other obesity medications as membership grows",
+      "link": "https://www.cnbc.com/2025/11/06/omada-health-to-start-prescribing-glp-1s-other-obesity-medications.html",
+      "summary": "The announcement expands the offerings under the company's weight management program as its membership grows to more than 800,000.",
+      "published": "Thu, 06 Nov 2025 21:26:15 GMT",
+      "source": "CNBC",
       "category": "us"
     },
     {
@@ -266,75 +266,11 @@
       "category": "us"
     },
     {
-      "title": "Wide Treasury-market swings highlight investors’ confusion about where the economy is headed",
-      "link": "https://www.marketwatch.com/story/wide-treasury-market-swings-highlight-investors-confusion-about-where-the-economy-is-headed-697e83c5?mod=mw_rss_topstories",
-      "summary": "Yields on U.S. government debt have seen big swings over the past two days, as the latest round of nongovernment data on the labor market has left investors scratching their heads.",
-      "published": "Thu, 06 Nov 2025 21:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Startup Omada Health to start prescribing GLP-1s, other obesity medications as membership grows",
-      "link": "https://www.cnbc.com/2025/11/06/omada-health-to-start-prescribing-glp-1s-other-obesity-medications.html",
-      "summary": "The announcement expands the offerings under the company's weight management program as its membership grows to more than 100,000.",
-      "published": "Thu, 06 Nov 2025 21:05:46 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "McDonald's U.S. boss puts focus on 'value and affordability' as consumer spending splits",
       "link": "https://www.cnbc.com/2025/11/06/mcdonalds-us-boss-memo-value-affordability.html",
       "summary": "McDonald's U.S. President Joe Erlinger told operators the brand was \"moving in the right direction\" as it continues a more-than-yearlong push on value.",
       "published": "Thu, 06 Nov 2025 21:00:27 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Ford’s electric F-150 could be the first victim of the recent EV slowdown",
-      "link": "https://www.marketwatch.com/story/fords-electric-f-150-could-be-the-first-victim-of-the-recent-ev-slowdown-bc12f3a2?mod=mw_rss_topstories",
-      "summary": "The F-150 Lightning, which started its run in 2022, could be among the first, and most visible, casualties of the EV slowdown that has hit carmakers this year.",
-      "published": "Thu, 06 Nov 2025 20:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "What your friendships and 401(k) have in common — and how to get the best return on investment",
-      "link": "https://www.marketwatch.com/story/what-your-friendships-and-401-k-have-in-common-and-how-to-get-the-best-return-on-investment-279f5be6?mod=mw_rss_topstories",
-      "summary": "Like creating a nest egg, building community also requires repeated contributions in order to be beneficial in the long run.",
-      "published": "Thu, 06 Nov 2025 20:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Trump rolls out pricing deal with weight-loss-drug giants Eli Lilly, Novo Nordisk. Analysts say the pact raises more questions than it answers.",
-      "link": "https://www.marketwatch.com/story/trump-white-house-confirms-pricing-deal-with-weight-loss-drug-giants-eli-lilly-novo-nordisk-f5d06535?mod=mw_rss_topstories",
-      "summary": "The Trump administration on Thursday rolled out a much-anticipated deal with drugmakers Eli Lilly and Novo Nordisk that aims to deliver lower prices for their popular GLP-1 drugs to certain Medicare and Medicaid beneficiaries and to users of TrumpRx.gov, the administration’s new direct-to-consumer website.",
-      "published": "Thu, 06 Nov 2025 20:35:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Big Tech drags down S&P 500 amid jitters over highly valued stock market",
-      "link": "https://www.marketwatch.com/story/big-tech-drags-down-s-p-500-amid-jitters-over-highly-valued-stock-market-d7258835?mod=mw_rss_topstories",
-      "summary": "U.S. stocks are stumbling this month amid worries over stretched valuations, with the S&amp;P 500’s concentration in Big Tech making it vulnerable to pullbacks like the one seen Thursday.",
-      "published": "Thu, 06 Nov 2025 20:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘He lives paycheck to paycheck’: My husband pays his bills late and sits at home playing on his computer. How do I fix it?",
-      "link": "https://www.marketwatch.com/story/he-constantly-assures-me-that-things-are-improving-i-feel-betrayed-by-my-husbands-financial-misdeeds-how-do-i-fix-it-ad0f265c?mod=mw_rss_topstories",
-      "summary": "“He seems to think ‘bill due’ dates are a suggestion. He has literally no savings.”",
-      "published": "Thu, 06 Nov 2025 20:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Microsoft’s stock is suffering its longest losing streak in years. What gives?",
-      "link": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-its-longest-losing-streak-in-years-what-gives-269f7676?mod=mw_rss_topstories",
-      "summary": "Analysts say investors are rotating out of “laggard” Big Tech stocks in favor of momentum plays. They may also be spooked by Microsoft’s higher AI spending.",
-      "published": "Thu, 06 Nov 2025 20:30:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -352,14 +288,6 @@
       "published": "Thu, 06 Nov 2025 20:13:43 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage",
-      "link": "https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html",
-      "summary": "The deals are among the most politically significant announcements to date in the Trump administration's efforts to rein in high U.S. drug costs.",
-      "published": "Thu, 06 Nov 2025 19:55:14 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Te osoby już wkrótce dostaną wyższe emerytury. Nawet kilkaset złotych",
@@ -760,6 +688,78 @@
       "published": "Thu, 06 Nov 2025 06:19:04 +0100",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Airbnb suggests consumers are starting to feel better about taking vacations. Here’s why profits could still take a hit.",
+      "link": "https://www.marketwatch.com/story/airbnb-suggests-consumers-are-starting-to-feel-better-about-vacations-heres-why-profits-could-still-take-a-hit-36320b1c?mod=mw_rss_topstories",
+      "summary": "Vacation-rental platform Airbnb Inc. on Thursday said demand held up through October and forecast fourth-quarter sales that were above expectations, but the company said spending on new services and political battles would cut into profits.",
+      "published": "Fri, 07 Nov 2025 01:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Opendoor is an ‘AI company,’ new CEO says. The stock is still falling after earnings.",
+      "link": "https://www.marketwatch.com/story/opendoor-is-an-ai-company-says-ceo-vowing-to-achieve-profitability-by-end-of-next-year-d8d4cbff?mod=mw_rss_topstories",
+      "summary": "Opendoor Technologies, the online real-estate platform whose stock has recently attracted a surge of meme-like attention, will ride the artificial-intelligence wave to profitability, according to its new chief executive.",
+      "published": "Fri, 07 Nov 2025 01:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why a little-known link between gold and platinum should worry stock investors",
+      "link": "https://www.marketwatch.com/story/this-little-known-connection-between-gold-and-platinum-spells-big-trouble-for-stocks-37b392ea?mod=mw_rss_topstories",
+      "summary": "The gold/platinum ratio is an excellent market-timing indicator — and recently had one of its biggest drops ever.",
+      "published": "Fri, 07 Nov 2025 00:54:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "AI needs an innovative free market to grow — and only one country offers it",
+      "link": "https://www.marketwatch.com/story/america-is-open-for-ais-business-china-and-europe-arent-even-close-03c5d271?mod=mw_rss_topstories",
+      "summary": "China’s top-down approach and Europe’s regulations only stifle AI’s growth.",
+      "published": "Fri, 07 Nov 2025 00:52:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Stablecoin’s promoters bank on it becoming digital cash — or a risky crypto play",
+      "link": "https://www.marketwatch.com/story/stablecoins-promoters-want-you-using-it-like-cash-what-could-possibly-go-wrong-85619768?mod=mw_rss_topstories",
+      "summary": "Stablecoin could go mainstream or morph into yet another leveraged speculation.",
+      "published": "Fri, 07 Nov 2025 00:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The U.S. just gave away this key leverage over China — and it’s a costly mistake",
+      "link": "https://www.marketwatch.com/story/the-u-s-just-gave-up-this-key-leverage-over-china-and-its-a-costly-mistake-d3aaa841?mod=mw_rss_topstories",
+      "summary": "Access to America’s ports — like its markets — is a privilege that must be protected.",
+      "published": "Fri, 07 Nov 2025 00:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Think your bond funds and ETFs are safe investments? The credit market is lying to you.",
+      "link": "https://www.marketwatch.com/story/if-you-own-a-safe-investment-grade-bond-fund-better-check-the-holdings-044ecbab?mod=mw_rss_topstories",
+      "summary": "Listen to Jamie Dimon. This is what happens when a decade of zero rates catches up with reality.",
+      "published": "Fri, 07 Nov 2025 00:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump rolls out pricing deal with weight-loss-drug giants Eli Lilly, Novo Nordisk. Analysts say the pact raises more questions than it answers.",
+      "link": "https://www.marketwatch.com/story/trump-white-house-confirms-pricing-deal-with-weight-loss-drug-giants-eli-lilly-novo-nordisk-f5d06535?mod=mw_rss_topstories",
+      "summary": "The Trump administration on Thursday rolled out a much-anticipated deal with drugmakers Eli Lilly and Novo Nordisk that aims to deliver lower prices for their popular GLP-1 drugs to certain Medicare and Medicaid beneficiaries and to users of TrumpRx.gov, the administration’s new direct-to-consumer website.",
+      "published": "Fri, 07 Nov 2025 00:29:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Microsoft’s stock is suffering its longest losing streak in years. What gives?",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-its-longest-losing-streak-in-years-what-gives-269f7676?mod=mw_rss_topstories",
+      "summary": "Analysts say investors are rotating out of “laggard” Big Tech stocks in favor of momentum plays. They may also be spooked by Microsoft’s higher AI spending.",
+      "published": "Fri, 07 Nov 2025 00:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     }
   ]
 }
