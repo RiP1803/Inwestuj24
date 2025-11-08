@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T03:38:36.495658",
+  "generated_at": "2025-11-08T06:37:25.849242",
   "articles": [
     {
       "title": "Lucid misses Wall Street expectations, narrows production guidance",
@@ -24,14 +24,6 @@
       "published": "Thu, 06 Nov 2025 23:15:15 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Podwyżka CIT dla banków. Jest ostateczna decyzja parlamentu",
-      "link": "https://www.money.pl/banki/podwyzka-cit-dla-bankow-jest-ostateczna-decyzja-parlamentu-7219036739038016a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4423728a-32b3-4a3f-994b-1de669cbfadc\" width=\"308\" /> Sejm poparł w czwartek poprawki Senatu do ustawy podnoszącej stawkę podatku dochodowego od banków, co oznacza, że ustawa przeszła już całą ścieżkę legislacyjną w parlamencie i trafi teraz na biurko prezydenta Karola Nawrockiego.",
-      "published": "Thu, 06 Nov 2025 21:54:17 +0100",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage",
@@ -74,14 +66,6 @@
       "category": "us"
     },
     {
-      "title": "Te zakłady zwalniają. Ogłoszono cięcia tysięcy etatów",
-      "link": "https://www.money.pl/gospodarka/te-zaklady-zwalniaja-ogloszono-ciecia-tysiecy-etatow-7218893364861728a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2977f6d5-9483-4ac5-b6ce-c0a97fc950c6\" width=\"308\" /> Kolejne firmy zapowiedziały przeprowadzenie zwolnień grupowych lub nawet likwidację całych zakładów w Polsce. Latem po raz ostatni publikowaliśmy mapę zwolnień, od tego czasu pojawiły się nowe informacje dotyczące sytuacji na rynku pracy. Oto najważniejsze zmiany.",
-      "published": "Thu, 06 Nov 2025 19:30:05 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Peloton recalls 833,000 more bikes over seat post issue, two injuries reported",
       "link": "https://www.cnbc.com/2025/11/06/peloton-recalls-833000-more-bikes-over-seat-post-issue.html",
       "summary": "Peloton is again doing a recall after receiving reports that the seat post on its original Bike+ model detached and broke during use, leading to two injuries.",
@@ -90,28 +74,12 @@
       "category": "us"
     },
     {
-      "title": "Wraca temat podatku od mieszkań. Razem wykłada na stół projekt. Znajdzie sprzymierzeńców?",
-      "link": "https://www.money.pl/podatki/wraca-temat-podatku-od-mieszkan-razem-wyklada-na-stol-projekt-znajdzie-sprzymierzencow-7218824002591520a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5ce62b78-b981-4cb7-b574-218d29b9a70c\" width=\"308\" /> Partia Razem chciałaby wprowadzenia nowego podatku od nieruchomości. Szuka posłów gotowych poprzeć jej nowy projekt. Nie zrobią tego jednak ani KO, ani Nowa Lewica, która przekonuje, że projekt \"jest niekompletny i dziurawy\". Doradca podatkowy Małgorzata Samborska punktuj",
-      "published": "Thu, 06 Nov 2025 16:51:58 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
       "link": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
       "summary": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
       "published": "Thu, 06 Nov 2025 16:45:08 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Wyższy podatek dla banków. Senat zdecydował, wprowadził też poprawki",
-      "link": "https://www.money.pl/banki/wyzszy-podatek-dla-bankow-senat-zdecydowal-wprowadzil-tez-poprawki-7218960795634496a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/717946cd-8ba2-4c5f-9b79-76e5eff50a7c\" width=\"308\" /> Senat zdecydował o wprowadzeniu poprawek do projektu ustawy podnoszącej stawkę CIT dla banków do poziomu 30 procent w 2026 roku. Izba wyższa parlamentu proponuje niższy o dwa procent podatek CIT dla banków spółdzielczych oraz SKOK-ów.",
-      "published": "Thu, 06 Nov 2025 16:35:19 +0100",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Target's sloppier stores are wearing on shoppers, and its turnaround could hinge on cleaning them up",
@@ -154,6 +122,142 @@
       "category": "us"
     },
     {
+      "title": "Słynny inwestor gra przeciwko AI, prezesi ostrzegają przed korektą",
+      "link": "https://www.bankier.pl/wiadomosc/Slynny-inwestor-gra-przeciwko-AI-prezesi-ostrzegaja-przed-korekta-9036860.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/5/95adea669280fc-948-567-0-10-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Coraz częściej cały tlen w przestrzeni publicznej na Wall Street zużywa jeden temat inwestycyjny – sztuczna inteligencja – i garstka powiązanych z nim spółek. Tym razem zamieszan",
+      "published": "Sat, 8 Nov 2025 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Sobolewski o podróżach: Inwestor powinien pojechać i dotknąć, by móc to skonfrontować z \"naszą bańką\"",
+      "link": "https://www.bankier.pl/wiadomosc/Sobolewski-o-podrozach-Inwestor-powinien-pojechac-i-dotknac-by-moc-to-skonfrontowac-z-nasza-banka-9036012.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/c/a6bd7f6a75c098-948-568-10-170-3520-2111.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podróże są dla mnie czymś głębszym, bo to, że kształcą także inwestorów, to wiemy od dawna - zaznacza Ludwik Sobolewski, były prezes GPW i BSE. - Gdy jestem w podróży, mniej s",
+      "published": "Sat, 8 Nov 2025 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Inwestorzy coraz częściej wybierają Amerykę. Z Freedom24 mają dostęp do kilkunastu giełd",
+      "link": "https://www.bankier.pl/wiadomosc/Inwestorzy-coraz-czesciej-wybieraja-Ameryke-Z-Freedom24-maja-dostep-do-kilkunastu-gield-9036759.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/2/dce4fd1f947a02-948-568-80-0-1200-719.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Większość inwestorów z Polski inwestuje dziś w rynki amerykańskie, szczególnie w spółki technologiczne - mówi Marek Górniak z Freedom24 w rozmowie przeprowadzonej na Forum Finans",
+      "published": "Sat, 8 Nov 2025 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"I tak wybierzecie źle\". Inwestowanie zagraniczne w erze ETF-ów i miliona możliwości",
+      "link": "https://www.bankier.pl/wiadomosc/I-tak-wybierzecie-zle-Inwestowanie-zagraniczne-w-erze-ETF-ow-i-miliona-mozliwosci-9035199.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/c/d9b24659778450-948-568-0-78-1157-694.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jak mądrze poszerzać horyzonty inwestycyjne i nie zgubić się w nadmiarze opcji? Na takie pytanie w kontekście rynków zagranicznych odpowiadali uczestnicy ostatniej debaty podczas",
+      "published": "Sat, 8 Nov 2025 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "RPP tnie, Orlen podnosi marże, NBP gromadzi złoto. Tydzień na wykresach",
+      "link": "https://www.bankier.pl/wiadomosc/RPP-tnie-Orlen-podnosi-marze-NBP-gromadzi-zloto-Tydzien-na-wykresach-9035744.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/8/9705252cdf5ed4-948-568-250-0-3750-2249.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />RPP znów tnie stopy, marża Orlenu wciąż rośnie, a NBP kupuje złoto. Ceny paliw rosną, a w państwowych firmach zarabia się lepiej niż w prywatnych. Oto podsumowanie tygodnia na ",
+      "published": "Sat, 8 Nov 2025 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump bojkotuje szczyt G20 w RPA. Oto powód",
+      "link": "https://www.money.pl/gospodarka/trump-bojkotuje-szczyt-g20-w-rpa-oto-powod-7219530800855936a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ce6bceba-33f8-40a8-a34d-4007ce02ae17\" width=\"308\" /> Prezydent USA Donald Trump poinformował w piątek, że na szczycie G20 w RPA nie będzie żadnego przedstawiciela amerykańskiego rządu. Decyzję argumentował sytuacją Afrykanerów w tym kraju.",
+      "published": "Sat, 08 Nov 2025 06:58:10 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Chaos w USA. Odwołano tysiąc lotów, kilka tysięcy było opóźnionych",
+      "link": "https://www.money.pl/gospodarka/chaos-w-usa-odwolano-tysiac-lotow-kilka-tysiecy-bylo-opoznionych-7219527490120640a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/13064022-84df-4388-8917-f93fbdbe6ff7\" width=\"308\" /> Ponad tysiąc lotów odwołano w piątek w USA, głównie w związku z ograniczeniami ruchu lotniczego wprowadzanymi na 40 głównych lotniskach przez Federalną Administrację Lotnictwa (FAA) z uwagi na trwający paraliż budżetowy. Kilka tysięcy lotów było opóźnionych.",
+      "published": "Sat, 08 Nov 2025 06:39:13 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Orban ogłasza sukces po spotkaniu z Trumpem. \"Całkowite zwolnienie z sankcji\"",
+      "link": "https://www.money.pl/gospodarka/orban-oglasza-sukces-po-spotkaniu-z-trumpem-calkowite-zwolnienie-z-sankcji-7219524268256192a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/17c59dbc-5c07-4a5b-820b-37f422d6ee66\" width=\"308\" /> Premier Węgier Viktor Orban poinformował w piątek, że jego kraj został wyłączony z sankcji, które Stany Zjednoczone nałożyły na Rosję w związku z jej inwazją na Ukrainę. Szef węgierskiego rządu rozmawiał na ten temat w Waszyngtonie z prezydentem USA Donaldem Trumpem.",
+      "published": "Sat, 08 Nov 2025 06:29:07 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Cała Europa ma tylko jedną fabrykę TNT — w Polsce. Ten człowiek chce to zmienić",
+      "link": "https://businessinsider.com.pl/wiadomosci/europa-przelknie-toksyczne-odpady-tnt-ma-powstawac-juz-nie-tylko-w-polsce/pzdh6rw",
+      "summary": "Joakim Sjöblom, przedsiębiorca z branży fintech, ma odważny plan budowy zakładu produkującego trotylu w Szwecji. Materiał ten jest niezbędny do wielu typów amunicji, ale w Europie działa tylko jedna fabryka — w Polsce. Tymczasem jego Swebal zamierza wytwarzać 4 500 ton TNT rocznie w sercu Skandynawii.",
+      "published": "Sat, 08 Nov 2025 06:09:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rating Polski. Jest decyzja. \"Rynki patrzą na fakty, nie na emocje\"",
+      "link": "https://www.money.pl/gospodarka/rating-polski-jest-decyzja-rynki-patrza-na-fakty-nie-na-emocje-7219518069607296a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/d3f97dc2-135e-40d7-b37f-d84a0d0f174f\" width=\"308\" /> Agencja S&amp;P Global Ratings potwierdziła długoterminowy rating Polski w walucie obcej na poziomie \"A-\" ze stabilną perspektywą - poinformowała agencja w komunikacie. \"Rynki patrzą na fakty, nie na emocje\" - tak rating Polski skomentował minister finansów Andrzej Domańs",
+      "published": "Sat, 08 Nov 2025 06:06:28 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Inwazja niczym z filmu \"Obcy\". To zwierzę zagraża bezpieczeństwu żywnościowemu Niemiec",
+      "link": "https://businessinsider.com.pl/wiadomosci/przyrownuja-go-do-obcego-owad-niszczy-niemiecka-gospodarke-skala-niewidziana-od/knlgyd9",
+      "summary": "Skoczek trzcinowy niemal niezauważenie stał się największym zagrożeniem dla niemieckiego rolnictwa. Zagraża zbiorom ziemniaków, pasternaku, rabarbaru i wielu innych upraw. Jednak co do sposobu jego zwalczania trwają spory, a kryzys się pogłębia.",
+      "published": "Sat, 08 Nov 2025 05:58:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "\"Zbigniew Ziobro się nie ukrywa\". Jego obrońca zapewnia",
+      "link": "https://businessinsider.com.pl/wiadomosci/ziobro-sie-nie-ukrywa-jego-obronca-zapewnia/5z4lghw",
+      "summary": "Nie ma mowy o jakimkolwiek \"ukryciu się\" — napisał na platformie X obrońca Zbigniewa Ziobry mec. Bartosz Lewandowski. Przypomnijmy, po decyzji Sejmu o uchyleniu immunitetu posłowi PiS Zbigniewowi Ziobrze prokurator wydał postanowienie o przedstawieniu mu 26 zarzutów i zatrzymaniu go przez ABW. Ziobro przebywa tymczasem na Węgrzech.",
+      "published": "Sat, 08 Nov 2025 05:51:32 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polska gospodarka jest \"kuloodporna\". Radzimy sobie lepiej mimo kryzysów [ANALIZA]",
+      "link": "https://www.money.pl/gospodarka/polska-gospodarka-jest-kuloodporna-radzimy-sobie-lepiej-mimo-kryzysow-analiza-7218953270913856a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c44a45c2-d235-4c3b-a45f-2db33599f75d\" width=\"308\" /> Jeśli zrealizują się aktualne prognozy, aktywność w polskiej gospodarce w 2030 r. będzie o około 3 proc. większa, niż byłaby, gdybyśmy pozostali na ścieżce wzrostu oczekiwanej przed pandemią COVID-19. Niewiele krajów ma lepsze perspektywy. Większość poniosła w ostatnich l",
+      "published": "Sat, 08 Nov 2025 05:43:08 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Znana firma z USA inwestuje w Warszawie i Gdańsku. Będzie mnóstwo nowych etatów",
+      "link": "https://businessinsider.com.pl/gospodarka/znana-firma-z-usa-inwestuje-w-warszawie-i-gdansku/xlft1zb",
+      "summary": "Znany operator kart płatniczych Mastercard ogłasza inwestycje w Polsce. Firma uruchamia centra usług profesjonalnych w Warszawie i Gdańsku.",
+      "published": "Sat, 08 Nov 2025 05:29:15 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Pomysł prezydenta na emerytury. Tyle zyskaliby seniorzy [TABELA]",
+      "link": "https://businessinsider.com.pl/praca/emerytury/pomysl-prezydenta-na-emerytury-tyle-zyskaliby-seniorzy-tabela/6vrh4e9",
+      "summary": "Prezydent Karol Nawrocki pokazał w tym tygodniu swój pomysł na podniesienie emerytur. De facto sprowadza się on do wprowadzenia waloryzacji kwotowo-procentowej, którą znamy chociażby z ostatnich lat rządów PiS. Sprawdziliśmy, co oznaczałoby to dla świadczeń seniorów. Poniżej prezentujemy konkretne wyliczenia, które pokazują, że na propozycji prezydenta w przyszłym roku zysk wyniesie maksymalnie 57",
+      "published": "Sat, 08 Nov 2025 05:07:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Orban otrzymał \"całkowite zwolnienie z sankcji związanych z rosyjską energią\"",
+      "link": "https://businessinsider.com.pl/gospodarka/orban-otrzymal-calkowite-zwolnienie-z-sankcji-zwiazanych-z-rosyjska-energia/dclbrc9",
+      "summary": "Premier Węgier Viktor Orban podał, że jego kraj został wyłączony z sankcji, które USA nałożyły na Rosję w związku z jej inwazją na Ukrainę. Szef węgierskiego rządu rozmawiał na ten temat w Waszyngtonie z prezydentem USA Donaldem Trumpem.",
+      "published": "Sat, 08 Nov 2025 05:01:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Parlament uchwalił wiele ustaw. Co zrobi prezydent Karol Nawrocki?",
+      "link": "https://businessinsider.com.pl/prawo/nowe-prawo-dla-milionow-polakow-sejm-uchwalil-co-zrobi-prezydent-nawrocki/e89sw64",
+      "summary": "Choć wielu Polaków wciąż żyje sprawą Zbigniewa Ziobry, to trzeba pamiętać, że przez ostatnie trzy dni Sejm zajmował się nie tylko immunitetem byłego ministra sprawiedliwości. Parlament sfinalizował prace nad kluczowymi ustawami ważnymi dla firm, obywateli, a także budżetu państwa, który nie jest w najlepszym stanie. Na biurko Karola Nawrockiego trafią przepisy m.in. o podatku od banków, zmianach d",
+      "published": "Sat, 08 Nov 2025 04:45:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Agencja S&P zaskoczyła obserwatorów. Perspektywa ratingu Polski nie została obniżona",
       "link": "https://www.bankier.pl/wiadomosc/Agencja-S-P-utrzymala-rating-Polski-na-poziomie-A-z-perspektywa-stabilna-9037050.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/f27d6571f1adef-948-568-60-179-2940-1763.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Agencja S&amp;P utrzymała bez zmian zarówno sam rating kredytowy Polski jak i jego perspektywę.</p>",
@@ -194,14 +298,6 @@
       "category": "pl"
     },
     {
-      "title": "Sejm odrzucił prezydencki projekt ustawy o pomocy Ukraińcom. Powiela przepisy rządowe",
-      "link": "https://www.bankier.pl/wiadomosc/Sejm-odrzucil-prezydencki-projekt-ustawy-o-pomocy-Ukraincom-Powiela-przepisy-rzadowe-9036976.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/a/e8c51355b399a0-948-568-476-0-1297-778.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm odrzucił prezydencki projekt nowelizacji ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa. Podczas pierwszego czytana projektu ",
-      "published": "Fri, 7 Nov 2025 19:37:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Opłata cukrowa i podatek od wygranych z gier losowych w górę",
       "link": "https://www.bankier.pl/wiadomosc/Oplata-cukrowa-i-podatek-od-wygranych-z-gier-losowych-w-gore-9036967.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/2/31d4348870d68f-948-568-59-0-1856-1113.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm uchwalił w piątek ustawę, która podnosi opłatę cukrową; zwiększa również podatek od wygranych z gier losowych. Ustawa trafi teraz do Senatu.</p>",
@@ -226,10 +322,10 @@
       "category": "pl"
     },
     {
-      "title": "Abbas: Po osiągnięciu pokoju poprosimy kraje arabskie o uznanie Izrael",
-      "link": "https://www.bankier.pl/wiadomosc/Mahmud-Abbas-Po-osiagnieciu-pokoju-poprosimy-kraje-arabskie-by-uznaly-Izrael-9036914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/d/02c2446832f12f-948-568-460-60-3540-2123.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Autonomii Palestyńskiej Mahmud Abbas, składający wizytę w Rzymie, spotkał się w piątek z prezydentem Włoch Sergio Mattarellą i premier Giorgią Meloni. W czasie spotk",
-      "published": "Fri, 7 Nov 2025 18:51:00 +0100",
+      "title": "Psy bez łańcuchów. Kojce będą musiały mieć określoną wysokość",
+      "link": "https://www.bankier.pl/wiadomosc/Psy-bez-lancuchow-Kojce-beda-musialy-miec-okreslona-wysokosc-9036962.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/6/0e9427411810c3-948-568-2-70-995-597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm przyjął w piątek pięć z sześciu zgłoszonych przez Senat poprawek do nowelizacji wprowadzającej zakaz trzymania psów na uwięzi. Przyjęte poprawki wprowadzają m.in. wymóg, aby ",
+      "published": "Fri, 7 Nov 2025 19:18:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -258,26 +354,10 @@
       "category": "pl"
     },
     {
-      "title": "Sejm uchwalił ustawę okołobudżetową na przyszły rok",
-      "link": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-okolobudzetowa-na-przyszly-rok-9036912.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/f/5882722bc68f25-948-568-0-37-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm uchwalił w piątek ustawę okołobudżetową na przyszły rok. Przepisy zawierają zbiór szczegółowych rozwiązań ściśle powiązanych z realizacją ustawy budżetowej na 2026 r.</p>",
-      "published": "Fri, 7 Nov 2025 18:14:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Akcje spółek energetycznych topnieją przez prezydencki projekt. CCC i Dino zawodzą wynikami",
       "link": "https://www.bankier.pl/wiadomosc/Depesza-z-GPW-7-11-2025-przecena-energetyki-CCC-i-Dino-spadaja-po-wynikach-9036817.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/5/c163410b0452b8-948-568-240-65-1760-1055.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Piątkowa sesja upłynęła pod znakiem rywalizacji CCC i Dino. Gra toczyła się o tytuł najbardziej przecenionych akcji z WIG20, na co wpłynęły rozczarowujące wyniki obu spółek. C",
       "published": "Fri, 7 Nov 2025 17:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Jest pomoc rządu dla NFZ. Minister finansów rzuca koło ratunkowe",
-      "link": "https://www.bankier.pl/wiadomosc/Jest-pomoc-rzadu-dla-NFZ-Minister-finansow-rzuca-kolo-ratunkowe-9036776.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/b/23f7b51549a046-948-568-5-81-2039-1223.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo Zdrowia poinformowało w piątek, że w wyniku rozmów z ministrem finansów Andrzejem Domańskim uzgodniono przekazanie dodatkowego wsparcia dla Narodowego Funduszu Zdro",
-      "published": "Fri, 7 Nov 2025 15:39:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -290,26 +370,10 @@
       "category": "pl"
     },
     {
-      "title": "Cztery partie wchodzą do Sejmu. Jest nowy sondaż CBOS",
-      "link": "https://www.bankier.pl/wiadomosc/Cztery-partie-wchodza-do-Sejmu-Jest-nowy-sondaz-CBOS-9036673.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/f/11b8f631fc6c32-948-568-10-0-2037-1222.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Koalicja Obywatelska może liczyć na poparcie 28,8 proc. ankietowanych; PiS popiera 20,7 proc. badanych, Konfederację Wolność i Niepodległość 13,2 proc, a Konfederację Korony Pol",
-      "published": "Fri, 7 Nov 2025 14:38:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Narodowy Bank Polski wznowił zakupy złota. Idziemy na 600 ton?",
       "link": "https://www.bankier.pl/wiadomosc/Narodowy-Bank-Polski-w-pazdzierniku-2025-wznowil-zakupy-zlota-9036721.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/8/068d08cbe38d54-948-567-0-42-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W październiku Narodowy Bank Polski zwiększył rezerwy złota – wynika z obliczeń Bankier.pl. Byłby to zatem pierwszy taki przypadek od maja</p>",
       "published": "Fri, 7 Nov 2025 14:28:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polacy pokochali piramidy finansowe. KNF ma związane ręce, a oszustwa kwitną",
-      "link": "https://www.bankier.pl/wiadomosc/Polacy-pokochali-piramidy-finansowe-KNF-ma-zwiazane-rece-a-oszustwa-kwitna-9035717.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/9/c71d4f78edf564-948-567-0-47-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Plakaty w salonach kosmetycznych, biura w Warszawie, Szczecinie i Gorzowie oraz hasło \"jedna inwestycja, zysk na całe życie\" - tak budowano w Polsce społeczność TSQ Investment Gr",
-      "published": "Fri, 7 Nov 2025 06:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -554,14 +618,6 @@
       "category": "pl"
     },
     {
-      "title": "Sankcje USA działają. Łukoil kończy swoją działalność w tym kraju",
-      "link": "https://businessinsider.com.pl/wiadomosci/moldawia-bez-lukoilu-decyzja-giganta-paliwowego-po-sankcjach-usa/nlvfvs9",
-      "summary": "Rosyjski gigant paliwowy Łukoil ogłosił zakończenie działalności w Mołdawii, co ma nastąpić 21 listopada tego roku. Decyzja jest wynikiem amerykańskich sankcji nałożonych na firmę oraz jej spółki zależne. Informację przekazał w piątek mołdawski minister energii Dorin Junghietu.",
-      "published": "Fri, 07 Nov 2025 16:27:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Prezes Ripple przerywa milczenie w sprawie IPO Ripple: Czy XRP jest optymistyczne?",
       "link": "https://comparic.pl/prezes-ripple-przerywa-milczenie-w-sprawie-ipo-ripple-czy-xrp-jest-optymistyczne/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/11/Ripple-President-Breaks-Silence-on-Ripple-IPO-Bullish-for-XRp1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/11/Ripple-Pre",
@@ -586,14 +642,6 @@
       "category": "pl"
     },
     {
-      "title": "Polska w kosmosie. Satelity ICEYE i PIAST ruszają na orbitę",
-      "link": "https://businessinsider.com.pl/wiadomosci/falcon-9-wynosi-iceye-i-piast-na-orbite-polska-wchodzi-w-nowa-ere-obserwacji-ziemi/cbxvetq",
-      "summary": "We wtorek wieczorem z bazy Sił Kosmicznych USA w Kalifornii planowany jest start rakiety Falcon 9, która wyniesie na orbitę satelitę ICEYE oraz konstelację satelitów PIAST. Zaawansowane technologie tych urządzeń znajdą zastosowanie zarówno w przemyśle cywilnym, jak i w wojskowości.",
-      "published": "Fri, 07 Nov 2025 16:08:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Złoto może kosztować 25 000 USD? Ekspert ostrzega przed rewaloryzacją dolara",
       "link": "https://comparic.pl/zloto-moze-kosztowac-25-000-usd-ekspert-ostrzega-przed-rewaloryzacja-dolara/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-16.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-16-324x235.jpg\" style=\"fl",
@@ -610,52 +658,12 @@
       "category": "pl"
     },
     {
-      "title": "NFZ z dodatkowym wsparciem. Tyle dosypuje ministerstwo",
-      "link": "https://businessinsider.com.pl/wiadomosci/narodowy-fundusz-zdrowia-dostaje-kolejne-wsparcie-rzad-przekazuje-miliardy/lvtx41g",
-      "summary": "Narodowy Fundusz Zdrowia otrzyma dodatkowe środki finansowe w wysokości 3,5 mld zł — poinformowało Ministerstwo Zdrowia. Według resortu przekazane fundusze mają zapewnić płynność finansową świadczeń zdrowotnych do końca 2025 r. Decyzja zapadła podczas spotkania minister zdrowia Jolanty Sobierańskiej-Grendy z ministrem finansów Andrzejem Domańskim.",
-      "published": "Fri, 07 Nov 2025 15:42:46 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Jak nisko spadnie Bitcoin? Najnowsze prognozy ceny BTC ostrzegają przed krachem o kolejne 30%",
       "link": "https://comparic.pl/jak-nisko-spadnie-bitcoin-najnowsze-prognozy-ceny-btc-ostrzegaja-przed-krachem-o-kolejne-30/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/11/ChatGPT-Image-7-lis-2025-16_36_42.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/11/ChatGPT-Image-7-lis-2025-16_36_42-324x",
       "published": "Fri, 07 Nov 2025 15:37:02 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Trzy lata przyniosły zwrot o 180 stopni. Tak spadły raty kredytów i odsetki z lokat",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/oszczedzanie/ciecie-stop-procentowych-odmienia-raty-kredytow-co-z-oszczednosciami/geeyjt3",
-      "summary": "Cięcie stóp procentowych to nie tylko miła wiadomość dla kredytodawców w postaci niższych rat oraz rekordowej zdolności kredytowej. W kieszeniach kredytobiorców zostaną miliardy złotych, których nie muszą przeznaczać na odsetki. Drugą stroną medalu jest cięcie oprocentowania lokat, co oznacza niższe zyski z oszczędności.",
-      "published": "Fri, 07 Nov 2025 15:32:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Oddajesz butelki? W tych sklepach dostaniesz za nie więcej",
-      "link": "https://businessinsider.com.pl/wiadomosci/zabka-lepsza-niz-biedronka-i-lidl-chodzi-o-system-kaucyjny/0ck3wvf",
-      "summary": "System kaucyjny na butelki PET i puszki funkcjonuje w Polsce od 1 października 2025 r. Objęte są nim sklepy o powierzchni przekraczającej 200 m kw. Choć sklepy Żabka nie przekracza tego progu, sieć wdrożyła zbiórkę odpakowań na własnych zasadach, czym chce przyciągnąć klientów. Co oferuje?",
-      "published": "Fri, 07 Nov 2025 15:00:11 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Firmę teściów zmieniła w imperium. Została polską królową cappuccino w proszku",
-      "link": "https://businessinsider.com.pl/biznes/firme-tesciow-zmienila-w-imperium-zostala-polska-krolowa-cappuccino-w-proszku/y5vmypg",
-      "summary": "Teresa Mokrysz trzy dekady temu przejęła stery w rodzinnej firmie męża. Zmieniła jej nazwę, a zamiast produkcji materiałów budowlanych, zaczęła importować z Holandii śmietankę w proszku. Dzisiaj jest jedną z najbogatszych Polek z majątkiem 1,12 mld zł, a jej Mokate cappuccino znają prawie wszyscy. Na początku Polacy nie wiedzieli, jak je pić.",
-      "published": "Fri, 07 Nov 2025 14:45:54 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Takie czynniki zadecydowały o cięciu stóp. Jest protokół z posiedzenia RPP",
-      "link": "https://businessinsider.com.pl/finanse/to-zadecydowalo-o-cieciu-stop-procentowych-jest-protokol-z-posiedzenia-rpp/de2nx8r",
-      "summary": "Na październikowym posiedzeniu RPP jej członkowie zaznaczali, że choć obniżyła się niepewność w zakresie kształtowania się dynamiki cen konsumpcyjnych do końca 2025 r., to jednak utrzymują się ryzyka na kolejne lata — podano w opisie dyskusji z posiedzenia RPP z 8 października. Czynnikiem silnie proinflacyjnym w krajowej gospodarce jest polityka fiskalna.",
-      "published": "Fri, 07 Nov 2025 14:42:25 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "McDonald's U.S. boss puts focus on 'value and affordability' as consumer spending splits",
@@ -750,14 +758,6 @@
       "link": "https://www.money.pl/emerytury/projekt-prezydenta-nawrockiego-w-sejmie-o-tyle-maja-wzrosnac-emerytury-7219173583190848a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/34ab0113-d87e-408d-a5b0-d43cfc57fdf0\" width=\"308\" /> Prezydent Karol Nawrocki chce zmienić sposób waloryzacji emerytur i rent. Jego projekt, który trafił już do Sejmu, zakłada coroczny wzrost świadczeń o co najmniej 150 zł brutto. Z nowych przepisów skorzystałoby ponad 4 mln seniorów, a koszt reformy to blisko 3 mld zł rocz",
       "published": "Fri, 07 Nov 2025 06:45:41 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump rozszerza listę kluczowych minerałów USA",
-      "link": "https://www.money.pl/gospodarka/trump-rozszerza-liste-kluczowych-mineralow-usa-7219167136877344a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/83d45471-61df-486e-9a3b-48358e53099e\" width=\"308\" /> Administracja prezydenta Donalda Trumpa przedstawiła w czwartek nową listę minerałów krytycznych, które uważa za niezbędne dla gospodarki i bezpieczeństwa narodowego USA. Na liście znalazły się miedź i węgiel metalurgiczny, wykorzystywany do produkcji koksu - podał Reuter",
-      "published": "Fri, 07 Nov 2025 06:13:46 +0100",
       "source": "Money.pl",
       "category": "pl"
     }
