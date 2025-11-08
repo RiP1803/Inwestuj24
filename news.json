@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-07T21:20:04.211117",
+  "generated_at": "2025-11-08T01:56:06.107320",
   "articles": [
     {
       "title": "Lucid misses Wall Street expectations, narrows production guidance",
@@ -154,6 +154,14 @@
       "category": "us"
     },
     {
+      "title": "Agencja S&P zaskoczyła obserwatorów. Perspektywa ratingu Polski nie została obniżona",
+      "link": "https://www.bankier.pl/wiadomosc/Agencja-S-P-utrzymala-rating-Polski-na-poziomie-A-z-perspektywa-stabilna-9037050.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/f27d6571f1adef-948-568-60-179-2940-1763.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Agencja S&amp;P utrzymała bez zmian zarówno sam rating kredytowy Polski jak i jego perspektywę.</p>",
+      "published": "Fri, 7 Nov 2025 22:25:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "Nastroje się pogorszyły. Tak na Wall Street jak i wśród Amerykanów",
       "link": "https://www.bankier.pl/wiadomosc/Nastroje-sie-pogorszyly-Tak-na-Wall-Street-jak-i-wsrod-zwyklych-Amerykanow-9037039.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/0/feaf0fb817c4bf-948-568-0-97-2772-1663.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nadal pod presją był wysoko wyceniany sektor technologiczny. Wyraźnie pogorszyły się też nastroje amerykańskich konsumentów.</p>",
@@ -213,14 +221,6 @@
       "title": "USA: Armia planuje zakup co najmniej 1 mln dronów",
       "link": "https://www.bankier.pl/wiadomosc/USA-Armia-planuje-zakup-co-najmniej-1-mln-dronow-9036903.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/d/e3f64a5b0b7f4f-948-568-20-330-3900-2340.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Siły lądowe USA zakupią w ciągu najbliższych 2-3 lat co najmniej 1 mln dronów - powiedział w piątek minister ds. sił lądowych USA Daniel Driscoll w wywiadzie dla agencji Reute",
-      "published": "Fri, 7 Nov 2025 19:18:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Psy bez łańcuchów. Kojce będą musiały mieć określoną wysokość",
-      "link": "https://www.bankier.pl/wiadomosc/Psy-bez-lancuchow-Kojce-beda-musialy-miec-okreslona-wysokosc-9036962.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/6/0e9427411810c3-948-568-2-70-995-597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm przyjął w piątek pięć z sześciu zgłoszonych przez Senat poprawek do nowelizacji wprowadzającej zakaz trzymania psów na uwięzi. Przyjęte poprawki wprowadzają m.in. wymóg, aby ",
       "published": "Fri, 7 Nov 2025 19:18:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
@@ -314,10 +314,90 @@
       "category": "pl"
     },
     {
+      "title": "Airlines cancel more than 700 U.S. flights as FAA-ordered shutdown cuts begin",
+      "link": "https://www.cnbc.com/2025/11/07/airlines-cancellations-flights-faa-shutdown.html",
+      "summary": "The cuts were ordered as air traffic controllers have missed their paychecks due to the government shutdown, now the longest in U.S. history.",
+      "published": "Fri, 07 Nov 2025 23:48:37 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "As stocks wobbled, the S&P 500 held a critical threshold. Here’s what history says happens next.",
+      "link": "https://www.marketwatch.com/story/as-stocks-wobbled-the-s-p-500-held-a-critical-threshold-heres-what-history-says-happens-next-872e02f9?mod=mw_rss_topstories",
+      "summary": "The benchmark index has been above its 50-day moving average for 133 sessions, the longest streak since 2007. But that nearly came to an end on Friday.",
+      "published": "Fri, 07 Nov 2025 22:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Liga Traderów XIV – III faza: wyniki, tabele i rozpiska 3 kolejki spotkań",
+      "link": "https://comparic.pl/liga-traderow-xiv-iii-faza-wyniki-tabele-i-rozpiska-3-kolejki-spotkan/",
+      "summary": "<img alt=\"liga traderów\" class=\"attachment-full size-full wp-post-image\" height=\"400\" src=\"https://comparic.pl/wp-content/uploads/2015/11/successful-trader.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"600\" /><img alt=\"liga traderów\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2015/11/successful-trader-324x235.jpg\"",
+      "published": "Fri, 07 Nov 2025 22:53:18 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bitcoin rebounds after a dip into bear-market territory. Are buyers coming back for crypto?",
+      "link": "https://www.marketwatch.com/story/bitcoins-bear-market-is-exposing-a-new-buy-the-dip-weakness-in-markets-8db02ff3?mod=mw_rss_topstories",
+      "summary": "The token’s break below $100,000 earlier this week could be a warning of more losses ahead, one analyst says.",
+      "published": "Fri, 07 Nov 2025 22:47:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘We can’t afford to buy a house’: My husband and I are building a house on my mother-in-law’s land. Are we asking for trouble?",
+      "link": "https://www.marketwatch.com/story/housing-is-extremely-expensive-were-building-a-house-on-my-mother-in-laws-land-are-we-asking-for-trouble-d58c70e2?mod=mw_rss_topstories",
+      "summary": "“A single-family home where we live costs $600,000 or more.”",
+      "published": "Fri, 07 Nov 2025 22:29:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m 83 and will have $500K if I sell my house. My estranged wife wants me to join her in Colombia. Do I go?",
+      "link": "https://www.marketwatch.com/story/im-83-and-have-a-monthly-income-of-3-800-my-estranged-wife-wants-me-to-join-her-in-colombia-do-i-go-a5850fe9?mod=mw_rss_topstories",
+      "summary": "“I can just barely handle my expenses with a mortgage payment of $984 and an income of $3,800.”",
+      "published": "Fri, 07 Nov 2025 22:13:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Expedia is treating AI as a friend rather than a mortal enemy — and its stock is soaring",
+      "link": "https://www.marketwatch.com/story/expedia-is-treating-ai-as-a-friend-rather-a-mortal-enemy-and-its-stock-is-soaring-1ccb1043?mod=mw_rss_topstories",
+      "summary": "Expedia shares climbed to a record close as the online travel agent has embraced AI to help boost business, rather than try to find ways to beat it.",
+      "published": "Fri, 07 Nov 2025 22:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "The shutdown is starting to ‘bite the economy,’ top Trump aide warns. The Senate is struggling to make a deal.",
       "link": "https://www.marketwatch.com/story/the-shutdown-is-starting-to-bite-the-economy-top-trump-aide-warns-the-senate-is-struggling-to-make-a-deal-3104a8da?mod=mw_rss_topstories",
       "summary": "A top economist in the Trump administration offered a fresh warning Friday about the record-setting government shutdown’s damaging effects, as the Senate struggled to make a deal to end the closure and airports began to reduce flights.",
-      "published": "Fri, 07 Nov 2025 20:58:00 GMT",
+      "published": "Fri, 07 Nov 2025 21:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tech stocks just had their worst week since the April tariff selloff. Why it’s about time.",
+      "link": "https://www.marketwatch.com/story/tech-stocks-are-having-their-worst-week-since-the-april-tariff-selloff-why-its-about-time-6334cbc3?mod=mw_rss_topstories",
+      "summary": "Strong tech earnings weren’t enough to reassure investors worried about high valuations.",
+      "published": "Fri, 07 Nov 2025 21:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The real risk to your bond fund isn’t defaults. It’s you.",
+      "link": "https://www.marketwatch.com/story/the-real-risk-to-your-bond-fund-isnt-defaults-its-you-af177815?mod=mw_rss_topstories",
+      "summary": "Charlie Garcia responds to a reader worried about a bond fund’s lower-quality holdings.",
+      "published": "Fri, 07 Nov 2025 21:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Even with all the flight cancellations, airline stocks had a surprisingly good week",
+      "link": "https://www.marketwatch.com/story/even-with-all-the-flight-cancellations-airline-stocks-are-having-a-surprisingly-good-week-eab6d740?mod=mw_rss_topstories",
+      "summary": "For Wall Street, shutdown-related flight cancellations may not be all that scary.",
+      "published": "Fri, 07 Nov 2025 21:35:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -327,14 +407,6 @@
       "summary": "“He seems to think ‘bill due’ dates are a suggestion. He has literally no savings.”",
       "published": "Fri, 07 Nov 2025 20:44:00 GMT",
       "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Airlines cancel more than 700 U.S. flights as FAA-ordered shutdown cuts begin",
-      "link": "https://www.cnbc.com/2025/11/07/airlines-cancellations-flights-faa-shutdown.html",
-      "summary": "The cuts were ordered as air traffic controllers have missed their paychecks due to the government shutdown, now the longest in U.S. history.",
-      "published": "Fri, 07 Nov 2025 20:33:51 GMT",
-      "source": "CNBC",
       "category": "us"
     },
     {
@@ -370,22 +442,6 @@
       "category": "other"
     },
     {
-      "title": "‘She got divorced 4 years ago’: My friend, 72, has one son. Does she need to write a will?",
-      "link": "https://www.marketwatch.com/story/my-friend-72-has-copd-she-has-one-son-32-she-says-she-doesnt-need-a-will-is-she-right-529ff6e3?mod=mw_rss_topstories",
-      "summary": "“He is already on her bank accounts.”",
-      "published": "Fri, 07 Nov 2025 19:44:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "I’m selling my condo and have $130K to invest. Is this a bad time to invest in the S&P 500?",
-      "link": "https://www.marketwatch.com/story/im-selling-my-condo-and-have-130k-to-invest-is-this-a-bad-time-to-invest-in-the-s-p-500-2f96163e?mod=mw_rss_topstories",
-      "summary": "‘What is the smartest way to create income with this money?’",
-      "published": "Fri, 07 Nov 2025 19:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Donald Trump rozważa wyłączenie Węgier z sankcji na rosyjskie firmy naftowe",
       "link": "https://businessinsider.com.pl/gospodarka/donald-trump-rozwaza-wylaczenie-wegier-z-sankcji-na-rosyjska-rope/e65stec",
       "summary": "Prezydent USA Donald Trump podczas spotkania w Białym Domu z premierem Węgier Viktorem Orbanem zasugerował możliwość wyłączenia Węgier z sankcji nałożonych na rosyjskie koncerny naftowe. Węgierski przywódca argumentował, że jego kraj jest w szczególnej sytuacji, z uwagi na brak dostępu do morza i konieczność importu ropy naftowej przez rurociąg Przyjaźń.",
@@ -402,14 +458,6 @@
       "category": "other"
     },
     {
-      "title": "Home prices are overinflated in many parts of the U.S. Are we in a housing bubble?",
-      "link": "https://www.marketwatch.com/story/home-prices-are-overinflated-in-many-parts-of-the-u-s-are-we-in-a-housing-bubble-544dbfc4?mod=mw_rss_topstories",
-      "summary": "Home prices are rising to new heights, yet sales have remained largely depressed.",
-      "published": "Fri, 07 Nov 2025 18:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Kancelaria Sławomira Mentzena szuka pracownika. Takie oferuje zarobki",
       "link": "https://businessinsider.com.pl/wiadomosci/kancelaria-slawomira-mentzena-szuka-pracownika-takie-oferuje-zarobki/0n0rzdj",
       "summary": "Kancelaria podatkowa Sławomira Mentzena opublikowała ogłoszenie o pracę, za pośrednictwem którego szuka osoby na stanowisko montażysty wideo do spraw marketingu. Oferuje za to 5500-6000 zł brutto miesięcznie. \"Jeśli uważasz, że praca marketingowca kończy się o godz. 16, to na pewno się nie dogadamy\" — czytamy w ogłoszeniu.",
@@ -418,52 +466,12 @@
       "category": "other"
     },
     {
-      "title": "I invested $200K in my daughter’s 529 plan. She doesn’t want to go to college. What should I do with this money?",
-      "link": "https://www.marketwatch.com/story/i-invested-200k-in-my-daughters-529-plan-she-doesnt-want-to-go-to-college-what-should-i-do-with-this-money-780695a9?mod=mw_rss_topstories",
-      "summary": "“Are there any other ways I can consider transferring the wealth to her?”",
-      "published": "Fri, 07 Nov 2025 18:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘We can’t afford to buy a house’: My husband and I are building a house on my mother-in-law’s land. Are we asking for trouble?",
-      "link": "https://www.marketwatch.com/story/housing-is-extremely-expensive-were-building-a-house-on-my-mother-in-laws-land-are-we-asking-for-trouble-d58c70e2?mod=mw_rss_topstories",
-      "summary": "“A single-family home where we live costs $600,000 or more.”",
-      "published": "Fri, 07 Nov 2025 18:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Bitcoin’s bear market is exposing a new ‘buy-the-dip’ weakness in markets",
-      "link": "https://www.marketwatch.com/story/bitcoins-bear-market-is-exposing-a-new-buy-the-dip-weakness-in-markets-8db02ff3?mod=mw_rss_topstories",
-      "summary": "Bitcoin is on track to end Friday in the bear-market territory for the first time since April 23.",
-      "published": "Fri, 07 Nov 2025 18:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Zbigniewa Ziobro stracił immunitet. Może zostać zatrzymany i usłyszeć zarzuty",
       "link": "https://businessinsider.com.pl/wiadomosci/sejm-zdecydowal-w-sprawie-zbigniewa-ziobry-moze-uslyszec-zarzuty/jjgq9ly",
       "summary": "W piątek wieczorem Sejm uchylił immunitet posłowi PiS Zbigniewowi Ziobrze. Zgodził się także na jego doprowadzenie, zatrzymanie i areszt. Posłowie zgodzili się na postawienie byłemu ministrowi sprawiedliwości wszystkich 26 zarzutów.",
       "published": "Fri, 07 Nov 2025 18:21:54 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Even with all the flight cancellations, airline stocks are having a surprisingly good week",
-      "link": "https://www.marketwatch.com/story/even-with-all-the-flight-cancellations-airline-stocks-are-having-a-surprisingly-good-week-eab6d740?mod=mw_rss_topstories",
-      "summary": "For Wall Street, flight cancellations may not be the worst thing.",
-      "published": "Fri, 07 Nov 2025 18:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Tech selloff breaks major S&P 500 support — but here’s when stocks really unravel",
-      "link": "https://www.marketwatch.com/story/tech-selloff-breaks-major-s-p-500-support-but-heres-when-stocks-really-unravel-968f8438?mod=mw_rss_topstories",
-      "summary": "Technical indicators point to more weakness. Watch the VIX.",
-      "published": "Fri, 07 Nov 2025 18:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Viktor Orban w Białym Domu: Rozmowy o energetyce, sankcjach i Ukrainie",
@@ -624,14 +632,6 @@
       "published": "Fri, 07 Nov 2025 15:32:01 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Najlepszy moment na zakup mieszkania? Rynek nieruchomości łapie stabilny rytm",
-      "link": "https://comparic.pl/najlepszy-moment-na-zakup-mieszkania-rynek-nieruchomosci-lapie-stabilny-rytm/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"391\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads",
-      "published": "Fri, 07 Nov 2025 15:28:46 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Oddajesz butelki? W tych sklepach dostaniesz za nie więcej",
