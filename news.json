@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-14T18:37:27.524392",
+  "generated_at": "2025-11-14T21:24:20.765930",
   "articles": [
     {
       "title": "Skims valued at $5 billion after new funding round as it accelerates store expansion",
@@ -46,14 +46,6 @@
       "link": "https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html",
       "summary": "Boeing's defense unit workers approved a new contract Thursday.",
       "published": "Thu, 13 Nov 2025 20:16:37 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "WNBA's Las Vegas Aces coach Becky Hammon says the league may need new leadership",
-      "link": "https://www.cnbc.com/2025/11/12/wnba-las-vegas-aces-becky-hammon-new-league-leadership.html",
-      "summary": "Calls for Commissioner Cathy Engelbert to step down have built in recent weeks, fueled by comments by Minnesota Lynx star Napheesa Collier.",
-      "published": "Thu, 13 Nov 2025 18:55:46 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -122,27 +114,163 @@
       "category": "pl"
     },
     {
-      "title": "Shares of Swiss sneaker company On soar 20% as it raises guidance again",
-      "link": "https://www.cnbc.com/2025/11/12/on-onon-earnings-q3-2025.html",
-      "summary": "Swiss sportswear company On blew past Wall Street's expectations as it pledged to offer no discounts during the holiday shopping season.",
-      "published": "Thu, 13 Nov 2025 13:53:35 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "\"Kwestia naszego przetrwania\". Zełenski apeluje ws. rosyjskich aktywów",
-      "link": "https://www.money.pl/pieniadze/kwestia-naszego-przetrwania-zelenski-apeluje-ws-rosyjskich-aktywow-7221361407310784a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8b423bf8-d79d-46e3-b7f6-ce12c314e7c5\" width=\"308\" /> Wołodymyr Zełenski apeluje do krajów Unii Europejskiej, żeby podjęły decyzję o przekazaniu Ukrainie zamrożonych rosyjskich aktywów. Te pieniądze mają być kluczem do odbudowy zniszczonej gospodarki oraz samego przetrwania kraju.",
-      "published": "Thu, 13 Nov 2025 13:14:24 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "From AI to ESG: Family offices expect heirs will take new path on investing",
       "link": "https://www.cnbc.com/2025/11/13/family-offices-investing.html",
       "summary": "Ultra-rich families anticipate millennial and Gen X heirs will make big changes to their investment firms or even shut them down altogether.",
       "published": "Thu, 13 Nov 2025 12:52:46 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Ważna zmiana dla części emerytów. Od 1 grudnia wyższe limity dorabiania",
+      "link": "https://www.money.pl/emerytury/oskar-sobolewski/wazna-zmiana-dla-czesci-emerytow-od-1-grudnia-wyzsze-limity-dorabiania-7221868532476800a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/af92afeb-5566-46ee-adb8-4c6051fdaeb4\" width=\"308\" /> Od 1 grudnia będą obowiązywały nowe limity dorabiania dla emerytów, którzy nie osiągnęli wieku emerytalnego. Zgodnie z przepisami po przekroczeniu określonych limitów świadczenie może zostać&nbsp;obniżone albo zawieszone.",
+      "published": "Fri, 14 Nov 2025 21:39:39 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Surveillance tech leads workers' comp claims to plummet at NYC construction sites",
+      "link": "https://www.cnbc.com/2025/11/14/workers-comp-insurance.html",
+      "summary": "Insurer Zurich North America said it will only insure construction wrap-up projects that have installed video analytics and coaching from Arrowsight.",
+      "published": "Fri, 14 Nov 2025 21:11:29 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Walmart CEO Doug McMillon to retire in January after nearly 12 years leading retailer",
+      "link": "https://www.cnbc.com/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january.html",
+      "summary": "The longtime CEO will be succeeded by John Furner, the Walmart U.S. CEO, on Feb. 1.Both changes take effect then.",
+      "published": "Fri, 14 Nov 2025 21:01:56 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Walmart shares are up 312% during outgoing CEO Doug McMillon's tenure. Here's how that compares to its rivals",
+      "link": "https://www.cnbc.com/2025/11/14/walmart-doug-mcmillon-stock-performance-target-amazon-costco.html",
+      "summary": "The outgoing Walmart CEO's tenure was marked by both sharp sales gains and stock growth.",
+      "published": "Fri, 14 Nov 2025 20:51:57 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Afera korupcyjna w Enerhoatomie. \"NYT\": zagrożony wizerunek prezydenta Ukrainy",
+      "link": "https://businessinsider.com.pl/gospodarka/afera-korupcyjna-w-enerhoatomie-wolodymyr-zelenski-pod-presja/7352h9z",
+      "summary": "Afera korupcyjna wokół państwowej spółki Enerhoatom stawia pod znakiem zapytania reputację najbliższego otoczenia prezydenta Ukrainy Wołodymyra Zełenskiego — informuje amerykański dziennik \"New York Times\". Według gazety to jeden z najpoważniejszych kryzysów wizerunkowych Zełenskiego od początku jego prezydentury, który może mieć wpływ zarówno na poparcie w kraju, jak i za granicą.",
+      "published": "Fri, 14 Nov 2025 20:48:32 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "You’ve just won the nearly $1 billion Mega Millions jackpot. Here are the 5 money moves you need to make next.",
+      "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
+      "summary": "But even if you’re not a big lottery winner in tonight’s Mega Millions drawing, it’s still worth heeding this advice for managing a significant sum of money",
+      "published": "Fri, 14 Nov 2025 20:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Under Armour and Steph Curry are breaking up. The move is partly about ‘discipline,’ CEO says.",
+      "link": "https://www.marketwatch.com/story/under-armour-and-steph-curry-are-breaking-up-the-move-is-partly-about-discipline-ceo-says-ed64ee54?mod=mw_rss_topstories",
+      "summary": "After more than a decade together, Under Armour and NBA star Stephen Curry on Thursday said they would be parting ways, as the athleisure giant moves ahead with a turnaround effort and a deeper focus on its core products.",
+      "published": "Fri, 14 Nov 2025 20:35:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Wyrzucona Matysiak trafi do PiS-u? \"Nie wyobrażam sobie jakiegokolwiek klubu\"",
+      "link": "https://www.bankier.pl/wiadomosc/Wyrzucona-Matysiak-trafi-do-PiS-u-Nie-wyobrazam-sobie-jakiegokolwiek-klubu-9040066.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/7/177ecdb739e870-948-568-706-256-3092-1855.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W tym momencie nie wyobrażam sobie zapisywania się do jakiegokolwiek klubu, koła, czy do jakiejś partii - powiedziała w piątek Paulina Matysiak; w środę partia Razem poinform",
+      "published": "Fri, 14 Nov 2025 20:11:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Amerykańscy giganci przemysłu zbrojeniowego \"oszukali\" armię USA. Teraz czas na zmiany",
+      "link": "https://businessinsider.com.pl/gospodarka/daniel-driscoll-krytykuje-gigantow-zbrojeniowych-usa-pentagon-szykuje-zmiany/p58f5k9",
+      "summary": "Amerykańska armia znalazła się w ogniu krytyki ze strony własnego przedstawiciela. Sekretarz armii USA, Daniel Driscoll, którego słowa przytacza agencja Reutera, zarzucił największym firmom zbrojeniowym manipulacje, które zmuszały Pentagon do zakupu sprzętu po znacznie zawyżonych cenach. Zdaniem Driscolla, praktyki te były możliwe dzięki stworzeniu systemów zachęt, które premiowały takie działania",
+      "published": "Fri, 14 Nov 2025 19:53:49 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Marsz Niepodległości nazwany marszem nazistów. Norweska telewizja przeprasza",
+      "link": "https://www.bankier.pl/wiadomosc/Marsz-Niepodleglosci-nazwany-marszem-nazistow-Norweska-telewizja-przeprasza-9040052.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/c/4969bc7c435e7b-948-568-624-110-3156-1893.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W materiale poświęconym obchodom polskiego Dnia Niepodległości doroczny pochód, który przeszedł ulicami Warszawy, dziennikarze z norweskiej telewizji publicznej NRK określili",
+      "published": "Fri, 14 Nov 2025 19:37:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "More Americans are losing their homes, as foreclosures jump 20%. What’s driving it.",
+      "link": "https://www.marketwatch.com/story/foreclosures-jump-20-as-more-people-miss-mortgage-payments-people-are-biting-off-more-than-they-can-chew-431283ff?mod=mw_rss_topstories",
+      "summary": "On top of surging homeowners-insurance premiums, property taxes are also pushing up people’s costs and putting pressure on their ability to cover basic expenses.",
+      "published": "Fri, 14 Nov 2025 19:34:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "100 dni Nawrockiego. Prezydent: Każdy dzień był zobowiązaniem",
+      "link": "https://www.bankier.pl/wiadomosc/100-dni-Nawrockiego-Prezydent-Kazdy-dzien-byl-zobowiazaniem-9039991.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/8/8fa8588e0d181d-948-568-976-153-1981-1188.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podkreślił w piątek w Mińsku Mazowieckim, że każdy dzień ze 100 dni jego prezydentury był dla niego zobowiązaniem i realizacją jego hasła z kampanii ",
+      "published": "Fri, 14 Nov 2025 19:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Dobry dzień dla innowacyjności polskiej gospodarki\". Wiceprezes EBI o Innovate Poland",
+      "link": "https://businessinsider.com.pl/gospodarka/minister-andrzej-domanski-oglosil-innovate-poland-inwestycje-w-polskie-start-upy/bf06hd9",
+      "summary": "Polska gospodarka zyskała nowy program wspierający innowacyjne przedsiębiorstwa. Innovate Poland, ogłoszony w piątek, ma na celu zwiększenie konkurencyjności polskich firm, a także całej Europy. Inicjatywa zakłada przeznaczenie 4 mld zł na rozwój technologii i start-upów, co — jak podkreślają eksperci — może przynieść nawet 8-10 mld zł dzięki zaangażowaniu kapitału prywatnego.",
+      "published": "Fri, 14 Nov 2025 19:26:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The stock market’s decline can set you up with investment opportunities",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-decline-can-set-you-up-with-investment-opportunities-2a8be7fe?mod=mw_rss_topstories",
+      "summary": "Also: The MarketWatch 25, dividend stocks, and next year’s limits for retirement-account contributions.",
+      "published": "Fri, 14 Nov 2025 19:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "JPMorgan Chase wins fight with fintech firms over fees to access customer data",
+      "link": "https://www.cnbc.com/2025/11/14/jpmorgan-chase-fintech-fees.html",
+      "summary": "The JPMorgan Chase deals mark a shift in the power dynamic between banks, middlemen and the fintech apps that are increasingly threatening incumbents.",
+      "published": "Fri, 14 Nov 2025 19:15:38 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Think robotics stocks are overhyped? In fact, they’re just taking off.",
+      "link": "https://www.marketwatch.com/story/think-robotics-stocks-are-overhyped-in-fact-theyre-just-taking-off-e8d070b7?mod=mw_rss_topstories",
+      "summary": "Columnist Charlie Garcia responds to readers concerned about robots replacing jobs and about the companies that make them.",
+      "published": "Fri, 14 Nov 2025 19:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "\"Rynek wygląda bardzo obiecująco\". Popyt na powierzchnie magazynowe wystrzelił",
+      "link": "https://businessinsider.com.pl/nieruchomosci/polski-rynek-magazynowy-nabiera-tempa-eksperci-prognozuja-rekordowy-popyt/004vpl5",
+      "summary": "Polski rynek powierzchni magazynowo-przemysłowych utrzymuje stabilne tempo rozwoju. III kw. 2025 r. przyniósł wzrost popytu i umiarkowaną nową podaż, a eksperci zapowiadają intensywną końcówkę roku oraz pozytywne perspektywy na 2026 r.",
+      "published": "Fri, 14 Nov 2025 19:05:25 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "My late husband’s son is listed as beneficiary on his IRAs. Where does that leave me?",
+      "link": "https://www.marketwatch.com/story/my-late-husbands-son-is-listed-as-beneficiary-on-his-iras-where-does-that-leave-me-23c20b2b?mod=mw_rss_topstories",
+      "summary": "“My husband’s son said he doesn’t want any part of the IRAs or the insurance policies.”",
+      "published": "Fri, 14 Nov 2025 18:49:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘Our HOA fees are too high’: My husband and I are retired. Should we sell our $700K condo and rent instead?",
+      "link": "https://www.marketwatch.com/story/our-hoa-fees-are-too-high-do-my-husband-and-i-sell-our-700k-condo-and-rent-by-the-beach-ee064cab?mod=mw_rss_topstories",
+      "summary": "“We have total combined assets of $1.5 million.”",
+      "published": "Fri, 14 Nov 2025 18:45:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -194,28 +322,12 @@
       "category": "us"
     },
     {
-      "title": "This chart shows why the bull market deserves the benefit of the doubt as tech stocks try to rebound",
-      "link": "https://www.marketwatch.com/story/this-chart-shows-why-the-bull-market-deserves-the-benefit-of-the-doubt-as-tech-stocks-try-to-rebound-befd925d?mod=mw_rss_topstories",
-      "summary": "“The S&amp;P 500 has not seen so much as a 5% pullback since April,” says Truist’s CIO.",
-      "published": "Fri, 14 Nov 2025 18:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Wall Street próbuje odbicia, ale rynek nadal w szoku po wczorajszej wyprzedaży",
       "link": "https://comparic.pl/wall-street-probuje-odbicia-ale-rynek-nadal-w-szoku-po-wczorajszej-wyprzedazy/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"808\" src=\"https://comparic.pl/wp-content/uploads/2024/03/resize_freepik-byk-niedzwiedz-bullish-bearish-bull-against-bear-ups-downs-investment-market-bull-bear-trend-together-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"h",
       "published": "Fri, 14 Nov 2025 18:05:16 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Polska otwiera dwa przejścia graniczne z Białorusią. MSWiA podaje datę",
-      "link": "https://businessinsider.com.pl/wiadomosci/polska-otwiera-przejscia-graniczne-z-bialorusia-decyzja-donalda-tuska/blteksc",
-      "summary": "Już w najbliższy poniedziałek, 17 listopada, Polska przywróci funkcjonowanie dwóch przejść granicznych z Białorusią w województwie podlaskim. Decyzja, zapowiedziana wcześniej przez premiera Donalda Tuska, ma na celu wsparcie lokalnych mieszkańców oraz przedsiębiorców, którzy odczuwali skutki ich zamknięcia.",
-      "published": "Fri, 14 Nov 2025 18:05:04 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Koniec euforii na giełdzie! Czy nadchodzi fala spadków w sektorze tech?",
@@ -290,28 +402,12 @@
       "category": "pl"
     },
     {
-      "title": "‘She’ll probably marry her current boyfriend’: Should I give my daughter my $300K house — or gift her the cash to buy it?",
-      "link": "https://www.marketwatch.com/story/its-unlikely-to-ever-increase-in-value-should-i-give-my-daughter-my-300k-house-or-gift-her-the-cash-to-buy-it-f9bd0764?mod=mw_rss_topstories",
-      "summary": "“I bought it for $175,000 in 2001.”",
-      "published": "Fri, 14 Nov 2025 17:40:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Anglia wprowadza rewolucję w wynajmie mieszkań. Nowe zasady od 1 maja",
       "link": "https://businessinsider.com.pl/nieruchomosci/wielka-brytania-zmienia-zasady-wynajmu-mieszkan-nowe-prawa-najemcow/xrb8dt6",
       "summary": "Wielka Brytania przygotowuje się na największą od ponad 30 lat reformę zasad wynajmu mieszkań. Od 1 maja przyszłego roku w Anglii wejdą w życie nowe regulacje, które mają na celu ochronę praw najemców oraz zapewnienie im większej stabilności. Brytyjski rząd ogłosił w piątek, że wynajmujący nie będą już mogli wypowiadać umów najmu bez uzasadnionego powodu, a wszystkie umowy będą automatycznie odnaw",
       "published": "Fri, 14 Nov 2025 17:35:11 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "I have a $10K expense. Do I withdraw money from my investments or my high-yield savings account?",
-      "link": "https://www.marketwatch.com/story/i-have-a-10k-expense-do-i-withdraw-money-from-my-investments-or-my-high-yield-savings-account-d1d871db?mod=mw_rss_topstories",
-      "summary": "“It will likely take me about a year to replace the $10,000.”",
-      "published": "Fri, 14 Nov 2025 17:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Rekordowe możliwości kredytowe w polskich miastach w 2025 roku! Jak rosną szanse na własne mieszkanie?",
@@ -362,36 +458,12 @@
       "category": "other"
     },
     {
-      "title": "Think robotics stocks are overhyped? In fact, they’re just taking off.",
-      "link": "https://www.marketwatch.com/story/think-robotics-stocks-are-overhyped-in-fact-theyre-just-taking-off-e8d070b7?mod=mw_rss_topstories",
-      "summary": "Columnist Charlie Garcia responds to readers concerned about robots replacing jobs and about the companies that make them.",
-      "published": "Fri, 14 Nov 2025 16:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Warszawa planuje przyszłość. Ruszają konsultacje społeczne strategii 2040+ i planu ogólnego",
       "link": "https://businessinsider.com.pl/wiadomosci/warszawa-rusza-z-konsultacjami-strategii-2040-mieszkancy-maja-glos/ke7qldq",
       "summary": "W piątek stołeczny ratusz ogłosił rozpoczęcie konsultacji społecznych dotyczących strategii rozwoju miasta na lata 2040+ oraz planu ogólnego. Pierwsze spotkania odbędą się już w sobotę, a mieszkańcy mogą zapoznać się z dokumentami na stronie internetowej miasta. Proces konsultacyjny potrwa do 19 stycznia.",
       "published": "Fri, 14 Nov 2025 16:49:46 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘I’m a big fan of DIY investing’: I’m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
-      "link": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
-      "summary": "“Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&amp;P 500.”",
-      "published": "Fri, 14 Nov 2025 16:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Walmart CEO Doug McMillon to retire in January after nearly 12 years leading retailer",
-      "link": "https://www.cnbc.com/2025/11/14/walmart-ceo-doug-mcmillon-to-retire-in-january.html",
-      "summary": "The longtime CEO will be succeeded by John Furner, the Walmart U.S. CEO, on Feb. 1.Both changes take effect then.",
-      "published": "Fri, 14 Nov 2025 16:33:19 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "D.R. Horton is tapping a startup’s AI zoning tool to build more homes",
@@ -410,36 +482,12 @@
       "category": "other"
     },
     {
-      "title": "Seul będzie budować jądrowe okręty podwodne. Koreańczycy mają zgodę USA",
-      "link": "https://www.bankier.pl/wiadomosc/Seul-bedzie-budowac-jadrowe-okrety-podwodne-Koreanczycy-maja-zgode-USA-9039848.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/0f9721c4b01ffe-948-568-558-567-2718-1630.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Stany Zjednoczone udzieliły Korei Południowej formalnej zgody na budowę okrętów podwodnych o napędzie jądrowym - wynika z oświadczenia opublikowanego przez Biały Dom. USA maj",
-      "published": "Fri, 14 Nov 2025 16:31:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Premier Japonii pod ostrzałem Pekinu. Chińskie media mówią o \"skrajnie złośliwych\" słowach",
       "link": "https://businessinsider.com.pl/polityka/chiny-groza-japonii-miazdzaca-porazka-po-slowach-premier-sanej-takaichi/8p34kn1",
       "summary": "Japonia spotkała się z ostrym stanowiskiem Pekinu po ostatnich wypowiedziach premier Sanej Takaichi na temat Tajwanu — informuje \"Rzeczpospolita\". Chiny zagroziły Japonii \"miażdżącą porażką\", jeśli Tokio spróbuje militarnej interwencji w przypadku ewentualnego konfliktu na wyspie.",
       "published": "Fri, 14 Nov 2025 16:24:06 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "The 2026 401(k) limits are here. Here’s the most you can save next year.",
-      "link": "https://www.marketwatch.com/story/the-2026-401-k-limits-are-here-heres-the-most-you-can-save-next-year-c2cf91b4?mod=mw_rss_topstories",
-      "summary": "This year, 401(k) contributions may help you with more than your retirement plans.",
-      "published": "Fri, 14 Nov 2025 16:20:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "This is why Merck is buying a flu biotech for $9.2 billion and Wall Street is happy",
-      "link": "https://www.marketwatch.com/story/this-is-why-merck-is-buying-cidara-therapeutics-for-9-2-billion-and-why-wall-street-is-happy-5091d7a2?mod=mw_rss_topstories",
-      "summary": "Merck is facing a patent cliff for Keytruda and upheaval in the market for Gardasil.",
-      "published": "Fri, 14 Nov 2025 16:20:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "WB Electronics wskoczy na parkiet? PFR: Naturalny kierunk rozwoju",
@@ -514,22 +562,6 @@
       "category": "other"
     },
     {
-      "title": "Ambasadorski pat. Prezydent wciąż bez porozumienia z MSZ",
-      "link": "https://www.bankier.pl/wiadomosc/Ambasadorski-pat-Prezydent-wciaz-bez-porozumienia-z-MSZ-ws-ambasadorow-9039793.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/b/f2d4bb7bb23a5d-948-568-624-225-1367-820.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nadal brak porozumienia między prezydentem Karolem Nawrockim a ministerstwem spraw zagranicznych w sprawie ambasadorów; głowa państwa nie podpisuje nominacji - wynika z inform",
-      "published": "Fri, 14 Nov 2025 15:45:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "JPMorgan Chase wins fight with fintech firms over fees to access customer data",
-      "link": "https://www.cnbc.com/2025/11/14/jpmorgan-chase-fintech-fees.html",
-      "summary": "The JPMorgan Chase deals mark a shift in the power dynamic between banks, middlemen and the fintech apps that are increasingly threatening incumbents.",
-      "published": "Fri, 14 Nov 2025 15:39:50 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Europosłowie chcą kontroli umowy UE-Mercosur. Zebrano 145 podpisów z 21 krajów",
       "link": "https://businessinsider.com.pl/prawo/tsue-moze-ocenic-porozumienie-ue-z-mercosurem-hetman-ujawnia-kulisy/1rtxbf9",
       "summary": "Grupa europosłów z nieformalnej grupy ds. Mercosuru w Parlamencie Europejskim zwróciła się do władz PE o skierowanie wniosku do Trybunału Sprawiedliwości Unii Europejskiej (TSUE). Celem jest ocena zgodności umowy handlowej między Unią Europejską a Mercosurem z unijnymi traktatami — poinformował w piątek Krzysztof Hetman, europoseł z Polskiego Stronnictwa Ludowego.",
@@ -594,36 +626,12 @@
       "category": "pl"
     },
     {
-      "title": "Brytyjskie loty krajowe na równi pochyłej. Liczba połączeń spadła o połowę w ciągu dwóch dekad",
-      "link": "https://businessinsider.com.pl/gospodarka/wielka-brytania-ogranicza-loty-krajowe-kolej-i-ekologia-zmieniaja-rynek/6jr82vp",
-      "summary": "W ciągu ostatnich dwudziestu lat liczba lotów krajowych w Wielkiej Brytanii zmniejszyła się o ponad połowę, mimo że ogólna liczba podróży lotniczych wzrosła. Tak wynika z danych firmy Cirium, zajmującej się analizą ruchu lotniczego, które przytoczyła stacja Sky News.",
-      "published": "Fri, 14 Nov 2025 14:12:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Akcje KGHM mocno w dół. Zysk rozczarował, choć urósł o 80 proc.",
-      "link": "https://businessinsider.com.pl/gielda/akcje-kghm-mocno-w-dol-zysk-rozczarowal-choc-urosl-o-80-proc/hzj319p",
-      "summary": "Zyski Grupy KGHM wzrosły w trzecim kwartale o aż 80 proc. rok do roku. Nie tylko ceny miedzi mają na to wpływ, ale też tych surowców, które wydobywa się razem z rudą miedzi. W rudzie jest srebro, złoto, a w Chile jeszcze molibden. I obserwujący te ceny rynek oczekiwał najwyraźniej lepszych rezultatów miedziowego kombinatu, bo akcje poszły w piątek przez moment mocno w dół.",
-      "published": "Fri, 14 Nov 2025 14:04:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Wielki strajk w Starbucksie. Obejmie dziesiątki miast i kilkadziesiąt lokali",
       "link": "https://www.bankier.pl/wiadomosc/Wielki-strajk-w-Starbucksie-Obejmie-dziesiatki-miast-i-kilkadziesiat-lokali-9039622.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/79b98b68136a86-948-568-140-250-3450-2070.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Związek Starbucks Workers United rozpoczął w USA bezterminowy strajk, obejmujący dziesiątki miast i kilkadziesiąt lokali. Bariści domagają się wyższych płac, większego zatrud",
       "published": "Fri, 14 Nov 2025 14:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Ceny paliw w górę? Analitycy ostrzegają przed podwyżkami",
-      "link": "https://businessinsider.com.pl/gospodarka/ceny-paliw-w-polsce-eksperci-przewiduja-podwyzki-juz-w-listopadzie/ty5cyf0",
-      "summary": "Ostatnie dni przyniosły niewielkie obniżki cen paliw, jednak zdaniem ekspertów portalu e-petrol.pl, kierowcy nie powinni przyzwyczajać się do tej sytuacji. Obniżki, jak podkreślają analitycy, były możliwe kosztem marż operatorów stacji, a przestrzeń do dalszych spadków została już wyczerpana.",
-      "published": "Fri, 14 Nov 2025 13:53:40 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Startuje Innovate Poland. W „Planie Domańskiego” do firm trafią miliardy złotych",
@@ -679,14 +687,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b7a30122-97ea-4a0c-9ac2-4883ebe25212\" width=\"308\" /> Parlament Europejski dał zielone światło do przesunięcia wejścia w życie ETS2 do 2028 r. Polska liczyła, że nastąpi to w 2030 r. Nowy system spowoduje, że miliony obywateli UE odczują to w portfelach, zwłaszcza na początku działania systemu.",
       "published": "Fri, 14 Nov 2025 12:55:13 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Premier o nowym szybie KGHM: daje nadzieję na bardzo poważne zyski",
-      "link": "https://www.bankier.pl/wiadomosc/Premier-o-nowym-szybie-KGHM-daje-nadzieje-na-bardzo-powazne-zyski-9039581.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/f11de88162a567-948-568-52-156-2923-1754.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Budowa przez KGHM nowego szybu daje nadzieję na bardzo poważne zyski - ocenił w piątek premier Donald Tusk w miejscu powstawania szybu Retków (Dolnośląskie). Jak podkreślił, m",
-      "published": "Fri, 14 Nov 2025 12:55:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
