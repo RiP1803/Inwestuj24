@@ -1,19 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:24:20.765930",
+  "generated_at": "2025-11-15T02:00:10.197737",
   "articles": [
     {
       "title": "Skims valued at $5 billion after new funding round as it accelerates store expansion",
       "link": "https://www.cnbc.com/2025/11/12/skims-5-billion-valuation-funding-round.html",
       "summary": "Kim Kardashian's Skims raised $225 million from Goldman Sachs, valuing the brand at $5 billion. The capital will fund expansion and could delay an expected IPO.",
       "published": "Wed, 12 Nov 2025 20:06:38 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Toyota opens new U.S. battery plant, confirms $10 billion in new investments",
-      "link": "https://www.cnbc.com/2025/11/12/toyota-battery-plant-north-carolina.html",
-      "summary": "Toyota started production at a $13.9 billion U.S. battery plant and confirmed plans to invest up to $10 billion more than expected domestically over five years.",
-      "published": "Wed, 12 Nov 2025 19:07:51 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -122,20 +114,124 @@
       "category": "us"
     },
     {
+      "title": "Only one analyst has a sell rating on Nvidia — and he says ‘it feels fantastic’",
+      "link": "https://www.marketwatch.com/story/only-one-analyst-has-a-sell-rating-on-nvidia-and-he-says-it-feels-fantastic-c4a887fb?mod=mw_rss_topstories",
+      "summary": "Lone Nvidia bear Jay Goldberg shares why he’s still not a buyer of the AI superstock.",
+      "published": "Fri, 14 Nov 2025 23:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘Santa Flaws Rally’ has legs so don’t sell stocks yet, advises Bank of America strategist",
+      "link": "https://www.marketwatch.com/story/santa-flaws-rally-has-legs-so-dont-sell-stocks-yet-advises-bank-of-america-strategist-f79f67be?mod=mw_rss_topstories",
+      "summary": "Bank of America’s Michael Hartnett says most asset allocators are likely to stay bullish on stocks and less so on bonds.",
+      "published": "Fri, 14 Nov 2025 23:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These dividend stocks are good bets for risk-averse investors — even during a bear market",
+      "link": "https://www.marketwatch.com/story/these-dividend-stocks-are-good-bets-for-risk-averse-investors-even-during-a-bear-market-f338a0c7?mod=mw_rss_topstories",
+      "summary": "“Dividend aristocrats” can do more for risk-averse portfolios than supersafe Treasury bonds.",
+      "published": "Fri, 14 Nov 2025 23:11:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Gold is holding above $4,000 for reasons that could drive it to $5,000",
+      "link": "https://www.marketwatch.com/story/gold-is-holding-above-4-000-for-reasons-that-could-drive-it-to-5-000-7ea08755?mod=mw_rss_topstories",
+      "summary": "U.S. budget uncertainty and Fed rate-cut hopes fuel safe-haven demand.",
+      "published": "Fri, 14 Nov 2025 23:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Think robotics stocks are overhyped? In fact, they’re just taking off.",
+      "link": "https://www.marketwatch.com/story/think-robotics-stocks-are-overhyped-in-fact-theyre-just-taking-off-e8d070b7?mod=mw_rss_topstories",
+      "summary": "Columnist Charlie Garcia responds to readers concerned about robots replacing jobs and about the companies that make them.",
+      "published": "Fri, 14 Nov 2025 23:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump cuts tariffs on goods like coffee, bananas and beef in bid to slash consumer prices",
+      "link": "https://www.cnbc.com/2025/11/14/trump-cuts-tariffs-goods-prices.html",
+      "summary": "Trump's action also exempted black tea, green tea, tomatoes, avocados and cinnamon, among other products, from higher tariffs.",
+      "published": "Fri, 14 Nov 2025 22:59:30 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Soros fund goes for this legacy automaker — and sells off Tesla and Rivian stakes",
+      "link": "https://www.marketwatch.com/story/soross-fund-goes-for-this-legacy-automaker-and-sells-off-tesla-and-rivian-stakes-bd53a05b?mod=mw_rss_topstories",
+      "summary": "Billionaire investor George Soros’s investment fund sold stakes in electric-vehicle makers Tesla and Rivian in the quarter ended Sept. 30 — instead preferring to open a fresh position in legacy automaker Ford, according to a securities filing released late Friday.",
+      "published": "Fri, 14 Nov 2025 22:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Google Gemini’s investment advice is much more conservative than a human adviser — here’s what that could cost you",
+      "link": "https://www.marketwatch.com/story/if-you-take-investing-advice-from-ai-it-could-cost-you-thousands-heres-why-b1f5397f?mod=mw_rss_topstories",
+      "summary": "Three things ordinary investors should know before seeking financial advice from a human being — or a machine.",
+      "published": "Fri, 14 Nov 2025 22:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Elon Musk now says xAI is delaying its Grok 5 launch until next year",
+      "link": "https://www.marketwatch.com/story/elon-musk-now-says-xai-is-delaying-the-grok-5-launch-till-next-year-b9f43a81?mod=mw_rss_topstories",
+      "summary": "Musk has said the AI chatbot will “feel sentient” and there’s a chance it will achieve human-level intelligence.",
+      "published": "Fri, 14 Nov 2025 22:50:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Steph Curry likely made $300 million with Under Armour. Can his next move match Roger Federer’s post-Nike success?",
+      "link": "https://www.marketwatch.com/story/steph-curry-likely-made-300-million-with-under-armour-can-his-next-step-match-roger-federers-post-nike-success-8d8fc9cf?mod=mw_rss_topstories",
+      "summary": "The Golden State Warriors star could take his Curry Brand independent or to another retailer — something Federer and Tiger Woods scored success with after splitting from Nike.",
+      "published": "Fri, 14 Nov 2025 22:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I’m a big fan of DIY investing’: I’m 64 and moving to the U.S. I have $2.6 million, but no Social Security. Will I be OK?",
+      "link": "https://www.marketwatch.com/story/im-a-big-fan-of-diy-investing-im-64-and-moving-to-the-u-s-i-have-2-6-million-but-no-social-security-will-i-be-ok-75afd5d9?mod=mw_rss_topstories",
+      "summary": "“Advisers do well in bull markets and poorly in bear markets, while I generally do better during downturns than the S&amp;P 500.”",
+      "published": "Fri, 14 Nov 2025 22:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Liga Traderów XIV – III faza: wyniki, tabele i rozpiska 5 kolejki spotkań",
+      "link": "https://comparic.pl/liga-traderow-xiv-iii-faza-wyniki-tabele-i-rozpiska-5-kolejki-spotkan/",
+      "summary": "<img alt=\"liga traderów\" class=\"attachment-full size-full wp-post-image\" height=\"400\" src=\"https://comparic.pl/wp-content/uploads/2015/11/successful-trader.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"600\" /><img alt=\"liga traderów\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2015/11/successful-trader-324x235.jpg\"",
+      "published": "Fri, 14 Nov 2025 22:26:17 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Surveillance tech leads workers' comp claims to plummet at NYC construction sites",
+      "link": "https://www.cnbc.com/2025/11/14/workers-comp-insurance.html",
+      "summary": "Insurer Zurich North America said it will only insure construction wrap-up projects in New York that have installed video analytics and coaching from Arrowsight.",
+      "published": "Fri, 14 Nov 2025 22:20:56 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Ostra przecena złota. Będzie druga fala korekty?",
+      "link": "https://www.bankier.pl/wiadomosc/Ostra-przecena-zlota-Bedzie-druga-fala-korekty-9040131.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/5d60789f0f3ccd-948-567-30-0-970-581.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Piątek przyniósł mocną, przeszło 2-procentową, przecenę złota. Stało się to po tym, jak kurs „barbarzyńskiego reliktu” usiłował odrabiać straty po dość drastycznej korekcie z końc",
+      "published": "Fri, 14 Nov 2025 22:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "Ważna zmiana dla części emerytów. Od 1 grudnia wyższe limity dorabiania",
       "link": "https://www.money.pl/emerytury/oskar-sobolewski/wazna-zmiana-dla-czesci-emerytow-od-1-grudnia-wyzsze-limity-dorabiania-7221868532476800a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/af92afeb-5566-46ee-adb8-4c6051fdaeb4\" width=\"308\" /> Od 1 grudnia będą obowiązywały nowe limity dorabiania dla emerytów, którzy nie osiągnęli wieku emerytalnego. Zgodnie z przepisami po przekroczeniu określonych limitów świadczenie może zostać&nbsp;obniżone albo zawieszone.",
       "published": "Fri, 14 Nov 2025 21:39:39 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Surveillance tech leads workers' comp claims to plummet at NYC construction sites",
-      "link": "https://www.cnbc.com/2025/11/14/workers-comp-insurance.html",
-      "summary": "Insurer Zurich North America said it will only insure construction wrap-up projects that have installed video analytics and coaching from Arrowsight.",
-      "published": "Fri, 14 Nov 2025 21:11:29 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Walmart CEO Doug McMillon to retire in January after nearly 12 years leading retailer",
@@ -162,22 +258,6 @@
       "category": "other"
     },
     {
-      "title": "You’ve just won the nearly $1 billion Mega Millions jackpot. Here are the 5 money moves you need to make next.",
-      "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
-      "summary": "But even if you’re not a big lottery winner in tonight’s Mega Millions drawing, it’s still worth heeding this advice for managing a significant sum of money",
-      "published": "Fri, 14 Nov 2025 20:48:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Under Armour and Steph Curry are breaking up. The move is partly about ‘discipline,’ CEO says.",
-      "link": "https://www.marketwatch.com/story/under-armour-and-steph-curry-are-breaking-up-the-move-is-partly-about-discipline-ceo-says-ed64ee54?mod=mw_rss_topstories",
-      "summary": "After more than a decade together, Under Armour and NBA star Stephen Curry on Thursday said they would be parting ways, as the athleisure giant moves ahead with a turnaround effort and a deeper focus on its core products.",
-      "published": "Fri, 14 Nov 2025 20:35:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Wyrzucona Matysiak trafi do PiS-u? \"Nie wyobrażam sobie jakiegokolwiek klubu\"",
       "link": "https://www.bankier.pl/wiadomosc/Wyrzucona-Matysiak-trafi-do-PiS-u-Nie-wyobrazam-sobie-jakiegokolwiek-klubu-9040066.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/7/177ecdb739e870-948-568-706-256-3092-1855.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W tym momencie nie wyobrażam sobie zapisywania się do jakiegokolwiek klubu, koła, czy do jakiejś partii - powiedziała w piątek Paulina Matysiak; w środę partia Razem poinform",
@@ -202,14 +282,6 @@
       "category": "pl"
     },
     {
-      "title": "More Americans are losing their homes, as foreclosures jump 20%. What’s driving it.",
-      "link": "https://www.marketwatch.com/story/foreclosures-jump-20-as-more-people-miss-mortgage-payments-people-are-biting-off-more-than-they-can-chew-431283ff?mod=mw_rss_topstories",
-      "summary": "On top of surging homeowners-insurance premiums, property taxes are also pushing up people’s costs and putting pressure on their ability to cover basic expenses.",
-      "published": "Fri, 14 Nov 2025 19:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "100 dni Nawrockiego. Prezydent: Każdy dzień był zobowiązaniem",
       "link": "https://www.bankier.pl/wiadomosc/100-dni-Nawrockiego-Prezydent-Kazdy-dzien-byl-zobowiazaniem-9039991.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/8/8fa8588e0d181d-948-568-976-153-1981-1188.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podkreślił w piątek w Mińsku Mazowieckim, że każdy dzień ze 100 dni jego prezydentury był dla niego zobowiązaniem i realizacją jego hasła z kampanii ",
@@ -226,27 +298,11 @@
       "category": "other"
     },
     {
-      "title": "The stock market’s decline can set you up with investment opportunities",
-      "link": "https://www.marketwatch.com/story/the-stock-markets-decline-can-set-you-up-with-investment-opportunities-2a8be7fe?mod=mw_rss_topstories",
-      "summary": "Also: The MarketWatch 25, dividend stocks, and next year’s limits for retirement-account contributions.",
-      "published": "Fri, 14 Nov 2025 19:20:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "JPMorgan Chase wins fight with fintech firms over fees to access customer data",
       "link": "https://www.cnbc.com/2025/11/14/jpmorgan-chase-fintech-fees.html",
       "summary": "The JPMorgan Chase deals mark a shift in the power dynamic between banks, middlemen and the fintech apps that are increasingly threatening incumbents.",
       "published": "Fri, 14 Nov 2025 19:15:38 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Think robotics stocks are overhyped? In fact, they’re just taking off.",
-      "link": "https://www.marketwatch.com/story/think-robotics-stocks-are-overhyped-in-fact-theyre-just-taking-off-e8d070b7?mod=mw_rss_topstories",
-      "summary": "Columnist Charlie Garcia responds to readers concerned about robots replacing jobs and about the companies that make them.",
-      "published": "Fri, 14 Nov 2025 19:09:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -256,22 +312,6 @@
       "published": "Fri, 14 Nov 2025 19:05:25 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "My late husband’s son is listed as beneficiary on his IRAs. Where does that leave me?",
-      "link": "https://www.marketwatch.com/story/my-late-husbands-son-is-listed-as-beneficiary-on-his-iras-where-does-that-leave-me-23c20b2b?mod=mw_rss_topstories",
-      "summary": "“My husband’s son said he doesn’t want any part of the IRAs or the insurance policies.”",
-      "published": "Fri, 14 Nov 2025 18:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘Our HOA fees are too high’: My husband and I are retired. Should we sell our $700K condo and rent instead?",
-      "link": "https://www.marketwatch.com/story/our-hoa-fees-are-too-high-do-my-husband-and-i-sell-our-700k-condo-and-rent-by-the-beach-ee064cab?mod=mw_rss_topstories",
-      "summary": "“We have total combined assets of $1.5 million.”",
-      "published": "Fri, 14 Nov 2025 18:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Klapa szczytu G20? Światowi przywódcy bojkotują spotkanie w RPA",
@@ -296,30 +336,6 @@
       "published": "Fri, 14 Nov 2025 18:17:34 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Here’s what the U.S.-China trade truce really means for the U.S. soybean market — and for farmers",
-      "link": "https://www.marketwatch.com/story/heres-what-the-u-s-china-trade-truce-really-means-for-the-u-s-soybean-market-627a6cfe?mod=mw_rss_topstories",
-      "summary": "China has made a pledge to buy U.S. soybeans over the next few years, fueling hope for farmers who have been caught in the middle of a trade war between the two nations. Yet the damage to the U.S. agricultural market may have already been done.",
-      "published": "Fri, 14 Nov 2025 18:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "I’m in my 50s and divorced with a $1.7 million home. I fell in love with an old school friend. Does it make financial sense to marry?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-happily-divorced-and-fell-in-love-with-an-old-school-friend-do-we-marry-5aac37ee?mod=mw_rss_topstories",
-      "summary": "“I have a $500,000 Roth IRA, a portfolio account of $500,000 and $300,000 in 529 plans.”",
-      "published": "Fri, 14 Nov 2025 18:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "I’m 71 with a $775K home, a horse, and a 4% mortgage rate. Is this a good time to downsize?",
-      "link": "https://www.marketwatch.com/story/im-71-with-a-775k-home-a-horse-and-a-4-mortgage-rate-is-this-a-good-time-to-downsize-8ff490cf?mod=mw_rss_topstories",
-      "summary": "“I do not have enough money in investments or other assets that I can live off of until my 90s.”",
-      "published": "Fri, 14 Nov 2025 18:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Wall Street próbuje odbicia, ale rynek nadal w szoku po wczorajszej wyprzedaży",
@@ -618,14 +634,6 @@
       "category": "other"
     },
     {
-      "title": "Bitcoinowe ETF-y spot tracą 866 mln USD! Analitycy wskazują kluczowy poziom wsparcia",
-      "link": "https://comparic.pl/bitcoinowe-etf-y-spot-traca-866-mln-usd-analitycy-wskazuja-kluczowy-poziom-wsparcia/",
-      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-bitcoin-btc.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-bitcoin-btc-324x235.jpg\" style=",
-      "published": "Fri, 14 Nov 2025 14:26:34 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Wielki strajk w Starbucksie. Obejmie dziesiątki miast i kilkadziesiąt lokali",
       "link": "https://www.bankier.pl/wiadomosc/Wielki-strajk-w-Starbucksie-Obejmie-dziesiatki-miast-i-kilkadziesiat-lokali-9039622.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/79b98b68136a86-948-568-140-250-3450-2070.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Związek Starbucks Workers United rozpoczął w USA bezterminowy strajk, obejmujący dziesiątki miast i kilkadziesiąt lokali. Bariści domagają się wyższych płac, większego zatrud",
@@ -727,14 +735,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b912714d-25d9-478e-95a6-002172177eda\" width=\"308\" /> Główny Urząd Statystyczny w piątek podał ostateczny odczyt wskaźnika cen towarów i usług konsumpcyjnych za październik 2025 r. Potwierdziły się wstępne szacunki z końca ubiegłego miesiąca, które wskazywały, że inflacja CPI wyniosła 2,8 proc. rok do roku.",
       "published": "Fri, 14 Nov 2025 10:14:12 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "GUS potwierdza październikową inflację. Wzrost cen usług wciąż zbyt wysoki",
-      "link": "https://www.bankier.pl/wiadomosc/Inflacja-w-Polsce-w-pazdzierniku-wyniosla-2-8-GUS-potwierdzil-wstepny-odczyt-9039438.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/a/f267f6780ea2cf-948-568-7-180-2987-1792.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Październik był trzecim z rzędu miesiącem z inflacją poniżej 3% - potwierdził wstępne wyliczenia Główny Urząd Statystyczny. Nie zmienia to faktu, że wciąż bardzo szybko rosną c",
-      "published": "Fri, 14 Nov 2025 10:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
