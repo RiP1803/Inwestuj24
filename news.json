@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T21:23:27.725791",
+  "generated_at": "2025-11-24T02:11:45.908495",
   "articles": [
     {
       "title": "Major League Baseball announces new media rights deals for NBC, ESPN and Netflix",
@@ -95,6 +95,14 @@
       "summary": "A Walmart acquisition of R&amp;A Data would come after CNBC found issues on its online marketplace involving identity theft and counterfeit beauty products.",
       "published": "Thu, 20 Nov 2025 12:23:30 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Retailers try to downplay worries about lower-income shoppers, as bargains reign supreme",
+      "link": "https://www.marketwatch.com/story/retailers-try-to-downplay-worries-about-lower-income-shoppers-as-bargains-reign-supreme-057cf776?mod=mw_rss_topstories",
+      "summary": "Earnings Watch: Burlington, Kohl’s, Best Buy and other chains report this week ahead of Black Friday as concerns about the economy linger.",
+      "published": "Sun, 23 Nov 2025 22:26:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -370,14 +378,6 @@
       "category": "pl"
     },
     {
-      "title": "Retailers try to downplay worries about lower-income shoppers, as bargains reign supreme",
-      "link": "https://www.marketwatch.com/story/retailers-try-to-downplay-worries-about-lower-income-shoppers-as-bargains-reign-supreme-057cf776?mod=mw_rss_topstories",
-      "summary": "Earnings Watch: Burlington, Kohl’s, Best Buy and other chains report this week ahead of Black Friday as concerns about the economy linger.",
-      "published": "Sun, 23 Nov 2025 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rynek krypto czeka na Karola Nawrockiego. \"Każdy miesiąc bez ustawy to utrata inwestorów\"",
       "link": "https://businessinsider.com.pl/prawo/co-z-ustawa-o-kryptoaktywach-branza-w-niepewnosci-wielu-juz-ucieklo/7hr4sq1",
       "summary": "Polska ustawa o kryptoaktywach została już uchwalona i czeka na podpis prezydenta Karola Nawrockiego. Nie wiadomo jednak, jaka będzie decyzja prezydenta. — Każdy miesiąc bez ustawy oznacza jednak, że firmy, które chciałyby świadczyć usługi w zakresie kryptoaktywów w Polsce, przenoszą się do innych krajów, np. Czech, Holandii, Malty itp. — mówi Katarzyna Szczudlik, adwokatka, partner w kancelarii S",
@@ -416,14 +416,6 @@
       "published": "Sun, 23 Nov 2025 14:14:13 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "A Thanksgiving dilemma — stay with family or pay $150 for a hotel room?",
-      "link": "https://www.marketwatch.com/story/at-thanksgiving-how-awful-do-your-relatives-need-to-be-for-you-to-pay-for-a-hotel-room-19dc4136?mod=mw_rss_topstories",
-      "summary": "The overall cost of travel has risen roughly 20% since 2019, including airfare and other costs.",
-      "published": "Sun, 23 Nov 2025 14:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Wzrost kursu dolara to pułapka na byki? Eksperci ostrzegają przed spadkiem USD/PLN o 32 gr.!",
@@ -640,6 +632,14 @@
       "published": "Sat, 22 Nov 2025 12:22:20 +0100",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "U.S. stock futures gain ahead of Thanksgiving week — and the crucial holiday shopping season",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-gain-ahead-of-thanksgiving-week-and-the-crucial-holiday-shopping-season-c6ea13ea?mod=mw_rss_topstories",
+      "summary": "U.S. stock futures rose Sunday, in hopes of building on Friday’s rebound, as investors await the start of the critical holiday shopping season following a wild week on Wall Street.",
+      "published": "Mon, 24 Nov 2025 00:49:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "\"Ziemia obiecana\". Tak biznes chce podbić Chile",
