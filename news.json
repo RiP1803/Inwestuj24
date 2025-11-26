@@ -1,6 +1,78 @@
 {
-  "generated_at": "2025-11-25T21:25:10.820952",
+  "generated_at": "2025-11-26T02:05:16.813180",
   "articles": [
+    {
+      "title": "Dell rides a boom in AI servers to deliver an upbeat forecast",
+      "link": "https://www.marketwatch.com/story/dell-rides-a-boom-in-ai-servers-to-deliver-an-upbeat-forecast-62049790?mod=mw_rss_topstories",
+      "summary": "The server maker says it’s broadening its AI business to include more from neocloud, sovereign and enterprise customers",
+      "published": "Wed, 26 Nov 2025 01:19:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Urban Outfitters says shoppers are holding out for deals, but sees little pushback on its prices",
+      "link": "https://www.marketwatch.com/story/urban-outfitters-shares-rally-as-turnaround-at-namesake-stores-pays-off-099f5948?mod=mw_rss_topstories",
+      "summary": "The clothing retailer’s third-quarter results topped estimates, and management said it picked up a bigger share of the apparel market.",
+      "published": "Wed, 26 Nov 2025 01:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia’s stock drops on Google fears. Are investors missing the point?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-on-google-fears-are-investors-missing-the-point-f38b39a4?mod=mw_rss_topstories",
+      "summary": "While investors debate which company will win in the AI chip market, a Bernstein analyst says the question is more about whether or not the market is still growing.",
+      "published": "Wed, 26 Nov 2025 01:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Beware of this Black Friday scam",
+      "link": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
+      "summary": "“I received an email from eBay, or at least it looked like it was from an official eBay address.”",
+      "published": "Wed, 26 Nov 2025 00:52:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "My sons will each inherit $500K laundromats from their grandparents. How do we keep their spouses out of it?",
+      "link": "https://www.marketwatch.com/story/my-sons-will-each-inherit-500k-laundromats-from-their-grandparents-how-do-we-keep-their-spouses-out-of-it-6dd520d2?mod=mw_rss_topstories",
+      "summary": "“The businesses each have two employees who manage the day-to-day operations.”",
+      "published": "Tue, 25 Nov 2025 23:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why AMD’s stock is having its worst month in three years",
+      "link": "https://www.marketwatch.com/story/why-amds-stock-is-having-its-worst-month-in-three-years-c2b30a54?mod=mw_rss_topstories",
+      "summary": "AMD’s stock is down 23% in November. Investors are worried about everything from interest rates to rising memory prices to Google’s growing momentum in AI.",
+      "published": "Tue, 25 Nov 2025 23:13:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m 59. Does it make financial sense to raid my $2.5 million IRA to buy a $400K home?",
+      "link": "https://www.marketwatch.com/story/i-regret-not-buying-10-years-ago-im-59-and-pay-2-300-in-rent-do-i-dip-into-my-ira-to-buy-a-home-d581e678?mod=mw_rss_topstories",
+      "summary": "“I regret not buying a home 10 years ago, but we were both going through divorces.”",
+      "published": "Tue, 25 Nov 2025 22:47:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Liga Traderów XIV – 1/4 finału – mecz numer 1",
+      "link": "https://comparic.pl/liga-traderow-xiv-1-4-finalu-mecz-numer-1/",
+      "summary": "<img alt=\"liga traderów\" class=\"attachment-full size-full wp-post-image\" height=\"400\" src=\"https://comparic.pl/wp-content/uploads/2015/11/successful-trader.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"600\" /><img alt=\"liga traderów\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2015/11/successful-trader-324x235.jpg\"",
+      "published": "Tue, 25 Nov 2025 22:35:15 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I have no paperwork’: My father gave me my mother’s jewelry before he died. Will I owe taxes if I sell?",
+      "link": "https://www.marketwatch.com/story/i-have-no-paperwork-my-father-gave-my-mothers-jewelry-before-he-died-will-i-owe-taxes-if-i-sell-768ee7dc?mod=mw_rss_topstories",
+      "summary": "“I am selling the jewelry and trying to understand how I determine the cost basis.”",
+      "published": "Tue, 25 Nov 2025 22:27:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
     {
       "title": "Nasdaq i S&P500 w górę trzecią sesję z rzędu. Czy Fed przyjdzie z odsieczą?",
       "link": "https://www.bankier.pl/wiadomosc/Nasdaq-i-S-P500-w-gore-trzecia-sesje-z-rzedu-Czy-Fed-przyjdzie-z-odsiecza-9045664.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -10,11 +82,43 @@
       "category": "pl"
     },
     {
-      "title": "Beware of this Black Friday scam",
-      "link": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
-      "summary": "“I received an email from eBay, or at least it looked like it was from an official eBay address.”",
-      "published": "Tue, 25 Nov 2025 21:20:00 GMT",
+      "title": "Abercrombie shares soar 37% on Hollister growth, strong earnings beat",
+      "link": "https://www.cnbc.com/2025/11/25/abercrombie-fitch-anf-earnings-q3-2025.html",
+      "summary": "Abercrombie & Fitch's namesake banner is slowing down, but revenue is ramping up at Hollister, its teen-focused brand.",
+      "published": "Tue, 25 Nov 2025 21:44:14 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Best Buy hikes sales forecast as shoppers upgrade tech, splurge on devices",
+      "link": "https://www.cnbc.com/2025/11/25/-best-buy-bby-q3-2026-earnings-.html",
+      "summary": "The consumer electronics retailer said it saw tech upgrades and strong sales of computers, gaming consoles and smartphones during the fiscal third quarter.",
+      "published": "Tue, 25 Nov 2025 21:43:14 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Dick's Sporting Goods to shutter some Foot Locker stores to protect profits",
+      "link": "https://www.cnbc.com/2025/11/25/dicks-sporting-goods-dks-earnings-q3-2025.html",
+      "summary": "Dick's Sporting Goods acquired Foot Locker for $2.4 billion. To ensure the tie-up doesn't become a drag on profits, the company is shrinking its footprint.",
+      "published": "Tue, 25 Nov 2025 21:41:48 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Is making ‘Rush Hour 4’ Trump’s latest executive order? Paramount looks to be onboard.",
+      "link": "https://www.marketwatch.com/story/is-making-rush-hour-4-trumps-latest-executive-order-paramount-looks-to-be-onboard-114f53ca?mod=mw_rss_topstories",
+      "summary": "Paramount is reportedly close to a deal to revive the long dormant “Rush Hour” franchise, as the request of President Donald Trump.",
+      "published": "Tue, 25 Nov 2025 21:32:00 GMT",
       "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "A third high-profile tech leader is leaving GM as part of a software-product restructuring",
+      "link": "https://www.cnbc.com/2025/11/25/gm-software-leader-baris-cetinok-leaving.html",
+      "summary": "GM is combining its vehicle software engineering and global product units under one organization, led by new Chief Product Officer Sterling Anderson.",
+      "published": "Tue, 25 Nov 2025 21:30:02 GMT",
+      "source": "CNBC",
       "category": "us"
     },
     {
@@ -34,44 +138,12 @@
       "category": "us"
     },
     {
-      "title": "How the U.S. government bought an election, rescued some Wall Street bigshots — and left you with the bill",
-      "link": "https://www.marketwatch.com/story/washington-bought-an-election-argentina-got-a-president-you-got-the-bill-e1b6ff15?mod=mw_rss_topstories",
-      "summary": "The U.S. Treasury bailed out Argentina President Javier Milei — major bond investors. Central banks paid attention — and you should too.",
-      "published": "Tue, 25 Nov 2025 20:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Quiet wallets, hidden rooms: How China’s young ‘rat people’ are rewriting the consumer outlook",
-      "link": "https://www.marketwatch.com/story/quiet-wallets-hidden-rooms-how-chinas-young-rat-people-are-rewriting-the-consumer-outlook-62a1732b?mod=mw_rss_topstories",
-      "summary": "A growing youth trend of withdrawal and low-desire living is complicating Beijing’s push for consumption-led growth.",
-      "published": "Tue, 25 Nov 2025 20:55:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Personal-finance superstar Priceless Tay says just two money decisions can nail retirement success",
-      "link": "https://www.marketwatch.com/story/personal-finance-superstar-priceless-tay-says-just-two-money-decisions-can-nail-retirement-success-a5548cc1?mod=mw_rss_topstories",
-      "summary": "Taylor Price tells her millions of social media followers to maximize compound interest and fund a Roth IRA.",
-      "published": "Tue, 25 Nov 2025 20:48:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Bloomberg ujawnia kulisy poufnych rozmów z Rosjanami",
       "link": "https://businessinsider.com.pl/wiadomosci/trump-i-putin-rozmawiali-o-pokoju-na-ukrainie-kluczowa-rola-amerykanskiego-wyslannika/08wkdyl",
       "summary": "Amerykański wysłannik prezydenta Steve Witkoff, niedawno świętujący sukces porozumienia pokojowego dotyczącego Strefy Gazy, podjął próbę przeniesienia tej dynamiki na grunt ukraiński. W zeszłym miesiącu odbył rozmowę telefoniczną z Jurijem Uszakowem, głównym doradcą Władimira Putina ds. polityki zagranicznej, sugerując współpracę nad podobnym planem pokojowym dla Ukrainy.",
       "published": "Tue, 25 Nov 2025 20:35:38 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "The kids are not all right — how young stock investors are bringing on a bear market",
-      "link": "https://www.marketwatch.com/story/the-kids-are-not-all-right-how-young-stock-investors-are-bringing-on-a-bear-market-4be33bcd?mod=mw_rss_topstories",
-      "summary": "Shareholders who’ve never endured a prolonged market downturn believe they have nothing to lose.",
-      "published": "Tue, 25 Nov 2025 20:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Trzy partie prawicowe wyprzedzają koalicję rządową. Wyniki mogą zaskoczyć [SONDAŻ]",
@@ -82,41 +154,9 @@
       "category": "other"
     },
     {
-      "title": "Fed hawks and doves are battling over December rate cuts — watch these clues to see who wins",
-      "link": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories",
-      "summary": "Stocks and bonds will react to new data on job openings, wages and labor market perceptions.",
-      "published": "Tue, 25 Nov 2025 20:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "America is aging into a caregiving desert. Nobody is ready.",
-      "link": "https://www.marketwatch.com/story/america-is-aging-into-a-caregiving-desert-nobody-is-ready-6f5bcbcc?mod=mw_rss_topstories",
-      "summary": "The U.S. desperately needs to evolve its caregiving system, as adults who end up caring for their aging parents and family members are struggling. What happens next?",
-      "published": "Tue, 25 Nov 2025 20:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Bitcoin is in a bear market — why it’s still too soon to buy",
-      "link": "https://www.marketwatch.com/story/bitcoin-is-in-a-bear-market-and-its-still-overvalued-by-almost-40-e979e1ba?mod=mw_rss_topstories",
-      "summary": "The cryptocurrency’s fair value is around $53,000, according to this calculation.",
-      "published": "Tue, 25 Nov 2025 20:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "These energy stocks have been powerful investments. Here’s what’s next for them.",
-      "link": "https://www.marketwatch.com/story/solar-or-nuclear-isnt-a-choice-heres-why-both-can-power-your-stock-portfolio-4c0a4260?mod=mw_rss_topstories",
-      "summary": "Solar is a proven moneymaker with real profits and fast-growing demand. Nuclear is just getting started.",
-      "published": "Tue, 25 Nov 2025 20:22:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Donald Trump przyspiesza negocjacje. \"Zostało kilka punktów\"",
       "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-przyspiesza-negocjacje-ws-pokoju-ukrainy-i-rosji-zostalo-kilka-punktow/he61ynt",
-      "summary": "Prezydent Stanów Zjednoczonych Donald Trump ogłosił, że w procesie negocjacji dotyczących zakończenia konfliktu pomiędzy Rosją a Ukrainą pozostało już tylko kilka punktów spornych. W związku z tym zlecił swojemu Specjalnemu Wysłannikowi Steve'owi Witkoffowi spotkanie z prezydentem Rosji Władimirem Putinem w Moskwie. Równocześnie minister sił lądowych USA Dan Driscoll ma prowadzić rozmowy z przedst",
+      "summary": "Prezydent Stanów Zjednoczonych Donald Trump poinformował, że w sprawie porozumienia pokojowego między Rosją a Ukrainą pozostało już tylko kilka punktów spornych. W związku z tym zlecił swojemu specjalnemu wysłannikowi, Steve’owi Witkoffowi, spotkanie z prezydentem Rosji Władimirem Putinem. Równocześnie minister sił lądowych Dan Driscoll prowadzi rozmowy z przedstawicielami Ukrainy.",
       "published": "Tue, 25 Nov 2025 20:08:47 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -242,14 +282,6 @@
       "category": "pl"
     },
     {
-      "title": "Best Buy hikes sales forecast as shoppers upgrade tech, splurge on devices",
-      "link": "https://www.cnbc.com/2025/11/25/-best-buy-bby-q3-2026-earnings-.html",
-      "summary": "The consumer electronics retailer said it saw tech upgrades and strong sales of computers, gaming consoles and smartphones during the fiscal third quarter.",
-      "published": "Tue, 25 Nov 2025 18:21:15 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 25.11.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-25-11-2025-7225717661039168a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 25.11.2025. We wtorek po godzinie 18 za jedno euro (EUR) trzeba zapłacić 4.22834 zł.",
@@ -304,14 +336,6 @@
       "published": "Tue, 25 Nov 2025 17:36:10 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Dick's Sporting Goods to shutter some Foot Locker stores to protect profits",
-      "link": "https://www.cnbc.com/2025/11/25/dicks-sporting-goods-dks-earnings-q3-2025.html",
-      "summary": "Dick's Sporting Goods acquired Foot Locker for $2.4 billion. To ensure the tie-up doesn't become a drag on profits, the company is shrinking its footprint.",
-      "published": "Tue, 25 Nov 2025 17:33:56 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Deweloperzy wstrzymują inwestycje – co czeka rynek nieruchomości w 2027 roku?",
@@ -418,14 +442,6 @@
       "category": "other"
     },
     {
-      "title": "Abercrombie shares soar 30% on Hollister growth, strong earnings beat",
-      "link": "https://www.cnbc.com/2025/11/25/abercrombie-fitch-anf-earnings-q3-2025.html",
-      "summary": "Abercrombie & Fitch's namesake banner is slowing down, but revenue is ramping up at Hollister, its teen-focused brand.",
-      "published": "Tue, 25 Nov 2025 16:32:20 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Tether zwiększa udział w rynku złota. Jefferies ostrzega o skutkach",
       "link": "https://comparic.pl/tether-zwieksza-udzial-w-rynku-zlota-jefferies-ostrzega-o-skutkach/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-29.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-29-324x235.jpg\" style=\"fl",
@@ -526,14 +542,6 @@
       "link": "https://comparic.pl/oi-na-xrp-najnizej-od-roku-co-to-oznacza/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-2-324x235.jpg\" style=\"float:",
       "published": "Tue, 25 Nov 2025 15:01:08 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Od ruchu bocznego do potencjalnej fali wzrostowej — jakie perspektywy stoją przed Bitcoinem i Ethereum?",
-      "link": "https://comparic.pl/od-ruchu-bocznego-do-potencjalnej-fali-wzrostowej-jakie-perspektywy-stoja-przed-bitcoinem-i-ethereum/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/06/freepik-BTC-Bitcoin-5.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/06/freepik-BTC-Bitcoin-5-324x235.jpg\" style=\"float: le",
-      "published": "Tue, 25 Nov 2025 14:46:19 +0000",
       "source": "Comparic.pl",
       "category": "pl"
     },
@@ -646,14 +654,6 @@
       "link": "https://www.cnbc.com/2025/11/20/gap-q3-2025-earnings.html",
       "summary": "Gap, which owns Banana Republic, Old Navy, Athleta and its namesake banner, saw comparable sales rise 5% during the quarter, indicating its taking market share.",
       "published": "Thu, 20 Nov 2025 21:23:11 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Mercedes F1 boss Toto Wolff sells a piece of his ownership stake to CrowdStrike CEO George Kurtz",
-      "link": "https://www.cnbc.com/2025/11/20/mercedes-f1-toto-wolff-ownership-crowdstrike-ceo-george-kurtz.html",
-      "summary": "CrowdStrike CEO George Kurtz has acquired a minority stake in Mercedes-AMG Petronas F1 and will be a tech advisor to the motorsport team.",
-      "published": "Thu, 20 Nov 2025 20:49:08 GMT",
       "source": "CNBC",
       "category": "us"
     },
