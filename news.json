@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T02:07:42.802810",
+  "generated_at": "2025-12-04T03:55:42.234085",
   "articles": [
     {
       "title": "Dane złe, ale giełdy w górę. Na Wall Street cieszą się ze zwalnianych pracowników",
@@ -199,14 +199,6 @@
       "summary": "Under the Biden-era rules, carmakers would have needed to achieve a fuel-efficiency standard of about 50 miles to a gallon of gas by 2031. Trump’s proposal would lower that requirement to 34.5 miles to the gallon.",
       "published": "Wed, 03 Dec 2025 21:29:00 GMT",
       "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Trump's South Korea tariff cuts are major boost for Hyundai and GM",
-      "link": "https://www.cnbc.com/2025/12/03/trump-south-korea-tariffs-vehicles-hyundai-gm.html",
-      "summary": "The Trump administration said the tariff rate for vehicles from South Korea will drop to 15% as part of a trade deal.",
-      "published": "Wed, 03 Dec 2025 21:23:17 GMT",
-      "source": "CNBC",
       "category": "us"
     },
     {
@@ -638,6 +630,14 @@
       "link": "https://www.cnbc.com/2025/11/27/trump-tax-changes-middle-class-donors-giving-gap.html",
       "summary": "Next year, some 140 million Americans will get a new tax break on donations. Experts warn it's unclear whether they will use it.",
       "published": "Thu, 27 Nov 2025 14:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Trump's South Korea tariff cuts are major boost for Hyundai and GM",
+      "link": "https://www.cnbc.com/2025/12/03/trump-south-korea-tariffs-vehicles-hyundai-gm.html",
+      "summary": "The Trump administration said the tariff rate for vehicles from South Korea will drop to 15% as part of a trade deal.",
+      "published": "Thu, 04 Dec 2025 02:22:10 GMT",
       "source": "CNBC",
       "category": "us"
     },
