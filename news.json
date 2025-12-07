@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T02:23:19.197840",
+  "generated_at": "2025-12-07T04:02:27.705500",
   "articles": [
     {
       "title": "Macy’s posts strongest growth in more than 3 years, but strikes cautious note on holidays",
@@ -86,6 +86,22 @@
       "link": "https://www.cnbc.com/2025/12/03/trump-south-korea-tariffs-vehicles-hyundai-gm.html",
       "summary": "The Trump administration said the tariff rate for vehicles from South Korea will drop to 15% as part of a trade deal.",
       "published": "Thu, 04 Dec 2025 02:22:10 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
+      "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
+      "summary": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said.",
+      "published": "Sun, 07 Dec 2025 03:49:11 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
+      "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
+      "summary": "Regulatory questions are already rising about Netflix's deal to combine its business with WBD's streaming service HBO Max and film studio Warner Bros.",
+      "published": "Sun, 07 Dec 2025 03:47:58 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -658,28 +674,12 @@
       "category": "pl"
     },
     {
-      "title": "The regulatory path ahead for a Netflix and Warner Bros. deal could get dicey",
-      "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-regulatory-questions.html",
-      "summary": "Regulatory questions are already rising about Netflix's deal to combine its business with WBD's streaming service HBO Max and film studio Warner Bros.",
-      "published": "Fri, 05 Dec 2025 20:41:56 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "\"Fatalny sygnał\". Trump luzuje własne sankcje przeciwko Rosji",
       "link": "https://www.money.pl/gospodarka/fatalny-sygnal-trump-luzuje-wlasne-sankcje-przeciwko-rosji-7229177140218816a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ff04bb7f-57e4-4081-a3f6-48ef9cdfdffb\" width=\"308\" /> USA nagle ograniczyły część sankcji, które nałożyły na rosyjskiego giganta naftowego Łukoil. Biały Dom chce umożliwić dalsze funkcjonowanie stacji paliwowych tego koncernu poza Rosją. - To fatalny sygnał dla Europy. Na Kremlu się cieszą - mówi dr Szymon Kardaś z European ",
       "published": "Fri, 05 Dec 2025 19:38:08 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
-      "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
-      "summary": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said.",
-      "published": "Fri, 05 Dec 2025 19:30:24 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Netflix's plan to buy Warner Bros. throws the theater industry into upheaval",
