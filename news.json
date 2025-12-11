@@ -1,76 +1,12 @@
 {
-  "generated_at": "2025-12-11T09:33:44.039211",
+  "generated_at": "2025-12-11T13:01:44.384542",
   "articles": [
-    {
-      "title": "Trump faworyzuje Paramount? \"CNN to trucizna, która musi zostać sprzedana\"",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-faworyzuje-Paramount-CNN-to-trucizna-ktora-musi-zostac-sprzedana-9053689.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/a/f5cc1bae1fa4f9-948-568-189-123-3110-1866.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump powiedział w środę, że stacja CNN musi zostać sprzedana w ramach przejęcia Warner Bros. Discovery, właściciela telewizji. Akcje WBD i Paramount Sky",
-      "published": "Wed, 10 Dec 2025 23:32:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "This longer-term mortgage won’t make housing affordable — and could wreck your retirement",
-      "link": "https://www.marketwatch.com/story/a-50-year-mortgage-wont-make-housing-cheaper-and-could-even-wreck-your-retirement-c4982756?mod=mw_rss_topstories",
-      "summary": "A 50-year mortgage is a poor solution to America’s housing crisis. What’s needed are more homes.",
-      "published": "Wed, 10 Dec 2025 23:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Na Wall Street wzrosty po obniżce stóp przez Fed. Droga do „rajdu św. Mikołaja” otwarta",
-      "link": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrosty-po-obnizce-stop-przez-Fed-Droga-do-rajdu-sw-Mikolaja-otwarta-9053687.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/9/f409bbdd30e2d7-948-568-0-270-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Środowa sesja na Wall Street zakończyła się wzrostami głównych indeksów po decyzji Fed w sprawie obniżki stóp procentowych i komentarzach prezesa Jerome'a Powella, które uciesz",
-      "published": "Wed, 10 Dec 2025 23:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Americans are facing a growing healthcare crisis — and your medicines are at risk",
-      "link": "https://www.marketwatch.com/story/theres-a-growing-healthcare-crisis-in-the-u-s-and-its-sitting-in-your-medicine-cabinet-cd5c9596?mod=mw_rss_topstories",
-      "summary": "To guarantee Americans the medication they need, the U.S. must stop relying on China and India.",
-      "published": "Wed, 10 Dec 2025 23:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I am increasingly resentful’: My husband of 10 years has $1 million and cars worth $200K. Why won’t he give me money?",
-      "link": "https://www.marketwatch.com/story/i-am-increasingly-resentful-my-husband-of-10-years-has-1-million-and-cars-worth-200k-why-wont-he-give-me-money-bda6a010?mod=mw_rss_topstories",
-      "summary": "“I maintain the household, walk the dogs and cook regular meals for us both.”",
-      "published": "Wed, 10 Dec 2025 23:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "My mother-in-law, 81, is guilting us into paying for her ‘bucket list’ trip to Italy. Do we say no?",
-      "link": "https://www.marketwatch.com/story/my-mother-in-law-81-is-guilting-us-to-pay-for-her-bucket-list-trip-to-italy-do-we-say-no-f8187c1a?mod=mw_rss_topstories",
-      "summary": "“I have my own trip to Europe planned for next year and I can’t afford both trips.”",
-      "published": "Wed, 10 Dec 2025 23:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
     {
       "title": "Coca-Cola taps COO Henrique Braun to replace James Quincey as CEO in 2026",
       "link": "https://www.cnbc.com/2025/12/10/coca-cola-coo-henrique-braun-ceo-.html",
       "summary": "Quincey has led Coca-Cola since 2017, seeing the company through the Covid pandemic and a focus on healthier beverages.",
       "published": "Wed, 10 Dec 2025 23:08:32 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Gwiazda hossy AI rozczarowała wynikami. Akcje runęły w handlu posesyjnym",
-      "link": "https://www.bankier.pl/wiadomosc/Akcje-Oracle-spadaja-7-proc-po-gorszych-od-oczekiwan-przychodach-kwartalnych-9053686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/2/f736ee3219704c-948-567-0-7-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Globalny dostawca technologii i oprogramowania, specjalizujący się w bazach danych i chmurze - Oracle - zaprezentował wyniki finansowe. Nie spełniły one wszystkich oczekiwań anali",
-      "published": "Wed, 10 Dec 2025 23:02:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Carvana’s stock zooms to record, longest winning run as S&P 500 inclusion is within sight",
-      "link": "https://www.marketwatch.com/story/carvanas-stock-zooms-to-longest-winning-run-on-record-as-s-p-500-inclusion-is-within-sight-1b678f9a?mod=mw_rss_topstories",
-      "summary": "The online used-car retailer’s stock has gained nearly 50% over a 12-day winning streak, and is aiming for an all-time high.",
-      "published": "Wed, 10 Dec 2025 22:21:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -114,14 +50,6 @@
       "category": "us"
     },
     {
-      "title": "Odsiać udawanych rolników od tych prawdziwych. Rząd szykuje ustawę o aktywnym rolniku",
-      "link": "https://www.bankier.pl/wiadomosc/Odsiac-udawanych-rolnikow-od-tych-prawdziwych-Rzad-szykuje-ustawe-o-aktywnym-rolniku-9053541.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/7/5fd840620aca51-948-568-195-0-3607-2164.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Projekt ustawy wprowadzającej definicję aktywnego zawodowo rolnika ma zostać przyjęty przez rząd jeszcze w tym roku - przekazał w środę minister rolnictwa Stefan Krajewski. Dzi",
-      "published": "Wed, 10 Dec 2025 17:13:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Niemiecki gigant zbrojeniowy będzie produkował satelity radarowe z Polakami",
       "link": "https://www.money.pl/gospodarka/niemiecki-gigant-zbrojeniowy-bedzie-produkowal-satelity-radarowe-z-polakami-7231001768610752a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/976220b9-d13b-4fba-b5d3-36cea9c2e1a5\" width=\"308\" /> Niemiecki koncern Rheinmetall jeszcze w tym roku podpisze umowę na produkcję satelitów radarowych we współpracy z polsko-fińską firmą ICEYE. Danych z satelitów potrzebuje brygada Bundeswehry na Litwie do szybkiego wykrywania mobilizacji sił przeciwnika - informuje portal ",
@@ -151,22 +79,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 10.12.2025. W środę po południu za jednego franka (CHF) trzeba zapłacić 4.51138 zł.",
       "published": "Wed, 10 Dec 2025 12:39:08 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 10.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-10-12-2025-7230940420049856a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 10.12.2025. W środę po południu za jednego dolara (USD) trzeba zapłacić 3.63287 zł.",
-      "published": "Wed, 10 Dec 2025 12:34:39 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szybkie ładowanie, mocne szkło i pakiet monitorujący zdrowie, czyli Apple Watch SE 3 za transakcje kartą",
-      "link": "https://www.bankier.pl/wiadomosc/Najnowszy-Apple-Watch-SE-3-to-szybkie-ladowanie-mocne-szklo-i-pakiet-monitorujacy-zdrowie-Teraz-w-prezencie-od-Citi-za-transakcje-karta-9053141.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/4/6a8dc40e9f0310-948-568-215-147-1151-690.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Apple Watch SE 3 to jeden z tych gadżetów, które kuszą nie tylko wyglądem, ale też praktycznymi funkcjami na co dzień. Teraz smartwatcha o wartości 1099 zł można zgarnąć za tr",
-      "published": "Wed, 10 Dec 2025 09:25:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -202,20 +114,428 @@
       "category": "us"
     },
     {
-      "title": "Operacja \"Szpej\" wrzuca kolejny bieg. Nowy mundur, 200 tys. hełmów i lifting kamuflażu",
-      "link": "https://www.bankier.pl/wiadomosc/Operacja-Szpej-wrzuca-kolejny-bieg-Nowy-mundur-200-tys-helmow-i-lifting-kamuflazu-9053819.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/f/9e4a7ce5b8c6df-948-568-0-112-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował w czwartek, że resort od wielu tygodni pracuje nad nowym wzorem munduru polowego, dostosowanym do potrzeb wojska. P",
-      "published": "Thu, 11 Dec 2025 09:55:00 +0100",
+      "title": "Strajk generalny sparaliżował Portugalię. Chaos na lotniskach i w szpitalach",
+      "link": "https://www.bankier.pl/wiadomosc/Strajk-generalny-sparalizowal-Portugalie-Chaos-na-lotniskach-i-w-szpitalach-9053993.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/e/495e285f378413-948-568-0-171-2443-1465.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Portugalię sparaliżował zorganizowany przez największe centrale związkowe strajk generalny przeciw zmianom w kodeksie pracy, który rozpoczął się w czwartek w nocy. Protest dopr",
+      "published": "Thu, 11 Dec 2025 13:10:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
     {
-      "title": "Jeden wniosek, dwie polisy. Nowość w ofercie UNIQA",
-      "link": "https://www.bankier.pl/wiadomosc/Jeden-wniosek-dwie-polisy-Nowosc-w-ofercie-UNIQA-9053788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/d65752965d5096-948-568-0-108-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Takiego rozwiązania na rynku ubezpieczeniowym jeszcze nie było. UNIQA, jeden z czołowych ubezpieczycieli majątkowych, udostępnił klientom kalkulator, w którym jednocześnie wyli",
-      "published": "Thu, 11 Dec 2025 09:50:00 +0100",
+      "title": "Zbrojenia w Polsce. Możliwa wielka emisja obligacji PGZ na Catalyst",
+      "link": "https://www.bankier.pl/wiadomosc/Zbrojenia-w-Polsce-Mozliwa-wielka-emisja-obligacji-PGZ-na-Catalyst-9053988.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/8/5b2fd13d910861-948-568-0-0-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska Grupa Zbrojeniowa w 2026 roku może wyemitować obligacje dla instytucji finansowych i inwestorów indywidualnych o wartości kilku miliardów złotych - poinformował PAP Biznes",
+      "published": "Thu, 11 Dec 2025 13:02:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "JetBlue unveils first ever airport lounge, BlueHouse. Here's what's inside",
+      "link": "https://www.cnbc.com/2025/12/11/jetblue-jfk-airport-lounge-bluehouse.html",
+      "summary": "JetBlue is set to open its first ever airport lounge, BlueHouse, at JFK next week.",
+      "published": "Thu, 11 Dec 2025 13:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Wniosek o upadłość HREIT oddalony? Spółka zapowiada sprzedaż nieruchomości",
+      "link": "https://www.bankier.pl/wiadomosc/Wniosek-o-upadlosc-HREIT-oddalony-Spolka-zapowiada-sprzedaz-nieruchomosci-9053985.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/d/48e6b8e43f0f1a-948-568-0-230-3100-1860.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />HREIT w całości zakwestionował twierdzenia zarządcy przymusowego, według którego spółka nie posiadała zdolności do bieżącego regulowania kosztów postępowania sanacyjnego oraz z",
+      "published": "Thu, 11 Dec 2025 13:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ministerstwo Kultury nie wycofa się z muzeum o. Rydzyka. \"To daje nam kontrolę\"",
+      "link": "https://www.bankier.pl/wiadomosc/Ministerstwo-Kultury-nie-wycofa-sie-z-muzeum-o-Rydzyka-To-daje-nam-kontrole-9053982.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/6/e3ad95dbd21f38-948-568-186-111-2618-1571.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Resort kultury nie zamierza na razie wycofywać się ze współprowadzenia Muzeum „Pamięć i Tożsamość” im. św. Jana Pawła II w Toruniu – zapowiedziała w czwartek szefowa tego res",
+      "published": "Thu, 11 Dec 2025 12:58:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Głośny finał działki w Zabłotni. KOWR odkupuje grunt pod CPK od Wielgomasa",
+      "link": "https://www.bankier.pl/wiadomosc/Glosny-final-dzialki-w-Zablotni-KOWR-odkupuje-grunt-pod-CPK-od-Wielgomasa-9053980.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/c/839990139d3f64-948-568-6-108-1194-716.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W piątek ma zostać podpisany akt notarialny ws. odkupu przez Krajowy Ośrodek Wsparcia Rolnictwa działki położonej w miejscowości Zabłotnia od jej dotychczasowego właściciela Pio",
+      "published": "Thu, 11 Dec 2025 12:56:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Eli Lilly’s newest weight-loss drug relieved pain in patients with knee osteoarthritis",
+      "link": "https://www.marketwatch.com/story/eli-lillys-newest-weight-loss-drug-relieved-pain-in-patients-with-knee-osteoarthritis-b7a6bcd2?mod=mw_rss_topstories",
+      "summary": "Eli Lilly’s “triple g” drug helped patients lose about 28.7% of their body weight while also reducing pain associated with knee osteoarthritis in a Phase 3 trial.",
+      "published": "Thu, 11 Dec 2025 12:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "RPP daje na wstrzymanie. Duda o ryzykach dla inflacji: Luźna polityka fiskalna i ceny energii",
+      "link": "https://www.bankier.pl/wiadomosc/RPP-daje-na-wstrzymanie-Duda-o-ryzykach-dla-inflacji-Luzna-polityka-fiskalna-i-ceny-energii-9053977.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/f/d2ee5d3c536acc-948-568-230-172-4147-2488.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przestrzeń do kolejnych cięć stóp proc. jest coraz mniejsza, a w dyskusjach nad najbliższym momentem do takiego ruchu pojawia się marzec, choć wszystko ostatecznie będzie zal",
+      "published": "Thu, 11 Dec 2025 12:52:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Robert Kiyosaki ujawnia jedną inwestycję, która wzrosła już 9000% – i wciąż ma potencjał",
+      "link": "https://comparic.pl/robert-kiyosaki-ujawnia-jedna-inwestycje-ktora-wzrosla-juz-9000-i-wciaz-ma-potencjal/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2025/12/krypto-54.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/krypto-54-324x235.webp\" style=\"float: left; margin: 0 15px 15p",
+      "published": "Thu, 11 Dec 2025 12:49:02 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "KE rozważa wycofanie się z kluczowej zapowiedzi ekologicznej. Naciska m.in. Polska",
+      "link": "https://businessinsider.com.pl/technologie/motoryzacja/nowe-propozycje-komisji-europejskiej-hybrydy-i-e-paliwa-moga-zyskac-piec-lat/l927qh0",
+      "summary": "Komisja Europejska analizuje możliwość pięcioletniego opóźnienia wprowadzenia zakazu stosowania silników spalinowych. Decyzja ta wynika z nacisków największych państw regionu, które mają poważne obawy dotyczące wpływu regulacji na kluczowe branże. Szczególnie naciskają dwa państwa.",
+      "published": "Thu, 11 Dec 2025 12:46:09 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "NFL quarterback Philip Rivers couldn’t stay retired. Here’s why millions of other Americans can’t either.",
+      "link": "https://www.marketwatch.com/story/nfl-quarterback-philip-rivers-couldnt-stay-retired-heres-why-millions-of-other-americans-cant-either-c7ae6c8e?mod=mw_rss_topstories",
+      "summary": "Philip Rivers’s unretirement, at age 44, probably feels familiar to the growing number of retirees — including FIRE members — who return to work. And it’s often not about money.",
+      "published": "Thu, 11 Dec 2025 12:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Gigant branży technologicznej rozczarował wynikami i akcje poleciały. Są obawy wokół AI",
+      "link": "https://businessinsider.com.pl/gielda/akcje-oracle-mocno-spadaja-sa-obawy-wokol-sztucznej-inteligencji/ttvr9ft",
+      "summary": "Najnowsze wyniki spółki jednego z najbogatszych ludzi świata, Larrego Ellisona, nie rozwiały obaw o potencjalną bańkę spekulacyjną na rynku AI. Notowania na Wall Street mocno spadły. Eksperci nie są zaskoczeni, biorąc pod uwagę to, co dzieje się na rynku.",
+      "published": "Thu, 11 Dec 2025 12:44:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The Fed will help drive a 10% gain for stocks in 2026, says one of Wall Street’s most accurate forecasters, Tom Lee",
+      "link": "https://www.marketwatch.com/story/the-fed-will-help-drive-a-10-gain-for-stocks-in-2026-says-one-of-wall-streets-most-accurate-forecasters-tom-lee-ecf85aeb?mod=mw_rss_topstories",
+      "summary": "A wall of worry headed into 2026 won’t stop stocks from logging more gains, says Fundstrat’s Tom Lee.",
+      "published": "Thu, 11 Dec 2025 12:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "RegioJet koryguje rozkłady jazdy. Mniej połączeń zapobiegnie problemom w ruchu",
+      "link": "https://www.bankier.pl/wiadomosc/RegioJet-koryguje-rozklady-jazdy-Mniej-polaczen-zapobiegnie-problemom-w-ruchu-9053901.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/d/74fdc6f570d8a1-948-568-0-84-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W najbliższą niedzielę, 14 grudnia, RegioJet miał uruchomić nową siatkę połączeń, kończąc etat pilotażu na polskich torach. Czeski przewoźnik zamierzał zwiększyć liczbę kursów m",
+      "published": "Thu, 11 Dec 2025 12:40:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Pierwszy rok bez wzrostu cen mieszkań od wielu lat. Rynek na zakręcie",
+      "link": "https://businessinsider.com.pl/gospodarka/rynek-mieszkaniowy-na-zakrecie-pierwszy-rok-bez-wzrostu-cen-od-wielu-lat/bg99rd7",
+      "summary": "Rok 2025 może być pierwszym od ponad 10 lat, który nie zakończy się wzrostem cen mieszkań. Z raportu Rankomat.pl i Rentier.io wynika, że w ciągu minionych 11 miesięcy 2025 r. ceny spadły aż w 11 z 17 badanych miast.",
+      "published": "Thu, 11 Dec 2025 12:34:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The exclusive WhatsApp chats where family offices vet deals, plan meetups and sell dinosaur bones",
+      "link": "https://www.cnbc.com/2025/12/11/whatsapp-family-office.html",
+      "summary": "The rich — they're just like us. Family offices rely on WhatsApp for everything from deal sourcing to selling collectibles.",
+      "published": "Thu, 11 Dec 2025 12:30:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Gold Flow: Co dalej z kursem złota po Fed? Jak pozycjonują się duzi gracze?",
+      "link": "https://comparic.pl/gold-flow-co-dalej-z-kursem-zlota-po-fed-jak-pozycjonuja-sie-duzi-gracze/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD-324x235.jpg\" style=\"",
+      "published": "Thu, 11 Dec 2025 12:26:13 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Spór o nagrody w PKO BP. Pracownicy z wypowiedzeniem mówią o „karze za odejście”",
+      "link": "https://www.bankier.pl/wiadomosc/Spor-o-nagrody-w-PKO-BP-Pracownicy-z-wypowiedzeniem-mowia-o-karze-za-odejscie-9053891.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/0/f26c5478e3feca-948-568-0-0-3543-2125.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po publikacji artykułu o nagrodach rocznych w PKO BP do redakcji Bankier.pl napisały kolejne osoby. Twierdzą, że z jednorazowej nagrody prezesa wykluczono również pracowników będ",
+      "published": "Thu, 11 Dec 2025 12:25:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wojsko Polskie na Street View? MON interweniuje u Google'a",
+      "link": "https://www.bankier.pl/wiadomosc/Wojsko-Polskie-na-Street-View-MON-interweniuje-u-Google-a-9053948.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/0/45978715eeeb65-935-560-17-40-935-560.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz zapewnił w czwartek, że w sprawie zdjęć obiektów wojskowych w aplikacjach Google reakcja resortu nie była spóźniona, a resort obro",
+      "published": "Thu, 11 Dec 2025 12:21:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Koło ratunkowe dla unijnej motoryzacji? Bruksela opóźni zakaz silników spalinowych",
+      "link": "https://www.bankier.pl/wiadomosc/Kolo-ratunkowe-dla-unijnej-motoryzacji-Bruksela-opozni-zakazu-silnikow-spalinowych-9053937.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/f/777b093bf3e426-948-568-0-324-2950-1769.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja Europejska rozważa pięcioletnie opóźnienie wprowadzenia zakazu stosowania silników spalinowych po naciskach ze strony niektórych z największych krajów w regionie – poda",
+      "published": "Thu, 11 Dec 2025 12:10:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "mBank zachęca do oszczędzania na emeryturę: nawet 500 zł premii za otwarcie IKE/IKZE w ramach usługi eMakler",
+      "link": "https://www.money.pl/emerytury/mbank-zacheca-do-oszczedzania-na-emeryture-nawet-500-zl-premii-za-otwarcie-ike-ikze-w-ramach-uslugi-emakler-7230927928708000a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0ce4b569-4a3c-4572-8b71-c8ac02f69eac\" width=\"308\" /> mBank, lider rynku maklerskich rachunków emerytalnych, uruchamia nową promocję dla osób, które chcą zadbać o swoją przyszłość i zbudować kapitał emerytalny. Od 3 grudnia 2025 r. do 31 marca 2026 r. każdy, kto otworzy nowy rachunek IKE lub IKZE w ramach usługi eMakler i za",
+      "published": "Thu, 11 Dec 2025 12:02:00 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Turcja ma rozmach. Jedno cięcie tam, to jak 5 cięć w NBP",
+      "link": "https://www.bankier.pl/wiadomosc/Turcja-obniza-stopy-procentowe-w-grudniu-2025-Nadal-sa-one-prawie-najwyzsze-na-swiecie-9053924.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/38cc9c7fcc50ca-948-568-9-108-3923-2353.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nadal jednak zarówno nominalne stopy procentowe jak i oficjalna inflacja CPI nad Bosforem należą do jednych z najwyższych na świecie.</p>",
+      "published": "Thu, 11 Dec 2025 12:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Miliarder Ray Dalio: „Rynek akcji jest w bańce. Widać pierwsze pęknięcia”",
+      "link": "https://comparic.pl/miliarder-ray-dalio-rynek-akcji-jest-w-bance-widac-pierwsze-pekniecia/",
+      "summary": "<img alt=\"Ray-Dalio-chatgpt\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/08/Ray-Dalio-chatgpt.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Ray-Dalio-chatgpt\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/08/Ray-Dalio-chatgpt-32",
+      "published": "Thu, 11 Dec 2025 11:54:45 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zmienił się kierunek przepływu kapitału. Największy odpływ z akcji od początku roku",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/kapital-ucieka-z-akcji-z-rynkow-wschodzacych-odplynely-miliardy-dolarow/c5t0nn1",
+      "summary": "Z rynków wschodzących, do których większość ekspertów zalicza m.in. Chiny i Polskę, w ostatnim miesiącu odpłynęły miliardy dolarów. To duża zmiana po wyśmienitym październiku. Instytut Finansów Międzynarodowych zwraca uwagę na rynek akcji.",
+      "published": "Thu, 11 Dec 2025 11:53:25 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kursy walut NBP. Ile kosztuje dolar, euro, frank i funt w czwartek, 11 grudnia 2025 r.",
+      "link": "https://comparic.pl/kursy-walut-nbp-ile-kosztuje-dolar-euro-frank-i-funt-w-czwartek-11-grudnia-2025-r/",
+      "summary": "<img alt=\"siedziba NBP Narodowy Bank Polski\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2018/11/NBP-Narodowy-Bank-Polski-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"siedziba NBP Narodowy Bank Polski\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-conte",
+      "published": "Thu, 11 Dec 2025 11:48:11 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zaczynamy mówić i pisać jak AI. Chatbotowy ton po cichu kształtuje sposób komunikacji",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/zaczynamy-mowic-i-pisac-jak-ai-chatbotowy-ton-po-cichu-ksztaltuje-sposob-komunikacji/hpntddw",
+      "summary": "Czy można jeszcze mieć pewność, że to, co mówimy i piszemy, jest całkowicie \"nasze\", a nie podszyte stylem wygenerowanym przez sztuczną inteligencję? Coraz więcej sygnałów wskazuje, że w codziennym języku zaczyna funkcjonować nowy, chatbotowy dialekt.",
+      "published": "Thu, 11 Dec 2025 11:47:28 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Złoty I Mocny: dlaczego PLN był jednym z wygranych 2025 roku? Co dalej z EUR/PLN?",
+      "link": "https://comparic.pl/zloty-i-mocny-dlaczego-pln-byl-jednym-z-wygranych-2025-roku-co-dalej-z-eur-pln/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1333\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Adam_Fuchs_Walutomat.pl-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"2000\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Adam_Fuchs_Walutomat.pl-1-324x235.jpg\" style=\"",
+      "published": "Thu, 11 Dec 2025 11:47:28 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nie widać końca krachu na jednej z najlepszych dywidendowych spółek na GPW! 66% przecena to doskonała okazja?",
+      "link": "https://comparic.pl/nie-widac-konca-krachu-na-jednej-z-najlepszych-dywidendowych-spolek-na-gpw-66-przecena-to-doskonala-okazja/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-bessa-krach-spadek-crash-zalamanie-down-bear-przecena-wyprzedaz-red-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/202",
+      "published": "Thu, 11 Dec 2025 11:42:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czas na szczyt w UE? Merz: W weekend możliwe rozmowy z USA ws. Ukrainy",
+      "link": "https://www.bankier.pl/wiadomosc/Czas-na-szczyt-w-UE-Merz-W-weekend-mozliwe-rozmowy-z-USA-ws-Ukrainy-9053900.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/209ec00da832df-948-568-0-90-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kanclerz Niemiec Friedrich Merz powiedział w czwartek, że spodziewa się w nadchodzący weekend rozmów z administracją prezydenta USA Donalda Trumpa na temat przedłożonych przez s",
+      "published": "Thu, 11 Dec 2025 11:40:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ekspansja strefy euro. Kto następny po Bułgarii?",
+      "link": "https://comparic.pl/ekspansja-strefy-euro-kto-nastepny-po-bulgarii/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1333\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Krzysztof_Adamczak_Walutomat.pl-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"2000\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Krzysztof_Adamczak_Walutomat.pl-1-324x",
+      "published": "Thu, 11 Dec 2025 11:39:17 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ogromne zyski zamienione w wielkie straty! Czy warto grać na zakończenie 50% spadków na akcjach znanej spółki z GPW?",
+      "link": "https://comparic.pl/ogromne-zyski-zamienione-w-wielkie-straty-czy-warto-grac-na-zakonczenie-50-spadkow-na-akcjach-znanej-spolki-z-gpw/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2024/11/Freepik-panic-panika-crash-kryzys-banka-bessa-wyprzedaz-spadek-spadki-strach-lost-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploa",
+      "published": "Thu, 11 Dec 2025 11:38:56 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Uproszczenie rezygnacji z zakupów internetowych. Unijne prawo wkrótce wchodzi w życie",
+      "link": "https://businessinsider.com.pl/prawo/uproszczenie-odstepowania-od-zakupow-internetowych-unijne-prawo-wkrotce-wchodzi-w/mg3r0j9",
+      "summary": "Wkrótce w całej Unii Europejskiej zacznie obowiązywać dyrektywa, która wprowadzi znaczące uproszczenie zwrotów. Opcja ma być widoczna i działać według jednolitego standardu. Kary za niewdrożenie prawa będą dotkliwe.",
+      "published": "Thu, 11 Dec 2025 11:37:36 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘Where are we vulnerable?’ My husband and I are in our 50s. Our $450K mortgage is paid off. We have $500K in IRAs.",
+      "link": "https://www.marketwatch.com/story/where-are-we-vulnerable-my-husband-and-i-are-in-our-50s-our-450k-mortgage-is-paid-off-we-have-500k-in-iras-5b5741a6?mod=mw_rss_topstories",
+      "summary": "“We will not be downsizing our home, but we do have rental income of about $1,500 per month.”",
+      "published": "Thu, 11 Dec 2025 11:36:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Dolar znów mocno traci! Jak obniżka stóp w USA wpłynie na kurs dolara?",
+      "link": "https://comparic.pl/dolar-znow-mocno-traci-jak-obnizka-stop-w-usa-wplynie-na-kurs-dolara/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-usd-dolar-dollar-8.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-usd-dolar-dollar-8-324x235.jpg\" style=",
+      "published": "Thu, 11 Dec 2025 11:35:16 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Prognoza ceny XRP: Token Ripple wyprzedzi BTC o ponad 600%, oto dlaczego",
+      "link": "https://comparic.pl/prognoza-ceny-xrp-token-ripple-wyprzedzi-btc-o-ponad-600-oto-dlaczego/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/12/XRP-Price-Prediction-Ripple-Token-to-0utrun-BTC-by-Over-600-Heres-Why.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/XRP",
+      "published": "Thu, 11 Dec 2025 11:34:24 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Andrzej Duda ujawnił emeryturę. Teraz wiadomo, ile dostanie po podwyżce w 2026 r.",
+      "link": "https://businessinsider.com.pl/praca/emerytury/ile-wyniesie-waloryzacja-emerytury-andrzeja-dudy-w-2026-tyle-zyska-byly-prezydent/n4gep5q",
+      "summary": "Andrzej Duda pokazał przelew z kwotą netto prezydenckiej emerytury. Ile były prezydent dostaje \"na rękę\"? Choć nie jest to \"zwykła\" emerytura, również podlega waloryzacji. A to oznacza, że w przyszłym roku była głowa państwa dostanie podwyżkę. Oto kwoty.",
+      "published": "Thu, 11 Dec 2025 11:02:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Gigantyczne przejęcie na rynku spożywczym pod znakiem zapytania. Rząd może mieć problem",
+      "link": "https://businessinsider.com.pl/finanse/handel/rzad-nie-bedzie-w-stanie-kupic-aktywow-carrefoura-panstwowy-holding-ze-spora-strata/gbnkw4j",
+      "summary": "Rząd jednak nie będzie w stanie kupić aktywów Carrefoura? Jak informowały niedawno media, państwo poprzez Krajową Grupę Spożywczą (KGS) poważnie rozważa wejście do rywalizacji o przejęcie zasobów sieci w Polsce. W grze jest kilkaset placówek. Jak jednak pisze czwartkowa \"Rzeczpospolita\", na drodze do tej rywalizacji może pojawić się poważny problem.",
+      "published": "Thu, 11 Dec 2025 10:55:52 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Połowa wiatraków w Niemczech będzie polegać na polskim serwisie. Ważna transakcja",
+      "link": "https://businessinsider.com.pl/biznes/polowa-wiatrakow-w-niemczech-bedzie-polegac-na-polskim-serwisie-wazna-transakcja/22m041v",
+      "summary": "Polska firma opuściła notowania giełdowe trzy lata temu, co jak widać po najnowszej informacji wcale nie przeszkodziło jej w dalszym rozwoju. Podpisała właśnie umowę przejęcia niemieckiej spółki BWTS GmbH. To dostawca usług serwisowych dla sektora odnawialnych źródeł energii, działającego w Niemczech, Francji i innych krajach Europy. Obsługuje prawie połowę niemieckich wiatraków.",
+      "published": "Thu, 11 Dec 2025 10:55:05 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘This feels like an opportunity’: I’m 55, earn $78,000 and have no kids. My mother gave me $10,000. What should I do?",
+      "link": "https://www.marketwatch.com/story/this-feels-like-an-opportunity-im-55-earn-78-000-and-have-no-kids-my-mother-gave-me-10-000-what-should-i-do-45767f26?mod=mw_rss_topstories",
+      "summary": "“I also have $1,000 on a credit card, which will be paid in full next month.”",
+      "published": "Thu, 11 Dec 2025 10:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Czyste powietrze i nieprawidłowości na kilkaset milionów złotych. Co dalej z wypłatami?",
+      "link": "https://businessinsider.com.pl/gospodarka/fundusze/czyste-powietrze-i-gigantyczne-nieprawidlowosci-co-dalej-z-wyplatami/bp3ykrr",
+      "summary": "500 wykonawców zgłoszonych do prokuratury i nieprawidłowości sięgające kilkuset milionów złotych — tak Robert Gajda, zastępca prezesa NFOŚiGW mówi o dotychczasowych efektach analizy wniosków w programie Czyste powietrze. W programie Onet Rano Finansowo opowiada, jak zareagował Fundusz, dlaczego wykonawcy czekają na pieniądze i co dalej z wypłatami w ramach programu.",
+      "published": "Thu, 11 Dec 2025 10:36:24 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Orlen zbuduje pierwszy przyzakładowy magazyn energii. Zdradził lokalizację",
+      "link": "https://businessinsider.com.pl/biznes/orlen-inwestuje-w-magazyn-energii-to-pierwszy-taki-projekt/fxkpkmq",
+      "summary": "Prezes Orlenu wskazał, że do pełnego wykorzystania potencjału odnawialnych źródeł energii muszą powstawać nowoczesne magazyny energii. Zapowiedział budowę specjalnej instalacji o mocy 2 MW i pojemności 4 MWh, a także przedstawił wizję rozwoju w tym zakresie do 2035 r. Ile gospodarstw domowych byłby w stanie zasilić państwowy gigant?",
+      "published": "Thu, 11 Dec 2025 10:30:50 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘This seems absolutely insane’: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
+      "link": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
+      "summary": "“They have already paid the mortgage. It makes no sense to require them to ‘pay’ it again.”",
+      "published": "Thu, 11 Dec 2025 10:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nowy podatek na horyzoncie? Lewica proponuje „podatek tłuszczowy” w walce z otyłością",
+      "link": "https://www.bankier.pl/wiadomosc/Nowy-podatek-na-horyzoncie-Lewica-proponuje-podatek-tluszczowy-w-walce-z-otyloscia-9053841.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/2/fe896de3678963-948-568-59-309-3931-2358.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czy czeka nas wzrost cen niezdrowej żywności? Łukasz Michnik, rzecznik Młodej Lewicy i kandydat na posła, w rozmowie na antenie Radia ZET przedstawił postulat wprowadzenia now",
+      "published": "Thu, 11 Dec 2025 10:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Atom w Choczewie: Czy Polska jest dla USA partnerem drugiej kategorii?",
+      "link": "https://www.bankier.pl/wiadomosc/Atom-w-Choczewie-Czy-Polska-jest-dla-USA-partnerem-drugiej-kategorii-9053849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/6/052cc3a663a760-948-568-43-8-3456-2073.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zgoda Komisji Europejskiej na pomoc dla elektrowni w Choczewie to ważny sygnał dla polskiej energetyki. Kluczowe będą jednak negocjacje z amerykańskim konsorcjum oraz skuteczny ",
+      "published": "Thu, 11 Dec 2025 10:29:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kolejny korzystny wyrok TSUE ws. kredytów frankowych. Potrącenie to nie uznanie długu",
+      "link": "https://www.bankier.pl/wiadomosc/Kolejny-korzystny-wyrok-TSUE-ws-kredytow-frankowych-Potracenie-to-nie-uznanie-dlugu-9053845.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/7/0ea6a2bcdb9c93-948-568-32-10-967-580.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Złożenie przez konsumenta oświadczenia o potrąceniu nie może być automatycznie rozumiane jako zrzeczenie się zarzutu przedawnienia wierzytelności banku o zwrot kapitału kredytu -",
+      "published": "Thu, 11 Dec 2025 10:23:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Uwaga na dziury. Opel i Peugeot wzywają auta do serwisów",
+      "link": "https://www.bankier.pl/wiadomosc/Uwaga-na-dziury-Opel-i-Peugeot-wzywaja-auta-do-serwisow-9053843.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/1/e31720ed23615c-948-568-0-0-1871-1122.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Właściciele ponad 102 tys. samochodów wyprodukowanych przez koncern Stellantis muszą pilnie zgłosić się do serwisu. Wadliwe okazało się zawieszenie, a dokładniej wahacze łączące ",
+      "published": "Thu, 11 Dec 2025 10:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "My Taiwanese immigrant friend worked in Walmart for minimum wage and retired at 87 with $2 million. What was her secret?",
+      "link": "https://www.marketwatch.com/story/my-taiwanese-immigrant-friend-worked-in-walmart-for-minimum-wage-and-retired-at-87-with-2-million-what-was-her-secret-0bf583d6?mod=mw_rss_topstories",
+      "summary": "“She owns two houses and lives with a disabled son.”",
+      "published": "Thu, 11 Dec 2025 10:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Jak się żyje po dwóch latach rządów Donalda Tuska? Polacy odpowiedzieli [SONDAŻ]",
+      "link": "https://businessinsider.com.pl/wiadomosci/sondaz-polacy-ocenili-dwa-lata-rzadow-donalda-tuska/rfqb1em",
+      "summary": "Już 13 grudnia miną dokładnie 2 lata, odkąd Donald Tusk powrócił na stanowisko szefa polskiego rządu. Instytut Badań Pollster postanowił sprawdzić, jak Polacy po tym czasie oceniają swoją sytuację życiową. Wyniki sondażu, opublikowane w \"Super Expressie\", pokazują wyraźne rozwarstwienie nastrojów.",
+      "published": "Thu, 11 Dec 2025 10:12:20 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "To może być kolejny game changer w sprawach frankowych. TSUE znowu zabrał głos",
+      "link": "https://businessinsider.com.pl/prawo/wyrok-tsue-moze-zatrzasc-bankami-frankowicze-zyskuja-silny-argument/gkc2yx4",
+      "summary": "Trybunał Sprawiedliwości Unii Europejskiej wydał wyrok, który może mieć znaczenie dla tysięcy konsumentów, którzy zostali pozwani przez bank o zwrot kapitału. TSUE wskazał, jak powinny działać polskie sądy, by nie naruszać dyrektywy o ochronie konsumentów.",
+      "published": "Thu, 11 Dec 2025 10:01:38 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Investor who bought former Kanye West home in Malibu threatened with foreclosure",
+      "link": "https://www.marketwatch.com/story/investor-who-bought-former-kanye-west-home-in-malibu-threatened-with-foreclosure-df0dfd09?mod=mw_rss_topstories",
+      "summary": "The Malibu beach house is being turned into a unique members-only investment opportunity after the latest owner was threatened with foreclosure, having defaulted on his $18.5 million mortgage.",
+      "published": "Thu, 11 Dec 2025 10:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kurs dolara reaguje na decyzję o cięciu stóp procentowych. Eksperci komentują",
+      "link": "https://businessinsider.com.pl/gielda/kurs-dolara-po-decyzji-fed-co-ze-stopami-procentowymi/fw23hbt",
+      "summary": "Podobnie jak w Polsce stopy procentowe w USA w grudniu spadły. \"Decyzja dotycząca obniżki wzbudziła nadspodziewanie głębokie podziały wewnątrz komitetu FOMC\" - wskazują ekonomiści mBanku. W czwartek rano dolary można kupić taniej. Sprawdzamy, jak zareagowały akcje i obligacje.",
+      "published": "Thu, 11 Dec 2025 09:50:05 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Luksus w Polsce drożeje szybciej niż myślisz. Zobacz, gdzie kupują najbogatsi",
+      "link": "https://businessinsider.com.pl/nieruchomosci/rynek-premium-w-polsce-rosnie-gdzie-sprzedaz-idzie-najszybciej/p0rj53b",
+      "summary": "Polski rynek premium rośnie, ale nie zawsze tam, gdzie spodziewałby się przeciętny inwestor. Przykładem jest tu wewnętrzny rynek warszawski, gdzie nastąpiła znacząca zmiana. Najnowsze dane CBRE ujawniają, które miasta przyciągają milionowe transakcje — i gdzie sprzedaż idzie najszybciej.",
+      "published": "Thu, 11 Dec 2025 09:44:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Gundlach keeps finding 1995 parallels as Fed finally catches up to 2-year Treasury",
+      "link": "https://www.marketwatch.com/story/gundlach-keeps-finding-1995-parallels-as-fed-finally-catches-up-to-2-year-treasury-087157b8?mod=mw_rss_topstories",
+      "summary": "",
+      "published": "Thu, 11 Dec 2025 09:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Kontrowersyjny ruch byłego szefa PKP Cargo. Chodzi o akcje spółki. \"Znam przepisy\"",
@@ -226,20 +546,28 @@
       "category": "pl"
     },
     {
-      "title": "Szwajcarzy pozostali na zerze. Stopy w SNB bez zmian",
-      "link": "https://www.bankier.pl/wiadomosc/Stopy-w-SNB-w-grudniu-2025-pozostaly-bez-zmian-9053814.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/a99886880d95d3-948-568-7-0-992-595.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szwajcarski Bank Narodowy nie zdecydował się na wprowadzenie ujemnych stóp procentowych. Stawka polityki monetarnej pozostała bez zmian na poziomie 0,00%.</p>",
-      "published": "Thu, 11 Dec 2025 09:31:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Google włącza \"gniazdka\" dla AI. Agenci zaczną działać z firmowymi usługami bez kombinowania",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/google-wlacza-mcp-dla-ai-agenci-zaczna-dzialac-z-firmowymi-uslugami-bez-kombinowania/4l81cgt",
+      "summary": "Google uruchamia zarządzane serwery MCP, które mają sprawić, że agenci AI będą podłączali się do usług takich jak Maps, BigQuery czy Cloud tak łatwo, jak wpinanie ładowarki do gniazdka. Bez tygodni integracji, bez własnej \"hydrauliki\" i z pełnym bezpieczeństwem po stronie Google. To ma odmienić sposób, w jaki firmy wdrażają agentów AI.",
+      "published": "Thu, 11 Dec 2025 09:41:06 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
-      "title": "Cezary Graf prognozuje, że “srebro będzie trzycyfrowe w dolarze” i ponownie drwi z Rafała Zaorskiego",
-      "link": "https://comparic.pl/cezary-graf-prognozuje-ze-srebro-bedzie-trzycyfrowe-w-dolarze-i-ponownie-drwi-z-rafala-zaorskiego/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1080\" src=\"https://comparic.pl/wp-content/uploads/2025/12/insert.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1920\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/insert-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" w",
-      "published": "Thu, 11 Dec 2025 09:30:16 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
+      "title": "Deweloperzy wracają do ofensywy. Rynek szykuje się na sprzedażowe żniwa w 2026 r.",
+      "link": "https://businessinsider.com.pl/nieruchomosci/rynek-pierwotny-odbija-w-listopadzie-deweloperzy-znow-zwiekszaja-podaz/1kzfrz5",
+      "summary": "Listopad przyniósł odbicie na rynku pierwotnym: rośnie sprzedaż, rośnie podaż, a deweloperzy ponownie zwiększają aktywność inwestycyjną. To efekt tańszych kredytów i serii obniżek stóp procentowych, które zdaniem ekspertów otwierają drogę do rekordowego roku 2026, napędzanego głównie klientami kredytowymi.",
+      "published": "Thu, 11 Dec 2025 09:40:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "10 świątecznych akcentów, które odmienią każde wnętrze",
+      "link": "https://businessinsider.com.pl/lifestyle/10-swiatecznych-akcentow-ktore-odmienia-kazde-wnetrze/rmeh6b8",
+      "summary": "Święta Bożego Narodzenia to nie tylko Wigilia i dwa magiczne dni, przeżywane w gronie najbliższych. To także cudowny czas przygotowań, szukania sposobów na ocieplenie domowej przestrzeni świątecznymi dekoracjami i celebrowanie przytulności w niecierpliwym oczekiwaniu na pierwszą gwiazdkę.",
+      "published": "Thu, 11 Dec 2025 09:38:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Pomaganie, które łączy. Wolontariat pracowniczy Procter & Gamble oczami jego uczestników",
@@ -258,38 +586,6 @@
       "category": "other"
     },
     {
-      "title": "Policjanci dostaną do 1800 zł miesięcznie. \"Czekali kilkanaście lat\"",
-      "link": "https://businessinsider.com.pl/praca/wynagrodzenia/swiadczenia-mieszkaniowe-dla-policjantow-czekali-kilkanascie-lat/n54799e",
-      "summary": "Od poniedziałku ruszą wypłaty świadczeń mieszkaniowych dla funkcjonariuszy — przekazał wiceprzewodniczący NSZZ Policjantów Andrzej Szary, powołując się na informacje od wiceszefa MSWiA Wiesława Szczepańskiego. Pieniądze powinny do świąt trafić na konta wszystkich funkcjonariuszy. Kwota nie jest mała.",
-      "published": "Thu, 11 Dec 2025 09:23:05 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "SpaceX uderza na giełdę: historyczne IPO za 1,5 bln USD i tajemniczy transfer 1000 BTC",
-      "link": "https://comparic.pl/spacex-uderza-na-gielde-historyczne-ipo-za-15-bln-usd-i-tajemniczy-transfer-1000-btc/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2025/12/elon-musk-2.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/elon-musk-2-324x235.webp\" style=\"float: left; margin: 0 15px",
-      "published": "Thu, 11 Dec 2025 09:11:34 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fed dał sygnał bykom na Wall Street. Co z europejskimi giełdami?",
-      "link": "https://www.bankier.pl/wiadomosc/Fed-dal-sygnal-bykom-na-Wall-Street-Co-z-europejskimi-gieldami-9053793.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/9/67f6de557b7825-948-568-22-217-2975-1784.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Indeksy na Wall Street do czasu decyzji FOMC wahały się w wąskim zakresie, jednak obniżka stóp dała argument do wzrostów i S&amp;P 500 zbliżył się do historycznego szczytu, os",
-      "published": "Thu, 11 Dec 2025 08:54:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szymon Hołownia zabrał głos po ostatniej wizycie w USA. Ocenił swoje szanse w ONZ",
-      "link": "https://businessinsider.com.pl/wiadomosci/szymon-holownia-zabral-glos-w-sprawie-stanowiska-w-onz-ocenil-swoje-szanse/y5tw939",
-      "summary": "Los Szymona Hołowni nadal nie jest przesądzony. W najbliższym czasie sekretarz generalny ONZ Antonio Guterres powinien wskazać nowego Wysokiego Komisarza ds. uchodźców. Aplikujący na to stanowisko były marszałek Sejmu Szymon Hołownia podzielił się w mediach społecznościowych najnowszymi informacjami na temat przebiegu rekrutacji. Ocenił też swoje szanse na to stanowisko.",
-      "published": "Thu, 11 Dec 2025 08:52:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Shein z potężną inwestycją pod Wrocławiem. Chiński gigant powiększy zatrudnienie do 5 tys. osób",
       "link": "https://www.bankier.pl/wiadomosc/Shein-z-potezna-inwestycja-pod-Wroclawiem-Chinski-gigant-powiekszy-zatrudnienie-do-5-tys-osob-9053774.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/a/94e4cbd713bac7-948-568-10-200-3990-2393.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Globalna platforma e-commerce Shein oficjalnie otworzyła nowe centrum logistyczne w powiecie wrocławskim. Obiekt, wyposażony w zaawansowaną automatykę, ma pełnić funkcję główn",
@@ -298,51 +594,11 @@
       "category": "pl"
     },
     {
-      "title": "Bitcoin spada poniżej 90 000 USD po słabszych prognozach z sektora AI",
-      "link": "https://comparic.pl/bitcoin-spada-ponizej-90-000-usd-po-slabszych-prognozach-z-sektora-ai/",
-      "summary": "<img alt=\"bitcoin AI\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/12/bitcoin-ai.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"bitcoin AI\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/bitcoin-ai-324x235.jpg\" style=\"float: lef",
-      "published": "Thu, 11 Dec 2025 08:48:55 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Jest we władzach PKP Cargo sprzedał wszystkie akcje. Potem je odkupił. KNF reaguje",
       "link": "https://www.money.pl/gospodarka/jest-we-wladzach-pkp-cargo-sprzedal-wszystkie-akcje-potem-je-odkupil-knf-reaguje-7231236348849088a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5a246986-db9a-4ddd-ac71-382fbcb137e3\" width=\"308\" /> Wiceprzewodniczący rady nadzorczej PKP Cargo dr Marcin Wojewódka w środę sprzedał akcje spółki PKP Cargo. Podczas tej samej sesji na GPW Wojewódka odkupił tyle samo akcji, ale już za mniejszą kwotę. Sprawę analizuje Komisja Nadzoru Finansowego.",
       "published": "Thu, 11 Dec 2025 08:45:46 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Czwartkowe kursy walut dolar, funt, frank i euro 11 grudnia 2025 r.",
-      "link": "https://comparic.pl/czwartkowe-kursy-walut-dolar-funt-frank-i-euro-11-grudnia-2025-r/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"427\" src=\"https://comparic.pl/wp-content/uploads/2021/05/pln-zloty-cc.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"640\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2021/05/pln-zloty-cc-324x235.jpg\" style=\"float: left; margin: 0 15px ",
-      "published": "Thu, 11 Dec 2025 08:40:38 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Cena złota ma wzrosnąć do 6 tys. dol., a razem z nią skoczy srebro, prognozuje ekspert",
-      "link": "https://comparic.pl/cena-zlota-ma-wzrosnac-do-6-tys-dol-a-razem-z-nia-skoczy-srebro-prognozuje-ekspert/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"716\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-silver-XAG-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-",
-      "published": "Thu, 11 Dec 2025 08:39:53 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zamieszanie z akcjami ważnej osoby z władz państwowej spółki. KNF reaguje",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/akcje-pkp-cargo-ostro-w-gore-i-w-dol-knf-reaguje-o-co-chodzi/h8mkvyk",
-      "summary": "Akcje pogrążonej w problemach finansowych spółce PKP Cargo w środę poleciały ostro w dół, by w czwartek równie mocno odbić w górę. Stało się to po informacjach o dużych transakcjach dokonanych przez Marcina Wojewódkę, który ma za zadanie patrzeć na ręce władzom państwowej spółki. Teraz wszyscy patrzą jemu na ręce. Także państwowy organ odpowiedzialny za kontrolowanie rynku finansowego.",
-      "published": "Thu, 11 Dec 2025 08:32:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Euro przebija 1,17 dolara. Dolar się sypie, co się wydarzyło na rynku walut?",
-      "link": "https://comparic.pl/euro-przebija-117-dolara-dolar-sie-sypie-co-sie-wydarzylo-na-rynku-walut/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/06/freepik-usd-dolar-dollar-PLN-polski-zloty-EUR-euro.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/06/freepik-usd-dolar-doll",
-      "published": "Thu, 11 Dec 2025 08:28:14 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -356,7 +612,7 @@
     {
       "title": "Optymalizacja podatku Belki na stratnych akcjach. Tak to się robi w PKP Cargo",
       "link": "https://www.bankier.pl/wiadomosc/Optymalizacja-podatku-Belki-na-stratnych-akcjach-Tak-to-sie-robi-w-PKP-Cargo-9053759.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/4/252c4a29c84412-948-568-104-130-3323-1994.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przewodniczący rady nadzorczej PKP Cargo a wcześniej pełniący obowiązki prezesa spółki dr Marcin Wojewódka mógł dokonać agresywnej optymalizacji podatkowej. Zaksięgował potęż",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/4/252c4a29c84412-948-568-104-130-3323-1994.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wiceprzewodniczący rady nadzorczej PKP Cargo a wcześniej pełniący obowiązki prezesa spółki dr Marcin Wojewódka mógł dokonać agresywnej optymalizacji podatkowej. Zaksięgował p",
       "published": "Thu, 11 Dec 2025 08:25:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
@@ -370,116 +626,12 @@
       "category": "pl"
     },
     {
-      "title": "Co się dzieje z Bayerem? 79% w górę i nowy cel 50 euro!",
-      "link": "https://comparic.pl/co-sie-dzieje-z-bayerem-79-w-gore-i-nowy-cel-50-euro/",
-      "summary": "<img alt=\"freepik byk bull market hossa growth zysk profit chart 9\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-byk-bull-market-hossa-growth-zysk-profit-chart-9.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"freepik byk bull market hossa growth zysk profit chart 9\" class=\"attachment-td_324x235 s",
-      "published": "Thu, 11 Dec 2025 08:07:02 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Akcje strzelają w górę. Gigant z USA zgarnia kontrakt za 448 mln",
-      "link": "https://comparic.pl/akcje-strzelaja-w-gore-gigant-z-usa-zgarnia-kontrakt-za-448-mln/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"559\" src=\"https://comparic.pl/wp-content/uploads/2024/10/freepik-wzrost-byk-bull-growth-hossa-1-e1729097876133.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"922\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/10/freepik-wzrost-byk-b",
-      "published": "Thu, 11 Dec 2025 07:51:25 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Bitcoin w kruchym przedziale po decyzji Fed. Analitycy ostrzegają przed kapitulacją",
-      "link": "https://comparic.pl/bitcoin-w-kruchym-przedziale-po-decyzji-fed-analitycy-ostrzegaja-przed-kapitulacja/",
-      "summary": "<img alt=\"ETH, DOGE, BTC, XRP, SOL\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/09/eth-doge-btc-xrp-sol-chatgpt.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"ETH, DOGE, BTC, XRP, SOL\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/202",
-      "published": "Thu, 11 Dec 2025 07:49:20 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "ABW zatrzymała rosyjskiego naukowca. Był poszukiwany przez Ukrainę",
-      "link": "https://businessinsider.com.pl/wiadomosci/akcja-abw-w-warszawie-zatrzymano-rosyjskiego-naukowca/mh3zvgg",
-      "summary": "Polskie służby nie ustają w walce z Rosją i związanych z nią przestępcami. Jak poinformował PAP rzecznik ministra koordynatora służb specjalnych Jacek Dobrzyński, funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego dokonali kolejnego zatrzymania obywatela tego kraju. Tym razem sprawa dotyczy rosyjskiego naukowca.",
-      "published": "Thu, 11 Dec 2025 07:48:53 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Gdzie można znaleźć pracę? W tych branżach przyjmą z pocałowaniem ręki",
-      "link": "https://businessinsider.com.pl/praca/perspektywy-pracy-w-2026-r-sprawdz-kogo-szukaja-pracodawcy/p5snrpn",
-      "summary": "Wszystko wskazuje na to, że pierwsze miesiące 2026 r. zapowiadają się dość optymistycznie dla poszukujących pracy. Według badania ManpowerGroup prognoza netto zatrudnienia dla Polski na I kwartał przyszłego roku wynosi +22 proc., co oznacza skok o 11 pkt proc. wobec końcówki 2025 r. i wzrost o 7 pkt proc. w ujęciu rok do roku. Nie oznacza to jednak, że wszędzie będzie różowo.",
-      "published": "Thu, 11 Dec 2025 07:47:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "USA chcą przywrócenia dostaw rosyjskiej energii do Europy",
-      "link": "https://www.bankier.pl/wiadomosc/USA-chca-przywrocenia-dostaw-rosyjskiej-energii-do-Europy-9053695.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/d/85e2f7f96eb191-948-568-60-142-2662-1597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Amerykanie w załącznikach do propozycji pokojowych dotyczących Ukrainy proponują przywrócenie dostaw rosyjskiej energii do Europy Zachodniej - napisał w środę dziennik „Wall S",
-      "published": "Thu, 11 Dec 2025 07:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Donald Trump uruchomił \"złotą kartę\". Przyspieszone obywatelstwo pod jednym warunkiem",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-wprowadza-zlota-karte-szybkie-obywatelstwo-za-oplata/e3c9kmk",
-      "summary": "Prezydent USA Donald Trump w środę ogłosił start programu Trump Gold Card, który oferuje szybką ścieżkę do amerykańskiej rezydencji, a docelowo obywatelstwa, dla osób wpłacających co najmniej 1 mln dol. Jak podkreślił w serwisie Truth Social, karta ma stanowić \"bezpośrednią drogę do obywatelstwa dla wszystkich wykwalifikowanych i sprawdzonych osób\", a amerykańskie firmy dzięki programowi \"zatrzyma",
-      "published": "Thu, 11 Dec 2025 07:39:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Radosław Sikorski ma powody do zadowolenia. W sondażu nie ma sobie równych",
-      "link": "https://businessinsider.com.pl/wiadomosci/radoslaw-sikorski-deklasuje-konkurentow-co-za-przewaga-sondaz/vhmyjx4",
-      "summary": "Radosław Sikorski został uznany przez Polaków za najlepszego ministra spraw zagranicznych ostatniej dekady. Tak wynika z sondażu przeprowadzonego przez pracownię SW Research na zlecenie tygodnika \"Wprost\". Obecny szef MSZ zdeklasował rywali.",
-      "published": "Thu, 11 Dec 2025 07:36:57 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kierowcy nie będą zadowoleni. Ceny paliw wzrosną w 2026 roku",
-      "link": "https://businessinsider.com.pl/gospodarka/ceny-paliw-wzrosna-stawki-nowej-oplaty-juz-opublikowane/m87ehf4",
-      "summary": "Minister infrastruktury podwyższył stawki opłaty paliwowej na 2026 r. dla wszystkich rodzajów paliw o 4 proc. — podano w obwieszczeniu opublikowanym w Monitorze Polskim. Wskazujemy, jak przekłada się to na konkretne kwoty.",
-      "published": "Thu, 11 Dec 2025 07:35:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ceny prądu w 2026 roku. Minister Motyka: Będą zbliżone do 500 zł/MWh",
-      "link": "https://www.bankier.pl/wiadomosc/Ceny-pradu-w-2026-roku-Minister-Motyka-Beda-zblizone-do-500-zl-MWh-9053751.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/a/c289e638087916-948-568-7-7-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ceny w taryfach prądu na 2026 r. będą zbliżone do poziomu 500 zł/MWh - ocenia minister energii Miłosz Motyka.</p>",
-      "published": "Thu, 11 Dec 2025 07:30:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Matki na celowniku ZUS. Zakład żąda zwrotu świadczeń sprzed dekady",
-      "link": "https://www.bankier.pl/wiadomosc/Matki-na-celowniku-ZUS-Zaklad-zada-zwrotu-swiadczen-sprzed-dekady-9053699.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/a/78939eaedb1dc2-945-560-663-810-3656-2193.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />ZUS domaga się zwrotu świadczeń wypłaconych matkom prowadzącym firmy nawet kilkanaście lat temu, naliczając gigantyczne odsetki. Uważa, że roszczenia te się nie przedawniają ",
-      "published": "Thu, 11 Dec 2025 07:30:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Dwa lata rządów Tuska. Oto co się dzieje z gospodarką",
       "link": "https://www.money.pl/gospodarka/podsumowali-dwa-lata-rzadow-tuska-oto-co-sie-dzieje-z-gospodarka-7231216122330048a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/dd446c48-d828-466e-a01c-7eaf63268c8e\" width=\"308\" /> W ciągu dwóch lat rządów gabinetu Donalda Tuska wyraźnie przyspieszył wzrost gospodarczy, w górę poszły także płace, przy jednoczesnym spadku inflacji. Jednocześnie mocno zwiększył się polski dług publiczny, a liczba bezrobotnych powiększyła się o 100 tys. osób.",
       "published": "Thu, 11 Dec 2025 07:29:05 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "\"Gospodarcza Jałta\". Szokujące doniesienia w sprawie planu pokojowego Donalda Trumpa",
-      "link": "https://businessinsider.com.pl/wiadomosci/szokujace-doniesienia-w-sprawie-planu-pokojowego-usa-dla-ukrainy-rosja-ma-wrocic-do/k74zy4h",
-      "summary": "Według środowych doniesień gazety \"Wall Street Journal\" administracja prezydenta Donalda Trumpa przedstawiła europejskim partnerom załączniki do propozycji pokojowych dotyczących Ukrainy. Jak podaje amerykański dziennik, wywołały gwałtowną dyskusję wśród zachodnich dyplomatów. Chodziło zwłaszcza o jeden kontrowersyjny element.",
-      "published": "Thu, 11 Dec 2025 07:14:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Czego Polacy oczekują od rządu? Aż 40 proc. ankietowanych wskazało ten sam postulat [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/czego-chca-polacy-od-rzadu-donalda-tuska-jasny-priorytet-sondaz/m0keec8",
-      "summary": "Połowa kadencji już w zasadzie za rządem Donalda Tuska. Z tej okazji CBOS przygotował sondaż, który ukazuje oczekiwania Polaków wobec rządu na drugą połowę. Daleko wśród nich jest rozliczanie poprzedniego rządu PiS-u. Priorytetem jest coś zupełnie innego.",
-      "published": "Thu, 11 Dec 2025 07:12:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Odłożyła na emeryturę 350 tys. zł. Pieniądze przejął ZUS. RPO komentuje",
@@ -522,30 +674,6 @@
       "category": "pl"
     },
     {
-      "title": "UOKiK znalazł sposób na Gazprom. Tak chcą odzyskać miliony długu wobec Polski",
-      "link": "https://www.bankier.pl/wiadomosc/UOKiK-znalazl-sposob-na-Gazprom-Tak-chca-odzyskac-miliony-dlugu-wobec-Polski-9053744.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/e/6b98da9804ff96-945-560-0-96-3500-2099.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Batalia Urzędu Ochrony Konkurencji i Konsumentów z Gazpromem o 174,5 mln zł zasądzonych Polsce przyjęła niezwykle ciekawy obrót. Jak informuje w czwartek \"Puls Biznesu\", prezes ",
-      "published": "Thu, 11 Dec 2025 07:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Orlen akcje prognozy na najbliższe dni: Orlen teraz pokaże moc! Czy zwyżka potrwa do końca 2025 roku?",
-      "link": "https://comparic.pl/orlen-akcje-prognozy-na-najblizsze-dni-orlen-teraz-pokaze-moc-czy-zwyzka-potrwa-do-konca-2025-roku/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2020/03/pkn-orlen.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"799\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2020/03/pkn-orlen-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0",
-      "published": "Thu, 11 Dec 2025 06:44:43 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Donald Trump zabrał głos w sprawie właściciela TVN. Padły słowa o \"truciźnie\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/sprzedaz-wlasciciela-tvn-padly-ostre-slowa-z-ust-donalda-trumpa/h3sdvt1",
-      "summary": "Środowe wystąpienie Donalda Trumpa ponownie wstrząsnęło amerykańskim rynkiem medialnym. Prezydent USA, pytany o toczącą się rywalizację o przejęcie Warner Bros. Discovery (WBD). Trump przedstawił przy tym swoje żądania, a jedno z nich dotyczyło CNN — stacji, która w ocenia prezydenta USA nie sprzyja jego polityce. Wypowiedział się o niej w mocnych słowach.",
-      "published": "Thu, 11 Dec 2025 06:41:59 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Media: USA proponują przywrócenie dostaw rosyjskiej energii do Europy",
       "link": "https://www.money.pl/gospodarka/media-usa-proponuja-przywrocenie-dostaw-rosyjskiej-energii-do-europy-7231199357172672a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4bee1573-b2d5-4954-8451-45cc95943741\" width=\"308\" /> Amerykanie w załącznikach do propozycji pokojowych dotyczących Ukrainy proponują przywrócenie dostaw rosyjskiej energii do Europy Zachodniej - napisał w środę dziennik \"Wall Street Journal\". USA chcą też, by 200 mld dol. z rosyjskich środków zamrożonych w Europie wykorzys",
@@ -554,131 +682,11 @@
       "category": "pl"
     },
     {
-      "title": "Waldemar Żurek spełnił nadzieje Donalda Tuska? Polacy zabrali głos [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/minister-waldemar-zurek-co-mysla-o-nim-polacy-wyniki-najnowszego-sondazu/wf1zdq8",
-      "summary": "Waldemar Żurek został wysłany do boju przez Donalda Tuska, by przyspieszyć proces cofania zmian wprowadzonych w sądownictwie przez PiS. Tymczasem opozycja niemal codziennie zarzuca mu bezprawne działania. Wyniki najnowszego sondażu UCE Research dla Onetu wskazują, że opinie Polaków na temat decyzji ministra są mocno podzielone.",
-      "published": "Thu, 11 Dec 2025 06:11:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bitcoin po zmroku. Gdy Ameryka śpi, budzą się zarządzający funduszem",
-      "link": "https://www.bankier.pl/wiadomosc/Bitcoin-po-zmroku-Gdy-Ameryka-spi-budza-sie-zarzadzajacy-funduszem-9053187.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/8/6b8bd5ab690ddf-948-568-0-25-995-597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />\"Bitcoin After Dark\" to nowy fundusz ETF, którego wniosek rejestracyjny wpłynął do amerykańskiej Komisji Papierów Wartościowych i Giełd. Zarządzający funduszem chcą posiadać ekspo",
-      "published": "Thu, 11 Dec 2025 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Będzie bat na kancelarie odszkodowawcze? RPO pisze do Ministra Sprawiedliwości",
-      "link": "https://www.bankier.pl/wiadomosc/Bedzie-bat-na-kancelarie-odszkodowawcze-RPO-pisze-do-Ministra-Sprawiedliwosci-9051015.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/c/92184357c4d311-948-568-2-70-995-597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Problem kancelarii odszkodowawczej wraca do debaty publicznej. Polska Izba Ubezpieczeń przypomina o konieczności uregulowania działalności firm, aby chronić klientów przed nieuczc",
-      "published": "Thu, 11 Dec 2025 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rak gorszy niż utrata pracy. Poważne zachorowanie można ubezpieczyć, są jednak granice",
-      "link": "https://www.bankier.pl/wiadomosc/Polisa-od-powaznego-zachorowania-na-to-warto-uwazac-9053435.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/4/504438095176ca-948-568-94-0-1740-1044.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Statystyki są nieubłagane – liczba zachorowań na nowotwory w Polsce rośnie, a sytuacja będzie się pogarszać. Braku środków na leczenie boimy się bardziej niż utraty pracy, co sp",
-      "published": "Thu, 11 Dec 2025 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Donald Trump naciska na Ukrainę w sprawie wyborów. \"Zastanawiam się\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-zabral-glos-w-sprawie-wyborow-w-ukrainie-zastanawiam-sie/1vlb089",
-      "summary": "Działania USA w zakresie planu pokojowego nabierają tempa. Podczas środowego spotkania z przedstawicielami biznesu prezydent USA Donald Trump szeroko komentował sytuację w Ukrainie oraz ostatnie kontakty dyplomatyczne. Zwrócił się on z apelem do prezydenta Wołodymyra Zełenskiego i zabrał głos w sprawie potencjalnego przeprowadzenia wyborów w Ukrainie.",
-      "published": "Thu, 11 Dec 2025 05:53:59 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Przelewy między małżonkami. Co z podatkiem? Jest interpretacja",
-      "link": "https://businessinsider.com.pl/prawo/podatki/przelew-z-konta-zony-na-wspolne-konto-czy-grozi-podatek-od-darowizn/vrrrheb",
-      "summary": "Przelewy między małżonkami to codzienność w wielu polskich rodzinach. Jednak co w sytuacji, gdy żona przelewa pieniądze na wspólne konto, z którego mąż zamierza sfinansować zakup samochodu? Czy takie transakcje mogą zainteresować urząd skarbowy? Fiskus wydał właśnie interpretację indywidualną w takiej sprawie.",
-      "published": "Thu, 11 Dec 2025 05:47:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Dochód pasywny dla ostrożnych z turbodoładowaniem. Przykładowe strategie [PORADNIK]",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/oszczedzanie-w-ikze-z-obligacjami-zobacz-strategie-i-ile-zyskasz-poradnik/pzc98hn",
-      "summary": "Zysk 1700 lub 3700 zł w pierwszym roku inwestowania? Brzmi jak ryzykowna gra na giełdzie, ale nic z tych rzeczy. Zainwestowanie w grudniu, może przynieść ponadprzeciętne zyski. W Business Insider Polska pokazujemy sposób na pomnożenie oszczędności dla ostrożnych.",
-      "published": "Thu, 11 Dec 2025 05:36:27 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Dwa lata rządów Donalda Tuska. Polacy ocenili stopień realizacji obietnic [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/sondaz-polacy-ocenili-realizacje-obietnic-przez-rzad-zle-wiesci-dla-donalda-tuska/vsgwtz6",
-      "summary": "Już w sobotę, 13 grudnia, miną dwa lata, odkąd Donald Tusk ponownie objął fotel premiera. To okres obfitujący w dynamiczne zwroty akcji na scenie politycznej, wzmożone debaty publiczne i liczne dyskusje o tym, czy zapowiadane reformy faktycznie posuwają się naprzód. W najświeższym badaniu UCE Research dla Onetu respondenci zostali zapytani, czy ich zdaniem gabinet Donalda Tuska realizuje swoje wyb",
-      "published": "Thu, 11 Dec 2025 05:35:45 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Modelowa umowa zmieni rynek hipotek. \"To może być skok cywilizacyjny\"",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/nizsze-raty-i-bezpieczniejszy-kredyt-nowa-modelowa-umowa-moze-zmienic-rynek-hipotek/ywlp1eq",
-      "summary": "Polacy narzekają, że mają jedne z najwyżej oprocentowanych kredytów mieszkaniowych w Europie. I choć głównie wpływa na to wysokość stopy procentowej banku centralnego, to istotne znaczenie mają też inne czynniki. Jednym z nich jest ryzyko prawne. Teraz — za sprawą wprowadzenia modelowej umowy kredytu mieszkaniowego — jest szansa, że zmaleje, a w następstwie tego powinno spaść oprocentowanie hipote",
-      "published": "Thu, 11 Dec 2025 05:26:43 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "W IT nadal można zarobić krocie. Ci specjaliści zarabiają fortunę",
-      "link": "https://businessinsider.com.pl/praca/wiemy-kto-dzis-podbija-branze-it-ci-specjalisci-zarabiaja-fortune/1n09161",
-      "summary": "Podczas gdy większość branży IT zmaga się z końcem \"eldorado\" i cięciami etatów, jedna grupa specjalistów wciąż dyktuje warunki pracodawcom. Ich wynagrodzenia biją rekordy, a firmy walczą o każdego kandydata. Co więcej — ich sytuacja może się jeszcze poprawić.",
-      "published": "Thu, 11 Dec 2025 05:16:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "You’ve just won the $930 million Powerball jackpot. Here are the 5 money moves you need to make next.",
       "link": "https://www.marketwatch.com/story/5-money-moves-to-make-if-you-win-the-1-4-billion-powerball-jackpot-tonight-or-get-a-similar-financial-windfall-8fe31838?mod=mw_rss_topstories",
       "summary": "But even if you’re not a big lottery winner in tonight’s Powerball drawing, it’s still worth heeding this advice for managing a significant sum of money",
       "published": "Thu, 11 Dec 2025 01:37:00 GMT",
       "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Oracle’s mixed earnings fail to dispel AI fears, and the stock falls",
-      "link": "https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?mod=mw_rss_topstories",
-      "summary": "While the company beat EPS estimates and increased its AI deal pipeline, concerns over its financing strategy remain.",
-      "published": "Thu, 11 Dec 2025 01:22:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Adobe’s AI-driven earnings beat is not enough to boost the stock",
-      "link": "https://www.marketwatch.com/story/adobes-ai-driven-earnings-beat-is-not-enough-to-boost-the-stock-3031b9ff?mod=mw_rss_topstories",
-      "summary": "The software company said its record fiscal 2025 results reflect global attention and use of its AI tools",
-      "published": "Thu, 11 Dec 2025 01:20:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Chewy+ subscriptions strength helps extend the streak of growing ‘pegged’ customers",
-      "link": "https://www.marketwatch.com/story/chewy-subscriptions-strength-helps-extend-the-streak-of-growing-pegged-customers-0920f9e6?mod=mw_rss_topstories",
-      "summary": "Chewy sees Autoship sales continuing to increase as a percentage of total sales, helped by growth in the Chewy+ subscription program.",
-      "published": "Thu, 11 Dec 2025 00:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "U.S. seizes oil tanker off Venezuela. Why one analyst says it’s ‘a smart move.’",
-      "link": "https://www.marketwatch.com/story/u-s-seizes-oil-tanker-off-venezuela-why-one-analyst-says-its-a-smart-move-a20fda5f?mod=mw_rss_topstories",
-      "summary": "The U.S. seized an oil tanker off the coast of Venezuela, President Donald Trump said Wednesday, in a move likely to ramp up tensions with the government of President Nicolas Maduro.",
-      "published": "Thu, 11 Dec 2025 00:08:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "David Ellison's hunt for WBD made David Zaslav richer — and it may not be over",
-      "link": "https://www.cnbc.com/2025/12/05/paramount-david-ellison-wbd-bidding-war-hostile-bid.html",
-      "summary": "Paramount is considering taking an offer to WBD shareholders, thinking its deal has a better chance of gaining regulatory approval than Netflix's, sources said.",
-      "published": "Sun, 07 Dec 2025 03:49:11 GMT",
-      "source": "CNBC",
       "category": "us"
     },
     {
@@ -750,14 +758,6 @@
       "link": "https://www.cnbc.com/2025/12/08/united-airlines-mileage-plus-frequent-flyer-changes.html",
       "summary": "Airlines have spent years grappling with having hordes of members in elite frequent flyer programs.",
       "published": "Mon, 08 Dec 2025 14:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Netflix's plan to buy Warner Bros. throws the theater industry into upheaval",
-      "link": "https://www.cnbc.com/2025/12/05/netflix-warner-bros-deal-theater-industry-upheaval.html",
-      "summary": "Netflix, which has traditionally limited it theatrical releases, has said it will honor existing WBD cinematic contracts that run through 2029.",
-      "published": "Fri, 05 Dec 2025 18:06:46 GMT",
       "source": "CNBC",
       "category": "us"
     }
