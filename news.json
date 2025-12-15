@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-15T18:44:14.954334",
+  "generated_at": "2025-12-15T21:27:35.254508",
   "articles": [
     {
       "title": "Coca-Cola taps COO Henrique Braun to replace James Quincey as CEO in 2026",
@@ -14,14 +14,6 @@
       "link": "https://www.cnbc.com/2025/12/10/southwest-airlines-airport-lounges-ceo-bob-jordan.html",
       "summary": "Southwest's CEO said the carrier is weighing a network of airport lounges",
       "published": "Wed, 10 Dec 2025 21:49:04 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Online grocer Thrive Market bails on booze, bets big on alcohol-free boom",
-      "link": "https://www.cnbc.com/2025/12/10/online-grocer-thrive-market-goes-dry-non-alcoholic-products.html",
-      "summary": "Thrive Market is leaning into alcohol-free beverages as more Americans stop drinking booze.",
-      "published": "Wed, 10 Dec 2025 17:19:52 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -106,6 +98,166 @@
       "category": "pl"
     },
     {
+      "title": "Wall Street’s lone Nvidia bear is doubling down on his call, with high conviction",
+      "link": "https://www.marketwatch.com/story/wall-streets-lone-nvidia-bear-is-doubling-down-on-his-call-with-high-conviction-97569087?mod=mw_rss_topstories",
+      "summary": "Seaport Research’s negative view of Nvidia’s stock hasn’t panned out thus far, but analyst Jay Goldberg is emphasizing the recommendation as he looks to 2026.",
+      "published": "Mon, 15 Dec 2025 21:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Analyst takes ‘contrarian stance’ on Costco’s stock and says it’s time to sell",
+      "link": "https://www.marketwatch.com/story/analyst-takes-contrarian-stance-on-costcos-stock-and-says-its-time-to-sell-79cd07e8?mod=mw_rss_topstories",
+      "summary": "Slower membership trends, competition from Walmart and caution around starting a family all present risks to the big-box retailer, a Roth analyst said.",
+      "published": "Mon, 15 Dec 2025 21:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why ServiceNow’s stock just sank for its worst day in 11 months",
+      "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-sinking-toward-its-worst-day-in-11-months-7968e353?mod=mw_rss_topstories",
+      "summary": "The stock drop reflects concerns that ServiceNow could get more acquisitive in a bid to ignite growth.",
+      "published": "Mon, 15 Dec 2025 21:17:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘We all have economic jitters’: After the Fed cut rates, should my son buy a $600K house?",
+      "link": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
+      "summary": "“They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.”",
+      "published": "Mon, 15 Dec 2025 21:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tesla’s stock flirts with new high upon bold prediction for a $3 trillion valuation",
+      "link": "https://www.marketwatch.com/story/teslas-stock-flirts-with-new-high-upon-bold-prediction-for-a-3-trillion-valuation-5387daa7?mod=mw_rss_topstories",
+      "summary": "While Tesla shares have pared gains, optimism is building for the company’s efforts in AI and autonomous driving.",
+      "published": "Mon, 15 Dec 2025 21:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ford to record $19.5 billion in special charges related to EV pullback",
+      "link": "https://www.cnbc.com/2025/12/15/ford-ev-pullback.html",
+      "summary": "The charges are related to a restructuring of its business priorities and a pullback in its all-electric vehicle investments, Ford announced Monday.",
+      "published": "Mon, 15 Dec 2025 21:10:34 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "2025 was one hell of a year. Consumers should expect more ‘silent pain’ in 2026",
+      "link": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
+      "summary": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
+      "published": "Mon, 15 Dec 2025 21:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why Kevin Warsh is newly ascendant in the Fed chair contest",
+      "link": "https://www.marketwatch.com/story/why-kevin-warsh-is-newly-ascendant-in-the-fed-chair-contest-50253e9a?mod=mw_rss_topstories",
+      "summary": "The race to become the Federal Reserve’s next chair appeared almost over just a couple of weeks ago, but it’s now back to looking like a real competition.",
+      "published": "Mon, 15 Dec 2025 21:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kryptowaluty Trumpa okazały się ogromną porażką. Straty nie do odrobienia",
+      "link": "https://businessinsider.com.pl/gielda/kryptowaluty-trumpow-traca-99-proc-jedna-wielka-porazka/6fmqskm",
+      "summary": "Dokładnie -99 proc. Tyle brakuje do poprzedniego rekordu wyceny kryptowaluty Melania Meme (Melania Trump). Token wypracował ogromne straty i jest wart 0,1031 dol. Rekord wyceny wynosi natomiast 13,04 dol. i miał miejsce w czerwcu 2025 r. To pokazuje, jak krótkie życie miał ten projekt i jak bardzo żerował na naiwności fanów pary prezydenckiej.",
+      "published": "Mon, 15 Dec 2025 20:49:51 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "crypto"
+    },
+    {
+      "title": "These Big Tech stocks are the smart way to invest in the quantum-computing boom",
+      "link": "https://www.marketwatch.com/story/these-big-tech-stocks-are-the-smart-way-to-invest-in-the-quantum-computing-boom-dd13eb56?mod=mw_rss_topstories",
+      "summary": "Computing power and tech profits are set to explode. Here’s your multiyear strategy — depending on your risk tolerance.",
+      "published": "Mon, 15 Dec 2025 20:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These space stocks could benefit from Elon Musk’s latest AI obsession",
+      "link": "https://www.marketwatch.com/story/these-space-stocks-could-benefit-from-elon-musks-latest-ai-obsession-554c184c?mod=mw_rss_topstories",
+      "summary": "The latest craze in the space business is the promise of orbital data centers, which could provide a solution to artificial-intelligence hyperscalers’ energy problem. A slew of companies stand to benefit.",
+      "published": "Mon, 15 Dec 2025 20:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Europa uczy się zestrzeliwać drony. Chce być lepiej przygotowana na ataki hybrydowe Rosji",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/europa-uczy-sie-zestrzeliwac-drony-chce-byc-lepiej-przygotowana-na-ataki-hybrydowe/5c9cx6h",
+      "summary": "W pierwszej połowie grudnia Europa zobaczyła scenariusz, który jeszcze parę lat temu brzmiał jak political fiction. W nocy z 4 na 5 grudnia co najmniej pięć niezidentyfikowanych dronów pojawiło się nad Île Longue w Bretanii — bazą, w której stacjonują francuskie okręty podwodne z bronią jądrową. Francuskie służby uruchomiły środki przeciwdronowe, a sprawę bada prokuratura.",
+      "published": "Mon, 15 Dec 2025 20:20:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Here’s what has to happen for the Supreme Court to rule on Trump’s tariffs this year",
+      "link": "https://www.marketwatch.com/story/heres-what-has-to-happen-for-the-supreme-court-to-rule-on-trumps-tariffs-this-year-1c0e95ea?mod=mw_rss_topstories",
+      "summary": "Investors looking for a Supreme Court decision on President Donald Trump’s tariffs may now need to look at next year — but there’s one thing they should keep in mind.",
+      "published": "Mon, 15 Dec 2025 20:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Znamy zwycięzców trzeciej edycji konkursu Business Insider Awards",
+      "link": "https://businessinsider.com.pl/gospodarka/business-insider-awards-2025-rozdane-w-warszawie-oto-liderzy-biznesu/tz7dq9s",
+      "summary": "15 grudnia w Warszawie odbyła się gala Business Insider Awards 2025 — wydarzenie, które na stałe wpisało się w kalendarz polskiego biznesu. Trzecia edycja nagród pokazała, które firmy i organizacje w mijającym roku wyznaczały kierunki rozwoju polskiej gospodarki, stawiając na odwagę, innowacje i strategiczne myślenie.",
+      "published": "Mon, 15 Dec 2025 20:01:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Zmiany w VAT. Dalsze rozliczanie podatku od importu będzie możliwe",
+      "link": "https://www.bankier.pl/wiadomosc/Zmiany-w-VAT-Dalsze-rozliczanie-podatku-od-importu-bedzie-mozliwe-9056132.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/0f674b6ba08ee4-945-560-0-52-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podpisał nowelizację ustawy o podatku od towarów i usług - podała w poniedziałek kancelaria prezydenta. Dzięki nowym przepisom przedsiębiorcy będą mogli ",
+      "published": "Mon, 15 Dec 2025 19:58:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Podatek miedziowy w dół. Ustawa o wydobycia niektórych kopalin z podpisem prezydenta",
+      "link": "https://www.bankier.pl/wiadomosc/Podatek-miedziowy-w-dol-Ustawa-o-wydobycia-niektorych-kopalin-z-podpisem-prezydenta-9056124.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/9/d2f7781f230640-937-562-0-0-937-562.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podpisał ustawę o podatku od wydobycia niektórych kopalin - poinformowała w poniedziałek Kancelaria Prezydenta RP.</p>",
+      "published": "Mon, 15 Dec 2025 19:49:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czy Bitcoin spadnie o 80%? Peter Brandt widzi sygnały jak przed poprzednimi bessami",
+      "link": "https://comparic.pl/czy-bitcoin-spadnie-o-80-peter-brandt-widzi-sygnaly-jak-przed-poprzednimi-bessami/",
+      "summary": "<img alt=\"Peter Brandt\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/peter-brandt-chatgpt.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Peter Brandt\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/peter-brandt-chatgpt-324x23",
+      "published": "Mon, 15 Dec 2025 19:48:58 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zegar dla Wenezueli zaczął odliczać? Samoloty USA mogą korzystać z lotnisk Trynidadu i Tobago",
+      "link": "https://www.bankier.pl/wiadomosc/Zegar-dla-Wenezueli-zaczal-odliczac-Samoloty-USA-moga-korzystac-z-lotnisk-Trynidadu-i-Tobago-9056115.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/b/ca4a5d02900c94-945-567-161-391-4235-2541.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />MSZ Trynidadu i Tobago poinformowało w poniedziałek o wydaniu zgody na tranzyt amerykańskich samolotów wojskowych z wykorzystaniem lotnisk tego karaibskiego kraju w najbliższ",
+      "published": "Mon, 15 Dec 2025 19:40:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Grupa Azoty złożyła kontrofertę. Polyolefins wycenione na 1,022 mld zł",
+      "link": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-zlozyla-kontroferte-sprzedazy-akcji-Grupy-Azoty-Polyolefins-o-wartosci-1-02-mld-zl-aktl-9056107.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p>Grupa Azoty złożyła Orlenowi ofertę sprzedaży akcji Grupa Azoty Polyolefins - podały Azoty. Kontroferta została złożona w odpowiedzi na ofertę Orlen z 15 października. Wartość kontroferty odpowiada wartości oferty Orlen i opiewa na łączną kwotę 1,022 mld zł.</p>",
+      "published": "Mon, 15 Dec 2025 19:32:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ofensywa Donalda Trumpa nabiera tempa. Ściągnie 1000 specjalistów",
+      "link": "https://businessinsider.com.pl/technologie/wyscig-usa-chiny-nabiera-tempa-donald-trump-zatrudni-1000-specjalistow/synfd6v",
+      "summary": "Administracja Donalda Trumpa ogłosiła, że zatrudni 1000 specjalistów, którzy będą pracować nad projektami związanymi ze sztuczną inteligencją. To pokazuje, że USA coraz bardziej skupiają się na rozwoju amerykańskiej infrastruktury AI, rywalizując z Chinami o dominację w tym szybko rozwijającym się sektorze — pisze CNBC.",
+      "published": "Mon, 15 Dec 2025 19:23:24 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Kara sięgająca nawet 30 tys. złotych. Przepisy odnośnie zagrożenia pożarowego zaostrzone",
       "link": "https://www.bankier.pl/wiadomosc/Kara-siegajaca-nawet-30-tys-zlotych-Przepisy-odnosnie-zagrozenia-pozarowego-zaostrzone-9056087.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/d/6f72f16f5df99a-948-568-802-307-2137-1282.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podpisał w poniedziałek nowelizację ustawy zaostrzającą kary m.in. za wypalanie traw i rozniecanie ognia w lasach, na łąkach i torfowiskach. Górna gr",
@@ -114,18 +266,34 @@
       "category": "pl"
     },
     {
-      "title": "Prezydent o sprawie Cenckiewicza: nowa rzeczywistość, a metody wciąż te same",
-      "link": "https://www.bankier.pl/wiadomosc/Prezydent-o-sprawie-Cenckiewicza-nowa-rzeczywistosc-a-metody-wciaz-te-same-9056084.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/d/574f4acbff3659-948-568-703-136-3515-2109.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nowa rzeczywistość, a metody wciąż te same; tym razem wymierzone nie we mnie, a w mojego ministra Sławomira Cenckiewicza - napisał w poniedziałek prezydent Karol Nawrocki. „G",
-      "published": "Mon, 15 Dec 2025 19:02:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Przegląd dnia Comparic.pl: Czy XRP stanie się kluczowym elementem płatności X dzięki Elonowi Muskowi?",
+      "link": "https://comparic.pl/czy-xrp-stanie-sie-kluczowym-elementem-platnosci-x-dzieki-elonowi-muskowi/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Mon, 15 Dec 2025 19:02:53 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "Miliardy popłyną do służb. Prezydent podpisał program modernizacji służb MSWiA",
-      "link": "https://www.bankier.pl/wiadomosc/Miliardy-poplyna-do-sluzb-Prezydent-podpisal-program-modernizacji-sluzb-MSWiA-9056082.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/2/36e91b4536c5e4-948-568-0-0-1093-656.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podpisał w poniedziałek ustawę wprowadzającą program modernizacji służb MSWiA na lata 2026-2029. Zakłada ona przekazanie na ten cel 13 mld zł. Do policji ",
-      "published": "Mon, 15 Dec 2025 18:58:00 +0100",
+      "title": "Rosja może zgodzić się na wejście Ukrainy do UE. Są postępy w rozmowach pokojowych",
+      "link": "https://businessinsider.com.pl/wiadomosci/usa-i-ukraina-mowia-o-prawdziwym-postepie-w-rozmowach-pokojowych-ale-sa-tez/7cyb6m2",
+      "summary": "USA i Ukraina oceniły jako wyraźnie konstruktywne dwudniowe rozmowy w Berlinie dotyczące planu zakończenia rosyjskiej wojny przeciwko Ukrainie. Amerykańska delegacja miała przekazać, że uzgodniono już ok. 90 proc. spornych punktów, a strona ukraińska mówi o \"prawdziwym postępie\". W paru aspektach ciągle jednak nie udaje się uzyskać porozumienia.",
+      "published": "Mon, 15 Dec 2025 18:56:17 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Czy złoto ma szansę wzrosnąć o 63%? Sprawdzamy prognozy dla inwestorów w 2026 roku",
+      "link": "https://comparic.pl/czy-zloto-ma-szanse-wzrosnac-o-63-sprawdzamy-prognozy-dla-inwestorow-w-2026-roku/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"467\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-dolar-dollar-USD-zloto-GOLD-XAU-5.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-dolar-dollar-USD-zloto-G",
+      "published": "Mon, 15 Dec 2025 18:48:58 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trafiony zatopiony. Ukraińskie drony uderzyły w rosyjski okręt podwodny",
+      "link": "https://www.bankier.pl/wiadomosc/Trafiony-zatopiony-Ukrainskie-drony-uderzyly-w-rosyjski-okret-podwodny-9056069.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/4/3023a8b1400e24-948-568-0-0-1024-614.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podwodne drony Służby Bezpieczeństwa Ukrainy (SBU) po raz pierwszy uderzyły w rosyjski okręt podwodny klasy Warszawianka o wartości co najmniej 400 mln dolarów; operację przeprowa",
+      "published": "Mon, 15 Dec 2025 18:34:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -170,28 +338,12 @@
       "category": "pl"
     },
     {
-      "title": "Why ServiceNow’s stock is sinking toward its worst day in 11 months",
-      "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-sinking-toward-its-worst-day-in-11-months-7968e353?mod=mw_rss_topstories",
-      "summary": "The stock drop reflects concerns that ServiceNow could get more acquisitive in a bid to ignite growth.",
-      "published": "Mon, 15 Dec 2025 18:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Trudne rozmowy w Berlinie. Zełenski: Nie są one łatwe, ale owocne",
       "link": "https://www.bankier.pl/wiadomosc/Trudne-rozmowy-w-Berlinie-Zelenski-Nie-sa-one-latwe-ale-owocne-9056057.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/2/5426a304f42902-695-417-0-59-695-417.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski ocenił jako konstruktywne, choć niełatwe rozmowy z przedstawicielami amerykańskiej delegacji w Berlinie, dotyczące zakończenia wojny rosyjsko-",
       "published": "Mon, 15 Dec 2025 18:17:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Cyfrowa księga wieczysta to nie wszystko. Eksperci ostrzegają przed pułapkami",
-      "link": "https://businessinsider.com.pl/nieruchomosci/rynek-nieruchomosci-i-ksiegi-wieczyste-online-na-co-uwazac/z6e6dz9",
-      "summary": "Księgi wieczyste online to dziś jedno z najważniejszych narzędzi dla kupujących nieruchomości. Kilka kliknięć wystarczy, by sprawdzić, kto jest właścicielem mieszkania, czy ciąży na nim hipoteka i jakie prawa mogą zaskoczyć nabywcę po podpisaniu umowy. Diabeł — jak zwykle — tkwi jednak w szczegółach, o których wielu Polaków wciąż nie wie.",
-      "published": "Mon, 15 Dec 2025 18:13:07 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ceny RAM wzrosły 6-krotnie przez AI. Czy to manipulacja? Historia pokazuje realne zagrożenia dla rynku",
@@ -216,22 +368,6 @@
       "published": "Mon, 15 Dec 2025 18:02:56 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘This seems absolutely insane’: Our children pay rent on our investment properties. Our lawyer says they should still buy us out.",
-      "link": "https://www.marketwatch.com/story/this-seems-absolutely-insane-our-children-pay-rent-on-our-investment-properties-our-lawyer-says-they-should-still-buy-us-out-49d2707d?mod=mw_rss_topstories",
-      "summary": "“They have already paid the mortgage. It makes no sense to require them to ‘pay’ it again.”",
-      "published": "Mon, 15 Dec 2025 18:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "A messy November jobs report won’t be easy to interpret. Here’s what investors should focus on.",
-      "link": "https://www.marketwatch.com/story/a-messy-november-jobs-report-wont-be-easy-to-interpret-heres-what-investors-should-focus-on-f548cf55?mod=mw_rss_topstories",
-      "summary": "Economists want to see whether the combined report shows a sharp deterioration in an already fragile labor market — or whether the job market appeared to stabilize.",
-      "published": "Mon, 15 Dec 2025 17:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 15.12.2025",
@@ -264,14 +400,6 @@
       "published": "Mon, 15 Dec 2025 17:46:46 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "2025 was one hell of a year. Consumers should expect more ‘silent pain’ in 2026",
-      "link": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
-      "summary": "Tariffs, an AI boom, geopolitical divisions and a new administration ushered in a unique, unsettling year for consumers.",
-      "published": "Mon, 15 Dec 2025 17:40:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Nieruchomości wchodzą w nowy cykl. Co przyniesie 2026 r. dla gospodarki, biur i handlu?",
@@ -346,14 +474,6 @@
       "category": "pl"
     },
     {
-      "title": "AI is crushing these once-reliable tech stocks. Are investors missing the point?",
-      "link": "https://www.marketwatch.com/story/ai-is-crushing-these-once-reliable-tech-stocks-are-investors-missing-the-point-7bc222ac?mod=mw_rss_topstories",
-      "summary": "FactSet and Gartner are among the S&amp;P 500’s worst performers this year — but some on Wall Street see resilient and sticky businesses that can adapt to AI.",
-      "published": "Mon, 15 Dec 2025 16:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Hakerzy uderzyli w Urząd Zamówień Publicznych. Przestępcy uzyskali dostęp do maili",
       "link": "https://www.bankier.pl/wiadomosc/Hakerzy-uderzyli-w-Urzad-Zamowien-Publicznych-Przestepcy-uzyskali-dostep-do-maili-9055978.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/c/784904c3b2bff5-948-568-0-281-3562-2137.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Cyberprzestępcy uzyskali dostęp do skrzynek poczty elektronicznej m.in. pracowników Urzędu Zamówień Publicznych - poinformował w poniedziałek wicepremier, minister cyfryzacji K",
@@ -378,22 +498,6 @@
       "category": "pl"
     },
     {
-      "title": "Górnicy dostaną odprawy. Prezydent podpisał nowelizację ustawy górniczej",
-      "link": "https://www.bankier.pl/wiadomosc/Gornicy-dostana-odprawy-Prezydent-podpisal-nowelizacje-ustawy-gorniczej-9055973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/1/3825067876a0ab-945-567-186-35-3356-2014.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podpisał nowelizację ustawy górniczej - napisał w poniedziałek na portalu X minister w kancelarii prezydenta Karol Rabenda. Nowelizacja przewiduje m.i",
-      "published": "Mon, 15 Dec 2025 16:45:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Koszty utrzymania mieszkań w 2026 roku – czy czeka nas kolejna fala podwyżek rachunków?",
-      "link": "https://comparic.pl/koszty-utrzymania-mieszkan-w-2026-roku-czy-czeka-nas-kolejna-fala-podwyzek-rachunkow/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/12/freepik-nieruchomosci-home-house-reit-dom-mieszkanie-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/12/freepik-nieruchomos",
-      "published": "Mon, 15 Dec 2025 16:39:56 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Prezydent wygrywa z Sejmem i Senatem. Większość Polaków pozytywnie ocenia Nawrockiego",
       "link": "https://www.bankier.pl/wiadomosc/Prezydent-wygrywa-z-Sejmem-i-Senatem-Wiekszosc-Polakow-pozytywnie-ocenia-Nawrockiego-9055947.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/b/302dbb25e45056-948-568-296-0-3467-2080.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W grudniu 34 proc. badanych pozytywnie oceniło pracę Sejmu; negatywnie - 51 proc. Senat dobrze oceniło 36 proc. respondentów, a źle - 37 proc. Działalność prezydenta Karola Naw",
@@ -402,52 +506,12 @@
       "category": "pl"
     },
     {
-      "title": "Euforia na CCC po 55% krachu – będzie skup akcji?! Allegro krwawi, LPP z ATH! Dino wraca do łask! – co jest grane na GPW?",
-      "link": "https://comparic.pl/euforia-na-ccc-po-55-krachu-bedzie-skup-akcji-allegro-krwawi-lpp-z-ath-dino-wraca-do-lask-co-jest-grane-na-gpw/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"794\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-6.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-6-324x235.j",
-      "published": "Mon, 15 Dec 2025 16:13:41 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Why Oracle’s stock — and its bonds — can’t shake off AI spending fears",
-      "link": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
-      "summary": "Oracle has left nervous investors with more questions than answers about the company’s AI financing plans.",
-      "published": "Mon, 15 Dec 2025 16:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Peter Brandt ostro o inwestorach XRP! Czy spadek poniżej 2 USD kończy erę optymizmu?",
-      "link": "https://comparic.pl/peter-brandt-ostro-o-inwestorach-xrp-czy-spadek-ponizej-2-usd-konczy-ere-optymizmu/",
-      "summary": "<img alt=\"Peter-Brandt\" class=\"attachment-full size-full wp-post-image\" height=\"478\" src=\"https://comparic.pl/wp-content/uploads/2022/02/Peter-Brandt.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"Peter-Brandt\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2022/02/Peter-Brandt-324x235.jpg\" style=\"floa",
-      "published": "Mon, 15 Dec 2025 16:07:18 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tesla’s stock flirts with new high upon bold prediction for a $3 trillion valuation",
-      "link": "https://www.marketwatch.com/story/teslas-stock-flirts-with-new-high-upon-bold-prediction-for-a-3-trillion-valuation-5387daa7?mod=mw_rss_topstories",
-      "summary": "While Tesla shares have pared gains, optimism is building for the company’s efforts in AI and autonomous driving.",
-      "published": "Mon, 15 Dec 2025 16:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Dziura finansów publicznych coraz większa. Ministerstwo Finansów przedstawia wyliczenia",
       "link": "https://businessinsider.com.pl/gospodarka/dziura-finansow-publicznych-coraz-wieksza-ministerstwo-finansow-przedstawia/llkr938",
       "summary": "Ministerstwo Finansów przedstawiło najnowsze dane na temat kondycji finansowej Polski. W opublikowanym zestawieniu przedstawiono szczegółowe dane dotyczące realizacji budżetu w okresie styczeń–listopad 2025 r., wartość przychodów oraz wydatków, a także wartość deficytu.",
       "published": "Mon, 15 Dec 2025 16:04:19 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘We all have economic jitters’: After the Fed cut rates, should my son buy a $600K house?",
-      "link": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
-      "summary": "“They are tuned in to friends and colleagues, who are losing jobs, cognizant of shifts in company agendas and financial worries.”",
-      "published": "Mon, 15 Dec 2025 16:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ukraińskie ataki przynoszą efekty? Rosja cały czas walczy o równowagę na rynku paliw",
@@ -482,22 +546,6 @@
       "category": "pl"
     },
     {
-      "title": "‘Am I simply the unloved son?’ My mother ghosted me after my father died. Is she stealing his money?",
-      "link": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
-      "summary": "“No phone calls, no holiday cards, no explanation, no anything.”",
-      "published": "Mon, 15 Dec 2025 15:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Płynność JSW z finansowym zaworem. Spółka potrzebuje 3 mld zł finansowania",
-      "link": "https://www.bankier.pl/wiadomosc/JSW-potrzebuje-ok-3-mld-zl-finansowania-by-zapewnic-sobie-plynnosc-w-26-Balczun-MAP-9055902.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/b/a8ec395bbe6c7b-948-568-0-119-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />JSW potrzebuje ok. 3 mld zł finansowania, by zapewnić sobie płynność w 2026 roku - poinformował minister aktywów państwowych Wojciech Balczun. Zakłada on, że część potrzebnych ",
-      "published": "Mon, 15 Dec 2025 15:32:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Winyle wracają do łask. Pokochało je pokolenie Z",
       "link": "https://businessinsider.com.pl/wiadomosci/plyty-winylowe-coraz-modniejsze-jako-element-dekoracyjny/ggk84q5",
       "summary": "Płyty winylowe przeżywają prawdziwy renesans, a ich sprzedaż rośnie w zawrotnym tempie. Co ciekawe, to nie tylko audiofile czy starsze pokolenia napędzają ten trend. Kluczową rolę odgrywa tu pokolenie Z, które kupuje winyle nie tylko dla ich brzmienia, ale także jako element dekoracyjny.",
@@ -512,14 +560,6 @@
       "published": "Mon, 15 Dec 2025 15:29:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "You don’t need to be NFL quarterback Philip Rivers to understand how hard it is to stay retired",
-      "link": "https://www.marketwatch.com/story/nfl-quarterback-philip-rivers-couldnt-stay-retired-heres-why-millions-of-other-americans-cant-either-c7ae6c8e?mod=mw_rss_topstories",
-      "summary": "Philip Rivers’s unretirement, at age 44, probably feels familiar to the growing number of retirees — including FIRE members — who return to work. And it’s often not about money.",
-      "published": "Mon, 15 Dec 2025 15:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Popularny producent robotów domowych na giełdowym dnie. Notowania zanurkowały",
@@ -578,14 +618,6 @@
       "category": "other"
     },
     {
-      "title": "Zamiast 19, aż 33 proc. podatku? Najnowsze dane mogą zaskoczyć",
-      "link": "https://businessinsider.com.pl/firmy/podatki/podatek-cit-w-praktyce-nominalne-19-proc-vs-efektywne-33-proc-co-to-oznacza/w8wdx8n",
-      "summary": "CIT w Polsce to 19 proc., jednak efektywna stawka podatku od dochodów przedsiębiorstw to ponad 30 proc. — wynika z analizy Grant Thornton. Firmy mierzą się z rosnącymi obciążeniami.",
-      "published": "Mon, 15 Dec 2025 14:22:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Rosyjska ropa w dołku. Ceny urals najniższe od połowy 2020 r.",
       "link": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-w-dolku-Ceny-urals-najnizsze-od-polowy-2020-r-9055809.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/1/9a3e00f2f9f5de-948-568-0-22-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rosyjska ropa Urals staniała do 37 dol. za baryłkę i jej cena jest najniższa od połowy 2020 r. - wskazali analitycy Refleksu. Dodali, że od czasu wejścia w życie amerykańskich s",
@@ -602,30 +634,6 @@
       "category": "pl"
     },
     {
-      "title": "Ostatni dzwonek na bon ciepłowniczy. 15 grudnia kończy się termin składania wniosków",
-      "link": "https://businessinsider.com.pl/gospodarka/bon-cieplowniczy-ostatni-dzien-na-wniosek-urzedy-przezywaja-oblezenie/sjyepp7",
-      "summary": "W poniedziałek, 15 grudnia, upływa termin składania wniosków o bon ciepłowniczy. Program, który ma na celu wsparcie gospodarstw domowych korzystających z ciepła systemowego, staje się ostatnią szansą na uzyskanie finansowej ulgi w obliczu rosnących kosztów ogrzewania. Aby otrzymać pomoc, należy spełnić określone kryteria dochodowe oraz związane z ceną ciepła.",
-      "published": "Mon, 15 Dec 2025 13:53:58 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "UE zaostrza kurs wobec Mińska. Nowy wymiar sankcji wobec Białorusi",
-      "link": "https://businessinsider.com.pl/wiadomosci/unia-europejska-rozszerza-sankcje-na-bialorus-decyzja-po-incydencie-z-balonami/j4hel3e",
-      "summary": "Unia Europejska zdecydowała się na krok, który może znacząco rozszerzyć listę objętych sankcjami osób i podmiotów z Białorusi. Decyzja zapadła w cieniu kontrowersyjnych incydentów i rozbieżnych działań Zachodu.",
-      "published": "Mon, 15 Dec 2025 13:53:50 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Poza UE płyną wielkie pieniądze Europejczyków. Dziura się pogłębia",
-      "link": "https://businessinsider.com.pl/gospodarka/pieniadze-z-ue-wyplywaja-dziura-w-danych-eurostatu-sie-poglebia/4vkpzlc",
-      "summary": "Ujemne saldo między Unią Europejską a krajami spoza wspólnoty pogłębia się, osiągając 37,3 mld euro — informuje Eurostat, prezentując najnowsze statystyki dotyczące transferów pieniężnych. To oznacza, że więcej pieniędzy wypływa z UE, niż do niej wpływa. Nie są to dobre informacje. Jest jednak dziewięć krajów, gdzie bilans jest dodatni. Sprawdziliśmy, jak wypada Polska.",
-      "published": "Mon, 15 Dec 2025 13:50:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 15.11.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-15-11-2025-7232709967915968a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 15.12.2025. W poniedziałek za jednego dolara (USD) trzeba zapłacić 3.59154 zł.",
@@ -640,14 +648,6 @@
       "published": "Mon, 15 Dec 2025 11:13:35 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Koniec bezpiecznego B2B? Algorytm ZUS wytypuje \"fikcyjnych\" przedsiębiorców",
-      "link": "https://www.bankier.pl/wiadomosc/ZUS-i-PIP-lacza-sily-Cyfrowy-bat-na-fikcyjne-samozatrudnienie-9055533.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/a72f08b90ee8f8-948-568-28-38-3771-2262.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Urzędnicy zyskują potężne narzędzie w walce z nadużyciami na rynku pracy. Zakład Ubezpieczeń Społecznych pracuje nad zaawansowanym algorytmem, który ma pomóc Państwowej Inspekc",
-      "published": "Mon, 15 Dec 2025 08:29:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Rivian's AI, autonomy impress Wall Street, but EV and capital concerns remain",
