@@ -1,21 +1,429 @@
 {
-  "generated_at": "2025-12-17T15:32:18.917352",
+  "generated_at": "2025-12-17T18:43:03.965752",
   "articles": [
     {
-      "title": "\"Weto do kosza\". Manifestacje przed Sejmem",
-      "link": "https://www.bankier.pl/wiadomosc/Weto-do-kosza-Manifestacje-przed-Sejmem-9057261.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/1/bdffd0234d092d-948-568-180-130-3820-2291.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W środę przed Sejmem aktywiści manifestują za odrzuceniem prezydenckiego weta tzw. ustawy łańcuchowej. Uczestników manifestacji poparli na miejscu marszałek Sejmu Włodzimierz",
-      "published": "Wed, 17 Dec 2025 15:58:00 +0100",
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 17.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-17-12-2025-7233511581236192a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 17.12.2025. W środę za jednego dolara (USD) trzeba zapłacić 3.58910 zł.",
+      "published": "Wed, 17 Dec 2025 18:55:45 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 17.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-17-12-2025-7233511035976192a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 17.12.2025. W środę za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.80399 zł.",
+      "published": "Wed, 17 Dec 2025 18:53:37 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 17.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-17-12-2025-7233510559353824a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 17.12.2025. W środę za jednego franka (CHF) trzeba zapłacić 4.51396 zł.",
+      "published": "Wed, 17 Dec 2025 18:51:20 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 17.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-17-12-2025-7233509951044576a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 17.12.2025. W środę za jedno euro (EUR) trzeba zapłacić 4.21618 zł.",
+      "published": "Wed, 17 Dec 2025 18:49:26 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jest decyzja ws. Orki. Będą okręty podwodne dla Polski",
+      "link": "https://www.money.pl/gospodarka/jest-decyzja-ws-orki-beda-okrety-podwodne-dla-polski-7233494473681408a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9256ea35-2cdd-4c2a-85aa-87f96a2faac3\" width=\"308\" /> Polska i Szwecja zawarły porozumienie dotyczące strategicznej współpracy przy pozyskaniu okrętów podwodnych. Umowa zakłada kluczowe cele i zakres współpracy w ramach programu Orka.",
+      "published": "Wed, 17 Dec 2025 18:43:09 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Medical supply firm Medline jumps more than 25% in debut after biggest IPO of 2025",
+      "link": "https://www.cnbc.com/2025/12/17/medline-debuts-nasdaq-biggest-ipo-2025.html",
+      "summary": "Medline priced at $29 per share on Tuesday, raising $6.26 billion to cap off a strong year for new listings and bolster optimism about 2026.",
+      "published": "Wed, 17 Dec 2025 18:34:18 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Ray Dalio is the latest billionaire to give money to Trump Accounts for kids",
+      "link": "https://www.marketwatch.com/story/ray-dalio-is-the-latest-billionaire-to-give-money-to-trump-accounts-for-kids-c64aba27?mod=mw_rss_topstories",
+      "summary": "Hedge-fund billionaire Ray Dalio is the latest in a slew of deep-pocketed contributors and companies ready to pour money into Trump Accounts, the investment accounts for American children that will be available starting in 2026.",
+      "published": "Wed, 17 Dec 2025 18:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Chiny chcą \"wyeliminować\" USA. Media: to ich Projekt Manhattan",
+      "link": "https://businessinsider.com.pl/wiadomosci/chiny-chca-wyeliminowac-usa-rzecza-tysiackrotnie-ciensza-od-ludzkich-wlosow/43te3ke",
+      "summary": "Chińscy naukowcy w ściśle strzeżonym laboratorium w Shenzhen opracowali prototyp maszyny do produkcji najnowocześniejszych chipów półprzewodnikowych — informuje Reuters. Są one kluczowe dla rozwoju sztucznej inteligencji, smartfonów i nowoczesnej broni. Może to znacząco przyspieszyć dążenia Chin do samowystarczalności technologicznej. To zły znak dla Stanów Zjednoczonych.",
+      "published": "Wed, 17 Dec 2025 18:25:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The Oscars are heading to YouTube in 2029",
+      "link": "https://www.cnbc.com/2025/12/17/youtube-stream-oscars-2029.html",
+      "summary": "The Academy of Motion Picture Arts and Sciences signed a multi-year deal with Google-owned YouTube to stream the Oscars globally starting in 2029.",
+      "published": "Wed, 17 Dec 2025 18:21:55 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "10 of the most loved dividend stocks for 2026 — sporting yields of 4% or more",
+      "link": "https://www.marketwatch.com/story/10-of-the-most-loved-dividend-stocks-for-2026-sporting-yields-of-4-or-more-5baafbea?mod=mw_rss_topstories",
+      "summary": "Many are energy stocks that have been crushed as the price of oil has declined — but analysts expect a tremendous rebound for the group.",
+      "published": "Wed, 17 Dec 2025 18:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Prezydent Nawrocki liderem zaufania. Ufa mu ponad połowa Polaków",
+      "link": "https://www.bankier.pl/wiadomosc/Prezydent-Karol-Nawrocki-liderem-zaufania-Ufa-mu-ponad-polowa-Polakow-9057406.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/2/af14cc98d3f73e-948-568-15-45-1985-1190.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki pozostaje liderem rankingu zaufania do polityków, ufa mu 54 proc. badanych - wynika z grudniowego sondażu CBOS. Drugie miejscu ex aequo zajęli szefowie",
+      "published": "Wed, 17 Dec 2025 18:06:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
     {
-      "title": "\"Ten kto może zmusić Putina do porozumienia, to Trump\"",
-      "link": "https://www.bankier.pl/wiadomosc/Ten-kto-moze-zmusic-Putina-do-porozumienia-to-Trump-9057259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/1/59856eadabb58a-948-568-1220-60-2780-1667.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jeśli jest ktoś, kto może zmusić Władimira Putina do podpisania porozumienia pokojowego, to jest to prezydent USA Donald Trump - powiedział w środę w Fox Business Marcin Przy",
-      "published": "Wed, 17 Dec 2025 15:54:00 +0100",
+      "title": "Polacy ocenili swoje zaufanie do polityków. Karol Nawrocki znów na czele [SONDAŻ]",
+      "link": "https://businessinsider.com.pl/polityka/sondaz-cbos-karol-nawrocki-utrzymuje-pozycje-lidera-w-rankingu-zaufania/l3s9ntr",
+      "summary": "Najnowsze badanie opinii publicznej CBOS, pokazujące ranking zaufania do polityków, przynosi interesujący obraz nastrojów społecznych wobec najważniejszych postaci polskiej polityki. Choć na pierwszy rzut oka układ sił wydaje się stabilny, szczegółowa analiza pokazuje subtelne przesunięcia, które mogą mieć znaczenie w dłuższej perspektywie. Respondenci oceniali zarówno polityków kojarzonych z wład",
+      "published": "Wed, 17 Dec 2025 18:05:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wystrzał kursu Energi na giełdzie. KNF podejrzewa przestępstwo",
+      "link": "https://www.money.pl/gielda/wystrzal-kursu-energi-na-gieldzie-knf-podejrzewa-przestepstwo-7233496696617952a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e7f12613-3810-41ba-abf2-84cbb7aadff7\" width=\"308\" /> Komisja Nadzoru Finansowego poinformowała w środowym komunikacie, że złożyła zawiadomienie o podejrzeniu przestępstwa związanego z wykorzystaniem informacji poufnych w obrocie akcjami spółki Energa. Dochodzenie ma wyjaśnić, czy doszło do naruszenia przepisów związanych z ",
+      "published": "Wed, 17 Dec 2025 18:05:48 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Southwest’s stock flies to multiyear high. This analyst sees the airline set for even more profit.",
+      "link": "https://www.marketwatch.com/story/southwests-stock-flies-to-multiyear-high-this-analyst-sees-the-airline-set-for-even-more-profit-9f09ffa4?mod=mw_rss_topstories",
+      "summary": "Southwest Airlines’ stock was riding a wave of renewed optimism about U.S. airlines in the new year, including a prediction from Barclays that the once no-frills air carrier will be more profitable in 2026.",
+      "published": "Wed, 17 Dec 2025 17:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Jak kupują Polacy? Cała prawda o gazetkach promocyjnych",
+      "link": "https://businessinsider.com.pl/lifestyle/swiateczne-zakupy-czy-polacy-rzucaja-sie-na-promocje-z-gazetek/0p25wtq",
+      "summary": "Dyskonty i inne sieci handlowe wydają gazetki promocyjne, w których kuszą klientów wyjątkowo atrakcyjnymi rabatami, jak np. \"3+3 gratis\" czy \"5+5 gratis\". Czy skutecznie? Najnowsze badanie pokazało, jak kupują Polacy.",
+      "published": "Wed, 17 Dec 2025 17:52:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tricolor CEO received a $6.25 million bonus weeks before company’s bankruptcy, prosecutors say",
+      "link": "https://www.cnbc.com/2025/12/17/tricolor-ceo-bonus-bankruptcy-indictment.html",
+      "summary": "Tricolor's collapse was one of a string of defaults that churned the U.S. banking industry this fall, sparking concerns over risks in the financial system.",
+      "published": "Wed, 17 Dec 2025 17:51:08 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Ustawa łańcuchowa znowu w Sejmie. Głosowanie nad odrzuceniem weta prezydenta",
+      "link": "https://businessinsider.com.pl/prawo/sejm-nie-odrzucil-weta-prezydenta-wobec-tzw-ustawy-lancuchowej/2jyenlb",
+      "summary": "W środę Sejm nie zdołał odrzucić weta prezydenta Karola Nawrockiego wobec nowelizacji ustawy o ochronie zwierząt, tzw. ustawy łańcuchowej, która wprowadzała zakaz trzymania psów na uwięzi. W głosowaniu nie wziął udziału m.in. prezes PiS Jarosław Kaczyński.",
+      "published": "Wed, 17 Dec 2025 17:49:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Oracle’s stock falls on a fear one analyst says should be ‘almost irrelevant’",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-on-a-fear-one-analyst-says-should-be-almost-irrelevant-c5739221?mod=mw_rss_topstories",
+      "summary": "New rumors of stalled data-center funding have sent Oracle’s stock lower, but some experts argue the negative narrative has gotten too harsh.",
+      "published": "Wed, 17 Dec 2025 17:49:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "U.S. inflation was rising before the shutdown. Tardy CPI to show if prices have gotten worse.",
+      "link": "https://www.marketwatch.com/story/u-s-inflation-was-rising-before-the-shutdown-tardy-cpi-to-show-if-prices-have-gotten-worse-3f936349?mod=mw_rss_topstories",
+      "summary": "The U.S. jobs market isn’t so hot, investors learned this week, but inflation is hotter than anyone would like. Just how much? We’ll find out Thursday.",
+      "published": "Wed, 17 Dec 2025 17:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "We’re in our 60s. Should I collect Social Security now to help my wife? What if I die before her?",
+      "link": "https://www.marketwatch.com/story/were-in-our-60s-should-i-collect-social-security-now-to-help-my-wife-what-if-i-die-before-her-35514210?mod=mw_rss_topstories",
+      "summary": "“What happens to her if I die before starting to collect my Social Security benefits?”",
+      "published": "Wed, 17 Dec 2025 17:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Wytyczne nadzoru finansowego: Kto będzie mógł podzielić się zyskiem w 2026 roku?",
+      "link": "https://www.bankier.pl/wiadomosc/Wytyczne-nadzoru-finansowego-Kto-bedzie-mogl-podzielic-sie-zyskiem-w-2026-roku-9057383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/e/9f85166eaa0373-779-467-122-0-779-467.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja Nadzoru Finansowego przyjęła stanowisko w sprawie polityki dywidendowej domów maklerskich, towarzystw funduszy inwestycyjnych oraz powszechnych towarzystw emerytalnych w ",
+      "published": "Wed, 17 Dec 2025 17:44:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Cena wojny stanie się dla Putina nie do zniesienia. \"Dramatyczne problemy\" Moskwy",
+      "link": "https://www.bankier.pl/wiadomosc/Cena-wojny-stanie-sie-dla-Putina-nie-do-zniesienia-Dramatyczne-problemy-Moskwy-9057378.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/a/5f624d7fc7b8c2-948-568-0-140-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Gospodarka Rosji zaczyna borykać się z „pewnymi dramatycznymi problemami” i istnieje prawdopodobieństwo, że presja gospodarcza stanie się dla Władimira Putina nie do zniesienia",
+      "published": "Wed, 17 Dec 2025 17:41:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Meta’s stock could soar in the next 6 months, along with these under-the-radar picks",
+      "link": "https://www.marketwatch.com/story/metas-stock-could-soar-in-the-next-6-months-along-with-these-under-the-radar-picks-dbeb8ea0?mod=mw_rss_topstories",
+      "summary": "The Facebook parent company headlines Rosenblatt’s list of top first-half stock picks, but Applied Optoelectronics and Magnite shares also make the cut with major upside projected.",
+      "published": "Wed, 17 Dec 2025 17:36:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Lokalne podatki w górę. O tyle wzrosną opłaty w 2026 roku",
+      "link": "https://www.money.pl/podatki/lokalne-podatki-w-gore-o-tyle-wzrosna-oplaty-w-2026-roku-7233447826487808a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/30abe6b3-7ef3-4f9b-ac00-49c2ffc9824e\" width=\"308\" /> Opłaty i podatki lokalne w 2026 r. wzrosną o 4,5 proc. Zgodnie z&nbsp;obowiązującymi przepisami, stawki corocznie są korygowane o&nbsp;wskaźnik inflacji za pierwsze półrocze roku - tłumaczy Piotr Juszczyk, główny doradca podatkowy w firmie inFakt.",
+      "published": "Wed, 17 Dec 2025 17:34:11 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ważne przejęcie na rynku bankowym coraz bliżej. KNF dała zielone światło",
+      "link": "https://businessinsider.com.pl/finanse/knf-zgadza-sie-na-przejecia-w-santanderze-erste-group-wzmacnia-pozycje/2fmce79",
+      "summary": "Decyzje podjęte przez Komisję Nadzoru Finansowego oznaczają zielone światło dla jednych z największych zmian właścicielskich na polskim rynku finansowym ostatnich lat. Nadzór jednogłośnie uznał, że nie istnieją przesłanki do zgłoszenia sprzeciwu wobec planowanych transakcji z udziałem Erste Group Bank AG oraz podmiotów z grupy Santander.",
+      "published": "Wed, 17 Dec 2025 17:31:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Akcje Tesli na nowym historycznym szczycie! Co napędza wzrost akcji?",
+      "link": "https://comparic.pl/akcje-tesli-na-nowym-historycznym-szczycie-co-napedza-wzrost-akcji/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"853\" src=\"https://comparic.pl/wp-content/uploads/2020/06/tesla-cc-e1597834372362.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2020/06/tesla-cc-324x235.jpg\" style=\"float: left; margin:",
+      "published": "Wed, 17 Dec 2025 17:21:44 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC",
+      "link": "https://www.cnbc.com/2025/12/17/wbd-board-paramount-skydance-reject-value.html",
+      "summary": "Paramount launched a hostile bid for WBD, taking a $30-per-share, all-cash offer directly to shareholders.",
+      "published": "Wed, 17 Dec 2025 17:17:21 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "These 6 store rewards programs have the best perks and are easy to use",
+      "link": "https://www.marketwatch.com/story/these-6-store-rewards-programs-have-the-best-perks-and-are-easy-to-use-5042114b?mod=mw_rss_topstories",
+      "summary": "Loyalty programs aren’t what they used to be —but retail experts say these six put the customer first instead of simply harvesting personal data.",
+      "published": "Wed, 17 Dec 2025 17:17:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "WIG i WIG20 poniżej szczytów hossy. Inwestorzy zachwyceni taryfami URE",
+      "link": "https://www.bankier.pl/wiadomosc/WIG-i-WIG20-ponizej-szczytow-hossy-Inwestorzy-zachwyceni-taryfami-URE-9057339.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/d/ef5b8dfb94ff48-948-568-52-196-1867-1120.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Środowa sesja nie przyniosła większej zmienności na warszawskiej giełdzie. WIG i WIG20 zakończyły handel neutralnie i tuż poniżej poniedziałkowych szczytów hossy. Mocno drożał",
+      "published": "Wed, 17 Dec 2025 17:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Gdzie kupić Bitcoina? Analityk, który trafił szczyt BTC, wskazuje 86 000 USD i ostrzega przed dalszymi spadkami",
+      "link": "https://comparic.pl/gdzie-kupic-bitcoina-analityk-ktory-trafil-szczyt-btc-wskazuje-86-000-usd-i-ostrzega-przed-dalszymi-spadkami/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-3-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-3-1-324x235.jpg\" style=\"float",
+      "published": "Wed, 17 Dec 2025 17:13:02 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ceny paliw. Po ile zatankujemy przed świętami?",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/ceny-benzyny-diesla-autogazu-swiateczny-prezent-dla-kierowcow/cst6bfc",
+      "summary": "Ceny paliw mogą w najbliższych dniach pozytywnie zaskoczyć kierowców. W tygodniu poprzedzającym święta analitycy e-petrol spodziewają się kolejnej obniżki cen benzyny, diesla i autogazu na stacjach.",
+      "published": "Wed, 17 Dec 2025 17:09:19 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "\"Polska skansenem okrucieństwa\"? Ostre starcie w Sejmie o los psów łańcuchowych",
+      "link": "https://www.bankier.pl/wiadomosc/Sejmowa-batalia-o-lancuchy-KO-chce-odrzucic-weto-PiS-popiera-projekt-prezydenta-Nawrockiego-9057349.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/f/ae87530ca8260a-948-568-0-270-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Koalicja Obywatelska zaapelowała w środę w Sejmie do posłów PiS, którzy zagłosowali za tzw. ustawą łańcuchową, aby wspólnie zakończyli cierpienie zwierząt. Natomiast PiS wezwał",
+      "published": "Wed, 17 Dec 2025 17:08:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Średnia zdolność kredytowa sięga miliona złotych. Jak spadek oprocentowania zmienił rynek hipoteki?",
+      "link": "https://comparic.pl/srednia-zdolnosc-kredytowa-siega-miliona-zlotych-jak-spadek-oprocentowania-zmienil-rynek-hipoteki/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"393\" src=\"https://comparic.pl/wp-content/uploads/2023/12/freepik-nieruchomosci-home-house-reit-dom-mieszkanie-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/12/freepik-nieruchomos",
+      "published": "Wed, 17 Dec 2025 17:02:17 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ziobro bez szans na nowy dokument? PK chce uniemożliwić ucieczkę poza Schengen",
+      "link": "https://www.bankier.pl/wiadomosc/Ziobro-bez-szans-na-nowy-dokument-PK-chce-uniemozliwic-ucieczke-poza-Schengen-9057344.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/0/d57259618c0b15-948-568-0-97-2987-1792.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rzecznik Prokuratury Krajowej prok. Przemysław Nowak poinformował w środę, że prokurator będzie kierował wniosek o zakazie wydania ewentualnego kolejnego paszportu b. szefowi MS",
+      "published": "Wed, 17 Dec 2025 17:02:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Połowa prądu z OZE i inwestycje za biliony. Oto plan na tranformację energetyczną Polski",
+      "link": "https://businessinsider.com.pl/gospodarka/nowy-krajowy-plan-energii-i-klimatu-ponad-50-proc-pradu-z-oze-do-2030-r-atom-i-gaz-w/r6rhp6b",
+      "summary": "Ministerstwo Energii przedstawiło nowy plan transformacji energetycznej. Za pięć lat ponad połowa prądu ma pochodzić z OZE, w miksie pojawi się atom i wzmocni się gaz ziemny jako paliwo przejściowe. Ministerstwo obiecuje niższe rachunki, nowe miejsca pracy i czystsze powietrze — ale koszt zmian sięgnie nawet 3,5 bln zł. Takie są założenia Krajowego Planu w dziedzinie Energii i Klimatu.",
+      "published": "Wed, 17 Dec 2025 17:01:11 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Nowy obowiązek dla firm z rynku kryptowalut. Rząd zdecydował",
+      "link": "https://www.money.pl/podatki/nowy-obowiazek-dla-firm-z-rynku-kryptowalut-rzad-zdecydowal-7233399886646208a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/aa0430f3-6094-478c-ae8a-98ad91c9406a\" width=\"308\" /> Rząd przyjął projekt nowelizacji ustawy o wymianie informacji podatkowych. Celem nowelizacji jest m.in. nałożenie na firmy z rynku kryptowalut obowiązku informowania o transakcjach.",
+      "published": "Wed, 17 Dec 2025 17:01:06 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Służby uszczelniły system w Jasionce. Raport po odkryciu nielegalnego magazynu broni",
+      "link": "https://www.bankier.pl/wiadomosc/Sluzby-uszczelnily-system-w-Jasionce-Raport-po-odkryciu-nielegalnego-magazynu-broni-9057340.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/d/a4e8066804e9b0-948-568-90-60-1910-1145.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejmowa komisja ds. służb specjalnych zapoznała się w środę z informacją o bezpieczeństwie przechodzących przez Polskę transportów z pomocą wojskową dla Ukrainy i zabezpieczeni",
+      "published": "Wed, 17 Dec 2025 16:57:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Następca Akademii Sztuki Wojennej. UBN wykształci inżynierów i cywilnych ekspertów",
+      "link": "https://www.bankier.pl/wiadomosc/Nastepca-Akademii-Sztuki-Wojennej-UBN-wyksztalci-inzynierow-i-cywilnych-ekspertow-9057337.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/a/d247d389552bf3-948-568-70-340-3133-1880.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd przyjął w środę projekt ustawy ws. przekształcenia Akademii Sztuki Wojennej w Uniwersytet Bezpieczeństwa Narodowego. Uczelnia będzie przygotowywać specjalistów dla wojska",
+      "published": "Wed, 17 Dec 2025 16:55:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Pieniądze dla TVP i Polskiego Radia. Rada sięga po nadwyżkę z 2023 roku",
+      "link": "https://www.bankier.pl/wiadomosc/Pieniadze-dla-TVP-i-Polskiego-Radia-Rada-siega-po-nadwyzke-z-2023-roku-9057334.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/7/bdcccf544a9170-948-568-1146-322-3307-1984.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Krajowa Rada Radiofonii i Telewizji przekaże 19 spółkom mediów publicznych - TVP, Polskiemu Radiu oraz 17 spółkom regionalnym Polskiego Radia - piątą transzę środków aboname",
+      "published": "Wed, 17 Dec 2025 16:54:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Program Orka nabiera tempa. Kosiniak-Kamysz i Jonson zatwierdzili współpracę",
+      "link": "https://www.bankier.pl/wiadomosc/Program-Orka-nabiera-tempa-Kosiniak-Kamysz-i-Jonson-zatwierdzili-wspolprace-9057332.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/d/a47fb8f146f29c-948-568-80-90-3920-2351.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz i minister obrony Szwecji Pal Jonson podpisali w środę porozumienie dotyczące głównych celów strategicznej ws. pozyskania okrętó",
+      "published": "Wed, 17 Dec 2025 16:52:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czy zaczynamy rajd Świętego Mikołaja? GPW, Bitcoin i złoto – co dalej?",
+      "link": "https://comparic.pl/czy-zaczynamy-rajd-swietego-mikolaja-gpw-bitcoin-i-zloto-co-dalej/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/12/tcnctlqahrw.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/tcnctlqahrw-324x235.jpg\" style=\"float: left; margin: 0 15px 1",
+      "published": "Wed, 17 Dec 2025 16:51:13 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "His ‘elaborate scheme’ roiled credit markets. Now Tricolor CEO Daniel Chu is charged with fraud.",
+      "link": "https://www.marketwatch.com/story/his-elaborate-scheme-roiled-credit-markets-now-tricolor-ceo-daniel-chu-is-charged-with-fraud-d61867b3?mod=mw_rss_topstories",
+      "summary": "“Fraud became an integral component of Tricolor’s business strategy,” U.S. prosecutors said.",
+      "published": "Wed, 17 Dec 2025 16:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Akcje ASBIS na historycznych szczytach. Czy potencjał wzrostu do 48 zł jest realny?",
+      "link": "https://comparic.pl/akcje-asbis-na-historycznych-szczytach-czy-potencjal-wzrostu-do-48-zl-jest-realny/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-stock-market-chart-wykres-wzrost-grow-growth-hossa-up-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-s",
+      "published": "Wed, 17 Dec 2025 16:36:19 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rząd przyjął projekt ustawy. Fiskus prześwietli portfele posiadaczy kryptowalut",
+      "link": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-projekt-ustawy-Fiskus-przeswietli-portfele-posiadaczy-kryptowalut-9057303.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/329cf9b5fd1bcf-948-568-0-210-3368-2020.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd przyjął w środę projekt nowelizacji ustawy o wymianie informacji podatkowych - wynika z komunikatu kancelarii premiera. Celem nowelizacji jest m.in. nałożenie na firmy z r",
+      "published": "Wed, 17 Dec 2025 16:36:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Frankowicze walczą w Sejmie o odsetki. \"To nie są bagatelne kwoty\"",
+      "link": "https://businessinsider.com.pl/prawo/frankowicze-kontra-banki-poprawki-do-ustawy-frankowej-wywolaly-burze/wrcft39",
+      "summary": "Projekt ustawy frankowej, zamiast usprawnić system może otworzyć nowy front konfliktu. Po dwóch miesiącach sejmowej ciszy projekt wywołał burzliwe dyskusje na sejmowej komisji. Spór dotyczy fundamentalnej kwestii, bo rozliczeń między kredytobiorcami a bankami. Im głębiej w szczegóły, tym więcej pytań o to, kto na tych zmianach naprawdę zyska, a kto może stracić najwięcej. Ministerstwo Sprawiedliwo",
+      "published": "Wed, 17 Dec 2025 16:32:10 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "UE odcina się od surowców z Rosji. Jest zgoda Parlamentu na pełne embargo",
+      "link": "https://www.bankier.pl/wiadomosc/UE-odcina-sie-od-surowcow-z-Rosji-Jest-zgoda-Parlamentu-na-pelne-embargo-9057287.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/1/4472c3921c7ca1-948-568-0-79-1995-1196.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Parlament Europejski zdecydowaną większością zagłosował w środę w Strasburgu za wycofaniem się Unii Europejskiej z importu gazu ziemnego z Rosji. Europosłowie zażądali też zakaz",
+      "published": "Wed, 17 Dec 2025 16:23:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jest stanowisko KNF. Miliardowe zyski banków zostaną rozdysponowane",
+      "link": "https://businessinsider.com.pl/finanse/jest-stanowisko-knf-miliardowe-zyski-bankow-zostana-rozdysponowane/q6c4xeh",
+      "summary": "Polskie banki biją rekordy zysków, a akcjonariusze mogą szykować się na sowite dywidendy. Oczywiście o ile banki zdecydują się je wypłacić. Wysokie stopy procentowe, mocna gospodarka i niskie bezrobocie napędzają tę branżę, której kapitały są najwyższe w historii. KNF właśnie ujawniła nowe rekomendacje wypłat dywidend na 2026 r.",
+      "published": "Wed, 17 Dec 2025 16:22:41 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "KNF zawiadamia prokuraturę w sprawie państwowej spółki. Chodzi o wykorzystanie informacji poufnej",
+      "link": "https://businessinsider.com.pl/firmy/knf-zawiadamia-prokurature-ws-panstwowej-spolki-chodzi-o-wykorzystanie-informacji/cpwm10q",
+      "summary": "Komisja Nadzoru Finansowego informuje, że podjęła \"środki prawne w celu przeciwdziałania naruszeniu przepisów Rozporządzenia 596/20141, w związku z transakcjami zawartymi w obrocie akcjami Energa\". Sprawa ma związek z wielką transakcją Orlenu, który pod koniec ubiegłego miesiąca ogłosił zamiar nabycia wszystkich akcji spółki Energa, co umożliwi mu pełne przejęcie kontroli nad spółką.",
+      "published": "Wed, 17 Dec 2025 16:20:17 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The sizzling AI trade is having this surprising effect on global markets",
+      "link": "https://www.marketwatch.com/story/the-sizzling-ai-trade-is-having-this-surprising-effect-on-global-markets-5363219e?mod=mw_rss_topstories",
+      "summary": "The artificial-intelligence trade has become so popular that it is causing currencies in Asia to artificially weaken as locals trade their money for dollars, presumably to buy hot AI stocks.",
+      "published": "Wed, 17 Dec 2025 16:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Polska i Szwecja wspólnie na morzu. Nowe okręty podwodne",
+      "link": "https://businessinsider.com.pl/wiadomosci/zakup-okretow-a26-blekinge-szansa-dla-polskiego-przemyslu-zbrojeniowego/yft2ejy",
+      "summary": "W środę w Warszawie podpisano kluczowe porozumienie między Polską a Szwecją, które wyznacza strategiczne kierunki współpracy wojskowej obu krajów. Minister obrony narodowej Władysław Kosiniak-Kamysz oraz szwedzki minister obrony Pal Jonson uzgodnili szczegóły dotyczące zakupu nowoczesnych okrętów podwodnych dla polskiej Marynarki Wojennej.",
+      "published": "Wed, 17 Dec 2025 16:14:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "WIG20 zdominował GPW w 2025. Co czeka warszawską giełdę w 2026 roku?",
+      "link": "https://comparic.pl/wig20-zdominowal-gpw-w-2025-co-czeka-warszawska-gielde-w-2026-roku/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2020/12/gpw-dzwonek-cc.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"799\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2020/12/gpw-dzwonek-cc-324x235.jpg\" style=\"float: left; margin: 0 1",
+      "published": "Wed, 17 Dec 2025 16:01:41 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kurs dolara traci na wartości przed publikacją CPI. Co zdecyduje Bank Anglii i ECB?",
+      "link": "https://comparic.pl/kurs-dolara-traci-na-wartosci-przed-publikacja-cpi-co-zdecyduje-bank-anglii-i-ecb/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-5.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-5-324x235.jpg",
+      "published": "Wed, 17 Dec 2025 15:59:59 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trzy metale szlachetne drożeją szybciej niż złoto. Padły rekordy",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/rekordowe-ceny-srebra-platyny-i-palladu-drozeja-szybciej-niz-zloto/4bhhgk5",
+      "summary": "W czasie kiedy kryptowaluty złapały zadyszkę i ich łączna wartość spadła poniżej 3 bln dol., zrodziły się nowe gwiazdy spekulacji na świecie. O wzroście cen złota media się rozpisywały często, m.in. dlatego, że inwestował w nie Narodowy Bank Polski, ale tymczasem w nieco mniej głośnej atmosferze w górę pną się trzy inne metale szlachetne. Srebro ustaliło nawet swój historyczny rekord.",
+      "published": "Wed, 17 Dec 2025 15:43:34 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Miliardy ze sprzedaży Chelsea dla Ukrainy? Starmer stawia ultimatum Abramowiczowi",
@@ -23,6 +431,22 @@
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/c/510d10afdbbc8e-948-568-15-142-2985-1790.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Brytyjski premier Keir Starmer oznajmił w środę przed Izbą Gmin, że z myślą o pomocy dla Ukrainy jest gotów uwolnić zamrożone aktywa rosyjskiego oligarchy Romana Abramowicza, ",
       "published": "Wed, 17 Dec 2025 15:40:00 +0100",
       "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Netflix na ostatniej prostej do wielkiego przejęcia.  Zaczęło się od 44 dol. kary",
+      "link": "https://businessinsider.com.pl/firmy/netflix-coraz-blizej-przejecia-warner-bros-discovery-zaczelo-sie-od-44-dol-kary/5xsvce6",
+      "summary": "Netflix — firma, która zaczynała jako wysyłkowa wypożyczalnia płyt DVD — jest dziś jednym z największych graczy na rynku rozrywki i znajduje się na ostatniej prostej do przejęcia Warner Bros. Discovery. Firma powstała pod koniec lat 90., a pomysł na biznes narodził się z powodu 44 dol. kary za spóźniony zwrot kasety VHS.",
+      "published": "Wed, 17 Dec 2025 15:38:26 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Bitcoin w pułapce. Analitycy nie są zgodni co do dalszego ruchu",
+      "link": "https://comparic.pl/bitcoin-w-pulapce-analitycy-nie-sa-zgodni-co-do-dalszego-ruchu/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-BTC-Bitcoin.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-BTC-Bitcoin-324x235.jpg\" style=",
+      "published": "Wed, 17 Dec 2025 15:35:18 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -34,17 +458,9 @@
       "category": "pl"
     },
     {
-      "title": "Google has been crushing it with AI this year in this overlooked way",
-      "link": "https://www.marketwatch.com/story/google-has-been-crushing-it-with-ai-this-year-in-this-overlooked-way-04575960?mod=mw_rss_topstories",
-      "summary": "Waymo, the Alphabet-backed robotaxi startup, has been on a tear. Soon it could be worth $100 billion.",
-      "published": "Wed, 17 Dec 2025 15:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Prąd drożeje czy tanieje? Sprawdź nowe taryfy od stycznia",
       "link": "https://www.bankier.pl/wiadomosc/Prad-drozeje-czy-tanieje-Sprawdz-nowe-taryfy-od-stycznia-9057231.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/8/3834a376bcca5e-948-568-0-70-995-597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Średnia cena w taryfach na energię elektryczną dla gospodarstw domowych wyniesie od 1 stycznia 495,16 zł za MWh netto - poinformowała w środę Prezes URE Renata Mroczek. Dla gospod",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/8/3834a376bcca5e-948-568-0-70-995-597.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Średnia cena w taryfach na energię elektryczną dla gospodarstw domowych wyniesie od 1 stycznia 495,16 zł za MWh netto - poinformowała w środę Prezes URE Renata Mroczek. Dla większ",
       "published": "Wed, 17 Dec 2025 15:26:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
@@ -58,36 +474,12 @@
       "category": "pl"
     },
     {
-      "title": "Wyniki x2 + wysokie dywidendy! Kurs stale rośnie – to jeden z największych pewniaków branży i całej GPW!",
-      "link": "https://comparic.pl/wyniki-x2-wysokie-dywidendy-kurs-stale-rosnie-to-jeden-z-najwiekszych-pewniakow-branzy-i-calej-gpw/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-2-324x235.jpg",
-      "published": "Wed, 17 Dec 2025 15:22:45 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Będę rekordowe wyniki! Spółka już skupuje swoje akcje! Po 65% spadku może to być ogromna okazja na 2026 rok!",
-      "link": "https://comparic.pl/bede-rekordowe-wyniki-spolka-juz-skupuje-swoje-akcje-po-65-spadku-moze-to-byc-ogromna-okazja-na-2026-rok/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2024/10/freepik-wzrost-byk-bull-growth-hossa-3.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/10/freepik-wzrost-byk-bull-growth-hos",
-      "published": "Wed, 17 Dec 2025 15:19:20 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Sąd uderza w Teslę. Elonowi Muskowi grozi zakaz sprzedaży aut",
       "link": "https://businessinsider.com.pl/technologie/motoryzacja/stan-grozi-tesli-zakazem-sprzedazy-sad-uderza-w-elona-muska/hxnqfhg",
       "summary": "Kalifornia grozi Tesli nałożeniem zakazu sprzedaży samochodów w tym stanie. Sąd uznał, że spółka należąca do miliardera technologicznego Elona Muska przedstawiała możliwości swojego systemu wspomagania jazdy \"Autopilot\" w sposób przesadny. Tamtejszy urząd transportu tymczasowo wstrzymał podjęcie tej decyzji, aby dać firmie czas do wprowadzenia zmian.",
       "published": "Wed, 17 Dec 2025 15:16:39 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "TOP 3 spółki z GPW, które rynek wycenia zbyt nisko! Czarne konie z potencjałem wzrostu 54-80% w najbliższych miesiącach!",
-      "link": "https://comparic.pl/top-3-spolki-z-gpw-ktore-rynek-wycenia-zbyt-nisko-czarne-konie-z-potencjalem-wzrostu-54-80-w-najblizszych-miesiacach/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"799\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-4.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-4-324x235.j",
-      "published": "Wed, 17 Dec 2025 15:14:59 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Tysiąc powodów do świętowania! VW FS STORE bije rekord sprzedaży",
@@ -98,44 +490,12 @@
       "category": "other"
     },
     {
-      "title": "The price of the measles: It costs at least $16,200 every time someone gets them.",
-      "link": "https://www.marketwatch.com/story/the-price-of-the-measles-it-costs-at-least-16-200-every-time-someone-gets-them-2666bbd1?mod=mw_rss_topstories",
-      "summary": "As measles outbreaks increase and more people contract the disease, the U.S. healthcare system faces a costly bill.",
-      "published": "Wed, 17 Dec 2025 14:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nagły zwrot przed MŚ 2026. FIFA ugięła się pod presją kibiców",
       "link": "https://businessinsider.com.pl/wiadomosci/fifa-ugiela-sie-przed-kibicami-ile-kosztuja-nowe-bilety-na-ms-2026/cgzln1h",
       "summary": "FIFA reaguje na krytykę kibiców i wprowadza nową, tańszą kategorię biletów na Mistrzostwa Świata 2026. To odpowiedź na zarzuty dotyczące zaporowych cen, które miały sięgać nawet 4 tys. dol. za finał. Zmiana może ułatwić najwierniejszym fanom udział w największym piłkarskim święcie.",
       "published": "Wed, 17 Dec 2025 14:57:43 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘He never asks for anything’: I’m 61 with a $1.5 million 401(k). My girlfriend says I do too much for my son, 28. Is she right?",
-      "link": "https://www.marketwatch.com/story/he-never-asks-for-anything-im-61-with-a-1-5-million-401-k-my-girlfriend-says-i-do-too-much-for-my-son-28-is-she-right-61f9f653?mod=mw_rss_topstories",
-      "summary": "“I recently gave him $20,000 for a newer car and had him finance the rest.”",
-      "published": "Wed, 17 Dec 2025 14:50:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "WBD tells shareholders Netflix deal is superior to Paramount offer: 'It was not a hard choice,' chairman tells CNBC",
-      "link": "https://www.cnbc.com/2025/12/17/wbd-board-paramount-skydance-reject-value.html",
-      "summary": "Paramount launched a hostile bid for WBD, taking a $30-per-share, all-cash offer directly to shareholders.",
-      "published": "Wed, 17 Dec 2025 14:46:33 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Netflix appears to be in the driver’s seat on Warner Bros. bid as board rejects Paramount offer",
-      "link": "https://www.marketwatch.com/story/netflix-appears-to-be-in-the-drivers-seat-on-warner-bros-bid-as-board-rejects-paramount-offer-f0c6dd63?mod=mw_rss_topstories",
-      "summary": "Warner Bros. Discovery urged shareholders to stay with Netflix’s offer, saying Paramount’s bid undervalues the company, has shaky financing and has no better path to regulatory approval.",
-      "published": "Wed, 17 Dec 2025 14:33:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Why this billionaire real estate developer is waving a red flag over data centers",
@@ -170,22 +530,6 @@
       "category": "pl"
     },
     {
-      "title": "Is a new OpenAI deal what Amazon’s stock needs to finally come alive?",
-      "link": "https://www.marketwatch.com/story/is-a-new-openai-deal-what-amazons-stock-needs-to-finally-come-alive-520dfee6?mod=mw_rss_topstories",
-      "summary": "Amazon’s stock is near flat this year. A reported $10 billion deal with OpenAI may energize investors — or it could fuel further fears about an AI bubble.",
-      "published": "Wed, 17 Dec 2025 14:21:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Koniec wywłaszczeń akcjonariuszy? Przełomowa reforma ma chronić inwestorów mniejszościowych",
-      "link": "https://comparic.pl/koniec-wywlaszczen-akcjonariuszy-przelomowa-reforma-ma-chronic-inwestorow-mniejszosciowych/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"667\" src=\"https://comparic.pl/wp-content/uploads/2018/02/ccfo-trader-investor-investing.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1000\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2018/02/ccfo-trader-investor-investing-324x235.jpg",
-      "published": "Wed, 17 Dec 2025 14:18:45 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Rekordowe ceny tuż przed świętami. Kolejna fala podwyżek dopiero nadchodzi",
       "link": "https://businessinsider.com.pl/finanse/slodko-gorzkie-boze-narodzenie-czekolada-bije-rekordy-cenowe/7f4b9kv",
       "summary": "Mimo spadku ceny kakao, czekolada nadal jest droga, co jest fatalną wiadomością przed Bożym Narodzeniem. Producenci mówią wprost o \"kryzysie czekoladowym\", a na dodatek przewidują jeszcze wyższe ceny.",
@@ -202,132 +546,12 @@
       "category": "other"
     },
     {
-      "title": "Solana przygotowuje się na „dzień zero”. Chodzi o komputery kwantowe",
-      "link": "https://comparic.pl/solana-przygotowuje-sie-na-dzien-zero-chodzi-o-komputery-kwantowe/",
-      "summary": "<img alt=\"Solana\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Solana-komputer-kwantowy.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Solana\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Solana-komputer-kwantowy-324x235.jp",
-      "published": "Wed, 17 Dec 2025 14:13:50 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "PRS przekracza 25 tys. mieszkań. Rynek najmu instytucjonalnego rośnie w siłę",
-      "link": "https://businessinsider.com.pl/nieruchomosci/najem-instytucjonalny-bije-rekordy-inwestorzy-stawiaja-na-duze-miasta/345z3gd",
-      "summary": "Rynek najmu instytucjonalnego w Polsce wszedł na nowy poziom — zasób mieszkań PRS przekroczył właśnie 25 tys. lokali. Choć to wciąż margines wobec prywatnego najmu, tempo wzrostu i zainteresowanie inwestorów pokazują, że sektor zaczyna odgrywać coraz większą rolę w największych miastach. Najnowszy raport Savills i Crido odsłania zarówno potencjał, jak i bariery dalszego rozwoju.",
-      "published": "Wed, 17 Dec 2025 14:10:11 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kurs giganta z GPW zbliża się do historycznych szczytów! Analitycy podnoszą cenę docelową o kolejne 25%",
-      "link": "https://comparic.pl/kurs-giganta-z-gpw-zbliza-sie-do-historycznych-szczytow-analitycy-podnosza-cene-docelowa-o-kolejne-25/",
-      "summary": "<img alt=\"freepik stock market chart wykres wzrost grow growth hossa up 14\" class=\"attachment-full size-full wp-post-image\" height=\"820\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-stock-market-chart-wykres-wzrost-grow-growth-hossa-up-14.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"freepik stock market chart wykres wzrost grow growth hossa up 14\" class",
-      "published": "Wed, 17 Dec 2025 14:03:54 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Wojskowa strefa Schengen\". Oto co proponuje Unia Europejska",
-      "link": "https://businessinsider.com.pl/wiadomosci/europa-szykuje-wojskowa-strefe-schengen-nowa-inicjatywa-pe-budzi-emocje/q72v136",
-      "summary": "Czasy stają się coraz bardziej niepewne, a Europa się zbroi. W Parlamencie Europejskim posłowie zaproponowali \"wojskową strefę Schengen\". Co się kryje pod tym pomysłem?",
-      "published": "Wed, 17 Dec 2025 14:03:22 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Fed’s Waller thinks inflation will start to fall in next 3-4 months and rates can come down at moderate pace",
-      "link": "https://www.marketwatch.com/story/feds-waller-thinks-inflation-will-start-to-fall-in-next-3-4-months-and-rates-can-come-down-at-moderate-pace-ef72420c?mod=mw_rss_topstories",
-      "summary": "A finalist to replace Powell sees room for 100 basis points of rate cuts.",
-      "published": "Wed, 17 Dec 2025 14:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Francja i Włochy hamują umowę z Mercosurem. \"Podpisanie teraz jest przedwczesne\"",
       "link": "https://www.bankier.pl/wiadomosc/Francja-i-Wlochy-hamuja-umowe-z-Mercosurem-Podpisanie-teraz-jest-przedwczesne-9057147.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/6/00fc15d24d88bb-948-568-450-90-3550-2129.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Francji Emmanuel Macron zapowiedział na środowym spotkaniu z rządem, że Paryż będzie się stanowczo sprzeciwiał w przypadku, gdyby instytucje europejskie chciały prze",
       "published": "Wed, 17 Dec 2025 14:03:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Wieloryby pozbywają się 1,18 mld XRP: Co dalej z ceną XRP?",
-      "link": "https://comparic.pl/wieloryby-pozbywaja-sie-118-mld-xrp-co-dalej-z-cena-xrp/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Whales-Dump-1.18B-XRP-What-Happens-Next-to-XRP-Price1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/Whales-Dump-1.18B-X",
-      "published": "Wed, 17 Dec 2025 14:02:20 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fala komentarzy po słowach posła PiS. \"Ludzie się będą bali wsiąść do takiego pociągu\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/posel-pis-mowil-o-pociagach-jadacych-350-km-na-godz-ludzie-beda-sie-bac/54ddt5s",
-      "summary": "Piotr Gliński stwierdził, że w Polsce niepotrzebne są pociągi jadące 350 km na godz. \"Kto będzie tym jeździł? Ludzie się będą bali wsiąść do takiego pociągu\" — powiedział poseł PiS w programie \"Graffiti\" na antenie Polsatu News. Na jego słowa zareagował m.in. minister infrastruktury Dariusz Klimczak.",
-      "published": "Wed, 17 Dec 2025 13:57:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kurs srebra w hiperbolicznym wzroście. Czy wzrosty są do utrzymania?",
-      "link": "https://comparic.pl/kurs-srebra-w-hiperbolicznym-wzroscie-czy-wzrosty-sa-do-utrzymania/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"755\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1-324x235.jpg\" styl",
-      "published": "Wed, 17 Dec 2025 13:57:24 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ilu Ukraińców naprawdę chce zostać w Polsce? Nowe dane",
-      "link": "https://businessinsider.com.pl/wiadomosci/ukraincy-w-polsce-tak-widza-swoja-przyszlosc-60-proc-jest-w-fazie-przejsciowej/46fpszr",
-      "summary": "Czterech na 10 dorosłych imigrantów z Ukrainy prawdopodobnie pozostanie w Polsce na stałe — wynika z analizy Polskiego Instytutu Ekonomicznego. Co wpływa na ich decyzję? Nie tylko korzyści ekonomiczne.",
-      "published": "Wed, 17 Dec 2025 13:56:39 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Znamy ceny prądu na nowy rok. Sprawdź, ile zapłacisz",
-      "link": "https://businessinsider.com.pl/wiadomosci/taryfy-na-prad-2026-juz-znane-co-zmieni-sie-w-portfelach-polakow/136y8gj",
-      "summary": "Urząd Regulacji Energetyki zatwierdził wysokość taryf na energię elektryczną na 2026 rok — dziś był ostatni dzień na decyzję. To pierwsza taka decyzja po okresie zamrożonych cen.",
-      "published": "Wed, 17 Dec 2025 13:54:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Benzyna w Orlenie najtańsza od ponad czterech lat. Cieszmy się chwilą",
-      "link": "https://businessinsider.com.pl/gielda/ceny-benzyny-z-orlenu-najnizsze-od-czterech-lat-cieszmy-sie-chwila/2hkc8jq",
-      "summary": "Tak tanio, jak w środę, Orlen nie sprzedawał wyprodukowanej przez siebie benzyny od 15 czerwca 2021 r. Niskiej cenie służą zarówno notowania ropy, jak i kurs złotego względem dolara. Niestety wiele wskazuje na to, że już w czwartek informacje będą mniej radosne, więc lepiej zatankować jeszcze w środę.",
-      "published": "Wed, 17 Dec 2025 13:52:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "\"Szokujące lekceważenie bezpieczeństwa pacjentów\". Anglia zaczyna pięciodniowy strajk lekarzy",
-      "link": "https://www.bankier.pl/wiadomosc/Szokujace-lekcewazenie-bezpieczenstwa-pacjentow-Anglia-zaczyna-pieciodniowy-strajk-9057143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/3/3aa24f2ade6670-948-568-80-210-3920-2351.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Lekarze rezydenci w całej Anglii rozpoczęli w środę pięciodniowy strajk, żądając m.in. zwiększenia wynagrodzeń. W związku z trwającym sezonem grypowym, dyrektorzy szpitali ost",
-      "published": "Wed, 17 Dec 2025 13:51:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Sprzedałeś kryptowaluty? Fiskus się dowie, czy zapłaciłeś podatek. Rząd przyjął zmiany",
-      "link": "https://businessinsider.com.pl/prawo/podatki/kryptowaluty-pod-lupa-fiskusa-nowe-przepisy-uderza-w-inwestorow-juz-w-2026-roku/cjlcb2v",
-      "summary": "Nawet trzy miliony Polaków inwestuje w kryptowaluty, ale zaledwie 1 proc. rozlicza podatki związane z transakcjami na tym rynku. Rząd przyjął dziś projekt, który przewiduje, że fiskus dowie się o tych wszystkich transakcjach, nawet jeśli zostały przeprowadzone na giełdach zagranicznych.",
-      "published": "Wed, 17 Dec 2025 13:50:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "crypto"
-    },
-    {
-      "title": "Energy stocks are the new bonds, this strategist argues",
-      "link": "https://www.marketwatch.com/story/energy-stocks-are-the-new-bonds-this-strategist-argues-ae4db842?mod=mw_rss_topstories",
-      "summary": "In an inflationary setting, why hold bonds at all, says Louis-Vincent Gave",
-      "published": "Wed, 17 Dec 2025 13:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Taryfy dynamiczne wchodzą do gry. Ile można zaoszczędzić na rachunku za prąd?",
-      "link": "https://businessinsider.com.pl/gospodarka/taryfy-dynamiczne-moga-obnizyc-rachunki-za-prad-eksperci-wskazuja-warunki/de6bm5s",
-      "summary": "Polki i Polacy dowiedzieli się dzisiaj, ile w 2026 r. będą płacić za prąd. Odgórnie zatwierdzane taryfy są ważne dla większości społeczeństwa, istnieją jednak też inne możliwości. Czy niższe rachunki mogą zapewnić ceny dynamiczne?",
-      "published": "Wed, 17 Dec 2025 13:41:32 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Warner Bros. Discovery rekomenduje ofertę Netfliksa. Paramount już bez szans?",
@@ -338,140 +562,12 @@
       "category": "pl"
     },
     {
-      "title": "Śledczy zniszczyli tupolewa w trakcie prac podkomisji smoleńskiej? Śledztwo umorzono",
-      "link": "https://www.bankier.pl/wiadomosc/Sledczy-zniszczyli-tupolewa-w-trakcie-prac-podkomisji-smolenskiej-Sledztwo-umorzono-9057115.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/e/7907fa9d6b2007-948-568-0-112-3726-2236.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rzecznik Prokuratury Krajowej prok. Przemysław Nowak poinformował w środę o umorzeniu śledztwa w sprawie zniszczenia samolotu Tu-154M nr 102 w trakcie prac prowadzonych przez P",
-      "published": "Wed, 17 Dec 2025 13:02:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "My 401(k) plan is emailing me about annuities, but I’m only in my 50s. Is this something I should do?",
-      "link": "https://www.marketwatch.com/story/my-401-k-plan-is-emailing-me-about-annuities-but-im-only-in-my-50s-is-this-something-i-should-do-6ba01b31?mod=mw_rss_topstories",
-      "summary": "Options will keep coming, but signing up for an annuity is something you want to carefully consider",
-      "published": "Wed, 17 Dec 2025 13:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Wojska europejskie w Ukrainie? Kreml odpowiada wymijająco",
-      "link": "https://businessinsider.com.pl/wiadomosci/kreml-wysyla-sygnal-ws-wojsk-europejskich-w-ukrainie-rozmowy-mozliwe/th9sbn2",
-      "summary": "Na tle intensywnych rozmów dyplomatycznych wokół możliwego zakończenia wojny w Ukrainie Kreml wysyła sygnał, który można odczytywać dwojako. Z jednej strony podtrzymuje twarde, znane od dawna stanowisko, z drugiej — nie zamyka drzwi przed dalszymi negocjacjami.",
-      "published": "Wed, 17 Dec 2025 12:58:13 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Były szef CBA Ernest B. usłyszał zarzut niedopełnienia obowiązków służbowych",
       "link": "https://www.bankier.pl/wiadomosc/Byly-CBA-Ernest-B-uslyszal-zarzut-niedopelnienia-obowiazkow-sluzbowych-9057111.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/8/cda178f5b8aa12-948-568-11-11-4488-2693.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />B. szef CBA Ernest B. usłyszał w środę zarzut niedopełnienia obowiązków służbowych w związku z dopuszczeniem i używaniem systemu Pegasus - poinformował rzecznik PK prok. Przemy",
       "published": "Wed, 17 Dec 2025 12:58:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Ugrupowanie Brauna prześcignęło Konfederację w sondażu",
-      "link": "https://www.bankier.pl/wiadomosc/Ugrupowanie-Brauna-przescignelo-Konfederacje-w-sondazu-9057105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/d/bdbb44462a5430-948-568-509-0-2619-1571.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W wyborach do parlamentu KO poparłoby 35,29 proc. badanych, 31,21 proc. zagłosowałoby na PiS, a 11,18 proc. na Konfederację Korony Polskiej - wynika z sondażu OGB.</p>",
-      "published": "Wed, 17 Dec 2025 12:44:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Precious metals are going to party like it’s the 1970s, reckons Albert Edwards",
-      "link": "https://www.marketwatch.com/story/precious-metals-are-going-to-party-like-its-the-1970s-reckons-albert-edwards-f42fcd14?mod=mw_rss_topstories",
-      "summary": "“Is gold’s 60% rally this year merely the appetizer for a late-1970s-style main course?” asks Edwards",
-      "published": "Wed, 17 Dec 2025 12:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Jest akt oskarżenia wobec Antoniego Macierewicza. Chodzi o ujawnienie informacji ws. katastrofy smoleńskiej",
-      "link": "https://www.bankier.pl/wiadomosc/Jest-akt-oskarzenia-wobec-Antoniego-Macierewicza-Chodzi-o-ujawnienie-informacji-ws-katastrofy-smolenskiej-9057100.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/c/624b9ea279205f-948-568-27-464-3689-2213.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prokuratura skierowała do Sądu Okręgowego w Warszawie akt oskarżenia wobec b. szefa MON, posła PiS Antoniego Macierewicza – przekazał rzecznik PK prok. Przemysław Nowak. Jak p",
-      "published": "Wed, 17 Dec 2025 12:42:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Warner Bros. Discovery jednak dla Netflixa. Rekomendacja właściciela TVN",
-      "link": "https://businessinsider.com.pl/firmy/warner-bros-discovery-jednak-dla-netflixa-rekomendacja-wlasciciela-tvn/2ehsv2b",
-      "summary": "Rada dyrektorów Warner Bros. Discovery (WBD) jednogłośnie podtrzymała swoją rekomendację dla akcjonariuszy, aby zaakceptowali ofertę przejęcia części firmy przez Netflixa. Decyzja ta zapadła w środę, a konkurencyjna propozycja Paramount Skydance została uznana za niewystarczającą i obarczoną zbyt dużym ryzykiem.",
-      "published": "Wed, 17 Dec 2025 12:28:30 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Tyle płacimy za bilety w okresie świątecznym. Szczególnie lubimy te kierunki",
-      "link": "https://businessinsider.com.pl/wiadomosci/platforma-fru-ujawnia-gdzie-polacy-lataja-na-swieta-i-ile-placa-za-bilety/qnhjgr2",
-      "summary": "W okresie świątecznym i sylwestrowym popyt na bilety lotnicze rośnie, ale znacząco rosną też ceny. Platforma Fru ujawniła, ile wynosi średnia cena biletu w tym okresie. Wiadomo też, gdzie Polacy najchętniej podróżują w tym czasie.",
-      "published": "Wed, 17 Dec 2025 12:22:50 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 17.12.2025",
-      "link": "https://www.money.pl/pieniadze/kopia-ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-18-11-2025-7233412618677216a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 17.12.2025. W środę za jedno euro (EUR) trzeba zapłacić 4.21721 zł.",
-      "published": "Wed, 17 Dec 2025 12:18:21 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 17.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-17-12-2025-7233412630883296a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 17.12.2025. W środę za jednego franka (CHF) trzeba zapłacić 4.51504 zł.",
-      "published": "Wed, 17 Dec 2025 12:16:40 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 17.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-17-12-2025-7233412641885152a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 17.12.2025. W środę za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.79616 zł.",
-      "published": "Wed, 17 Dec 2025 12:15:35 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "UE uszczelni podatek od emisji CO2. \"Nie chcemy, aby np. produkcja pralek z Polski została przeniesiona poza Unię\"",
-      "link": "https://www.bankier.pl/wiadomosc/UE-uszczelni-podatek-od-emisji-CO2-Nie-chcemy-aby-np-produkcja-pralek-z-Polski-zostala-przeniesiona-poza-Unie-9057063.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/0/e6ba46e5d2a427-945-560-0-0-2835-1700.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja Europejska zaproponowała w środę uproszczenie unijnych przepisów dotyczących tzw. podatku CBAM. Według komisarza ds. klimatu Wopke Hoekstry, cel to uniknięcie sytuacji, w",
-      "published": "Wed, 17 Dec 2025 12:15:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 17.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-17-12-2025-7233412652558848a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 17.12.2025. W środę za jednego dolara (USD) trzeba zapłacić 3.59836 zł.",
-      "published": "Wed, 17 Dec 2025 12:12:55 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Why 2025 has been such a historic year for oil — with prices set to finish near a 5-year low",
-      "link": "https://www.marketwatch.com/story/why-2025-has-been-such-a-historic-year-for-oil-with-prices-set-to-finish-near-a-5-year-low-117ba313?mod=mw_rss_topstories",
-      "summary": "The world has more oil than it needs, but a drop in crude prices this week to the lowest level in nearly five years may help slow production and boost demand.",
-      "published": "Wed, 17 Dec 2025 12:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Waszyngton szykuje nowy pakiet sankcji. Na celowniku rosyjska ropa",
-      "link": "https://businessinsider.com.pl/gospodarka/rosyjska-flota-cieni-na-celowniku-usa-szykuja-kolejne-restrykcje/rqyh5rg",
-      "summary": "Na celowniku Waszyngtonu znalazła się flota, o której mało kto słyszał, a która od miesięcy przemyka po morzach, omijając sankcje i zasilając rosyjską machinę wojenną. Teraz USA szykują ruch, który może wstrząsnąć rynkiem ropy i otworzyć nowy rozdział w globalnej grze o wpływy.",
-      "published": "Wed, 17 Dec 2025 11:54:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nowy prezes JSW Koks. Poprzedni zrezygnował",
-      "link": "https://businessinsider.com.pl/gielda/jest-nowy-prezes-jsw-koks-poprzedni-zrezygnowal/dbjyqp7",
-      "summary": "Jacek Albrecht został pełniącym obowiązki prezesa JSW Koks — podała w środę spółka w komunikacie. To spółka zależna od Jastrzębskiej Spółki Węglowej, która znajduje się w bardzo trudnej sytuacji finansowej. Poprzedni prezes złożył rezygnację.",
-      "published": "Wed, 17 Dec 2025 11:48:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Pokój albo krach. USA szykują potężne sankcje, jeśli Rosja odrzuci porozumienie",
@@ -482,50 +578,10 @@
       "category": "pl"
     },
     {
-      "title": "Kultowy volkswagen zostanie elektrykiem. Może kosztować mniej niż 100 tys. zł",
-      "link": "https://www.bankier.pl/wiadomosc/Volkswagen-id-polo-osiagi-zasieg-ceny-9057031.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/c5add472ea416f-948-568-248-382-1456-873.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nawet 226 KM mocy, do 450 km zasięgu i bagażnik większy o jedną czwartą – takie parametry ma oferować nowy volkswagen id.polo. Zgodnie z zapowiedziami koncernu z Wolfsburga, c",
-      "published": "Wed, 17 Dec 2025 11:22:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "AI, surowce, stopy procentowe i 10 wybrańców z GPW. Poznaj strategię inwestycyjną eksperta BNP Paribas",
-      "link": "https://www.bankier.pl/wiadomosc/AI-surowce-stopy-procentowe-i-10-wybrancow-z-GPW-Poznaj-strategie-inwestycyjna-eksperta-BNP-Paribas-9056998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/9/81f587b662d13d-905-542-75-47-905-542.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czy sztuczna inteligencja to bańka? W co inwestować w obliczu spadających stóp i niesłabnącego ryzyka geopolitycznego? Na te i szereg innych pytań o aktualne tematy ważne dla inw",
-      "published": "Wed, 17 Dec 2025 11:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Awantura o MiG-i dla Ukrainy. BBN i rząd przerzucają się oskarżeniami",
       "link": "https://www.bankier.pl/wiadomosc/Awantura-o-MiG-i-dla-Ukrainy-BBN-i-rzad-przerzucaja-sie-oskarzeniami-9056999.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/d423ff32879d90-948-568-15-7-2985-1790.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Współpracownicy prezydenta Karola Nawrockiego przekroczyli „granice chamstwa i kłamstwa” - ocenił w środę wicepremier, szef MON Władysław Kosiniak-Kamysz. Jak mówił, chodzi m.in",
       "published": "Wed, 17 Dec 2025 11:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "4,90 proc. na lokacie bez większych \"haczyków\". Prześwietlamy ofertę CA Auto Banku",
-      "link": "https://www.bankier.pl/wiadomosc/4-90-proc-na-lokacie-bez-wiekszych-haczykow-Przeswietlamy-oferte-CA-Auto-Banku-9056943.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/c/884b9c4b2e732f-948-568-0-0-2500-1499.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do 4,90 proc. w skali roku na lokacie – to propozycja CA Auto Banku dostępna za pośrednictwem platformy Raisin. Instytucja nie wymaga spełniania dodatkowych warunków, choć potrze",
-      "published": "Wed, 17 Dec 2025 11:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Gigant spożywczy zwolni 16 tys. osób. Co z polskimi pracownikami?",
-      "link": "https://www.bankier.pl/wiadomosc/Nestle-tnie-etaty-Co-z-fabrykami-w-Polsce-9056982.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/9/b5c58155bf9dfa-948-568-95-47-1805-1082.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nestlé, potentat z branży spożywczej, przechodzi obecnie swój najtrudniejszy okres w historii. Dlatego planuje zwolnić około 16 tys. osób, w tym 12 tys. zatrudnionych na stanow",
-      "published": "Wed, 17 Dec 2025 10:25:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Podatek katastralny w Polsce? Budżet państwa zyskałby mniej niż na \"Belce\"",
-      "link": "https://www.bankier.pl/wiadomosc/Podatek-katastralny-w-Polsce-Budzet-panstwa-zyskalby-mniej-niz-na-podatku-Belki-9056965.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/b/80be8de9abf688-948-568-14-94-1970-1182.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Temat podatku katastralnego powraca jak bumerang. Obecnie w grze jest Lewica, ale szanse na powodzenie projektu są raczej niewielkie. Ile mógłby zyskać budżet państwa? To polic",
-      "published": "Wed, 17 Dec 2025 10:15:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -562,52 +618,12 @@
       "category": "us"
     },
     {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-12-2025-7233146917514176a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 16.12.2025. We wtorek po południu za jednego dolara (USD) trzeba zapłacić 3.57740 zł.",
-      "published": "Tue, 16 Dec 2025 18:06:12 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 16.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-16-12-2025-7233146291735488a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 16.12.2025. We wtorek po południu za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.80770 zł.",
-      "published": "Tue, 16 Dec 2025 18:01:58 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-12-2025-7233145920244640a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 16.12.2025. We wtorek po południu za jednego franka (CHF) trzeba zapłacić 4.50325 zł.",
-      "published": "Tue, 16 Dec 2025 18:00:02 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 16.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-16-12-2025-7233145052826560a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 16.12.2025. We wtorek po południu za jedno euro (EUR) trzeba zapłacić 4.21402 zł.",
-      "published": "Tue, 16 Dec 2025 17:57:00 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Birkin bag prices are sinking at auction despite high-profile sales",
       "link": "https://www.cnbc.com/2025/12/16/birkin-bag-prices-sink-auction.html",
       "summary": "Luxury experts say aspirational luxury consumers are facing new pressures from inflation and a slowing job market, meaning fewer Birkin buyers at auction.",
       "published": "Tue, 16 Dec 2025 17:53:06 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Największy polski bank ostrzega przed oszustami. \"Natychmiast przerwij rozmowę\"",
-      "link": "https://www.money.pl/banki/najwiekszy-polski-bank-ostrzega-przed-oszustami-natychmiast-przerwij-rozmowe-7233132390968256a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/fe5bdf35-5fc8-4f2c-9db5-d069f165882b\" width=\"308\" /> Bank PKO BP poinformował we wtorek, że oszuści podszywają się pod jego pracowników i próbują wyłudzić od ludzi pieniądze. Powołując się na ankietę dotyczącą bezpieczeństwa, przestępcy proszą o przelanie środków na \"bezpieczne konto\". Prawdziwi pracownicy banku nigdy o coś",
-      "published": "Tue, 16 Dec 2025 17:50:14 +0100",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Kraft Heinz taps former Kellanova CEO Steve Cahillane to lead company ahead of breakup",
@@ -642,26 +658,10 @@
       "category": "us"
     },
     {
-      "title": "\"Cyrkularność oznacza bezpieczeństwo surowcowe\" – rozmowa z Piotrem Bruździakiem ze Stena Recycling",
-      "link": "https://www.money.pl/gospodarka/cyrkularnosc-oznacza-bezpieczenstwo-surowcowe-rozmowa-z-piotrem-bruzdziakiem-ze-stena-recycling-7233014123342784a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/fc3f458d-30ae-4372-a9f6-2304a1db4598\" width=\"308\" /> W obliczu globalnych wyzwań wynikających między innymi z sytuacji geopolitycznej, gospodarka obiegu zamkniętego staje się strategią biznesową. Cyrkularność to większa stabilność łańcuchów dostaw, a co za tym idzie również realna przewaga konkurencyjna. O tym, jak firmy mo",
-      "published": "Tue, 16 Dec 2025 14:04:46 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "As catastrophe losses top $100 billion again, insurers are helping policyholders mitigate risk",
       "link": "https://www.cnbc.com/2025/12/16/insurers-policyholders-mitigate-risk-catastrophe-losses.html",
       "summary": "Wildfires and severe storms are the main driver of losses, accounting for 83% of the total insured losses, according to Swiss Re.",
       "published": "Tue, 16 Dec 2025 13:21:26 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Costco tops Wall Street's sales and revenue expectations",
-      "link": "https://www.cnbc.com/2025/12/11/costco-cost-earnings-q1-2026.html",
-      "summary": "Costco on Thursday surpassed Wall Street's quarterly expectations as its sales rose 8.2% year over year.",
-      "published": "Thu, 11 Dec 2025 23:08:13 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -706,26 +706,10 @@
       "category": "us"
     },
     {
-      "title": "Homeowners are losing thousands in equity thanks to weakening prices",
-      "link": "https://www.cnbc.com/2025/12/12/homeowners-losing-equity-weakening-prices.html",
-      "summary": "Weaker prices mean homeowners are starting to lose equity after several years of huge gains.",
-      "published": "Fri, 12 Dec 2025 16:46:19 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "‘The next protein’: Fiber is shaping up to be the latest grocery obsession",
       "link": "https://www.cnbc.com/2025/12/12/fibermaxxing-high-fiber-foods-pepsi-nestle-olipop.html",
       "summary": "As consumers find their next grocery obsession in fiber, food and beverage companies are racing to keep up with the trend.",
       "published": "Fri, 12 Dec 2025 16:03:24 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Lululemon CEO Calvin McDonald to depart in January as retailer struggles to compete, woo shoppers",
-      "link": "https://www.cnbc.com/2025/12/11/lululemon-ceo-calvin-mcdonald-departing.html",
-      "summary": "Lululemon's CEO Calvin McDonald will leave the athleisure retailer at the end of January as sales in its largest market sag and consumers flee to competitors.",
-      "published": "Fri, 12 Dec 2025 16:01:28 GMT",
       "source": "CNBC",
       "category": "us"
     }
