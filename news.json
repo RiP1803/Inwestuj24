@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T21:26:18.937878",
+  "generated_at": "2025-12-30T02:18:53.914264",
   "articles": [
     {
       "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
@@ -7,6 +7,14 @@
       "summary": "Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report.",
       "published": "Wed, 24 Dec 2025 16:53:21 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "How Lululemon’s founder is looking to restore investors’ faith as a new CEO is picked",
+      "link": "https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories",
+      "summary": "Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.",
+      "published": "Tue, 30 Dec 2025 02:07:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -90,18 +98,74 @@
       "category": "us"
     },
     {
-      "title": "The Fed has gone into hibernation. Tuesday may bring clues to how long it might wait to emerge.",
-      "link": "https://www.marketwatch.com/story/the-fed-has-gone-into-hibernation-tuesday-may-bring-clues-to-how-long-it-might-wait-to-emerge-7ee04f6c?mod=mw_rss_topstories",
-      "summary": "Federal Reserve officials are clearly divided about whether higher inflation or a weaker economy is the bigger risk going forward.",
-      "published": "Mon, 29 Dec 2025 21:23:00 GMT",
+      "title": "Why your kitchen cabinets and furniture could get more expensive next year",
+      "link": "https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories",
+      "summary": "Prices for some everyday home items may be about to get more expensive, as U.S. tariff rates on imports of certain furniture and kitchen cabinets are set to rise beginning Thursday.",
+      "published": "Mon, 29 Dec 2025 23:17:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "How Lululemon’s founder is looking to restore investors’ faith as a new CEO is picked",
-      "link": "https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories",
-      "summary": "Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.",
-      "published": "Mon, 29 Dec 2025 21:20:00 GMT",
+      "title": "‘I completely trust her’: Should I name my daughter as beneficiary on all my accounts — or add her name instead?",
+      "link": "https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories",
+      "summary": "“She is an intelligent and responsible individual.”",
+      "published": "Mon, 29 Dec 2025 23:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I’m fed up’: My selfish mother-in-law has controlled me for 30 years. How can I regain my power?",
+      "link": "https://www.marketwatch.com/story/im-completely-fed-up-my-selfish-boomer-mother-in-law-has-controlled-me-for-30-years-how-can-i-regain-my-power-7d6b82e0?mod=mw_rss_topstories",
+      "summary": "“I’m almost 50 years old. Enough is enough. I am exhausted by it.”",
+      "published": "Mon, 29 Dec 2025 22:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Strategy’s stock falls to fresh lows after using more share sales to buy bitcoin",
+      "link": "https://www.marketwatch.com/story/strategys-stock-falls-to-fresh-lows-after-using-more-share-sales-to-buy-bitcoin-a399f21d?mod=mw_rss_topstories",
+      "summary": "The company’s shares fell to a 15-month low amid a decline in bitcoin prices and another dilutive share sale.",
+      "published": "Mon, 29 Dec 2025 22:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Beyoncé just became a billionaire. Here’s how she did it.",
+      "link": "https://www.marketwatch.com/story/beyonce-just-became-a-billionaire-heres-how-she-did-it-e267802d?mod=mw_rss_topstories",
+      "summary": "Beyoncé is just the fifth musical artist to achieve billionaire status.",
+      "published": "Mon, 29 Dec 2025 22:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump eyes January for announcement of Powell replacement as he renews attacks on Fed chief",
+      "link": "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2?mod=mw_rss_topstories",
+      "summary": "President Donald Trump on Monday revived his threat to sue over Federal Reserve building renovations.",
+      "published": "Mon, 29 Dec 2025 21:52:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
+      "link": "https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html",
+      "summary": "General Motors' stock is having its best year since the company's reemergence from bankruptcy in 2009.",
+      "published": "Mon, 29 Dec 2025 21:36:36 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire’s reins this week",
+      "link": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
+      "summary": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett’s phenomenal winning record.",
+      "published": "Mon, 29 Dec 2025 21:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The Fed has gone into hibernation. Tuesday may bring clues to how long it might wait to emerge.",
+      "link": "https://www.marketwatch.com/story/the-fed-has-gone-into-hibernation-tuesday-may-bring-clues-to-how-long-it-might-wait-to-emerge-7ee04f6c?mod=mw_rss_topstories",
+      "summary": "Federal Reserve officials are clearly divided about whether higher inflation or a weaker economy is the bigger risk going forward.",
+      "published": "Mon, 29 Dec 2025 21:23:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -186,22 +250,6 @@
       "category": "pl"
     },
     {
-      "title": "Why your kitchen cabinets and furniture could get more expensive next year",
-      "link": "https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories",
-      "summary": "Prices for some everyday home items may be about to get more expensive, as U.S. tariff rates on imports of certain furniture and kitchen cabinets are set to rise beginning Thursday.",
-      "published": "Mon, 29 Dec 2025 19:21:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘The bulls are definitely spooked’: Has silver’s stunning rise this year run out of steam?",
-      "link": "https://www.marketwatch.com/story/the-bulls-are-definitely-spooked-has-silvers-stunning-rise-this-year-run-out-of-steam-854100db?mod=mw_rss_topstories",
-      "summary": "Thin holiday trading, higher margin costs and other factors trigger silver’s biggest daily dollar decline since 1980.",
-      "published": "Mon, 29 Dec 2025 19:17:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Szef MON chce spotkania z prezydentem. \"Można tak było od razu\"",
       "link": "https://businessinsider.com.pl/polityka/karol-nawrocki-dostal-propozycje-od-wladyslawa-kosiniaka-kamysza/5qd2x4l",
       "summary": "Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował w poniedziałek, że wspólnie z ministrem Tomaszem Siemoniakiem zwrócił się z wnioskiem do prezydenta Karola Nawrockiego, żeby wspólnie z wszystkimi szefami służb spotkać się i przedstawić plany na 2026 r. Odpowiedź ze strony kancelarii prezydenta przyszła szybko.",
@@ -226,14 +274,6 @@
       "category": "other"
     },
     {
-      "title": "The miracle of curing Alzheimer’s? No longer an impossibility.",
-      "link": "https://www.marketwatch.com/story/the-miracle-of-curing-alzheimers-no-longer-an-impossibility-e385925f?mod=mw_rss_topstories",
-      "summary": "New research shows the disease may one day be reversible.",
-      "published": "Mon, 29 Dec 2025 18:21:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Jest porozumienie w PG Silesia. Bumech wydzierżawi kopalnię, a pracownicy trafią pod ochronę",
       "link": "https://www.bankier.pl/wiadomosc/Jest-porozumienie-w-PG-Silesia-Bumech-wydzierzawi-kopalnie-a-pracownicy-trafia-pod-ochrone-9061712.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/7/a9ebd1ee65f175-948-568-10-118-4292-2575.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Porozumienie ws. zabezpieczenia pracowników PG Silesia podpisano w poniedziałek po południu w ramach Trójstronnego Zespołu ds. Bezpieczeństwa Socjalnego Górników.</p>",
@@ -248,14 +288,6 @@
       "published": "Mon, 29 Dec 2025 18:14:43 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "These biotech stocks are getting hammered by shocking brittle-bone treatment study results",
-      "link": "https://www.marketwatch.com/story/these-biotech-stocks-are-getting-hammered-by-shocking-brittle-bone-treatment-study-results-5bd80501?mod=mw_rss_topstories",
-      "summary": "Shares of both Ultragenyx and Mereo BioPharma were seeing record selloffs after disappointing trial results for setrusumab.",
-      "published": "Mon, 29 Dec 2025 18:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "PKP zwiększa tempo. Ogłasza przetarg na 20 szybkich pociągów",
@@ -288,14 +320,6 @@
       "published": "Mon, 29 Dec 2025 17:49:13 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire’s reins this week",
-      "link": "https://www.marketwatch.com/story/warren-buffett-gifts-us-these-5-investing-gems-as-berkshires-new-ceo-takes-the-reins-aa948685?mod=mw_rss_topstories",
-      "summary": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett’s phenomenal winning record.",
-      "published": "Mon, 29 Dec 2025 17:48:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Kontrowersyjna reklama piwa z Mikołajem oburzyła widzów. KRRiT zleciła kontrolę",
@@ -344,14 +368,6 @@
       "published": "Mon, 29 Dec 2025 17:40:23 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "I’m afraid my financial adviser will steal my money. I’ve read too many cautionary tales. How can I be sure?",
-      "link": "https://www.marketwatch.com/story/im-afraid-my-financial-adviser-will-steal-my-money-ive-read-too-many-cautionary-tales-how-can-i-be-sure-e7f0259f?mod=mw_rss_topstories",
-      "summary": "“I am 66 years old and have been retired for about a year and a half.”",
-      "published": "Mon, 29 Dec 2025 17:35:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Kadrowe trzęsienie ziemi w imperium rodziny Solorzów. Oto pełne zestawienie zmian",
@@ -466,14 +482,6 @@
       "category": "other"
     },
     {
-      "title": "What you need to know about changes to Social Security, Medicare and Medicaid in 2026",
-      "link": "https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories",
-      "summary": "Here’s a rundown of what retirees and savers can expect in the coming year.",
-      "published": "Mon, 29 Dec 2025 16:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nina Terentiew. Kobieta, która stworzyła współczesną polską telewizję",
       "link": "https://businessinsider.com.pl/praca/nina-terentiew-kobieta-ktora-stworzyla-wspolczesna-polska-telewizje/1styw56",
       "summary": "Jeszcze podczas wigilii Polsatu siedziała w pierwszym rzędzie, dziś już wiadomo, że Nina Terentiew nie będzie już członkinią rady nadzorczej stacji. Według źródeł Business Insider Polska po odejściu z rady pozostanie w spółce Grupa Polsat Plus w roli doradczej.",
@@ -568,14 +576,6 @@
       "published": "Mon, 29 Dec 2025 15:33:17 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "GM's record stock performance beats Tesla, Ford and other automakers in 2025",
-      "link": "https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html",
-      "summary": "General Motors' stock is having its best year since the company's reemergence from bankruptcy in 2009.",
-      "published": "Mon, 29 Dec 2025 15:09:54 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "XRP pod presją sprzedaży mimo napływu 1,1 mld USD do ETF-ów",
