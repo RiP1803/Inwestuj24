@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-05T13:05:08.177168",
+  "generated_at": "2026-01-05T15:32:25.990163",
   "articles": [
     {
       "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
@@ -70,14 +70,6 @@
       "link": "https://www.cnbc.com/2025/12/23/evs-gm-ford-hyundai-tesla.html",
       "summary": "Detroit automakers are refocusing on large gas-guzzling trucks and SUVs, and many have admitted that policies, not consumers, were driving the charge for EVs.",
       "published": "Tue, 23 Dec 2025 12:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "FDA approves first GLP-1 pill for obesity from Wegovy maker Novo Nordisk",
-      "link": "https://www.cnbc.com/2025/12/22/fda-approves-first-glp-1-pill-for-obesity-from-novo-nordisk.html",
-      "summary": "The approval gives Novo Nordisk a head start over chief rival Eli Lilly, which is racing to launch its own obesity pill.",
-      "published": "Tue, 23 Dec 2025 03:09:27 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -154,10 +146,58 @@
       "category": "pl"
     },
     {
-      "title": "Koniec nietykalności Maduro. Szwajcaria uderza w jego aktywa",
-      "link": "https://www.bankier.pl/wiadomosc/Koniec-nietykalnosci-Maduro-Szwajcaria-uderza-w-jego-aktywa-9063967.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/a/08035fecd20687-948-568-0-121-3030-1817.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szwajcaria zamroziła zdeponowane w tym kraju aktywa należące do Nicolasa Maduro i jego współpracowników - poinformowała w poniedziałek Rada Federalna (rząd). Przywódca Wenezuel",
-      "published": "Mon, 5 Jan 2026 13:23:00 +0100",
+      "title": "Tragiczny pożar w Crans-Montanie. Dwie osoby z Polski wśród rannych",
+      "link": "https://www.bankier.pl/wiadomosc/Tragiczny-pozar-w-Crans-Montanie-Dwie-osoby-z-Polski-wsrod-rannych-9064031.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/b/e4d3de9b473db0-948-568-11-292-4488-2693.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wśród rannych w pożarze, który wybuchł w sylwestra w barze w Crans-Montanie, są dwie osoby z Polski - wynika z informacji podanych w poniedziałek przez szwajcarską policję, kt",
+      "published": "Mon, 5 Jan 2026 15:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Chaos w Luwrze tuż po nowym roku. Pracownicy podjęli decyzję o strajku",
+      "link": "https://www.bankier.pl/wiadomosc/Chaos-w-Luwrze-tuz-po-nowym-roku-Pracownicy-podjeli-decyzje-o-strajku-9064020.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/0/a0e30de9cd6ad2-948-567-0-67-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pracownicy paryskiego Luwru opowiedzieli się w poniedziałek rano za wznowieniem strajku, który personel muzeum prowadził w grudniu ub.r. Luwr jest tego dnia częściowo otwarty. Do",
+      "published": "Mon, 5 Jan 2026 14:53:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kosiniak-Kamysz podsumowuje rok 2025: Przyspieszenie zakupów i rozwój Wojska Polskiego",
+      "link": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-podsumowuje-rok-2025-Przyspieszenie-zakupow-i-rozwoj-Wojska-Polskiego-9064001.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/6/385001c7672787-948-568-110-110-3890-2333.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Z Funduszu Wsparcia Sił Zbrojnych (FWSZ) w 2025 r. wydano 51,4 mld zł, ponad dwukrotnie więcej niż w 2023 r. - poinformował na platformie X wicepremier, minister obrony narod",
+      "published": "Mon, 5 Jan 2026 14:41:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Lex Doda\" w Kodeksie karnym? Rząd łagodzi przepisy o obrazie uczuć religijnych",
+      "link": "https://www.bankier.pl/wiadomosc/Lex-Doda-w-Kodeksie-karnym-Rzad-lagodzi-przepisy-o-obrazie-uczuc-religijnych-9064005.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/6/6b5887f4622c43-948-568-20-20-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Projekt nowelizacji Kodeksu karnego przewidujący wykreślenie kary pozbawienia wolności z katalogu kar za przestępstwo obrazy uczuć religijnych został przekazany do uzgodnień mi",
+      "published": "Mon, 5 Jan 2026 14:27:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nicolas Maduro w rękach USA. Po ujęciu dyktatora padł apel o amnestię dla więźniów politycznych",
+      "link": "https://www.bankier.pl/wiadomosc/Nicolas-Maduro-w-rekach-USA-Po-ujeciu-dyktatora-padl-apel-o-amnestie-dla-wiezniow-politycznych-9064002.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/d/529f81f5e57e84-948-568-0-604-4032-2419.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wobec pojmania przez siły USA przywódcy Wenezueli Nicolasa Maduro miejscowa organizacja praw człowieka Foro Penal zażądała od rządu w Caracas ogłoszenia amnestii dla więźniów p",
+      "published": "Mon, 5 Jan 2026 14:24:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rainbow Tours odwołał planowane wyjazdy do Wenezueli",
+      "link": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-odwolal-planowane-wyjazdy-do-Wenezueli-9063997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/a/e74851efc32b46-948-568-0-230-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wszystkie planowane przez Rainbow Tours wyjazdy do Wenezueli zostały odwołane ze względu bezpieczeństwa - poinformowała PAP rzeczniczka Rainbow Tours Kinga Woźniakowska. Dodała",
+      "published": "Mon, 5 Jan 2026 14:12:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Atak na prywatny dom J.D. Vance’a. Sprawca w rękach służb",
+      "link": "https://www.bankier.pl/wiadomosc/Atak-na-prywatny-dom-J-D-Vance-a-Sprawca-w-rekach-sluzb-9063982.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/4/262beea75807d2-948-568-10-0-4190-2514.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wybił okna w rezydencji wiceprezydenta USA J.D. Vance'a w Cincinnati stanie Ohio. Jak podają amerykańskie media, mężczyzna został zatrzymany przez służby - poinofmowały władze. ",
+      "published": "Mon, 5 Jan 2026 13:47:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -166,22 +206,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Nowa-aplikacja-od-tworcow-Twittera-i-Pinteresta-Dobra-era-social-mediow-mozliwa-9063924.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/8/eba1e4644c4439-948-568-120-0-3583-2150.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Twórcy Twittera i Pinteresta, Biz Stone i Evan Sharp, uruchomili nową aplikację Tangle, która ma być odpowiedzią na destrukcyjny wpływ mediów społecznościowych. Ich przedsiębio",
       "published": "Mon, 5 Jan 2026 13:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Roszady w Służbie Bezpieczeństwa Ukrainy. Zełenski wymienia kadry",
-      "link": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/e/c69445bec1cb2e-948-568-0-115-1775-1064.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski poinformował w poniedziałek, że chce zastąpić szefa Służby Bezpieczeństwa Ukrainy (SBU) generała Wasyla Maluka w ramach szerszych zmian per",
-      "published": "Mon, 5 Jan 2026 13:04:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polska gospodarka w 2026 r. przyspieszy. Będziemy liderem regionu",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-gospodarka-w-2026-r-przyspieszy-Bedziemy-liderem-regionu-9063955.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/1/2278312df9b7b4-948-568-30-22-2970-1781.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Światowa gospodarka w 2026 roku spowolni do 3,1 proc., Polska przyspieszy do 4 proc. - podał w raporcie Instytut Finansów Międzynarodowych (IIF).</p>",
-      "published": "Mon, 5 Jan 2026 13:02:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -202,22 +226,6 @@
       "category": "pl"
     },
     {
-      "title": "Zielone światło od UOKiK. Comarch Polska oficjalnie w rękach CGI",
-      "link": "https://www.bankier.pl/wiadomosc/CGI-sfinalizowalo-przejecie-Comarch-Polska-9063951.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/1/c121f70675da99-948-567-0-52-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />CGI sfinalizowało przejęcie Comarch Polska SA za pośrednictwem swojej spółki zależnej CGI Information Systems and Management Consultants Polska - poinformowało CGI w komunikacie.",
-      "published": "Mon, 5 Jan 2026 12:48:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Twierdzili, że jest pedofilką, a nawet mężczyzną. Winni nękania Brigitte Macron skazani",
-      "link": "https://www.bankier.pl/wiadomosc/Twierdzili-ze-jest-pedofilka-a-nawet-mezczyzna-Winni-nekania-Brigitte-Macron-skazani-9063950.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/2/f74a119e28defa-948-568-13-127-2677-1606.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sąd w Paryżu uznał w poniedziałek winę 10 osób oskarżonych o nękanie w internecie francuskiej pierwszej damy Brigitte Macron i orzekł dla nich kary od czterech do ośmiu miesię",
-      "published": "Mon, 5 Jan 2026 12:47:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Opór wobec Strefy Czystego Transportu w Krakowie. Znikają znaki",
       "link": "https://www.bankier.pl/wiadomosc/Opor-wobec-Strefy-Czystego-Transportu-w-Krakowie-Znikaja-znaki-9063939.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/3/0502caa926645f-948-568-0-51-4134-2480.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W pierwszych czterech dniach funkcjonowania strefy czystego transportu (SCT) w Krakowie Zarząd Dróg Miasta Krakowa (ZDMK) odnotował ok. 20 zniszczonych lub skradzionych znaków w",
@@ -230,22 +238,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Koniec-wojny-o-spaghetti-USA-wycofuja-sie-z-zaporowych-cel-9063894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/6/7c3694dbc2e7aa-948-568-20-0-4011-2407.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Widmo gigantycznych podwyżek cen makaronu w Stanach Zjednoczonych i potężnego ciosu we włoskich eksporterów zostało oddalone. Jak donosi CNN, Departament Handlu USA zdecydował s",
       "published": "Mon, 5 Jan 2026 12:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Złoty może skorzystać na wydarzeniach w Wenezueli? Euro zbliżyło się do ostatnich minimów",
-      "link": "https://www.bankier.pl/wiadomosc/Zloty-moze-skorzystac-na-wydarzeniach-w-Wenezueli-Euro-zblizylo-sie-do-ostatnich-minimow-9063923.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/0/2c4e8dc8aa699a-948-568-0-229-3970-2381.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W poniedziałek 5 stycznia za jedno euro znów płacono poniżej 4,21 zł i niespełna 1 grosz więcej od grudniowych minimów. Według części ekspertów wydarzenia z Wenezueli związane ",
-      "published": "Mon, 5 Jan 2026 11:42:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "„Ekspertka od transformacji”. Była wicepremier Kanady w ekipie Zełenskiego",
-      "link": "https://www.bankier.pl/wiadomosc/Ekspertka-od-transformacji-Byla-wicepremier-Kanady-Chrystia-Freeland-w-ekipie-Zelenskiego-9063921.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/e/1277b74510c00c-948-568-7-82-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski poinformował w poniedziałek, że mianował byłą wicepremier i minister finansów Kanady Chrystię Freeland swoim doradcą ds. rozwoju gospodarcze",
-      "published": "Mon, 5 Jan 2026 11:41:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -290,14 +282,6 @@
       "category": "pl"
     },
     {
-      "title": "Surowce reagują na napięcia w Wenezueli. Azjatyckie akcje biją rekordy",
-      "link": "https://www.bankier.pl/wiadomosc/Surowce-reaguja-na-napiecia-w-Wenezueli-Azjatyckie-akcje-bija-rekordy-9063843.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/d/43f7c60bc78c64-948-568-8-256-3507-2104.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W pierwszej reakcji rynków na obalenie prezydenta Wenezueli Nicolasa Maduro w poniedziałek rano w górę ruszyły kontrakty terminowe na złoto i srebro, gdy inwestorzy wyceniali d",
-      "published": "Mon, 5 Jan 2026 08:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Akcje KGHM i lit aktywami miesiąca. Polska spółka technologiczna daje zwycięstwo",
       "link": "https://www.bankier.pl/wiadomosc/Akcje-KGHM-i-lit-aktywami-miesiaca-Polska-spolka-technologiczna-daje-zwyciestwo-9063353.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/f/da98990bcae9c4-945-560-0-35-3500-2099.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grudniowa odsłona rywalizacji w Portfelu Gwiazd o największą stopę zwrotu pomiędzy różnymi aktywami była wyjątkowo zacięta i toczyła się na rynku surowców i metali szlachetnych ",
@@ -314,20 +298,268 @@
       "category": "us"
     },
     {
-      "title": "Why Warner Bros. Discovery shareholders might opt for Paramount's offer — and why they might not",
-      "link": "https://www.cnbc.com/2025/12/22/paramount-wbd-tender-offer-arguments.html",
-      "summary": "WBD shareholders must weigh pros and cons of tendering their shares to Paramount for $30 per share. CNBC lays out the arguments on both sides.",
-      "published": "Mon, 22 Dec 2025 18:09:08 GMT",
+      "title": "Sprawa Wenezueli namiesza na rynkach? Analityk mówi o możliwym scenariuszu",
+      "link": "https://www.money.pl/gielda/sprawa-wenezueli-namiesza-na-rynkach-analityk-mowi-o-mozliwym-scenariuszu-7240181034842624a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/d782767f-b76a-4c4c-99ba-c1c14f464b12\" width=\"308\" /> Rynek uznał, że temat Wenezueli jest domknięty, dlatego w poniedziałek rano nie było dużych wahań – ocenił dla PAP główny analityk walutowy Domu Maklerskiego BOŚ Marek Rogalski. Zastrzegł jednak, że sytuacja może wrócić i odbić się na dolarze oraz nastrojach na giełdach.",
+      "published": "Mon, 05 Jan 2026 15:42:37 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kolumbia kontra USA. Prezydent Petro odpowiada na groźby Trumpa",
+      "link": "https://businessinsider.com.pl/wiadomosci/gustavo-petro-grozi-powrotem-do-walki-ostra-odpowiedz-na-slowa-donalda-trumpa/pmnm6ke",
+      "summary": "Prezydent Kolumbii Gustavo Petro, były partyzant, zadeklarował, że jest gotów ponownie chwycić za broń w odpowiedzi na groźby Donalda Trumpa. Prezydent Stanów Zjednoczonych zasugerował możliwość przeprowadzenia w Kolumbii operacji wojskowej podobnej do tej, która miała miejsce w Wenezueli.",
+      "published": "Mon, 05 Jan 2026 15:27:06 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Comcast spinoff Versant starts trading on Nasdaq in rare media debut",
+      "link": "https://www.cnbc.com/2026/01/05/comcast-spinoff-versant-vsnt-trading-debut-nasdaq.html",
+      "summary": "Versant, Comcast's spinoff of the majority of NBCUniversal's cable TV networks like MS Now and CNBC, started trading Monday.",
+      "published": "Mon, 05 Jan 2026 15:20:40 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "ASML’s stock hits another record high after analyst upgrade",
+      "link": "https://www.marketwatch.com/story/asmls-stock-hits-another-record-high-after-analyst-upgrade-ec2b121f?mod=mw_rss_topstories",
+      "summary": "ASML shares rallied on Monday to make the stock one of the strongest-performing members of the Nasdaq 100 after an analyst upgrade due to demand from memory-chip producers.",
+      "published": "Mon, 05 Jan 2026 15:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These stocks stand to gain as the U.S. tightens its grip on Venezuelan oil",
+      "link": "https://www.marketwatch.com/story/these-stocks-stand-to-gain-as-the-u-s-tightens-its-grip-on-venezuelan-oil-42d7faa8?mod=mw_rss_topstories",
+      "summary": "If the U.S. can exert control over Venezuela’s leadership and energy sector, the long-term implications could be substantial.",
+      "published": "Mon, 05 Jan 2026 15:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Premier Grenlandii: Trump musi porzucić fantazje o aneksji",
+      "link": "https://businessinsider.com.pl/wiadomosci/premier-grenlandii-ostro-krytykuje-trumpa-i-usa-koniec-z-marzeniami-o-aneksji/g9xp7sk",
+      "summary": "Grenlandia stanowczo sprzeciwia się planom Donalda Trumpa dotyczącym aneksji wyspy. Premier wezwał USA do zaprzestania \"nieakceptowalnej\" retoryki. Jens-Frederik Nielsen podkreślił, że Grenlandia pozostanie terytorium Duńskiego Królestwa. Wsparcie dla stanowiska Grenlandii wyraziła także Unia Europejska oraz kraje skandynawskie.",
+      "published": "Mon, 05 Jan 2026 15:13:18 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Chevron’s stock jumps 4%. Analysts are saying this about big oil companies after Maduro’s capture.",
+      "link": "https://www.marketwatch.com/story/chevron-stock-soars-8-what-analysts-are-saying-about-big-oil-companies-after-maduros-capture-84f3c8c1?mod=mw_rss_topstories",
+      "summary": "Chevron shares were among the big gainers on Monday as investors gauged the impact of U.S. actions against Venezuela, including the capture of Nicolás Maduro.",
+      "published": "Mon, 05 Jan 2026 15:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Dobre prognozy dla Polski od międzynarodowej instytucji finansowej. Najwięksi optymiści",
+      "link": "https://businessinsider.com.pl/gospodarka/dobre-prognozy-dla-polski-od-iif-to-najwieksi-optymisci/stgen9m",
+      "summary": "Światowa gospodarka w 2026 r. spowolni, a Polska przyśpieszy do 4 proc. — podał w raporcie Instytut Finansów Międzynarodowych (IIF). Z porównania z prognozami publikowanymi dla Polski w grudniu i listopadzie wynika, że większych optymistów względem naszego kraju obecnie nie ma.",
+      "published": "Mon, 05 Jan 2026 15:06:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "More uninsured drivers, more unfixed damage: Soaring car-insurance prices have pushed Americans into risky trade-offs",
+      "link": "https://www.marketwatch.com/story/more-uninsured-drivers-more-unfixed-damage-soaring-car-insurance-prices-have-pushed-americans-into-risky-trade-offs-9d322a39?mod=mw_rss_topstories",
+      "summary": "Here’s why car-insurance prices will continue to weigh heavily on drivers, likely prompting them to make more high-stakes bets next year.",
+      "published": "Mon, 05 Jan 2026 15:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "XRP przed dużym ruchem? Analitycy widzą sygnały, które poprzedzały wzrosty z 2017 roku",
+      "link": "https://comparic.pl/xrp-przed-duzym-ruchem-analitycy-widza-sygnaly-ktore-poprzedzaly-wzrosty-z-2017-roku/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"900\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-1-324x235.jpg\" style=\"float",
+      "published": "Mon, 05 Jan 2026 15:02:28 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Po gigantycznym krachu spółka z GPW mocno odbija od dna! Jej akcje notowane grubo poniżej wartości księgowej!",
+      "link": "https://comparic.pl/po-gigantycznym-krachu-spolka-z-gpw-mocno-odbija-od-dna-jej-akcje-notowane-grubo-ponizej-wartosci-ksiegowej/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-buy-or-sell-kupno-zakup-long-sprzedaz-wzrosty-spadki-3.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-bu",
+      "published": "Mon, 05 Jan 2026 14:55:07 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "First GLP-1 pill for obesity from Novo Nordisk launches in the U.S.",
       "link": "https://www.cnbc.com/2026/01/05/first-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html",
       "summary": "The drug's cash prices are among the lowest on the market, ranging from $149 to $299 per month, depending on the dose.",
-      "published": "Mon, 05 Jan 2026 13:00:07 GMT",
+      "published": "Mon, 05 Jan 2026 14:47:00 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Drożyzna w 2025 r. to mit? Polacy mają rekordową siłę nabywczą",
+      "link": "https://businessinsider.com.pl/gospodarka/historyczna-zmiana-budzetow-domowych-polakow-drozyzna-do-bzdura-2025-r/9ns5zmf",
+      "summary": "W 2025 r. przeciętne wynagrodzenie w Polsce wzrosło o 7,5 proc., a inflacja wyniosła tylko 2,5 proc. Polacy wydają dziś najmniejszą część swoich dochodów w historii – zaledwie 56,5 proc. Wzrost realnych płac sprawia, że za minimalne wynagrodzenie można kupić dwa razy więcej niż dekadę temu. Serwis Forsal.pl pisze wprost, że mówienie o drożyźnie to bzdura 2025 r.",
+      "published": "Mon, 05 Jan 2026 14:34:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kłopoty sopockiej galerii handlowej. \"Będziemy dochodzić naszych roszczeń\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/zarzadca-sopot-centrum-oglosil-upadlosc-spolka-ma-dlugi-wobec-miasta/f6yq2nn",
+      "summary": "Pod koniec 2025 r. sąd oficjalnie ogłosił upadłość Bałtyckiej Grupy Inwestycyjnej. Firma zarządzała kompleksem handlowym Sopot Centrum. \"Ogłoszenie upadłości spółki BGI nie oznacza, że budynki kompleksu dworcowego nie będą nadal funkcjonować\" — zapewnia rzeczniczka sopockiego ratusza w rozmowie z \"Gazetą Wyborczą\".",
+      "published": "Mon, 05 Jan 2026 14:31:56 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Why this strategist only sees 3 buyable U.S. stocks at the start of 2026",
+      "link": "https://www.marketwatch.com/story/why-this-strategist-only-sees-3-buyable-u-s-stocks-at-the-start-of-2026-2db5c277?mod=mw_rss_topstories",
+      "summary": "There are few equities both in an uptrend and seeing determined buyers, says Birinyi Associates",
+      "published": "Mon, 05 Jan 2026 14:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Maduro schwytany. Pięć sygnałów, które mają znaczenie dla rynku",
+      "link": "https://businessinsider.com.pl/polityka/maduro-schwytany-piec-sygnalow-ktore-maja-znaczenie-dla-rynku/9k5s51c",
+      "summary": "Co tak naprawdę wydarzenia w Wenezueli oznaczają dla inwestorów i gospodarki? Jest kilka kluczowych sygnałów, wskazują na realną sytuację. Oto pięć najważniejszych z nich.",
+      "published": "Mon, 05 Jan 2026 14:29:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Euforia czy pułapka? KGHM pionowo w górę! Rekord Pepco! Orlen, PKP Cargo i JSW z odbiciami. Ryzyko spadków CD Projekt- co jest grane na GPW?",
+      "link": "https://comparic.pl/euforia-czy-pulapka-kghm-pionowo-w-gore-rekord-pepco-orlen-pkp-cargo-i-jsw-z-odbiciami-ryzyko-spadkow-cd-projekt-co-jest-grane-na-gpw/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"450\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-kryptowaluty-cryptocurrency-stock-market-chart-hossa-wzrost-growth.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04",
+      "published": "Mon, 05 Jan 2026 14:29:32 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wall Street przejmuje krypto. Te trendy zdefiniują rynek w 2026 roku",
+      "link": "https://comparic.pl/wall-street-przejmuje-krypto-te-trendy-zdefiniuja-rynek-w-2026-roku/",
+      "summary": "<img alt=\"kryptowaluty-bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/01/kryptowaluty-bitcoin.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"kryptowaluty-bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/kryptowaluty",
+      "published": "Mon, 05 Jan 2026 14:29:09 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Amerykańska giełda reaguje na zatrzymanie Nicolasa Maduro. Inwestorzy spokojni o swoje portfele",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wall-street-reaguje-na-amerykanski-atak-na-wenezuele-inwestorzy-bez-paniki/5cnsd8f",
+      "summary": "Amerykański atak na Wenezuelę nie wywołał przesadnej reakcji inwestorów na Wall Street. Można wręcz powiedzieć, że poniedziałkowa sesja wystartowała, jakby to był zwykły dzień. Analitycy, z którymi rozmawiała telewizja CNBC, tłumaczą tę sytuację faktem, że większość inwestorów od dłuższego czasu spodziewała się amerykańskiej interwencji. Dodatkowo spokój na giełdach wzmacnia przekonanie, że nie wy",
+      "published": "Mon, 05 Jan 2026 14:25:46 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Gwiazda GPW 2025 roku z doskonałymi prognozami i rekomendacjami! Eksperci widzą w niej faworyta – czy te akcje wstrząsną rynkiem w 2026 roku?",
+      "link": "https://comparic.pl/gwiazda-gpw-2025-roku-z-doskonalymi-prognozami-i-rekomendacjami-eksperci-widza-w-niej-faworyta-czy-te-akcje-wstrzasna-rynkiem-w-2026-roku/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"799\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-4.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-4-324x235.j",
+      "published": "Mon, 05 Jan 2026 14:24:24 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Sąd przyznał rację 80-latce. Bank ma jej zapłacić miliony",
+      "link": "https://businessinsider.com.pl/finanse/80-latka-oszukana-przez-krewnego-na-miliony-sad-zaplaci-bank/5f7hqrc",
+      "summary": "Citibank został ukarany grzywną w wysokości 3,5 mln dol. przez sąd w Nowym Jorku. 80-letnia kobieta została oszukana przez swojego krewnego. Bank rzekomo nie wykrył oszustwa i zataił dowody.",
+      "published": "Mon, 05 Jan 2026 14:21:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ropa z Wenezueli. To za ten towar zapłacił Orlen i nigdy go nie dostał",
+      "link": "https://businessinsider.com.pl/gielda/ropa-z-wenezueli-to-za-ten-towar-zaplacil-orlen-i-nigdy-go-nie-dostal/g3bl3vz",
+      "summary": "W kontekście wydarzeń w Wenezueli warto przypomnieć związaną z wenezuelską ropą polską aferę. Za rządów Daniela Obajtka w Orlenie szwajcarska spółka koncernu zaczęła intensywnie kupować ropę z Wenezueli podczas zawieszenia amerykańskich sankcji. Ropa do Polski nie dotarła, a pieniądze rozpłynęły się w kryptowalutach. W aferze mogli brać udział ludzie z wenezuelskiego rządu.",
+      "published": "Mon, 05 Jan 2026 14:16:07 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tunel Wisłostrady ze zmianami. Kierowcy będą musieli bardziej uważać",
+      "link": "https://businessinsider.com.pl/wiadomosci/tunel-wislostrady-z-nowym-systemem-kontroli-warszawa-stawia-na-odcinkowy-pomiar/bgdflhj",
+      "summary": "Kierowcy korzystający z tunelu Wisłostrady wkrótce zauważą istotną zmianę. Choć na pierwszy rzut oka infrastruktura pozostanie bez większych różnic, sposób kontroli prędkości ma wyraźnie wpłynąć na styl jazdy. Zarząd Dróg Miejskich przygotowuje rozwiązanie, które ma poprawić bezpieczeństwo i zdyscyplinować najbardziej zapędzonych kierowców.",
+      "published": "Mon, 05 Jan 2026 14:10:21 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
+      "link": "https://www.cnbc.com/2026/01/05/lucid-ev-deliveries-2025.html",
+      "summary": "Lucid Group significantly increased its production and sales last year, as it continues to ramp-up production of its new Gravity SUV.",
+      "published": "Mon, 05 Jan 2026 14:03:31 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "A small company can now advance its psychedelic into Phase 3. Here’s why that matters to other psychedelic biotechs.",
+      "link": "https://www.marketwatch.com/story/a-small-company-can-now-advance-its-psychedelic-into-phase-3-heres-why-that-matters-to-other-psychedelic-biotechs-e312885f?mod=mw_rss_topstories",
+      "summary": "GH Research’s stock rallied after saying the FDA lifted a hold on its experimental depression treatment.",
+      "published": "Mon, 05 Jan 2026 14:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Czy indeks WIG20 kontynuuje rajd? Analityk wyjaśnia, co oznacza najlepszy początek roku od lat",
+      "link": "https://comparic.pl/czy-indeks-wig20-kontynuuje-rajd-analityk-wyjasnia-co-oznacza-najlepszy-poczatek-roku-od-lat-05-01-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar-324x235.jpg\" style=\"flo",
+      "published": "Mon, 05 Jan 2026 13:53:36 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "600 000 BTC w Wenezueli? Maduro mógł zgromadzić ogromną rezerwę Bitcoina",
+      "link": "https://comparic.pl/600-000-btc-w-wenezueli-maduro-mogl-zgromadzic-ogromna-rezerwe-bitcoina/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-22.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-22-324x235.jpg\" style=\"float: l",
+      "published": "Mon, 05 Jan 2026 13:50:30 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Benzyna w USA w 2026 r. najtańsza od pandemii",
+      "link": "https://businessinsider.com.pl/gospodarka/benzyna-w-usa-w-2026-r-najtansza-od-pandemii-nie-wplynie-na-to-wenezuela/6x2jyj5",
+      "summary": "Ceny benzyny w USA spadają. Co więcej, najnowsze prognozy wskazują, że ten trend utrzyma się także w 2026 r. Według prognoz GasBuddy, średnia cena paliwa spadnie czwarty rok z rzędu. To dobra wiadomość dla Amerykanów, a dodatkowo eksperci uspokajają, że nawet napięcia wokół Wenezueli nie powinny wpłynąć na ten korzystny scenariusz.",
+      "published": "Mon, 05 Jan 2026 13:49:36 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Awaria w Berlinie pogrąży burmistrza? \"Po prostu obrzydliwe\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/gigantyczna-awaria-u-naszych-sasiadow-bez-pradu-i-ogrzewania-do-czwartku/g4dxgm8",
+      "summary": "Po rozległej awarii zasilania w południowo-zachodnim Berlinie, która dotknęła 45 tys. gospodarstw domowych, rośnie presja na burmistrza Kaia Wegnera. \"To jest po prostu obrzydliwe\" — mówi jeden z mieszkańców.",
+      "published": "Mon, 05 Jan 2026 13:46:42 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wystarczyło jedno zdjęcie Nicolasa Maduro. Jego dres wyprzedał się w mgnieniu oka",
+      "link": "https://businessinsider.com.pl/wiadomosci/wystarczylo-jedno-zdjecie-nicolasa-maduro-jego-dres-stal-sie-hitem/k4qf1pz",
+      "summary": "Atak USA na Wenezuelę i zatrzymanie Nicolasa Maduro wstrząsnęły światem, ale równie ogromne emocje wzbudziło coś zupełnie nieoczekiwanego. Zdjęcie pojmanego przywódcy w szarym dresie obiegło internet w błyskawicznym tempie, zamieniając zwykły komplet Nike w globalny viral i sprzedażowy hit.",
+      "published": "Mon, 05 Jan 2026 13:44:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tego sygnału XRP nie wolno przegapić. Analityk zapowiada eksplozję kryptowaluty w 60 dni",
+      "link": "https://comparic.pl/tego-sygnalu-xrp-nie-wolno-przegapic-analityk-zapowiada-eksplozje-kryptowaluty-w-60-dni/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/01/krypto-2026-01-05T133717.642.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/krypto-2026-01-05T133717.642-324x235.webp\" ",
+      "published": "Mon, 05 Jan 2026 13:31:25 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Zniknęły\" tankowce objęte sankcjami. Tuż po pojmaniu Nicolasa Maduro",
+      "link": "https://businessinsider.com.pl/wiadomosci/tankowce-objete-sankcjami-znikaja-po-aresztowaniu-nicolasa-maduro/6gxbsfg",
+      "summary": "Przynajmniej 16 tankowców objętych amerykańskimi sankcjami próbuje uniknąć poważnej blokady, częściowo wyłączając swoje sygnały transmisyjne i ukrywając prawdziwe położenie — donosi \"The New York Times\". Działania te miały się nasilić po zatrzymaniu Nicolasa Maduro przez amerykańskie służby. W ciągu ostatnich dwóch dni okręty zniknęły z portów, w których były wcześniej widziane na zdjęciach sateli",
+      "published": "Mon, 05 Jan 2026 13:29:18 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Bitcoin wraca do wzrostów w 2026 roku! USA przejmą 600 000 BTC z Wenezueli?",
+      "link": "https://comparic.pl/bitcoin-wraca-do-wzrostow-w-2026-roku-usa-przejma-600-000-btc-z-wenezueli/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-3-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-3-1-324x235.jpg\" style=\"float",
+      "published": "Mon, 05 Jan 2026 13:26:13 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "Chick-fil-A launches its biggest ever marketing campaign as restaurant industry traffic shrinks",
@@ -354,34 +586,10 @@
       "category": "other"
     },
     {
-      "title": "Cena złota skoczyła do 4580 USD. Eksperci ostrzegają przed jednym czynnikiem",
-      "link": "https://comparic.pl/cena-zlota-skoczyla-do-4580-usd-eksperci-ostrzegaja-przed-jednym-czynnikiem/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-dolar-dollar-USD-zloto-GOLD-XAU-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-dolar-dollar-USD-zloto-G",
-      "published": "Mon, 05 Jan 2026 12:49:55 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Czy ropa stanieje? Wszystko zależy od decyzji Wenezueli i OPEC+",
-      "link": "https://comparic.pl/czy-ropa-stanieje-wszystko-zalezy-od-decyzji-wenezueli-i-opec/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-oil-wti-brent-crude-ropa-naftowa-barylka-ropy-naftowej-8.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-",
-      "published": "Mon, 05 Jan 2026 12:48:27 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "The Fed will be forced into deep rate cuts in 2026 — boosting gold and breaking the dollar",
       "link": "https://www.marketwatch.com/story/the-fed-will-be-forced-into-deep-rate-cuts-in-2026-boosting-gold-and-breaking-the-dollar-9f2d9331?mod=mw_rss_topstories",
       "summary": "The next Fed chair will grapple with a deteriorating U.S. job market and slower economic growth.",
       "published": "Mon, 05 Jan 2026 12:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Why this strategist only sees 3 buyable U.S. stocks at the start of 2026",
-      "link": "https://www.marketwatch.com/story/why-this-strategist-only-sees-3-buyable-u-s-stocks-at-the-start-of-2026-2db5c277?mod=mw_rss_topstories",
-      "summary": "There are few equities both in an uptrend and seeing determined buyers, says Birinyi Associates",
-      "published": "Mon, 05 Jan 2026 12:42:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -402,36 +610,12 @@
       "category": "us"
     },
     {
-      "title": "Założyciel Cardano ujawnia nowy harmonogram osiągnięcia kapitalizacji rynkowej kryptowalut na poziomie 10 bilionów dolarów",
-      "link": "https://comparic.pl/zalozyciel-cardano-ujawnia-nowy-harmonogram-osiagniecia-kapitalizacji-rynkowej-kryptowalut-na-poziomie-10-bilionow-dolarow/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Cardano-Founder-Shares-New-Timeline-for-Crypto-to-Reach-10T-Market-Cap.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Ca",
-      "published": "Mon, 05 Jan 2026 12:37:25 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Prezes firmy kryptowalutowej twierdzi, że XRP może wkrótce stać się poza zasięgiem 99% ludzi",
-      "link": "https://comparic.pl/prezes-firmy-kryptowalutowej-twierdzi-ze-xrp-moze-wkrotce-stac-sie-poza-zasiegiem-99-ludzi/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Crypto-CEO-Says-XRP-Could-Soon-Be-Out-of-Reach-for-99-of-People.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Crypto-CE",
-      "published": "Mon, 05 Jan 2026 12:34:00 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Chiński gigant wyprzedza Teslę. Elon Musk kiedyś go wyśmiał",
       "link": "https://businessinsider.com.pl/technologie/motoryzacja/elon-musk-wysmial-giganta-z-chin-bedzie-musial-to-odszczekac/50t45cb",
       "summary": "Chiński gigant BYD po raz pierwszy wyprzedził Teslę i został największym sprzedawcą pojazdów elektrycznych na świecie. W tym roku firma Elona Muska przeżyła prawdziwy rollercoaster. Nie pomogła też decyzja Donalda Trumpa.",
       "published": "Mon, 05 Jan 2026 12:28:31 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Gold Flow: Złoto po 4430 dolarów i to jeszcze nie koniec, co dalej?",
-      "link": "https://comparic.pl/gold-flow-zloto-po-4430-dolarow-i-to-jeszcze-nie-koniec-co-dalej/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD-324x235.jpg\" style=\"",
-      "published": "Mon, 05 Jan 2026 12:24:44 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Auchan sprzedaje sklepy w Polsce. Wiadomo komu",
@@ -450,50 +634,10 @@
       "category": "other"
     },
     {
-      "title": "Bitcoin eksploduje? Tom Lee mówi o 180 000 USD w zaledwie 28 dni",
-      "link": "https://comparic.pl/bitcoin-eksploduje-tom-lee-mowi-o-180-000-usd-w-zaledwie-28-dni/",
-      "summary": "<img alt=\"Tom Lee\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/08/tom-lee-gielda.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Tom Lee\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/08/tom-lee-gielda-324x235.jpg\" style=\"float: l",
-      "published": "Mon, 05 Jan 2026 12:17:52 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Polsat chwali się wynikami. Nowy prezes zarządu zabiera głos",
       "link": "https://businessinsider.com.pl/wiadomosci/polsat-liderem-kluczowego-zestawienia-w-2025-r-nowy-prezes-zabiera-glos/rgbvvez",
       "summary": "Telewizja Polsat chwali się najlepszą oglądalnością spośród wszystkich stacji w Polsce w 2025 r. — Wyniki oglądalności pokazują, że strategia Polsatu działa — komentuje Piotr Żak, który w grudniu 2025 r. został nowym prezesem zarządu Grupy Polsat Plus oraz Cyfrowego Polsatu. Mówi też, jaki jest cel stacji.",
       "published": "Mon, 05 Jan 2026 12:15:51 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "10 prognoz wstrząśnie rynkiem w 2026 r. Kurs euro poniżej parytetu, platyna zdetronizuje złoto",
-      "link": "https://comparic.pl/10-prognoz-wstrzasnie-rynkiem-w-2026-r-kurs-euro-ponizej-parytetu-platyna-zdetronizuje-zloto/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/01/krypto-2026-01-05T122010.472.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/krypto-2026-01-05T122010.472-324x235.webp\" ",
-      "published": "Mon, 05 Jan 2026 12:03:16 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wołodymyr Zełenski zamieścił dwa wpisy. Trzęsienie ziemi w SBU",
-      "link": "https://businessinsider.com.pl/wiadomosci/zmiany-w-sbu-w-tle-konflik-z-wolodymyrem-zelenskim/wwvzbdy",
-      "summary": "Generał Wasyl Maluk przestał być szefem Służby Bezpieczeństwa Ukrainy. Poinformował o tym prezydent Wołodymyr Zełenski. Wcześniej ukraińskie media donosiły o konflikcie między nimi. Zełenski zamieścił także wpis o spotkaniu z innym czołowym ukraińskim wojskowym.",
-      "published": "Mon, 05 Jan 2026 12:03:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nawet 9610 zł kary za brak jednego dokumentu. Kierowcy zapłacą więcej",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/ubezpieczenia/od-1-stycznia-2026-wyzsza-placa-minimalna-i-wyzsza-kara-za-brak-oc/d13jv75",
-      "summary": "Rosnące koszty pracy w Polsce pociągną za sobą jeszcze jedno, mniej oczywiste obciążenie dla kierowców. Od 2026 r. wysokość finansowych sankcji za zaniedbania związane z posiadaniem pojazdu wzrośnie do poziomów nienotowanych od lat. Dla części właścicieli aut podwyżki mogą okazać się szczególnie bolesne — zwłaszcza jeśli przeoczą pewien kluczowy termin.",
-      "published": "Mon, 05 Jan 2026 12:02:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Elon Musk reaguje na atak USA w Wenezueli. Ma prezent dla jej mieszkańców",
-      "link": "https://businessinsider.com.pl/wiadomosci/darmowy-starlink-dla-wenezueli-po-ataku-usa-to-prezent-od-elona-muska/w1r9twn",
-      "summary": "Po nalotach USA na stolicę Wenezueli Caracas i pojmaniu przywódcy państwa Nicolasa Maduro przez amerykańskie wojsko firma Starlink Elona Muska zaoferowała mieszkańcom południowoamerykańskiego kraju bezpłatny dostęp do szerokopasmowego internetu. Ma obowiązywać do 3 lutego.",
-      "published": "Mon, 05 Jan 2026 12:00:15 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
@@ -504,38 +648,6 @@
       "published": "Mon, 05 Jan 2026 12:00:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Ceny gazu ostro w dół. Zima tańsza, niż można się było spodziewać",
-      "link": "https://businessinsider.com.pl/gielda/ceny-gazu-ostro-w-dol-zima-tansza-niz-mozna-sie-bylo-spodziewac/1f9jk2n",
-      "summary": "W ostatnich dniach w Polsce silnie wiało i nie tylko w Polsce, ale w większości krajów Europy. Skoro prądu z wiatru jest dużo, to stabilizujące OZE elektrownie gazowe mają mniej do wyprodukowania. Co więcej, w dłuższym terminie atak USA na Wenezuelę i wynikająca z niego ewentualna normalizacja gospodarcza w tym kraju może przełożyć się nie tylko na wzrost podaży ropy, ale też gazu z tego kraju. To",
-      "published": "Mon, 05 Jan 2026 11:57:48 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Gdzie na narty w Polsce? Oto, ile trzeba wydać i gdzie jest taniej",
-      "link": "https://businessinsider.com.pl/lifestyle/ceny-skipassow-w-polsce-bulgarii-i-na-slowacji-ile-kosztuje-dzien-na-stoku-dla/wjjgcqh",
-      "summary": "Od 137 w Polsce do 235 zł na Słowacji – tyle trzeba zapłacić za jeden dzień na stoku od osoby. Rodzinny pobyt na nartach może uderzyć po kieszeni. Decydując się na wyjazd, trzeba jednak najpierw sprawdzić, czy ośrodek, do którego się wybieramy, na pewno jest otwarty. Pogoda, na razie, nie sprzyja narciarzom.",
-      "published": "Mon, 05 Jan 2026 11:50:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Srebro otworzy się jutro po 100 dolarów, prognozował Robert Kiyosaki",
-      "link": "https://comparic.pl/srebro-otworzy-sie-jutro-po-100-dolarow-prognozowal-robert-kiyosaki/",
-      "summary": "<img alt=\"Robert Kiyosaki srebro silver\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/01/ChatGPT-Image-5-sty-2026-12_46_23.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Robert Kiyosaki srebro silver\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-cont",
-      "published": "Mon, 05 Jan 2026 11:46:46 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wenezuela ma największe złoża ropy na świecie. Dlaczego więc ich nie wydobywa?",
-      "link": "https://businessinsider.com.pl/gospodarka/wenezuela-ma-najwieksze-zloza-ropy-na-swiecie-dlaczego-wiec-ich-nie-wydobywa/l4ew1y4",
-      "summary": "Wenezuela posiada największe potwierdzone złoża ropy naftowej na świecie. Jednak ich potencjał znacznie przewyższa faktyczne wydobycie. Pytanie brzmi: dlaczego? Powodów jest kilka.",
-      "published": "Mon, 05 Jan 2026 11:42:42 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 5.1.2026",
@@ -576,118 +688,6 @@
       "published": "Mon, 05 Jan 2026 11:26:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Rekordowa aukcja tuńczyka w Tokio. Kupili jedną rybę za ponad 11 mln zł",
-      "link": "https://businessinsider.com.pl/wiadomosci/rekordowa-aukcja-tunczyka-w-tokio-restauracja-zaplacila-fortune/36qrtrf",
-      "summary": "Japońska restauracja sushi zapłaciła rekordowe 510 mln jenów (około 11,7 mln zł) za jednego tuńczyka błękitnopłetwego podczas noworocznej aukcji na targu rybnym Toyosu w Tokio. Agencja Reutera zauważa, że to najwyższa kwota, jaka padła w historii tego wydarzenia.",
-      "published": "Mon, 05 Jan 2026 11:16:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We’ve $2.6 million saved for retirement.",
-      "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
-      "summary": "“I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.”",
-      "published": "Mon, 05 Jan 2026 11:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Rafał Zaorski stawia na krach złota przy szczytach! „Idealne otwarcie” czy błąd wart miliony?",
-      "link": "https://comparic.pl/rafal-zaorski-stawia-na-krach-zlota-przy-szczytach-idealne-otwarcie-czy-blad-wart-miliony/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/01/krypto-2026-01-05T112348.325.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/krypto-2026-01-05T112348.325-324x235.webp\" ",
-      "published": "Mon, 05 Jan 2026 11:06:15 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Jak mieszkają w UE? Polska powyżej średniej, Niemcy na końcu rankingu",
-      "link": "https://businessinsider.com.pl/nieruchomosci/jaka-mieszkaja-polacy-wlasne-lokum-i-12-pokoju-na-osobe/889kvqs",
-      "summary": "Większość Europejczyków mieszka na swoim, a Polska znajduje się pod tym względem w europejskiej czołówce — wynika z najnowszych danych Eurostatu. Jak mieszkają Polacy?",
-      "published": "Mon, 05 Jan 2026 11:04:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Amerykanie zatrzymali prezydenta Wenezueli. Tyle ma wynosić majątek Nicolasa Maduro",
-      "link": "https://businessinsider.com.pl/wiadomosci/nicolas-maduro-aresztowany-tak-wyglada-majatek-prezydenta-wenezueli/hk63s0n",
-      "summary": "Nicolas Maduro, prezydent Wenezueli, został zatrzymany z żoną Cilią Flores przez amerykańskie służby i przebywa obecnie w areszcie na Brooklynie w Nowym Jorku. W poniedziałek, 5 stycznia, Maduro ma stanąć przed sądem w związku z zarzutami udziału w zmowie narkoterroryzmu. Grozi mu kara dożywotniego pozbawienia wolności. Tymczasem media przyjrzały się jego majątkowi. Sam prezydent mówił w przeszłoś",
-      "published": "Mon, 05 Jan 2026 11:03:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Here are the most popular Moneyist columns of 2025",
-      "link": "https://www.marketwatch.com/story/here-are-the-most-popular-moneyist-columns-of-2025-057730fd?mod=mw_rss_topstories",
-      "summary": "Bad executors, greedy friends, inheritances, elder abuse and qualifying for Medicaid featured as the most-read Moneyist columns of the year.",
-      "published": "Mon, 05 Jan 2026 11:02:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Łukaszenko chce zwiększyć współpracę z Rosją. Ujawnia szczegóły i widzi \"problemy\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/bialorus-chce-zwiekszyc-wspolprace-z-rosja-lukaszenko-ujawnia-szczegoly/x6133dw",
-      "summary": "Aleksander Łukaszenko podsumował miniony rok pod kątem współpracy Białorusi z Rosją. Stwierdził, że jest zadowolony z tego, jak przebiegała, ale nie zrealizowano w pełni zakładanego ambitnego planu. \"Plan mieliśmy 105 proc. Widzimy problemy, mamy zmniejszenie w przemyśle\" — powiedział w rozmowie z Aleksandrem Rogożnikiem, ambasadorem Białorusi w Rosji, której fragmenty cytuje agencja Biełta.",
-      "published": "Mon, 05 Jan 2026 10:53:50 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "How one trader quickly turned a $30,000 wager on Venezuela action into $400,000",
-      "link": "https://www.marketwatch.com/story/how-one-trader-quickly-turned-a-30-000-wager-on-venezuela-action-into-400-000-1913890c?mod=mw_rss_topstories",
-      "summary": "A sudden flurry of bets were made on Nicolas Maduro not making it to the Jan. 31 as leader of Venezuela.",
-      "published": "Mon, 05 Jan 2026 10:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I have absolutely no idea what to do’: I was diagnosed with Alzheimer’s disease and inherited $400K. How do I invest it?",
-      "link": "https://www.marketwatch.com/story/i-have-absolutely-no-idea-what-to-do-i-was-diagnosed-with-alzheimers-disease-and-inherited-400k-how-do-i-invest-it-4722f704?mod=mw_rss_topstories",
-      "summary": "“I’m retired and 72.”",
-      "published": "Mon, 05 Jan 2026 10:46:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "USA pojmały Nicolása Maduro. Co wiemy o roli Delta Force w nocnej operacji w Caracas",
-      "link": "https://businessinsider.com.pl/wiadomosci/delta-force-w-operacji-pojmania-nicolasa-maduro-co-wiemy-o-tajnej-jednostce-armii-usa/3npws9c",
-      "summary": "Amerykańska operacja w Caracas zakończyła się pojmaniem Nicolása Maduro i jego żony. Według źródeł w centrum akcji mogła znajdować się Delta Force — jedna z najbardziej elitarnych i tajnych jednostek Armii USA. Choć Pentagon nie potwierdza udziału tej formacji, jej reputacja i wcześniejsze misje, takie jak zatrzymanie Saddama Husajna czy likwidacja przywódcy ISIS, pokazują skalę możliwości ameryka",
-      "published": "Mon, 05 Jan 2026 10:34:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Chevron stock soars 8%. What analysts are saying about big oil companies after Maduro’s capture",
-      "link": "https://www.marketwatch.com/story/chevron-stock-soars-8-what-analysts-are-saying-about-big-oil-companies-after-maduros-capture-84f3c8c1?mod=mw_rss_topstories",
-      "summary": "Chevron shares were among the big gainers on Monday as investors gauged the U.S. capture of Venezuela’s leader.",
-      "published": "Mon, 05 Jan 2026 10:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Nicolas Maduro i jego żona staną przed amerykańskim sądem. Co im grozi?",
-      "link": "https://businessinsider.com.pl/wiadomosci/przywodca-wenezueli-przed-amerykanskim-sadem-poczatek-historycznego-procesu/4h6wpx9",
-      "summary": "Ujęty przez wojska USA przywódca Wenezueli Nicolás Maduro oraz jego żona przebywają w areszcie w Nowym Jorku. W poniedziałek obalony dyktator ma usłyszeć zarzuty. Mają one dotyczyć handlu narkotykami. To będzie dopiero początek procesu w USA. Jednocześnie postępowanie przeciwko dyktatorowi prowadzi Międzynarodowy Trybunał Karny.",
-      "published": "Mon, 05 Jan 2026 10:10:54 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Czyste powietrze z nowościami w 2026 r. Pojawi się bon wypłacany z góry",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/czyste-powietrze-lista-rekomendowanych-wykonawcow-i-nowy-bon-w-2026-r/fwnx00z",
-      "summary": "W II kwartale 2026 r. ma zostać uruchomiona lista sprawdzonych wykonawców inwestycji w ramach programu Czyste powietrze — poinformowała Dorota Zawadzka-Stępniak, prezes Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej (NFOŚiGW). Dodatkowo w pierwszym kwartale tego samego roku planowane jest wprowadzenie bonu na audyt energetyczny, który ma ułatwić beneficjentom dostęp do programu.",
-      "published": "Mon, 05 Jan 2026 10:00:50 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Cena złota, srebra i platyny. Atak USA na Wenezuelę mocno odbił się na notowaniach",
-      "link": "https://businessinsider.com.pl/gielda/srebro-platyna-zloto-atak-usa-na-wenezuele-mocno-odbil-sie-na-notowaniach/jz36sm9",
-      "summary": "Hossa na cennych kruszcach choć teoretycznie powinna słabnąć po takich wzrostach jak w ostatnim roku i biciu kolejnych historycznych rekordów, to poniedziałkowe notowania wskazują, że nic bardziej mylnego. Szczególnie wysokie wzrosty dotyczą srebra.",
-      "published": "Mon, 05 Jan 2026 10:00:44 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Giełdy reagują na przewrót w Wenezueli. Zbrojeniówka i złoto w górę",
@@ -738,20 +738,20 @@
       "category": "us"
     },
     {
+      "title": "Do 900 zł na start od Banku Millennium. Załóż konto, płać kartą i czekaj na przelew",
+      "link": "https://www.bankier.pl/wiadomosc/Do-900-zl-na-start-od-Banku-Millennium-Zaloz-konto-plac-karta-i-czekaj-na-przelew-9058721.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/e/4478a08d6f48be-948-568-0-193-2458-1474.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bank Millennium wystartował z nową edycją swojej flagowej promocji, w której nowi klienci mogą otrzymać 700 zł przelewem za aktywne korzystanie z konta. To jednak nie koniec – ",
+      "published": "Fri, 19 Dec 2025 14:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "Saks Global announces new CEO as it reportedly prepares for bankruptcy",
       "link": "https://www.cnbc.com/2026/01/02/saks-global-new-ceo-richard-baker-bankruptcy-reports.html",
       "summary": "The company was created in July 2024 after Hudson's Bay Co. acquired Neiman Marcus.",
       "published": "Fri, 02 Jan 2026 22:10:21 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 02.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-02-01-2026-7239182387248096a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 02.01.2026. W piątek wieczorem za jedno euro (EUR) trzeba zapłacić 4.20876 zł.",
-      "published": "Fri, 02 Jan 2026 19:29:55 +0100",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Behind the mesh curtain: Why airline class wars will intensify in 2026",
