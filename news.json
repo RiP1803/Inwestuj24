@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-01-06T13:00:20.251533",
+  "generated_at": "2026-01-06T15:31:48.363840",
   "articles": [
-    {
-      "title": "Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning",
-      "link": "https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html",
-      "summary": "Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report.",
-      "published": "Wed, 24 Dec 2025 16:53:21 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
     {
       "title": "Koalicja chętnych zwiera szyki. Powstaje specjalny sztab w Paryżu",
       "link": "https://www.bankier.pl/wiadomosc/Koalicja-chetnych-zwiera-szyki-Powstaje-specjalny-sztab-w-Paryzu-9064315.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -194,36 +186,140 @@
       "category": "us"
     },
     {
-      "title": "Southwest's profits are down 42% this year but it's the top U.S. airline stock",
-      "link": "https://www.cnbc.com/2025/12/23/southwest-luv-airline-stocks.html",
-      "summary": "Southwest's stock has gained nearly 24% so far this year, more than any other airline.",
-      "published": "Tue, 23 Dec 2025 19:01:55 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Tanger CEO says retailers are 'discounting to meet the consumer' this holiday season",
-      "link": "https://www.cnbc.com/2025/12/23/tanger-ceo-stephen-yalof-holiday-shopping-consumer-spending-confidence.html",
-      "summary": "Tanger CEO Stephen Yalof says shoppers kept spending this holiday season as promotions and value offset weaker consumer confidence.",
-      "published": "Tue, 23 Dec 2025 18:27:35 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "EV realism is here. How automakers react in 2026 will be telling",
-      "link": "https://www.cnbc.com/2025/12/23/evs-gm-ford-hyundai-tesla.html",
-      "summary": "Detroit automakers are refocusing on large gas-guzzling trucks and SUVs, and many have admitted that policies, not consumers, were driving the charge for EVs.",
-      "published": "Tue, 23 Dec 2025 12:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Najnowszy Apple Watch za 0 zł? Warunki promocji są banalnie proste",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-wyscig-po-Apple-Watch-SE-3-Warunki-promocji-sa-banalnie-proste-9048986.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/3/a1bac0767fc3c4-948-567-0-66-950-569.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Proste warunki promocji, to coś, co łowcy okazji lubią najbardziej. I taka jest właśnie najnowsza promocja w Citi Handlowym. Wystarczy przenieść swoje codzienne wydatki na nową ka",
       "published": "Tue, 2 Dec 2025 09:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Inside Alts: Vista Equity Partners says its 'agentic factory' is reinventing the way companies use AI",
+      "link": "https://www.cnbc.com/2026/01/06/vista-equity-reinventing-companies-use-ai.html",
+      "summary": "Vista's aggressive bet on applications and agentic software highlights one of the fastest-growing corners of the AI trade and alternative investments.",
+      "published": "Tue, 06 Jan 2026 15:30:59 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Private equity management fees hit new low in 2025",
+      "link": "https://www.cnbc.com/2026/01/06/private-equity-management-fees-new-low.html",
+      "summary": "Managers have been offering discounts amid difficulty fundraising, and capital is increasingly going to bigger funds, dragging down the mean.",
+      "published": "Tue, 06 Jan 2026 15:30:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Nowe doniesienia w sprawie InPostu. Oto kto chce go przejąć",
+      "link": "https://businessinsider.com.pl/gielda/kto-chce-kupic-inpost-brytyjskie-media-dotarly-do-informacji/hn8qgj6",
+      "summary": "Fundusz private equity Advent International, będący mniejszościowym udziałowcem InPostu, stanął na czele konsorcjum, które złożyło wstępną ofertę przejęcia polskiej firmy logistycznej — donosi Sky News. Transakcja może sięgnąć ponad 6 mld euro.",
+      "published": "Tue, 06 Jan 2026 15:26:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Manhattan office leasing in the fourth quarter was the strongest in 6 years",
+      "link": "https://www.cnbc.com/2026/01/06/manhattan-q4-office-leasing-rebound.html",
+      "summary": "For all of 2025, Manhattan office leasing volume was the highest since 2019 and just 2.4% below 2019's pre-pandemic total.",
+      "published": "Tue, 06 Jan 2026 15:15:17 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia just sent a message to rivals with its latest chip announcements",
+      "link": "https://www.marketwatch.com/story/nvidia-just-sent-a-message-to-rivals-with-its-latest-chip-announcements-1cade829?mod=mw_rss_topstories",
+      "summary": "The chip maker’s approach to its Vera Rubin platform signals that competitors will have a hard time competing with standalone chips, Bernstein says.",
+      "published": "Tue, 06 Jan 2026 15:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘It’s been a struggle getting payments from her’: I rent a house to our daughter. Do I just gift her the house?",
+      "link": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
+      "summary": "“She would be responsible for taxes and insurance, which should be manageable.”",
+      "published": "Tue, 06 Jan 2026 15:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Które linie lotnicze są najbardziej punktualne na świecie? [RANKING]",
+      "link": "https://businessinsider.com.pl/wiadomosci/ranking-linii-lotniczych-2025-kto-jest-najpunktualniejszy/8z7frjj",
+      "summary": "Aeromexico było najbardziej punktualnym globalnym przewoźnikiem na świecie, z odsetkiem punktualnych przylotów przekraczającym 90 proc. Coroczny raport Cirium dotyczący punktualnych przylotów pokazuje, na kim jeszcze można polegać w podniebnych podróżach. Poniżej prezentujemy dwie listy — amerykańską i światową.",
+      "published": "Tue, 06 Jan 2026 14:30:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Online fury as betting market Polymarket denies Venezuela was invaded",
+      "link": "https://www.marketwatch.com/story/online-fury-as-betting-market-polymarket-denies-any-venezuelan-invasion-414af8a9?mod=mw_rss_topstories",
+      "summary": "If this isn’t an invasion, what is?",
+      "published": "Tue, 06 Jan 2026 14:19:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Donald Tusk i europejscy liderzy reagują na zaczepki USA: Grenlandia należy do jej mieszkańców",
+      "link": "https://businessinsider.com.pl/wiadomosci/grenlandia-nie-dla-usa-donald-tusk-i-europejscy-liderzy-reaguja/qyys2e1",
+      "summary": "Siedmiu europejskich liderów, w tym premier Polski Donald Tusk, w opublikowanym we wtorek wspólnym oświadczeniu podkreśliło, że wyłącznie Dania i Grenlandia mają prawo decydować o swoich losach. Dokument, opublikowany przez premier Danii Mette Frederiksen, zawiera także mocne stanowisko w sprawie bezpieczeństwa Arktyki, które określono jako kluczowy priorytet dla Europy i całego Sojuszu Północnoat",
+      "published": "Tue, 06 Jan 2026 14:15:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ford reports best annual U.S. vehicle sales since 2019",
+      "link": "https://www.cnbc.com/2026/01/06/ford-f-2025-annual-sales.html",
+      "summary": "Ford reported sales of 2.2 million vehicles in 2025, including a 2.7% uptick to more than 545,200 units during the fourth quarter.",
+      "published": "Tue, 06 Jan 2026 14:15:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Why this new Palantir bull says the stock is worth its hefty price",
+      "link": "https://www.marketwatch.com/story/why-this-new-palantir-bull-says-the-stock-is-worth-its-hefty-price-2361324c?mod=mw_rss_topstories",
+      "summary": "The AI software company has standout margins and revenue growth, the combination of which helps justify a premium price for the shares, according to Truist.",
+      "published": "Tue, 06 Jan 2026 14:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I feel dirty’: I still use my ex-boyfriend’s Netflix account. Is that stealing?",
+      "link": "https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories",
+      "summary": "“I’m now anxiously waiting for the next season of ‘Bridgerton.’”",
+      "published": "Tue, 06 Jan 2026 14:11:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Czy Maduro jest jeńcem wojennym? Oto najważniejsze fakty [ANALIZA PRAWNA]",
+      "link": "https://businessinsider.com.pl/prawo/czy-maduro-jest-jencem-wojennym-czy-chroni-go-immunitet-oto-odpowiedzi-na/esgryqb",
+      "summary": "W poniedziałek nowojorski sąd nie podjął żadnego rozstrzygnięcia wobec ujętego przez USA przywódcy Wenezueli oraz jego żony. Wyznaczył kolejną rozprawę dopiero na 17 marca br. Sam Nicolás Maduro mówi, że jest jeńcem wojennym i głową państwa. Jego obrona przekonuje, że przysługuje mu immunitet. Czy amerykański sędzia przyzna mu rację i zastosuje prawo międzynarodowe, czy jednak potraktuje jak przes",
+      "published": "Tue, 06 Jan 2026 14:00:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Reżim Korei Północnej kontroluje mieszkańców. \"Sąsiedzka straż\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/korea-polnocna-nasila-kontrole-nagrody-i-kary-za-obserwacje-sasiadow/jngcvn0",
+      "summary": "Służby w Korei Północnej wzmocniły w ostatnim czasie kontrole wśród mieszkańców kraju. Tropią przejawy \"antysocjalistycznego stylu życia\", wykorzystując do tego celu inwigilację sąsiedzką. To szeroko zakrojona akcja, obejmująca m.in. system nagród i kar dla Koreańczyków — informuje Daily NK. Źródło portalu podaje, że wśród ludzi rośnie frustracja wywołana ciągłą obserwacją.",
+      "published": "Tue, 06 Jan 2026 13:52:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Na czym będzie można zarobić? Sześć katalizatorów, które mogą napędzać hossę na giełdzie w 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/morgan-stanley-szesc-katalizatorow-ktore-moga-napedzac-hosse-na-gieldzie-w-2026-r/scms1c4",
+      "summary": "Martwisz się, że po trzech kolejnych latach solidnych stóp zwrotu akcje czeka trudniejszy okres? Zdaniem Morgan Stanley — nie ma powodu do obaw. Bank rekomenduje m.in. sektor finansowy, ochronę zdrowia oraz spółki o małej kapitalizacji.",
+      "published": "Tue, 06 Jan 2026 13:46:51 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Bitcoin’s weakness is saying there will be a handoff to old-economy stocks, these market veterans say",
+      "link": "https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa?mod=mw_rss_topstories",
+      "summary": "Some 2026 predictions from a handful of market veterans including Steve Eisman, says watch out for old economy stocks to shine this year.",
+      "published": "Tue, 06 Jan 2026 13:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "\"To jest najtrudniejsze\". Od lat zajmuje się problemami seniorów. Mówi, co trzeba zmienić w Polsce",
@@ -234,8 +330,8 @@
       "category": "pl"
     },
     {
-      "title": "Tak objawia się głęboki kryzys w Rosji. Masowo znikają całe wsie",
-      "link": "https://businessinsider.com.pl/wiadomosci/w-rosji-znikaja-cale-wsie-wywiad-ukrainy-wskazuje-na-gleboki-kryzys/0j7w3kj",
+      "title": "W Rosji znikają całe wsie. Ukraiński wywiad wyjaśnia przyczyny",
+      "link": "https://businessinsider.com.pl/wiadomosci/w-rosji-znikaja-cale-wsie-ukrainski-wywiad-wyjasnia-przyczyny/0j7w3kj",
       "summary": "W Rosji coraz wyraźniej widać kolejną już — po spadkach produkcji przemysłowej i braku ludzi na rynku pracy — oznakę kryzysu gospodarczego. Według raportu opublikowanego przez Służbę Zagranicznego Wywiadu Ukrainy znikają tam całe wsie — częściowo z powodu wyludnienia, ale też po włączaniu małych osad do większych miejscowości. W 2025 r. zlikwidowano co najmniej 266 osad.",
       "published": "Tue, 06 Jan 2026 12:58:15 GMT",
       "source": "BusinessInsider.pl",
@@ -304,14 +400,6 @@
       "published": "Tue, 06 Jan 2026 12:15:05 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Bitcoin’s weakness is saying there will be a handoff to old-economy stocks, these market veterans say",
-      "link": "https://www.marketwatch.com/story/bitcoins-weakness-is-saying-there-will-be-a-handoff-to-old-economy-stocks-these-market-veterans-say-184da9aa?mod=mw_rss_topstories",
-      "summary": "Some 2026 predictions from a handful of market veterans including Steve Eisman, says watch out for old economy stocks to shine this year.",
-      "published": "Tue, 06 Jan 2026 12:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Tajemniczy oferent chce przejąć biznes \"króla paczkomatów\". Tak zaczynał założyciel InPostu",
@@ -394,14 +482,6 @@
       "category": "pl"
     },
     {
-      "title": "Adidas gets hit with rare double downgrade as BofA calls the end of the ‘casualization’ trend",
-      "link": "https://www.marketwatch.com/story/adidas-gets-hit-with-rare-double-downgrade-as-bofa-calls-the-end-of-the-casualization-trend-5eba7346?mod=mw_rss_topstories",
-      "summary": "Adidas shares stumbled on Tuesday, with the apparel maker’s stock the worst out of Europe’s top 600 stocks, after a brokerage issued a rare double-downgrade.",
-      "published": "Tue, 06 Jan 2026 10:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rząd Donalda Tuska da radę przetrwać 2026 r.? Oto co myślą Polacy [SONDAŻ]",
       "link": "https://businessinsider.com.pl/wiadomosci/sondaz-o-stabilnosci-koalicji-zaskakujace-rozbieznosci/4jmqbpn",
       "summary": "Przetrwanie czy rozpad — co czeka koalicję rządzącą, złożoną z Koalicji Obywatelskiej, Trzeciej Drogi i Lewicy w 2026 r.? Polaków, na zlecenie Wirtualnej Polski, zapytała o to pracownia United Surveys by IBRiS.",
@@ -426,36 +506,12 @@
       "category": "pl"
     },
     {
-      "title": "‘It’s been a struggle getting payments from her’: I rent a house to our daughter. Do I just gift her the house?",
-      "link": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
-      "summary": "“She would be responsible for taxes and insurance, which should be manageable.”",
-      "published": "Tue, 06 Jan 2026 10:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nowa mapa energetyczna Europy. Budujemy na niej silną pozycję Orlenu [FELIETON]",
       "link": "https://businessinsider.com.pl/gospodarka/kluczowe-trendy-2026-r-wedlug-prezesa-orlenu-wskazuje-na-baltyk/hh8l6rw",
       "summary": "\"Region Morza Bałtyckiego staje się nowym centrum zainteresowania dla energetyki. Aby na tym skorzystać, realizujemy największy w historii program inwestycyjny\" – pisze w ekskluzywnej opinii dla Business Insidera prezes Orlenu Ireneusz Fąfara, opisując zaangażowanie największego polskiego koncernu w wykorzystanie potencjału Bałtyku. Wylicza przy tym kluczowe trendy na 2026 r. w sektorze nierozerwa",
       "published": "Tue, 06 Jan 2026 10:10:25 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Maduro’s rendition is a Franz Ferdinand moment spelling the end of the 60/40 portfolio, say these strategists",
-      "link": "https://www.marketwatch.com/story/maduros-rendition-is-a-franz-ferdinand-moment-spelling-the-end-of-the-60-40-portfolio-say-these-strategists-4c13ece3?mod=mw_rss_topstories",
-      "summary": "Deglobalization has evolved from an abstract concept to a harsh reality and portfolio managers must increase weightings of alternative investments to reflect the new paradigm, argues these researchers.",
-      "published": "Tue, 06 Jan 2026 10:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Aubrey Plaza delists $6.5 million home where her husband died",
-      "link": "https://www.marketwatch.com/story/aubrey-plaza-delists-6-5-million-home-where-her-husband-died-367ef838?mod=mw_rss_topstories",
-      "summary": "Plaza initially put the four-bedroom, 5.5-bathroom home on the market in September, eight months after Baena died by suicide at the age of 47 inside the home.",
-      "published": "Tue, 06 Jan 2026 10:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "KSeF, czyli największe wyzwanie 2026 r. Co może pójść nie tak? [FELIETON]",
@@ -506,38 +562,6 @@
       "category": "other"
     },
     {
-      "title": "Wysokie kary za nieodśnieżone dachy. Wiszące sople mogą dużo kosztować",
-      "link": "https://businessinsider.com.pl/wiadomosci/kto-odpowiada-za-odsniezanie-dachow-konsekwencje-moga-byc-bardzo-powazne/y4717w7",
-      "summary": "Nowy rok zaczął się w Polsce od śnieżyć i mrozów. Ulice i budynki pokryte są śniegiem, a na dachach zalega śnieg oraz zwisają sople. To stwarza spore zagrożenie dla konstrukcji obiektów oraz przechodniów. Polskie prawo przewiduje dotkliwe kary dla właścicieli oraz zarządców budynków za nieusuwanie śniegu i lodu z dachów. Ważnym zagadnieniem jest minimalna grubość białej pokrywy, którą należy uprzą",
-      "published": "Tue, 06 Jan 2026 08:39:13 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "InPost zmieni właściciela? Niespodziewana oferta na stole",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/inpost-otrzymal-oferte-przejecia-jest-reakcja-firmy/1ctmywx",
-      "summary": "InPost poinformował o otrzymaniu wstępnej propozycji przejęcia wszystkich akcji spółki. Notowana na giełdzie w Amsterdamie firma powołała specjalny zespół złożony z przedstawicieli rady nadzorczej i zarządu, którego zadaniem będzie dokładna analiza potencjalnej transakcji. Zamieszanie wokół spółki widać we wtorkowych notowaniach.",
-      "published": "Tue, 06 Jan 2026 08:22:32 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Wielki spór w USA o kultową kanapkę z McDonald's. \"Celowe oszustwo\". Sieć wyjaśnia",
-      "link": "https://businessinsider.com.pl/wiadomosci/wielki-spor-w-usa-o-kultowa-kanapke-z-mcdonalds-celowe-oszustwo/m5yr7ct",
-      "summary": "Jest pozew zbiorowy przeciwko sieci McDonald's. Został złożony pod koniec grudnia 2025 r. w Sądzie Okręgowym Stanów Zjednoczonych w Chicago. Chodzi w nim o konkretną pozycję z menu popularnej restauracji fast food — kanapkę McRib. Jej nazwa sugeruje, że zawiera żeberka wieprzowe, podczas gdy w środku jest coś zupełnie innego. Autorzy pozwu uważają, że to \"celowe oszustwo\" ze strony McDonald's — in",
-      "published": "Tue, 06 Jan 2026 08:17:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "To będzie największe wyzwanie 2026 r. Prof. Marcin Wiącek wskazuje priorytety",
-      "link": "https://businessinsider.com.pl/prawo/opinie/to-politycy-wywolali-kryzys-i-powinni-go-zazegnac-rpo-o-wyzwaniach-na-2026-r/ebls1ct",
-      "summary": "Największym wyzwaniem dla ochrony praw człowieka w Polsce jest kryzys władzy sądowniczej. Ta kwestia powinna być priorytetem w 2026 r. Tak uważa prof. Marcin Wiącek, rzecznik praw obywatelskich. W opinii dla Business Insider Polska zwraca też uwagę, że kolejnym problemem jest potrzeba zmiany podejścia do osób z niepełnosprawnościami, migrantów i bezpieczeństwa państwa.",
-      "published": "Tue, 06 Jan 2026 08:15:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "To będzie najmocniejsza spółka na GPW w 2026 roku? Silne wybicie potwierdza nową hossę po 65% spadku!",
       "link": "https://comparic.pl/to-bedzie-najmocniejsza-spolka-na-gpw-w-2026-roku-silne-wybicie-potwierdza-nowa-hosse-po-65-spadku/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-2-324x235.j",
@@ -552,22 +576,6 @@
       "published": "Tue, 06 Jan 2026 08:07:28 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "\"Czekamy 30 lat, poczekamy jeszcze kilka miesięcy\". Główny Inspektor Pracy o wstrzymanej reformie",
-      "link": "https://businessinsider.com.pl/praca/panstwowa-inspekcja-pracy-zmienia-strategie-ale-wciaz-liczy-na-reforme/dgq0hh2",
-      "summary": "Doniesienia medialne o tym, że reforma Państwowej Inspekcji Pracy utknęła w martwym punkcie, a projekt ustawy wrócił do poprawek, wywołały w sieci prawdziwą burzę. Oddech ulgi u części przedsiębiorców miesza się z rozczarowaniem związkowców. Tymczasem w samym gabinecie Głównego Inspektora Pracy panuje spokój, który może zaskakiwać.",
-      "published": "Tue, 06 Jan 2026 07:50:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Rynek reaguje na wydarzenia w Wenezueli. Ceny ropy spadają po gwałtownym wzroście",
-      "link": "https://businessinsider.com.pl/gielda/surowce/rynek-reaguje-na-wydarzenia-w-wenezueli-ceny-ropy-zaczely-spadac/bf7ddxk",
-      "summary": "We wtorek ceny ropy naftowej spadają, korygując silny wzrost z poprzedniej sesji, wywołany napięciami geopolitycznymi związanymi z sytuacją w Wenezueli. Na rynku pojawiły się spekulacje dotyczące przyszłości produkcji ropy w tym kraju po weekendowych wydarzeniach.",
-      "published": "Tue, 06 Jan 2026 07:34:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 06.01.2026",
@@ -608,14 +616,6 @@
       "published": "Tue, 06 Jan 2026 06:59:58 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "As AMD chases Nvidia, here’s how it’s positioning itself for the future of AI",
-      "link": "https://www.marketwatch.com/story/as-amd-chases-nvidia-heres-how-its-positioning-itself-for-the-future-of-ai-09048ea4?mod=mw_rss_topstories",
-      "summary": "AMD CEO Lisa Su delivered a CES keynote that highlighted cost benefits, memory improvements, a shift toward real-world AI — and an insatiable demand for compute power.",
-      "published": "Tue, 06 Jan 2026 04:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Stellantis resurrects $100,000 Ram TRX V-8 pickup truck amid industry deregulation",
