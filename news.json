@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T21:29:51.699751",
+  "generated_at": "2026-01-09T02:21:40.461522",
   "articles": [
     {
       "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
@@ -80,6 +80,14 @@
       "published": "Tue, 06 Jan 2026 15:15:17 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Dow Jones w górę, ale Nasdaq pod kreską. Przecena akcji Nvidii i Broadcomu",
+      "link": "https://www.bankier.pl/wiadomosc/Dow-Jones-w-gore-ale-Nasdaq-pod-kreska-Przecena-akcji-Nvidii-i-Broadcomu-9065460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/e/7ca3c7a816f1f4-948-568-0-187-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czwartkowa sesja na Wall Street zakończyła się niewielkimi zmianami głównych indeksów. W centrum uwagi inwestorów utrzymywały się spółki sektora zbrojeniowego,które wzrosły w z",
+      "published": "Thu, 8 Jan 2026 22:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Trump o możliwym ultimatum: Grenlandia na własność albo koniec NATO",
@@ -170,14 +178,6 @@
       "category": "pl"
     },
     {
-      "title": "Funkcjonariusze użyli kul pieprzowych przeciwko demonstrantom w Minnesocie",
-      "link": "https://www.bankier.pl/wiadomosc/Funkcjonariusze-uzyli-kul-pieprzowych-przeciwko-demonstrantom-w-Minnesocie-9065370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/8/b458f0a1e4c386-948-568-17-105-3493-2096.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Funkcjonariusze służb użyli w czwartek kul pieprzowych przeciwko demonstrantom w stolicy stanu Minnesota - Saint Paul. Protestują oni przeciwko służbie imigracyjnej ICE. W St.",
-      "published": "Thu, 8 Jan 2026 17:21:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Porozumienie z USA leży na stole. Zełenski: Dokument gotowy do podpisu z Trumpem",
       "link": "https://www.bankier.pl/wiadomosc/Porozumienie-z-USA-lezy-na-stole-Zelenski-Dokument-gotowy-do-podpisu-z-Trumpem-9065353.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/6/31edb3959f6546-948-568-0-7-1035-621.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski oświadczył w czwartek, że dwustronny dokument, dotyczący gwarancji bezpieczeństwa USA dla Kijowa, jest niemal gotowy do ostatecznego uzgodnien",
@@ -242,18 +242,58 @@
       "category": "pl"
     },
     {
-      "title": "The S&P 500 is losing the momentum that had been fueling stock investors",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-losing-the-momentum-that-had-been-fueling-stock-investors-371ef01e?mod=mw_rss_topstories",
-      "summary": "Lack of follow-through to new highs is concerning but not necessarily bearish — yet.",
-      "published": "Thu, 08 Jan 2026 21:25:00 GMT",
+      "title": "Aerospace, defense stocks surge after Trump’s proposed $1.5 trillion military-spending budget — but are investors too optimistic?",
+      "link": "https://www.marketwatch.com/story/aerospace-defense-stocks-surge-after-trumps-proposed-1-5-trillion-military-spending-budget-but-are-investors-too-optimistic-331f41a6?mod=mw_rss_topstories",
+      "summary": "ETFs that target aerospace and defense stocks are beating the S&amp;P 500 so far in 2026.",
+      "published": "Thu, 08 Jan 2026 23:25:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Americans just spent a record $20 billion with buy-now-pay-later. Here’s what to do if you overdid it.",
-      "link": "https://www.marketwatch.com/story/americans-just-spent-a-record-20-billion-with-buy-now-pay-later-heres-what-to-do-if-you-overdid-it-e43f11b5?mod=mw_rss_topstories",
-      "summary": "Here are 5 tips for getting your debt under control in 2026.",
-      "published": "Thu, 08 Jan 2026 21:21:00 GMT",
+      "title": "U.S. stocks are up this year even as tech slides, with some already rallying more than 10%",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-are-up-this-year-even-as-tech-slides-with-some-already-rallying-more-than-10-546dbf6d?mod=mw_rss_topstories",
+      "summary": "The U.S. stock market has climbed so far this year despite tech losses, in a positive sign of the broadening rally in early 2026.",
+      "published": "Thu, 08 Jan 2026 23:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Saks Global struggles to line up financing as potential bankruptcy filing looms",
+      "link": "https://www.cnbc.com/2026/01/08/saks-global-struggles-to-line-up-bankruptcy-financing.html",
+      "summary": "Saks is trying to line up financing to pay its bills during a potential bankruptcy filing, but investors have shown little interest over repayment concerns.",
+      "published": "Thu, 08 Jan 2026 22:55:05 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Stocks face their first real test of 2026 with Friday’s pivotal jobs report and possible tariff ruling",
+      "link": "https://www.marketwatch.com/story/stocks-face-their-first-real-test-of-2026-with-fridays-pivotal-jobs-report-and-possible-tariff-ruling-d761e459?mod=mw_rss_topstories",
+      "summary": "Markets are off to a strong start in 2025 — but investors could face their first real test on Friday with the December jobs report and, potentially, a Supreme Court decision on the legality of most of President Trump’s tariffs.",
+      "published": "Thu, 08 Jan 2026 22:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "How Trump’s control over Venezuela’s oil gets him close to a seat at OPEC’s table",
+      "link": "https://www.marketwatch.com/story/how-trumps-control-over-venezuelas-oil-gets-him-close-to-a-seat-at-opecs-table-84167189?mod=mw_rss_topstories",
+      "summary": "‘Control of Venezuela oil is shifting rapidly from boardrooms to governments’, says Nigel Green of deVere Group.",
+      "published": "Thu, 08 Jan 2026 22:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "We paid my daughter and son-in-law’s mortgage when it reached $76K. Here’s why we chose that magic figure.",
+      "link": "https://www.marketwatch.com/story/we-paid-my-daughter-and-son-in-laws-mortgage-when-it-reached-76k-heres-why-we-chose-that-magic-figure-b81feccd?mod=mw_rss_topstories",
+      "summary": "“My husband, daughter, son-in-law and I all went to the bank.”",
+      "published": "Thu, 08 Jan 2026 21:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The S&P 500 is losing the momentum that had been fueling stock investors",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-losing-the-momentum-that-had-been-fueling-stock-investors-371ef01e?mod=mw_rss_topstories",
+      "summary": "Lack of follow-through to new highs is concerning but not necessarily bearish — yet.",
+      "published": "Thu, 08 Jan 2026 21:25:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -274,14 +314,6 @@
       "category": "pl"
     },
     {
-      "title": "Nvidia had a chilling effect on these power stocks. Are investors being too harsh?",
-      "link": "https://www.marketwatch.com/story/nvidia-had-a-chilling-effect-on-these-power-stocks-are-investors-being-too-harsh-4494bc3a?mod=mw_rss_topstories",
-      "summary": "Nvidia’s new, more efficient racks could lessen the need for products that use cold water to remove excess heat from data centers.",
-      "published": "Thu, 08 Jan 2026 20:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Grenlandia czy NATO? Oto co powiedział Donald Trump",
       "link": "https://businessinsider.com.pl/polityka/donald-trump-o-nato-i-genlnadii-dal-do-zrozumienia-ze-bez-usa-sojusz-jest/3bzgtph",
       "summary": "Prezydent USA Donald Trump w rozmowie z \"New York Times\" zasugerował, że może stanąć przed wyborem między przyłączeniem Grenlandii do Stanów Zjednoczonych a utrzymaniem sojuszu NATO.",
@@ -296,14 +328,6 @@
       "published": "Thu, 08 Jan 2026 20:39:22 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Lucid increases EV deliveries by 55% in 2025, meets lowered guidance",
-      "link": "https://www.cnbc.com/2026/01/05/lucid-ev-deliveries-2025.html",
-      "summary": "Lucid Group significantly increased its production and sales last year, as it continues to ramp-up production of its new Gravity SUV.",
-      "published": "Thu, 08 Jan 2026 20:38:42 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Podejrzane statki w pobliżu Wielkiej Brytanii. Wiadomo, dokąd płyną",
@@ -322,14 +346,6 @@
       "category": "pl"
     },
     {
-      "title": "Why Alphabet’s stock can further reign as ‘king’ of the AI trade in 2026",
-      "link": "https://www.marketwatch.com/story/why-alphabets-stock-can-further-reign-as-king-of-the-ai-trade-in-2026-18bedf6f?mod=mw_rss_topstories",
-      "summary": "As the Google parent company edges closer to a $4 trillion market capitalization, a new bull cheers AI advantages that can keep the rally going.",
-      "published": "Thu, 08 Jan 2026 20:10:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nowość w ChatGPT. AI przejrzy twoją dokumentację medyczną?",
       "link": "https://businessinsider.com.pl/technologie/chatgpt-z-nowa-funkcja-budzi-obawy-o-prywatnosc/15zcg58",
       "summary": "OpenAI uruchomia nową funkcję ChatGPT Health, która będzie analizować dokumentację medyczną użytkowników. Rozwiązanie, które jest dostępne w USA, budzi pewne kontrowersje.",
@@ -343,14 +359,6 @@
       "summary": "The restaurant industry had mixed reactions to new federal nutrition guidelines, which recommend reduced intake of processed foods and sugary drinks.",
       "published": "Thu, 08 Jan 2026 20:04:27 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "‘We track our finances religiously’: Are we obliged to pay for our daughter’s medical school? We have $2.6 million saved for retirement.",
-      "link": "https://www.marketwatch.com/story/we-track-our-finances-religiously-do-we-pay-for-our-daughters-medical-school-weve-2-6-million-for-retirement-acd99b84?mod=mw_rss_topstories",
-      "summary": "“I am retired, and my wife is an employed physician. She is 56 and would like to retire as well.”",
-      "published": "Thu, 08 Jan 2026 20:04:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -378,44 +386,12 @@
       "category": "pl"
     },
     {
-      "title": "Supposedly ‘normal’ U.S. jobs report could throw curveballs. Here’s a cheat sheet.",
-      "link": "https://www.marketwatch.com/story/supposedly-normal-u-s-jobs-report-could-throw-a-few-curveballs-heres-a-cheat-sheet-df6700e6?mod=mw_rss_topstories",
-      "summary": "The pivotal U.S. jobs report for December is supposed to be the first normal one since the government shutdown, but it could prove devilishly hard for investors to parse.",
-      "published": "Thu, 08 Jan 2026 19:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Polska spółka z branży IT jest najdroższa od 12 lat! Pod co grają kupujący?",
       "link": "https://comparic.pl/polska-spolka-z-branzy-it-jest-najdrozsza-od-12-lat-pod-co-graja-kupujacy-08-01-2026/",
       "summary": "<img alt=\"Leasing sprzętu IT dla małej firmy\" class=\"attachment-full size-full wp-post-image\" height=\"450\" src=\"https://comparic.pl/wp-content/uploads/2025/10/Leasing-sprzetu-IT-dla-malej-firmy-–-optymalizacja-podatkowa-i-dostep-do-najnowszych-technologii.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"Leasing sprzętu IT dla małej firmy\" class=\"attachment-td_324x235 size-",
       "published": "Thu, 08 Jan 2026 19:30:18 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-      "link": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
-      "summary": "“We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.”",
-      "published": "Thu, 08 Jan 2026 19:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Aerospace, defense stocks surge after Trump’s proposed $1.5 trillion military-spending budget — but are investors too optimistic?",
-      "link": "https://www.marketwatch.com/story/aerospace-defense-stocks-surge-after-trumps-proposed-1-5-trillion-military-spending-budget-but-are-investors-too-optimistic-331f41a6?mod=mw_rss_topstories",
-      "summary": "ETFs that target aerospace and defense stocks are beating the S&amp;P 500 so far in 2026.",
-      "published": "Thu, 08 Jan 2026 19:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘It’s been a struggle getting payments from her’: I rent a house to our daughter. Do I just gift her the house?",
-      "link": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
-      "summary": "“She would be responsible for taxes and insurance, which should be manageable.”",
-      "published": "Thu, 08 Jan 2026 19:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Duńczycy naciskają w sprawie wojskowego wsparcia z Europy. \"Koniec z uległością\"",
@@ -456,14 +432,6 @@
       "published": "Thu, 08 Jan 2026 18:50:55 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Bessent touts Trump’s tariffs as markets gird for Supreme Court ruling",
-      "link": "https://www.marketwatch.com/story/bessent-touts-trumps-tariffs-as-markets-gird-for-supreme-court-ruling-96b9a63a?mod=mw_rss_topstories",
-      "summary": "In a speech Thursday, the Treasury secretary also pressed the Federal Reserve for more interest-rate cuts.",
-      "published": "Thu, 08 Jan 2026 18:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 08.01.2026",
@@ -759,6 +727,38 @@
       "summary": "GM posts 5.5% U.S. sales gain in 2025, Stellantis' Jeep ends annual declines",
       "published": "Mon, 05 Jan 2026 19:25:59 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Trump wants purchase of $200 billion in mortgage bonds. What that means for mortgage rates.",
+      "link": "https://www.marketwatch.com/story/trump-suggests-his-representatives-will-buy-200-billion-in-mortgage-bonds-what-it-means-for-mortgage-rates-9524491d?mod=mw_rss_topstories",
+      "summary": "Freddie and Fannie have been growing their mortgage bond holdings in recent months, but the 30-year fixed mortgage is still above 6%.",
+      "published": "Fri, 09 Jan 2026 01:33:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "GM becomes the latest carmaker to write down billions in pivot away from EVs",
+      "link": "https://www.marketwatch.com/story/gm-becomes-the-latest-carmaker-to-write-down-billions-in-pivot-away-from-evs-39910611?mod=mw_rss_topstories",
+      "summary": "General Motors warns of yet another EV-related writedown, less than a month after rival Ford Motor announced its own multibillion-dollar charges related to fading demand for EVs.",
+      "published": "Fri, 09 Jan 2026 01:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "My friend, who had no children or wife, died suddenly. His sister is contesting his will. Will she succeed?",
+      "link": "https://www.marketwatch.com/story/my-friend-who-had-no-children-or-wife-died-suddenly-his-sister-is-contesting-his-will-will-she-succeed-911d14fe?mod=mw_rss_topstories",
+      "summary": "“He did not intend to leave anything to his sister, his only living relative.”",
+      "published": "Fri, 09 Jan 2026 00:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m 46 and I’m still use my ex-boyfriend’s Netflix account. Is that stealing?",
+      "link": "https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories",
+      "summary": "“I’m still renting, believe it or not, and he has his own place.”",
+      "published": "Fri, 09 Jan 2026 00:05:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     }
   ]
