@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T02:27:31.811154",
+  "generated_at": "2026-01-12T04:15:30.109801",
   "articles": [
     {
       "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
@@ -216,22 +216,6 @@
       "published": "Sun, 11 Jan 2026 17:15:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘I’m at a crossroads’: I have $35K left on my mortgage at 3% interest. Do I dip into my $700K IRA to pay it off?",
-      "link": "https://www.marketwatch.com/story/im-at-a-crossroads-i-have-35k-left-on-my-mortgage-at-3-interest-do-i-dip-into-my-700k-ira-to-pay-it-off-0715335f?mod=mw_rss_topstories",
-      "summary": "“Over the last year, my two retirement accounts averaged a 15% gain.”",
-      "published": "Sun, 11 Jan 2026 17:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "I’m 46 and I’m still use my ex-boyfriend’s Netflix account. Is that stealing?",
-      "link": "https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories",
-      "summary": "“I’m still renting, believe it or not, and he has his own place.”",
-      "published": "Sun, 11 Jan 2026 16:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zatrudnia tysiące osób. Mówi, jak rozwiązać problem z umowami",
@@ -642,10 +626,26 @@
       "category": "pl"
     },
     {
-      "title": "Why investors shouldn’t panic yet about Trump’s plan to cap credit-card rates",
-      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
-      "summary": "A 10% cap on interest rates could mean a big hit to card companies’ earnings. But a Jefferies analyst says it’s “highly unlikely” that Trump gets his way.",
-      "published": "Mon, 12 Jan 2026 02:04:00 GMT",
+      "title": "U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
+      "summary": "With earnings season about to kick off, U.S. stock futures slipped Sunday, after the Dow and S&amp;P 500 closed Friday at record highs.",
+      "published": "Mon, 12 Jan 2026 04:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump says he’s ‘inclined to keep Exxon out’ of Venezuela after CEO’s skepticism",
+      "link": "https://www.marketwatch.com/story/trump-says-hes-inclined-to-keep-exxon-out-of-venezuela-after-ceos-skepticism-358d841c?mod=mw_rss_topstories",
+      "summary": "President Donald Trump on Sunday threatened to exclude Exxon Mobil from any oil deals in Venezuela, after the oil giant apparently didn’t display enough enthusiasm during a Friday meeting at the White House.",
+      "published": "Mon, 12 Jan 2026 03:59:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Apple’s stock can climb 35% this year — if these four scenarios play out",
+      "link": "https://www.marketwatch.com/story/apples-stock-can-climb-35-this-year-if-these-four-scenarios-play-out-76137826?mod=mw_rss_topstories",
+      "summary": "The biggest bull on Apple’s stock is looking for the company to address its “invisible AI strategy’ and keep Tim Cook around as CEO for this transformative period.",
+      "published": "Mon, 12 Jan 2026 02:42:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -653,15 +653,15 @@
       "title": "Powell says criminal investigation by Trump’s Justice Department threatens Fed’s independence",
       "link": "https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories",
       "summary": "The Justice Department served the Federal Reserve with grand jury subpoenas on Friday, Fed Chair Jerome Powell said Sunday, threatening an “unprecedented” criminal indictment against him over cost overruns for the renovation of the Fed’s headquarters building.",
-      "published": "Mon, 12 Jan 2026 02:02:00 GMT",
+      "published": "Mon, 12 Jan 2026 02:30:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe",
-      "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
-      "summary": "With earnings season about to kick off, U.S. stock futures slipped Sunday, after the Dow and S&amp;P 500 closed Friday at record highs.",
-      "published": "Mon, 12 Jan 2026 01:34:00 GMT",
+      "title": "Why investors shouldn’t panic yet about Trump’s plan to cap credit-card rates",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
+      "summary": "A 10% cap on interest rates could mean a big hit to card companies’ earnings. But a Jefferies analyst says it’s “highly unlikely” that Trump gets his way.",
+      "published": "Mon, 12 Jan 2026 02:04:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
