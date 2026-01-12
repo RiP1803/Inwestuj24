@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T21:27:59.702183",
+  "generated_at": "2026-01-12T02:27:31.811154",
   "articles": [
     {
       "title": "JPMorgan Chase reaches deal to become Apple Card issuer as Goldman closes chapter on consumer foray",
@@ -90,6 +90,14 @@
       "category": "us"
     },
     {
+      "title": "Allegiant to buy rival budget airline Sun Country for around $1.5 billion",
+      "link": "https://www.marketwatch.com/story/allegiant-to-buy-rival-budget-airline-sun-country-for-around-1-5-billion-d88bfc54?mod=mw_rss_topstories",
+      "summary": "Budget air carriers Allegiant and Sun Country Airlines will merge, the companies said Sunday, the latest move toward consolidation in a heavily competitive industry.",
+      "published": "Sun, 11 Jan 2026 22:19:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "We paid my daughter and son-in-law’s mortgage when it reached $76K. Here’s why we chose that magic figure.",
       "link": "https://www.marketwatch.com/story/we-paid-my-daughter-and-son-in-laws-mortgage-when-it-reached-76k-heres-why-we-chose-that-magic-figure-b81feccd?mod=mw_rss_topstories",
       "summary": "“My husband, daughter, son-in-law and I all went to the bank.”",
@@ -112,14 +120,6 @@
       "published": "Sun, 11 Jan 2026 20:56:34 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Why investors shouldn’t panic yet about Trump’s credit-card rate-cap proposal",
-      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
-      "summary": "On the surface, a 10% cap on APRs could mean a big hit to credit-card companies’ earnings. But a Jefferies analyst thinks it’s “highly unlikely” that Trump gets his way.",
-      "published": "Sun, 11 Jan 2026 20:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Darmowa wiza, praca i ulgi. Kto może się ubiegać o Kartę Polaka?",
@@ -229,14 +229,6 @@
       "title": "I’m 46 and I’m still use my ex-boyfriend’s Netflix account. Is that stealing?",
       "link": "https://www.marketwatch.com/story/i-feel-dirty-i-still-use-my-ex-boyfriends-netflix-account-is-that-stealing-63724bec?mod=mw_rss_topstories",
       "summary": "“I’m still renting, believe it or not, and he has his own place.”",
-      "published": "Sun, 11 Jan 2026 16:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I have no mortgage’: Is it reckless to cancel my homeowner’s insurance? I can’t justify $4K a year anymore.",
-      "link": "https://www.marketwatch.com/story/i-have-no-mortgage-is-it-reckless-to-cancel-my-homeowners-insurance-i-cant-justify-4k-a-year-anymore-d1a03452?mod=mw_rss_topstories",
-      "summary": "“My deductible is $5,000.”",
       "published": "Sun, 11 Jan 2026 16:57:00 GMT",
       "source": "MarketWatch",
       "category": "us"
@@ -408,14 +400,6 @@
       "published": "Sun, 11 Jan 2026 11:25:07 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘It’s been a struggle getting payments from her’: I rent a house to our daughter. Do I just gift her the house?",
-      "link": "https://www.marketwatch.com/story/its-been-a-struggle-getting-payments-from-her-i-rent-a-house-to-our-daughter-do-i-just-gift-her-the-house-d98892d0?mod=mw_rss_topstories",
-      "summary": "“She would be responsible for taxes and insurance, which should be manageable.”",
-      "published": "Sun, 11 Jan 2026 11:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Amerykański gigant, znany z Formuły 1, wchodzi do Polski. Będzie nowa sieć stacji paliw",
@@ -602,14 +586,6 @@
       "category": "pl"
     },
     {
-      "title": "‘He even bragged about his Mercedes-Benz:’ I rejected two egotistical advisers. I managed my life savings and they tripled over 25 years. Did I do OK?",
-      "link": "https://www.marketwatch.com/story/he-even-bragged-about-his-mercedes-benz-i-rejected-two-egotistical-advisers-i-managed-my-life-savings-and-they-tripled-over-25-years-did-i-do-ok-148d5d2e?mod=mw_rss_topstories",
-      "summary": "“We do not take out-of-country or five-star vacations. Instead, we enjoy time with family and friends and hobbies.”",
-      "published": "Sat, 10 Jan 2026 23:22:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "2026 is the year of obesity pills. Here's how they could reshape the GLP-1 market",
       "link": "https://www.cnbc.com/2026/01/10/2026-is-the-year-of-obesity-pills-from-novo-nordisk-eli-lilly-.html",
       "summary": "Patients can already access the first GLP-1 obesity pill from Novo Nordisk, and a rival oral drug from Eli Lilly is slated for U.S. approval later this year.",
@@ -664,6 +640,30 @@
       "published": "Sat, 10 Jan 2026 05:55:47 +0100",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Why investors shouldn’t panic yet about Trump’s plan to cap credit-card rates",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-panic-yet-about-trumps-credit-card-rate-cap-proposal-d33952b0?mod=mw_rss_topstories",
+      "summary": "A 10% cap on interest rates could mean a big hit to card companies’ earnings. But a Jefferies analyst says it’s “highly unlikely” that Trump gets his way.",
+      "published": "Mon, 12 Jan 2026 02:04:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Powell says criminal investigation by Trump’s Justice Department threatens Fed’s independence",
+      "link": "https://www.marketwatch.com/story/powell-says-criminal-investigation-by-trumps-justice-department-threatens-feds-independence-c613e0d5?mod=mw_rss_topstories",
+      "summary": "The Justice Department served the Federal Reserve with grand jury subpoenas on Friday, Fed Chair Jerome Powell said Sunday, threatening an “unprecedented” criminal indictment against him over cost overruns for the renovation of the Fed’s headquarters building.",
+      "published": "Mon, 12 Jan 2026 02:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "U.S. stock futures sink after Powell accuses Trump of intimidation over DOJ probe",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1?mod=mw_rss_topstories",
+      "summary": "With earnings season about to kick off, U.S. stock futures slipped Sunday, after the Dow and S&amp;P 500 closed Friday at record highs.",
+      "published": "Mon, 12 Jan 2026 01:34:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Jak zachowa się RPP w nowym roku? Przed nami decyzje o stopach, dane o inflacji i wyniki z Wall Street",
