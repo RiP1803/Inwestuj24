@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T18:43:45.249154",
+  "generated_at": "2026-01-16T21:28:45.311446",
   "articles": [
     {
       "title": "Saks Global, the longtime leader of luxury department stores, files for bankruptcy protection",
@@ -46,14 +46,6 @@
       "link": "https://www.cnbc.com/2026/01/13/boeing-orders-deliveries.html",
       "summary": "Boeing delivered 600 jetliners in 2025 with 63 in December alone, while net orders rose to 1,173 planes.",
       "published": "Tue, 13 Jan 2026 17:37:18 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "JPMorgan Chase says banks could fight Trump credit card rate cap: 'Everything's on the table'",
-      "link": "https://www.cnbc.com/2026/01/13/trump-credit-card-rate-cap-jpmorgan-chase-banks-fight.html",
-      "summary": "Banks say a proposed 10% cap on credit card interest rates would result in fewer credit card accounts for Americans and a hit to the U.S. economy.",
-      "published": "Tue, 13 Jan 2026 16:54:45 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -138,11 +130,195 @@
       "category": "us"
     },
     {
+      "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has 'solid' launch",
+      "link": "https://www.cnbc.com/2026/01/16/novo-nordisk-shares-wegovy-obesity-pill-launch.html",
+      "summary": "The early data is a boost to the Danish drugmaker's hopes of winning back more market share from Eli Lilly in the obesity drug space.",
+      "published": "Fri, 16 Jan 2026 21:02:05 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Pesa z zielonym światłem na rynku rumuńskim. Rusza realizacja wielkiego kontraktu",
+      "link": "https://businessinsider.com.pl/firmy/pesa-bydgoszcz-uzyskala-homologacje-w-rumunii-ruszaja-dostawy-pociagow/hnltjt1",
+      "summary": "Pesa Bydgoszcz uzyskała homologację dla pociągów typu 655-5 przeznaczonych na rynek rumuński. Decyzja ta, jak poinformował w piątek ekspert ds. projektów strategicznych i komunikacji spółki Piotr Mazurek, pozwala na rozpoczęcie dostaw i wprowadzenie taboru do eksploatacji. To ważna informacja, gdyż omawiany kontrakt to jedno z największych zamówień firmy.",
+      "published": "Fri, 16 Jan 2026 21:00:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Micron’s stunning stock gains are encapsulated by this milestone",
+      "link": "https://www.marketwatch.com/story/microns-stunning-stock-gains-are-encapsulated-by-this-milestone-a42b3ada?mod=mw_rss_topstories",
+      "summary": "Micron Technology is set to be worth $400 billion only a few weeks after topping $300 billion valuation as the largest U.S. maker of memory chips rides the artificial intelligence demand boom.",
+      "published": "Fri, 16 Jan 2026 21:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Education Department pauses plan to seize wages, tax refunds of defaulted student-loan borrowers",
+      "link": "https://www.marketwatch.com/story/education-department-pauses-plan-to-seize-wages-tax-refunds-of-defaulted-student-loan-borrowers-be7a4e69?mod=mw_rss_topstories",
+      "summary": "The announcement comes a little more than a week after the agency had planned to start warning defaulted borrowers their wages would be garnished.",
+      "published": "Fri, 16 Jan 2026 20:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Karol Nawrocki na prestiżowym forum ekonomicznym. Wiadomo, z kim się spotka",
+      "link": "https://businessinsider.com.pl/gospodarka/karol-nawrocki-i-donald-trump-na-jednym-forum-oto-plany-prezydenta/zxthwj1",
+      "summary": "Prezydent Karol Nawrocki będzie reprezentował Polskę na Światowym Forum Ekonomicznym w Davos. Weźmie udział m.in. w sesji z udziałem Donalda Trumpa. W planie jest też m.in. spotkanie z prezesem Banku Światowego.",
+      "published": "Fri, 16 Jan 2026 20:39:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Reuters: TikTok wprowadzi nową metodę weryfikacji wieku użytkowników",
+      "link": "https://www.bankier.pl/wiadomosc/Reuters-TikTok-wprowadzi-nowa-metode-weryfikacji-wieku-uzytkownikow-9069797.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/0/fc08bffd9a44ab-948-568-0-81-2507-1504.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />TikTok w najbliższych tygodniach zacznie wprowadzać w Europie nowe narzędzie weryfikujące wiek użytkowników - poinformowała w piątek agencja Reutera. W świecie narasta presja, b",
+      "published": "Fri, 16 Jan 2026 20:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Lula i Leyen ogłaszają sukces. Powstaje największa strefa handlowa na świecie",
+      "link": "https://www.bankier.pl/wiadomosc/Lula-i-Leyen-oglaszaja-sukces-Powstaje-najwieksza-strefa-handlowa-na-swiecie-9069853.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/5/6301a9891f1362-948-568-206-1580-2280-1368.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Brazylii Luiz Inacio Lula da Silva powiedział w piątek, że zawarcie umowy handlowej między Unią Europejską a południowoamerykańskim blokiem Mercosur to sukces świa",
+      "published": "Fri, 16 Jan 2026 20:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Niebieski diament wart fortunę. Rzadki klejnot odkryty w RPA",
+      "link": "https://businessinsider.com.pl/wiadomosci/rzadki-niebieski-diament-odkryty-w-afryce-moze-byc-wart-nawet-40-mln-dol/bz6kzer",
+      "summary": "W kopalni Cullinan Mine, położonej niedaleko Pretorii w Republice Południowej Afryki, odkryto niebieski diament o masie niemal 42 karatów. Eksperci szacują, że ten wyjątkowy kamień może osiągnąć na aukcji cenę nawet 40 mln dol. Informację tę przekazała firma Petra Diamonds, będąca właścicielem kopalni.",
+      "published": "Fri, 16 Jan 2026 20:15:30 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wenezuela jak Irak? Donald Trump tłumaczy swoją strategię",
+      "link": "https://www.bankier.pl/wiadomosc/Wenezuela-jak-Irak-Donald-Trump-tlumaczy-swoja-strategie-9069848.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/7/8d5d9fb685ef03-948-568-30-10-3970-2381.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump powiedział w piątek, że zdecydował się na współpracę z przedstawicielami reżimu w Caracas, a nie na oddanie władzy wenezuelskiej opozycji, ponieważ w",
+      "published": "Fri, 16 Jan 2026 20:12:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rząd Niemiec planuje nowy bonus na zakup samochodu elektrycznego",
+      "link": "https://businessinsider.com.pl/finanse/auta-elektryczne-z-nowymi-doplatami-w-niemczech-ile-pieniedzy-i-dla-kogo/1bm0cvb",
+      "summary": "Rząd niemiecki zgodził się na nową dopłatę przy zakupie samochodów elektrycznych i niektórych hybryd typu plug-in. Jest ona skierowana przede wszystkim do osób o niskich i średnich dochodach. Ma to być \"impuls dla elektromobilności w Niemczech\", jak i dla przemysłu motoryzacyjnego.",
+      "published": "Fri, 16 Jan 2026 20:04:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Trump tried to give Powell one last shove out the door. Now he’s likely to stay at the Fed.",
+      "link": "https://www.marketwatch.com/story/trump-tried-to-give-powell-one-last-shove-out-the-door-now-hes-likely-to-stay-ab5e4ab9?mod=mw_rss_topstories",
+      "summary": "Jerome Powell’s term as Federal Reserve chair ends in May — but he can choose to stay on as a Fed governor until 2028.",
+      "published": "Fri, 16 Jan 2026 19:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Amerykański fundusz pozywa Rosję o carskie długi. Domaga się miliardów dolarów",
+      "link": "https://businessinsider.com.pl/wiadomosci/amerykanski-fundusz-pozywa-rosje-o-carskie-dlugi-domaga-sie-miliardow-dolarow/0vdt535",
+      "summary": "Amerykański fundusz inwestycyjny Noble Capital RSD złożył pozew przeciwko Rosji, domagając się wypłaty ponad 225 mld dol. za niespłacone zobowiązania finansowe Imperium Rosyjskiego sprzed ponad stu lat. Sprawa dotyczy obligacji, których spłaty odmówiły władze bolszewickie po rewolucji w 1917 r.",
+      "published": "Fri, 16 Jan 2026 19:51:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Czym jeżdżą Polacy? Samochód dominuje. Małe miasta i wsie wykluczone komunikacyjnie",
+      "link": "https://www.bankier.pl/wiadomosc/Czym-jezdza-Polacy-Samochod-dominuje-Male-miasta-i-wsie-wykluczone-komunikacyjnie-9069708.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/2/61d76bcd0e4712-948-568-20-70-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />80 proc. pytanych przez Centrum Badania Opinii Społecznej deklaruje, że najczęściej przemieszcza się samochodem. Jednocześnie 75 proc. mieszkańców największych miast uznaje dos",
+      "published": "Fri, 16 Jan 2026 19:50:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 16.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-16-1-2026-7244141136947424a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 16.1.2026. W piątek wieczorem za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.86984 zł.",
+      "published": "Fri, 16 Jan 2026 19:46:47 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-1-2026-7244140785428704a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 16.1.2026. W piątek wieczorem za jednego franka (CHF) trzeba zapłacić 4.53017 zł.",
+      "published": "Fri, 16 Jan 2026 19:45:04 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-1-2026-7244140127709408a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 16.1.2026. W piątek wieczorem za jednego dolara (USD) trzeba zapłacić 3.63832 zł.",
+      "published": "Fri, 16 Jan 2026 19:42:57 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 16.1.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-16-1-2026-7244139528833216a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 16.1.2026. W piątek wieczorem za jedno euro (EUR) trzeba zapłacić 4.21953 zł.",
       "published": "Fri, 16 Jan 2026 19:41:05 +0100",
       "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Colleges could go tuition-free if their endowment-fund managers just invested in this stock index",
+      "link": "https://www.marketwatch.com/story/colleges-could-go-tuition-free-if-their-endowment-fund-managers-just-invested-in-this-stock-index-64129772?mod=mw_rss_topstories",
+      "summary": "Buy-and-hold S&amp;P 500 investors outperform college endowment managers. Could this be why?",
+      "published": "Fri, 16 Jan 2026 19:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Hassett pivots to possible 'Trump cards' amid credit card interest rate battle with banks",
+      "link": "https://www.cnbc.com/2026/01/16/white-house-hassett-trump-cards-credit-card-battle.html",
+      "summary": "Trump called for banks to cap credit card interest rates at 10%, an idea that has been roundly rejected by industry executives and their lobbyists this week.",
+      "published": "Fri, 16 Jan 2026 19:33:45 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Wojsko zamyka bramy przed chińskimi autami. Służby ostrzegają przed szpiegostwem",
+      "link": "https://www.bankier.pl/wiadomosc/Wojsko-zamyka-bramy-przed-chinskimi-autami-Sluzby-ostrzegaja-przed-szpiegostwem-9069833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/641d13cae449f2-948-568-5-15-1995-1196.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Trwają prace dotyczące ograniczenia wjazdu pojazdów produkcji chińskiej na teren chronionych jednostek i obiektów wojskowych – przekazały PAP służby prasowe MON. Jak podkreślono",
+      "published": "Fri, 16 Jan 2026 19:33:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Forum w Davos może być przełomem. Ukraińcy będą rozmawiać o dwóch ważnych dokumentach",
+      "link": "https://businessinsider.com.pl/gospodarka/plan-pokojowy-dla-ukrainy-forum-w-davos-moze-byc-przelomem/eed63rm",
+      "summary": "Miami będzie w sobotę miejscem kolejnych rozmów między dyplomacją amerykańską i ukraińską. W centrum uwagi będą dwie umowy, w tym ta w sprawie gwarancji bezpieczeństwa. Ambasador Ukrainy wskazała, gdzie i kiedy mogą zostać podpisane.",
+      "published": "Fri, 16 Jan 2026 19:28:32 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: ChatGPT wskazuje najlepszą inwestycję 2026 roku – sprawdź, co wybrał!",
+      "link": "https://comparic.pl/chatgpt-wskazuje-najlepsza-inwestycje-2026-roku-sprawdz-co-wybral/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Fri, 16 Jan 2026 19:21:17 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "I started working as a dishwasher at 13. Social Security refuses to acknowledge this. Am I being cheated?",
+      "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
+      "summary": "“I am 69, and started collecting Social Security when I was 66½.”",
+      "published": "Fri, 16 Jan 2026 19:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ethereum z rekordową aktywnością on-chain. Co powstrzymuje wzrost ceny ETH?",
+      "link": "https://comparic.pl/ethereum-z-rekordowa-aktywnoscia-on-chain-co-powstrzymuje-wzrost-ceny-eth/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"933\" src=\"https://comparic.pl/wp-content/uploads/2024/05/freepik-ETH-Ethereum.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/05/freepik-ETH-Ethereum-324x235.jpg\" style=\"float: left",
+      "published": "Fri, 16 Jan 2026 18:51:33 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -184,14 +360,6 @@
       "published": "Fri, 16 Jan 2026 18:29:45 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Novo Nordisk shares rise 8% after Wegovy obesity pill has ‘solid’ launch",
-      "link": "https://www.cnbc.com/2026/01/16/novo-nordisk-shares-wegovy-obesity-pill-launch.html",
-      "summary": "The early data is a boost to the Danish drugmaker's hopes of winning back more market share from Eli Lilly this year in the obesity drug space.",
-      "published": "Fri, 16 Jan 2026 18:29:21 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "These 3 factors matter the most now for investors in AI, crypto and tech stocks",
@@ -266,14 +434,6 @@
       "category": "us"
     },
     {
-      "title": "How to get the most bang for your buck when buying a TV",
-      "link": "https://www.marketwatch.com/story/how-to-get-the-most-bang-for-your-buck-when-buying-a-tv-20d5cd99?mod=mw_rss_topstories",
-      "summary": "Every week, our newsletter Don’t Short Yourself will offer you money tips to help you earn it, stack it and grow it",
-      "published": "Fri, 16 Jan 2026 17:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Trump: Mogę wprowadzić cła na kraje, które będą sprzeciwiać się ws. Grenlandii",
       "link": "https://www.bankier.pl/wiadomosc/Trump-Moge-wprowadzic-cla-na-kraje-ktore-beda-sprzeciwiac-sie-ws-Grenlandii-9069779.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/4/736385754ea44b-948-568-0-100-3650-2189.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump powiedział w piątek, że może wprowadzić cła na towary z państw, które będą się sprzeciwiać pozyskaniu Grenlandii przez Stany Zjednoczone. Nie podał s",
@@ -306,14 +466,6 @@
       "category": "pl"
     },
     {
-      "title": "Bitcoin’s rally wasn’t enough to push it past $100K this week. Here’s what it needs to get out of this rut.",
-      "link": "https://www.marketwatch.com/story/bitcoins-rally-wasnt-enough-to-push-it-past-100k-this-week-heres-what-it-needs-to-get-out-of-this-rut-33598026?mod=mw_rss_topstories",
-      "summary": "Bitcoin’s rally this week is similar to the ones it saw during its 2022 bear market.",
-      "published": "Fri, 16 Jan 2026 17:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "JSW najwyżej od 315 dni! PGE w drodze na 10 zł?! Euforia na CD Projekt! CCC zgniecie shorty? Dino nadal walczy – co jest grane na GPW?",
       "link": "https://comparic.pl/jsw-najwyzej-od-315-dni-pge-w-drodze-na-10-zl-euforia-na-cd-projekt-ccc-zgniecie-shorty-dino-nadal-walczy-co-jest-grane-na-gpw/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"685\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-7.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-hossa-bull-byk-wzrost-7-324x235.j",
@@ -330,43 +482,19 @@
       "category": "pl"
     },
     {
-      "title": "Is inflation actually lower than we think? This economist says yes.",
-      "link": "https://www.marketwatch.com/story/is-inflation-actually-lower-than-we-think-this-economist-says-yes-5d4581f1?mod=mw_rss_topstories",
-      "summary": "New York Fed says inflation and import prices are overstated.",
-      "published": "Fri, 16 Jan 2026 16:55:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "These stocks have the most to lose from Trump’s push to lower electricity prices",
-      "link": "https://www.marketwatch.com/story/these-stocks-have-the-most-to-lose-from-trumps-push-to-lower-electricity-prices-e920c47f?mod=mw_rss_topstories",
-      "summary": "The stocks of Constellation Energy and Vistra dropped after investors were spooked by the Trump administration’s plan to push large technology companies to help lower electricity prices for consumers.",
-      "published": "Fri, 16 Jan 2026 16:50:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "AST SpaceMobile’s stock soars to a fresh record as the SpaceX rival nears a big win",
-      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-soars-to-a-fresh-record-as-the-spacex-rival-nears-a-big-win-95955a0d?mod=mw_rss_topstories",
-      "summary": "The satellite maker may get a slice of a $151 billion U.S. defense program.",
-      "published": "Fri, 16 Jan 2026 16:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Francja zawiesza debaty nad budżetem. W tle wariant kontrowersyjnego ominięcia głosowania",
-      "link": "https://www.bankier.pl/wiadomosc/Francja-zawiesza-debaty-nad-budzetem-W-tle-wariant-kontrowersyjnego-ominiecia-glosowania-9069698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/b/d7de94e64975a3-948-568-6-6-2593-1556.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd Francji zawiesił do wtorku debaty w parlamencie nad projektem budżetu na bieżący rok z powodu braku kompromisu w jego sprawie. Prawdopodobny staje się scenariusz, że rząd pr",
-      "published": "Fri, 16 Jan 2026 16:44:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Czy XRP naprawdę wchodzi w super cykl? Analiza techniczna wszystko wyjaśnia",
       "link": "https://comparic.pl/czy-xrp-naprawde-wchodzi-w-super-cykl-analiza-techniczna-wszystko-wyjasnia/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"900\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-1-324x235.jpg\" style=\"float",
       "published": "Fri, 16 Jan 2026 16:41:16 +0000",
       "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bank Pekao dokonał w IV kw. przeszacowania aktywów, utworzy rezerwy",
+      "link": "https://www.bankier.pl/wiadomosc/Bank-Pekao-dokonal-w-IV-kw-przeszacowania-aktywow-utworzy-rezerwy-9069732.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/f/a5d96d3a8d0ed1-870-522-45-7-870-522.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bank Pekao przeszacował aktywa i rezerwy z tytułu podatku odroczonego w związku z podwyższeniem stawek CIT, a pozytywny wpływ na skonsolidowany wynik IV kwartału wyniesie ok. 180 ",
+      "published": "Fri, 16 Jan 2026 16:40:00 +0100",
+      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -382,22 +510,6 @@
       "link": "https://comparic.pl/ruszylo-glosowanie-w-konkursie-invest-cuffs-oddaj-glos-na-swoich-faworytow-w-az-21-kategoriach/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Konkurs-Invest-Cuffs-2026.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Konkurs-Invest-Cuffs-2026-324x235.webp\" style=",
       "published": "Fri, 16 Jan 2026 16:26:40 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Odkryto diament wart 40 mln dolarów. Niebieski skarb w kopalni Cullinan",
-      "link": "https://www.bankier.pl/wiadomosc/Odkryto-diament-wart-40-mln-dolarow-Niebieski-skarb-w-kopalni-Cullinan-9069706.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/f/5056003c18f5af-948-568-0-0-2156-1293.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W południowoafrykańskiej kopalni Cullinan Mine, nieopodal Pretorii, odkryto wyjątkowo rzadki niebieski diament o masie prawie 42 karatów. Eksperci sugerują, że na aukcji może on ",
-      "published": "Fri, 16 Jan 2026 16:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "OKX z licencją MiCA! Jak regulacje zmieniły priorytety rynek kryptowalut?",
-      "link": "https://comparic.pl/okx-z-licencja-mica-jak-regulacje-zmienily-priorytety-rynek-kryptowalut/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"832\" src=\"https://comparic.pl/wp-content/uploads/2025/12/AI-Gemini-OKX.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1248\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/AI-Gemini-OKX-324x235.jpg\" style=\"float: left; margin: 0 15",
-      "published": "Fri, 16 Jan 2026 16:16:00 +0000",
       "source": "Comparic.pl",
       "category": "pl"
     },
@@ -458,10 +570,10 @@
       "category": "other"
     },
     {
-      "title": "Polskie dzieci oglądają porno. KE bije na alarm i pozywa Polskę",
-      "link": "https://www.bankier.pl/wiadomosc/Polskie-dzieci-ogladaja-porno-KE-bije-na-alarm-i-pozywa-Polske-9069643.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/4/3e661ab0a8b258-948-568-2-32-997-598.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jedną z dziewięciu najczęściej odwiedzanych stron internetowych w Polsce przez dzieci w wieku 7-14 lat jest strona pornograficzna - poinformował PAP rzecznik Komisji Europejskiej ",
-      "published": "Fri, 16 Jan 2026 15:25:00 +0100",
+      "title": "Chiny i Kanada ogłaszają „nowe partnerstwo”. Przełomowa umowa ws. ceł i samochodów elektrycznych",
+      "link": "https://www.bankier.pl/wiadomosc/Chiny-i-Kanada-oglaszaja-nowe-partnerstwo-Przelomowa-umowa-ws-cel-i-samochodow-elektrycznych-9069648.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/31bf34a12a22f0-948-568-30-0-3970-2381.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Chiny i Kanada zawarły wstępne porozumienie, znoszące bariery handlowe, w tym w sprawie obniżki ceł na kanadyjskie produkty rolne i otwarcie Kanady na chińskie auta elektryczne ",
+      "published": "Fri, 16 Jan 2026 15:28:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -480,14 +592,6 @@
       "published": "Fri, 16 Jan 2026 15:21:06 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "200 zł za 5 płatności, a potem 800 zł. Alior Bank z przytupem promuje nowy rachunek",
-      "link": "https://www.bankier.pl/wiadomosc/200-zl-za-5-platnosci-a-potem-800-zl-Alior-Bank-z-przytupem-promuje-nowy-rachunek-9069475.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/5/fd762b6dd3f248-948-568-0-133-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Połowa stycznia to dla Alior Banku czas dużych zmian. Pojawienie się w ofercie nowego Alior Konta Plus zbiega się z uruchomieniem promocji tego rachunku, w której do zyskania j",
-      "published": "Fri, 16 Jan 2026 15:10:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Analityk z Jefferies usuwa Bitcoina z portfela przez ryzyko kwantowe",
@@ -522,14 +626,6 @@
       "category": "other"
     },
     {
-      "title": "Crypto Community Conference 2026 – największe spotkanie polskiej społeczności blockchain już 21 lutego w Łodzi",
-      "link": "https://comparic.pl/crypto-community-conference-2026-najwieksze-spotkanie-polskiej-spolecznosci-blockchain-juz-21-lutego-w-lodzi/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/01/CCC-Crypto-Community-Conference.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/CCC-Crypto-Community-Conference-324x235.",
-      "published": "Fri, 16 Jan 2026 14:36:45 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Przerwy w bankach na weekend. Karta można nie zadziałać",
       "link": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-na-weekend-Uwaga-na-platnosci-karta-9069592.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/e/4f9fdd79093c07-948-568-162-406-2218-1331.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po względnie spokojnym początku roku banki wróciły do konieczności przeprowadzania usprawnień swoich serwisów transakcyjnych. Na liście niedostępnych usług królują przelewy e",
@@ -546,58 +642,10 @@
       "category": "pl"
     },
     {
-      "title": "Ile zarabia \"król fotoradarów\"? Spora, pięciocyfrowa kwota",
-      "link": "https://businessinsider.com.pl/praca/gitd-ma-nowego-szefa-krol-fotoradarow-zarabial-sporo/yvkk81m",
-      "summary": "Kilka średnich krajowych zarabiał odwołany szef Głównego Inspektoratu Transportu Drogowego. Jego następca może liczyć także na sporą sumę wynagrodzenia. Dzięki fotoradarom instytucja przynosi do budżetu państwa duże pieniądze.",
-      "published": "Fri, 16 Jan 2026 14:29:44 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Wysłannik Donalda Trumpa do spraw Grenlandii zabrał głos. Jasne stanowisko",
-      "link": "https://businessinsider.com.pl/wiadomosci/grenlandia-na-celowniku-donalda-trumpa-specjalny-wyslannik-ujawnia-plany/pkjzkwv",
-      "summary": "Jeff Landry, specjalny wysłannik Donalda Trumpa ds. Grenlandii i gubernator Luizjany, wyraził przekonanie, że plan przejęcia kontroli nad wyspą przez Stany Zjednoczone jest realny. W rozmowie z Fox News podkreślił, że \"można zawrzeć deal\" w tej sprawie i że \"zostanie on zawarty\". Zaznaczył, że celem jest włączenie Grenlandii do USA. W marcu Landry ma udać się na wyspę.",
-      "published": "Fri, 16 Jan 2026 14:28:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Wielki przekręt na paliwach na 1,3 mld zł. W tle sprawa „króla kryptowalut”",
       "link": "https://www.bankier.pl/wiadomosc/Wielki-przekret-na-paliwach-na-1-3-mld-zl-W-tle-sprawa-krola-kryptowalut-9069580.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/1/aae4c5cad4fe0c-948-567-0-5-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dokumentowanie fikcyjnych transakcji fakturami VAT na łączną kwotę blisko 1,3 mld zł zarzuca Prokuratura Regionalna w Katowicach międzynarodowej grupie przestępczej zajmującej się",
       "published": "Fri, 16 Jan 2026 14:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wikipedia brata się z AI. Kontrowersyjna decyzja ma wiele zalet",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wikipedia-zawarla-umowy-z-gigantami-ai-nowy-rozdzial-po-25-latach/jcxc85y",
-      "summary": "Wikipedia właśnie skończyła 25 lat i z tej okazji Wikimedia Foundation ogłosiła nowe umowy komercyjne z gigantami technologicznymi: Amazonem, Meta, Microsoftem, a także z Perplexity i francuskim Mistral AI. Wszystkie te kontrakty dotyczą płatnego, szybkiego i masowego dostępu do treści Wikipedii przez dostawców treści AI. Wikipedia też ma na tej umowie zyskać, między innymi poprzez nową wyszukiwar",
-      "published": "Fri, 16 Jan 2026 14:10:45 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Lufthansa stawia na Starlink Elona Muska. Te linie lotnicze już z niego korzystają [LISTA]",
-      "link": "https://businessinsider.com.pl/finanse/samoloty-lufthansy-z-internetem-od-elona-muska-te-linie-juz-z-niego-korzystaja-lista/tezmyx8",
-      "summary": "Starlink Elona Muska pozyskał kolejnego klienta z branży lotniczej, który zamierza korzystać z jego ultraszybkiej usługi WiFi: Lufthansa. Niemiecka linia lotnicza przedstawiła szczegóły dotyczące wyboru Starlinka. Jednak nie ona jedna korzysta już z usług Elona Muska wśród wszystkich linii w UE.",
-      "published": "Fri, 16 Jan 2026 13:46:12 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Business Insider Awards 2025 rozdane",
-      "link": "https://businessinsider.com.pl/biznes/internauci-wybrali-zwyciezcow-blik-i-revoult-z-nagrodami-czytelnikow/l3hf33k",
-      "summary": "Po raz trzeci redakcja Business Insider Polska przyznała nagrody dla firm i liderów kluczowych sektorów: gospodarki, prawa, biznesu i nowych technologii. W tegorocznej edycji, swoich zwycięzców w głosowaniu online wybierali również czytelnicy serwisu. Nagrodzono firmy w ośmiu kategoriach. W gronie zwycięzców znaleźli się: Polenergia, Polska Grupa Zbrojeniowa, Comarch, Orlen, PZU&amp;Pekao, InPost,",
-      "published": "Fri, 16 Jan 2026 13:31:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kreml zabiera głos ws. Grenlandii. \"Trump sam powiedział, że prawo międzynarodowe nie jest priorytetem\"",
-      "link": "https://www.bankier.pl/wiadomosc/Kreml-zabiera-glos-ws-Grenlandii-Prawo-miedzynarodowe-nie-jest-dla-prezydenta-USA-priorytetem-9069542.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/f2eceef0d5e1fa-948-568-8-8-3392-2035.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rzecznik Kremla Dmitrij Pieskow oznajmił w piątek, że Rosja uważa Grenlandię za część terytorium Dani. Obecną sytuację wokół tej wyspy określił mianem nadzwyczajnej.</p>",
-      "published": "Fri, 16 Jan 2026 13:31:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -610,50 +658,10 @@
       "category": "pl"
     },
     {
-      "title": "Tym będą żyły rynki: sezon wynikowy na Wall Street oraz chińskie dane",
-      "link": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-sezon-wynikowy-na-Wall-Street-oraz-chinskie-dane-9069532.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/4/b393c1c5aeba40-948-568-0-360-2377-1426.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na Wall Street na dobre ruszy sezon publikacji wyników za IV kwartał. Zobaczymy raporty m.in. 3M, GE oraz Netfliksa. Na rynek trafią też statystyki makroekonomiczne z Chin oraz",
-      "published": "Fri, 16 Jan 2026 13:19:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Sąsiad Polski zaraz zamknie ostatnią kopalnię węgla",
       "link": "https://www.money.pl/gospodarka/sasiad-polski-zaraz-zamknie-ostatnia-kopalnie-wegla-7244042638977216a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2887e408-5a6c-484b-aa95-1a9da28e2474\" width=\"308\" /> Czeska spółka OKD planuje z końcem tego miesiąca zamknięcie ostatniej kopalni węgla kamiennego. Po niemal 250 latach kończy się historia wydobycia węgla kamiennego w Czechach.",
       "published": "Fri, 16 Jan 2026 13:15:14 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ciąg dalszy restrukturyzacji PKP Cargo. Zapadła ważna decyzja",
-      "link": "https://businessinsider.com.pl/finanse/pkp-cargo-w-trudnej-sytuacji-finansowej-sprzedali-kluczowa-spolke/dl37tfm",
-      "summary": "Nie od dziś wiadomo, że sytuacja PKP Cargo, jednej z kluczowych spółek Skarbu Państwa na kolei, jest trudna pod względem finansowym. Dziś firma podjęła kluczową decyzję i pozbywa się jednej z należących do niej spółek-córek. Ta zostanie przejęta przez inną spółkę państwową — PKP Polskie Linie Kolejowe. Ma to być jeden z elementów realizacji planu restrukturyzacyjnego PKP Cargo.",
-      "published": "Fri, 16 Jan 2026 13:08:41 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.1.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-1-2026-7244043311708384a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 16.1.2026. W piątek za jednego dolara (USD) trzeba zapłacić 3.63553 zł.",
-      "published": "Fri, 16 Jan 2026 13:08:37 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 16.1.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-16-1-2026-7244042733562048a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 16.1.2026. W piątek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.87173 zł.",
-      "published": "Fri, 16 Jan 2026 13:06:50 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.1.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-1-2026-7244042355083456a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 16.1.2026. W piątek za jednego franka (CHF) trzeba zapłacić 4.53424 zł.",
-      "published": "Fri, 16 Jan 2026 13:05:06 +0100",
       "source": "Money.pl",
       "category": "pl"
     },
@@ -674,18 +682,18 @@
       "category": "us"
     },
     {
-      "title": "500 tys. żołnierzy, AI i „odstraszanie przez ukaranie”. Sztab Generalny ogłasza rewolucję",
-      "link": "https://www.bankier.pl/wiadomosc/500-tys-zolnierzy-AI-i-odstraszanie-przez-ukaranie-Sztab-Generalny-oglasza-rewolucje-9069449.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/d/1401bc353d5e39-948-568-7-74-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do 2039 r. liczebność Sił Zbrojnych RP ma wzrosnąć do 500 tys. żołnierzy, w tym 300 tys. w ramach czynnej służby wojskowej oraz 200 tys. w rezerwach - to jedno z założeń Program",
-      "published": "Fri, 16 Jan 2026 11:45:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Deweloperzy z GPW sprzedali tyle mieszkań, ile w czasie programu dopłat do kredytów. Indeks już blisko szczytu z 2007 r.",
       "link": "https://www.bankier.pl/wiadomosc/Deweloperzy-z-GPW-sprzedali-tyle-mieszkan-ile-w-czasie-programu-doplat-do-kredytow-Indeks-juz-blisko-szczytu-z-2007-r-9069201.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/2f2c20656bfde2-948-568-12-0-4796-2878.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Według styczniowych danych od giełdowych deweloperów ich łączna sprzedaż mieszkań w IV kwartale była najwyższa od czasu sprzedażowego szczytu z 2023 r. wywołanego wprowadzeniem ",
       "published": "Fri, 16 Jan 2026 11:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Faktura, księgowość i płatność w jednym miejscu. Tak działa KSeF z bankiem",
+      "link": "https://www.bankier.pl/wiadomosc/Faktura-ksiegowosc-i-platnosc-w-jednym-miejscu-Tak-dziala-KSeF-z-bankiem-9069040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/a/e41f9d6536b5e9-948-568-0-75-1200-719.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Start Krajowego Systemu e-Faktur budzi w przedsiębiorcach wiele obaw. Wielu z nich nie wie, jak przygotować firmę do e-fakturowej rewolucji i spełnić nowe wymagania wynikające ze",
+      "published": "Fri, 16 Jan 2026 11:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -719,38 +727,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/18269636-16b4-428d-800e-d6feaf68c014\" width=\"308\" /> Nowa wersja projektu reformy Państwowej Inspekcji Pracy będzie przewidywała dwa tygodnie na odwołanie się od decyzji inspektora o przekształceniu umowy cywilnoprawnej w umowę o pracę; spory będą rozstrzygały wydziały pracy sądów powszechnych - twierdzą źródła PAP w Nowej ",
       "published": "Fri, 16 Jan 2026 07:10:52 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-01-2026-7243953582827648a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 16.01.2026. W piątek za jednego franka (CHF) trzeba zapłacić 4.5234 zł.",
-      "published": "Fri, 16 Jan 2026 07:02:38 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-01-2026-7243953536260192a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 16.01.2026. W piątek za jednego dolara (USD) trzeba zapłacić 3.6306 zł.",
-      "published": "Fri, 16 Jan 2026 07:02:26 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 16.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-16-01-2026-7243953509218400a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 16.01.2026. W piątek za jedno euro (EUR) trzeba zapłacić 4.214 zł.",
-      "published": "Fri, 16 Jan 2026 07:02:20 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Złoty rok za nami, a co przed? Kolany: Korekta przez wielkie \"K\"",
-      "link": "https://www.bankier.pl/wiadomosc/Zloty-rok-za-nami-a-co-przed-Kolany-Korekta-przez-wielkie-K-9068968.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/c/612fd51719e5fd-948-568-260-21-2323-1393.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Mamy rok 2026. Gdyby ktoś dekadę temu powiedział, że uncja złota będzie kosztować ponad 4650 dolarów, zostałby uznany za szaleńca. Dziś to rynkowa rzeczywistość. Miniony rok n",
-      "published": "Fri, 16 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     }
   ]
