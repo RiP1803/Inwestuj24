@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:38:53.091433",
+  "generated_at": "2026-01-20T18:57:34.767544",
   "articles": [
-    {
-      "title": "Saks Global, the longtime leader of luxury department stores, files for bankruptcy protection",
-      "link": "https://www.cnbc.com/2026/01/14/saks-global-files-for-bankruptcy-protection.html",
-      "summary": "Saks Global, which also owns Neiman Marcus and Bergdorf Goodman, filed for bankruptcy protection after running out of cash.",
-      "published": "Wed, 14 Jan 2026 17:53:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Citigroup tops estimates on stronger net interest income, smaller loan loss provision",
-      "link": "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html",
-      "summary": "Under CEO Jane Fraser, Citigroup is in the midst of a restructuring, selling off parts of its overseas operations.",
-      "published": "Wed, 14 Jan 2026 17:13:08 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
     {
       "title": "Bank of America tops estimates on better-than-expected net interest income, equities trading",
       "link": "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html",
@@ -26,36 +10,380 @@
       "category": "us"
     },
     {
-      "title": "Japan’s long-bond yields surge to record highs. Why it may be a problem beyond Tokyo.",
-      "link": "https://www.marketwatch.com/story/japans-long-bond-yields-surge-to-record-highs-why-it-may-be-a-problem-beyond-tokyo-e36cc46f?mod=mw_rss_topstories",
-      "summary": "The problems in Japan may expand elsewhere.",
-      "published": "Tue, 20 Jan 2026 15:31:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 20.01.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-20-01-2026-7245558170360032a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 20.01.2026. We wtorek za jednego dolara (USD) trzeba zapłacić 3.60101 zł.",
+      "published": "Tue, 20 Jan 2026 19:52:34 +0100",
+      "source": "Money.pl",
+      "category": "pl"
     },
     {
-      "title": "I manage an $80K trust for a 15-year-old. How do I do deal with interfering relatives?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-step-on-any-toes-i-manage-a-80k-trust-for-a-15-year-old-relative-how-do-i-deal-with-nosy-relatives-9f2d4754?mod=mw_rss_topstories",
-      "summary": "“I don’t want to step on any toes.”",
-      "published": "Tue, 20 Jan 2026 15:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-1-2026-7245557568489696a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 20.1.2026. We wtorek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.84284 zł.",
+      "published": "Tue, 20 Jan 2026 19:50:33 +0100",
+      "source": "Money.pl",
+      "category": "pl"
     },
     {
-      "title": "‘People are often unreasonable when money is involved’: My husband, 62, gave me a 5-year life estate. Would I have to pay for a new roof?",
-      "link": "https://www.marketwatch.com/story/people-are-often-unreasonable-when-money-is-involved-my-husband-62-gave-me-a-5-year-life-estate-would-i-have-to-pay-for-a-new-roof-db4e0efb?mod=mw_rss_topstories",
-      "summary": "“He has included a provision stating that I would be responsible for ‘maintenance and expenses’ during my occupancy.”",
-      "published": "Tue, 20 Jan 2026 15:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 20.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-20-1-2026-7245557008406720a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 20.1.2026. We wtorek za jednego franka (CHF) trzeba zapłacić 4.56213 zł.",
+      "published": "Tue, 20 Jan 2026 19:48:27 +0100",
+      "source": "Money.pl",
+      "category": "pl"
     },
     {
-      "title": "Walka o budżet 2026. Rząd odpowiada na zarzuty prezydenta: Deficyt pod kontrolą",
-      "link": "https://www.bankier.pl/wiadomosc/Walka-o-budzet-2026-Rzad-odpowiada-na-zarzuty-prezydenta-Deficyt-pod-kontrola-9071221.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/b/fcaac403091416-948-568-145-61-2926-1755.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Fundamentalnie nie zgadzam się z argumentacją prezydenta Karola Nawrockiego ws. budżetu na 2026 r.; to bardzo dobry, ambitny budżet, z największymi środkami na ochronę zdrowia",
-      "published": "Tue, 20 Jan 2026 15:25:00 +0100",
+      "title": "UE uderzy w \"świętość\" Amerykanów? Podatek cyfrowy w odwecie za cła Trumpa",
+      "link": "https://www.money.pl/podatki/ue-uderzy-w-swietosc-amerykanow-podatek-cyfrowy-w-odwecie-za-cla-trumpa-7245463041755360a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/821113e2-56f6-4e6e-9a60-7f5987fd4a7f\" width=\"308\" /> Najmocniejszym argumentem wobec Amerykanów pozostaje podatek cyfrowy - mówi nam polski urzędnik, który bierze udział w dyskusjach na poziomie unijnym. W ten sposób Bruksela mogłaby odpowiedzieć na groźby celne Donalda Trumpa wobec Europy.",
+      "published": "Tue, 20 Jan 2026 19:47:41 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 20.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-20-1-2026-7245556159498432a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 20.1.2025. We wtorek za jedno euro (EUR) trzeba zapłacić 4.22467 zł.",
+      "published": "Tue, 20 Jan 2026 19:45:45 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "600 tys. osób opuściło od stycznia Kijów. „Putin chce złamać opór mrozem”.",
+      "link": "https://www.bankier.pl/wiadomosc/600-tys-osob-opuscilo-od-stycznia-Kijow-Putin-chce-zlamac-opor-mrozem-9071374.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/a/6f76790177116e-948-568-0-37-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Około 600 tys. osób opuściło Kijów od 9 stycznia, gdy mer stolicy Ukrainy Witalij Kliczko zaapelował do mieszkańców o tymczasową ewakuację z miasta. Po zmasowanych rosyjskich at",
+      "published": "Tue, 20 Jan 2026 18:58:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "The ‘Sell America’ trade is making a comeback on Tuesday. Here’s what investors need to know.",
+      "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories",
+      "summary": "The “Sell America” trade was making a comeback on Tuesday following President Donald Trump’s latest tariff threats against European allies, raising the possibility of a rerun of last April’s violent market spasms.",
+      "published": "Tue, 20 Jan 2026 18:51:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Prezenty na ostatnią chwilę dla babci i dziadka. Kilka sprawdzonych sposobów",
+      "link": "https://businessinsider.com.pl/wiadomosci/prezenty-na-ostatnia-chwile-na-dzien-babci-i-dziadka-uciesza-kazdego/eb23ncr",
+      "summary": "Dzień Babci zbliża się wielkimi krokami — obchodzimy go 21 stycznia. Dziadkowie świętują dzień później. Jeśli kurier nie zdąży, zawsze można wybrać prezent, który da się kupić nawet w 15 minut — bez wychodzenia z domu lub w drodze na rodzinny obiad.",
+      "published": "Tue, 20 Jan 2026 18:45:18 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "XRP wraca do struktury z 2022 roku. Co pokazują dane on-chain Glassnode?",
+      "link": "https://comparic.pl/xrp-wraca-do-struktury-z-2022-roku-co-pokazuja-dane-on-chain-glassnode/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"900\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Ripple-XRP-1-324x235.jpg\" style=\"float",
+      "published": "Tue, 20 Jan 2026 18:40:04 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump’s Greenland threats are making it even more expensive to buy a house in America",
+      "link": "https://www.marketwatch.com/story/trumps-greenland-threats-are-making-it-even-more-expensive-to-buy-a-house-in-america-d7e0697c?mod=mw_rss_topstories",
+      "summary": "Mortgage rates jumped higher as the Treasury market faces a selloff amid U.S.-E.U. tensions over Greenland.",
+      "published": "Tue, 20 Jan 2026 18:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rodzinne ogródki działkowe znikają. PZD bije na alarm. Jest apel do rządzących",
+      "link": "https://businessinsider.com.pl/nieruchomosci/dzialkowcy-walcza-o-przyszlosc-ogrodkow-wystosowali-apel-do-rzadzacych/y4gn6ml",
+      "summary": "Polski Związek Działkowców (PZD) ostrzega, że rodzinne ogródki działkowe (ROD) w Polsce stopniowo znikają. Powodem tego mają być niekorzystne regulacje oraz brak narzędzi umożliwiających ich zakładanie czy odtwarzanie. W związku z tym PZD wystosował do Ministerstwa Rozwoju i Technologii apel o wprowadzenie zmian, które poprawią dostępność gruntów pod ogródki i ustabilizują sytuację prawną działkow",
+      "published": "Tue, 20 Jan 2026 18:36:25 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "AST SpaceMobile’s stock is on a roll. This key factor could make or break its momentum.",
+      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-on-a-roll-this-key-factor-could-make-or-break-its-momentum-4c675f15?mod=mw_rss_topstories",
+      "summary": "The company needs to launch dozens of satellites this year to compete with its biggest rival, Starlink.",
+      "published": "Tue, 20 Jan 2026 18:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Intel’s stock pops as it finds a growing chorus on Wall Street",
+      "link": "https://www.marketwatch.com/story/intels-stock-pops-as-it-finds-a-growing-chorus-on-wall-street-bf46a73a?mod=mw_rss_topstories",
+      "summary": "Intel’s manufacturing business looks competitive, “or at least viable,” for the first time in a decade, according to a new bull.",
+      "published": "Tue, 20 Jan 2026 18:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Szefowa WTO obawia się wybuchu wojny handlowej. \"Rozmawiajmy\"",
+      "link": "https://businessinsider.com.pl/polityka/nowe-cla-trumpa-na-europe-szefowa-wto-ostrzega-przed-eskalacja-wojny-handlowej/sbdmtg6",
+      "summary": "Dyrektor generalna Światowej Organizacji Handlu (WTO) Ngozi Okonjo-Iweala zaapelowała we wtorek o deeskalację napięć związanych z roszczeniami Stanów Zjednoczonych wobec Grenlandii. Jej zdaniem strony sporu powinny pilnie znaleźć rozwiązanie, które pozwoli uniknąć spirali retorsji handlowych i ryzyka globalnej wojny celnej.",
+      "published": "Tue, 20 Jan 2026 18:03:15 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Treasury market faces worst day in months after Trump threatens European allies with tariffs related to Greenland",
+      "link": "https://www.marketwatch.com/story/treasury-market-faces-worst-day-in-6-months-after-trump-threatens-european-allies-with-tariffs-related-to-greenland-2bbc1f93?mod=mw_rss_topstories",
+      "summary": "Long-dated U.S. government debt was getting slammed on Tuesday as nervous investors reacted to President Donald Trump’s plans to slap 10% tariffs on imports from eight European countries beginning next month.",
+      "published": "Tue, 20 Jan 2026 18:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "eu"
+    },
+    {
+      "title": "Social Security is making a change that could disrupt service for millions of Americans",
+      "link": "https://www.marketwatch.com/story/social-security-is-making-a-change-that-could-disrupt-service-for-millions-of-americans-4aebca6a?mod=mw_rss_topstories",
+      "summary": "A slimmed-down workforce will handle cases on a nationwide basis — what does that mean for its 75 million beneficiaries?",
+      "published": "Tue, 20 Jan 2026 18:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Cena złota jest już blisko szczytu? Analitycy State Street widzą realną szansę już w 2026 roku!",
+      "link": "https://comparic.pl/cena-zlota-jest-juz-blisko-szczytu-analitycy-state-street-widza-realna-szanse-juz-w-2026-roku/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"417\" src=\"https://comparic.pl/wp-content/uploads/2023/08/freepik-zloto-gold-xau-e1761131885939.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"623\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/08/freepik-zloto-gold-xau-e176113188593",
+      "published": "Tue, 20 Jan 2026 18:00:03 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "3M says how much Trump’s new tariff threat could cost this year, and the stock dives",
+      "link": "https://www.marketwatch.com/story/3ms-earnings-beat-cant-save-the-stock-from-the-broad-market-selloff-cbc543c2?mod=mw_rss_topstories",
+      "summary": "3M’s stock drops as President Trump’s new tariff threat raises uncertainties over the full-year outlook, at a time the consumer business continues to struggle.",
+      "published": "Tue, 20 Jan 2026 17:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Zamieszanie wokół SMS-a Trumpa. Macron dementuje: Nie będzie spotkania G7 w Paryżu",
+      "link": "https://www.bankier.pl/wiadomosc/Zamieszanie-wokol-SMS-a-Trumpa-Macron-dementuje-Nie-bedzie-spotkania-G7-w-Paryzu-9071333.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/1/d448e919beb05b-948-568-360-164-2542-1525.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Francji Emmanuel Macron powiedział we wtorek w kuluarach szczytu w Davos, że nie jest przewidziane spotkanie przywódców G7 w Paryżu. Propozycję, by takie spotkanie ",
+      "published": "Tue, 20 Jan 2026 17:36:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tariff fears are back — and they’re hitting Amazon, Walmart and other retail stocks",
+      "link": "https://www.marketwatch.com/story/tariff-fears-are-back-and-theyre-hitting-amazon-walmart-and-other-retail-stocks-6fd992e7?mod=mw_rss_topstories",
+      "summary": "Retail stocks slumped Tuesday as tariff fears returned following President Donald Trump’s latest threat against eight European countries.",
+      "published": "Tue, 20 Jan 2026 17:34:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Zaskakujący zwrot akcji na GPW. Warszawa oparła się czerwieni z Wall Street i Europy",
+      "link": "https://www.bankier.pl/wiadomosc/Zaskakujacy-zwrot-akcji-na-GPW-Inwestorzy-z-niepokojem-patrza-na-ruchy-Trumpa-9071330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/6/e24086fc83a391-948-568-56-112-3151-1891.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wtorkowy handel na GPW upłynął pod znakiem dominacji podaży w pierwszej połowie dnia. Z kolei w drugiej części sesji wiedzieliśmy zwrot na północ giełdowych indeksów. WIG20 sk",
+      "published": "Tue, 20 Jan 2026 17:34:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wynajmował rodzinie z dzieckiem \"budę\" w ogrodzie w Londynie. Nieuczciwy właściciel srogo ukarany",
+      "link": "https://businessinsider.com.pl/nieruchomosci/wynajal-rodzinie-klitke-w-ogrodzie-w-londynie-nieuczciwy-wlasciciel-stanowczo-ukarany/s96zt7q",
+      "summary": "Właściciel nieruchomości Wielkiej Brytanii przez dwa lata wynajmował młodej rodzinie budynek gospodarczy w ogrodzie. Był on całkowicie nieprzystosowany do zamieszkania. Mimo nakazu rozbiórki wydanego przez lokalne władze ignorował przepisy i dalej czerpał zyski z wynajmu. Sąd ukarał go grzywną i nakazał zwrot dochodów. Łączna kwota kary robi wrażenie.",
+      "published": "Tue, 20 Jan 2026 17:32:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Partyzantka przeciwko armii USA. Kanada analizuje scenariusz na wypadek amerykańskiej inwazji",
+      "link": "https://www.bankier.pl/wiadomosc/Partyzantka-przeciwko-armii-USA-Kanada-analizuje-scenariusz-na-wypadek-amerykanskiej-inwazji-9071323.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/e/1ba4c2623b7f20-948-568-0-60-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kanadyjska armia przygotowuje scenariusze na wypadek hipotetycznej amerykańskiej inwazji na Kanadę. Zawierają one m.in. taktykę działania podobną do stosowanej przez mudżahedinó",
+      "published": "Tue, 20 Jan 2026 17:29:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Putin, Orban i Nawrocki zaproszeni do Rady Pokoju. Rząd RP przypomina: To my decydujemy",
+      "link": "https://www.bankier.pl/wiadomosc/Putin-Orban-i-Nawrocki-zaproszeni-do-Rady-Pokoju-Rzad-RP-przypomina-To-my-decydujemy-9071320.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/3/9645fb2ea1acf8-948-568-20-240-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef prezydenckiego BPM Marcin Przydacz poinformował we wtorek, że prezydent Karol Nawrocki rozmawiał telefonicznie z premierem Donaldem Tuskiem ws. zaproszenia, jakie otrzyma",
+      "published": "Tue, 20 Jan 2026 17:21:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Karol Nawrocki rozmawiał w Davos z prezesem Banku Światowego. Oto co usłyszał",
+      "link": "https://businessinsider.com.pl/polityka/karol-nawrocki-rozmawial-z-prezesem-banku-swiatowego-uslyszal-o-wielkim-sukcesie/zmf7nz0",
+      "summary": "Prezydent Karol Nawrocki wykorzystał wtorek na Światowym Forum Ekonomicznym w Davos do rozmów z kluczowymi partnerami międzynarodowymi. Na marginesie 56. edycji WEF spotkał się z prezesem Banku Światowego Ajayem Bangą. Prezydent miał usłyszeć o \"wielkim sukcesie Polski\".",
+      "published": "Tue, 20 Jan 2026 17:19:07 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Drug pricing, patent losses and deals: Here's what pharma execs see ahead in the industry",
+      "link": "https://www.cnbc.com/2026/01/20/drug-pricing-patent-losses-deals-novo-nordisk-pfizer.html",
+      "summary": "Big pharma is grappling with new drug pricing deals and roughly $300 billion in potential lost revenue from patent expirations of blockbuster drugs.",
+      "published": "Tue, 20 Jan 2026 17:18:33 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘The house has quadrupled in value’: I bought a house with my brother, but he did not contribute. How do I fix this?",
+      "link": "https://www.marketwatch.com/story/the-house-has-quadrupled-in-value-i-bought-a-house-with-my-brother-he-never-contributed-how-do-i-remove-him-de28bd02?mod=mw_rss_topstories",
+      "summary": "“My brother lived with me for eight years, then left to live abroad, married and followed his dreams.”",
+      "published": "Tue, 20 Jan 2026 17:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Huawei i ZTE w katalogu produktów zakazanych. UE zaostrza kurs wobec chińskiej technologii",
+      "link": "https://www.bankier.pl/wiadomosc/Huawei-i-ZTE-w-katalogu-produktow-zakazanych-UE-zaostrza-kurs-wobec-chinskiej-technologii-9071314.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/8/d0909bf063cfeb-948-568-0-1257-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja Europejska zaproponowała we wtorek, by państwa członkowskie były zobowiązane do rezygnacji z dostawców sieci komórkowych z państw trzecich, które zostaną uznane za ryz",
+      "published": "Tue, 20 Jan 2026 17:12:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Szef SOP zawieszony. Ruszyło postępowanie dyscyplinarne",
+      "link": "https://businessinsider.com.pl/wiadomosci/szef-sop-zawieszony-karol-nawrocki-nie-zgodzil-sie-na-odwolanie/3f0s71b",
+      "summary": "Komendant Służby Ochrony Państwa, generał brygady Radosław Jaworski, został zawieszony po wykryciu nieprawidłowości. Resort poinformował o wszczęciu postępowania dyscyplinarnego i wyznaczył nowego szefa SOP. Prezydent Karol Nawrocki nie zgodził się na odwołanie szefa SOP.",
+      "published": "Tue, 20 Jan 2026 17:05:41 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "My mom, 90, has dementia. My brother wants her to buy a $500K property near his house. Does that make any sense?",
+      "link": "https://www.marketwatch.com/story/tell-me-im-not-crazy-my-mom-90-has-dementia-my-sibling-wants-her-to-buy-a-500k-house-nearby-does-that-make-any-sense-14b78953?mod=mw_rss_topstories",
+      "summary": "“I can’t, for the life of me, see how this makes sense on any level — personal or financial.”",
+      "published": "Tue, 20 Jan 2026 17:05:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Wiek emerytalny 67 lat i cięcia w 800+. Ekonomiści przedstawiają \"Budżetowy SOS\"",
+      "link": "https://www.bankier.pl/wiadomosc/Wiek-emerytalny-67-lat-i-ciecia-w-800-Ekonomisci-przedstawiaja-Budzetowy-SOS-9071304.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/5/e368e5efb7df67-948-568-1260-520-1833-1100.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Deficyt publiczny osiąga rekordowe poziomy, państwo musi przeprowadzić konsolidację fiskalną - uważają ekonomiści Forum Obywatelskiego Rozwoju i Warsaw Enterprise Institute.",
+      "published": "Tue, 20 Jan 2026 17:02:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Netflix reports earnings after the bell. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/01/20/netflix-nflx-earnings-q4-2025.html",
+      "summary": "Netflix this week amended its offer for Warner Bros. Discovery assets amid a Paramount Skydance hostile takeover attempt.",
+      "published": "Tue, 20 Jan 2026 17:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Szwecja przygotowuje firmy na wypadek wojny. Przedsiębiorcy dostali poradnik",
+      "link": "https://businessinsider.com.pl/polityka/szwecja-przygotowuje-firmy-na-wojne-przedsiebiorcy-dostaja-specjalny-poradnik/99n3syb",
+      "summary": "Władze Szwecji rozpoczęły we wtorek dystrybucję poradnika skierowanego do przedsiębiorstw, który ma pomóc im przygotować się na wojnę lub poważny kryzys. Publikacja powstała na podstawie doświadczeń Ukrainy oraz wnioski wyciągnięte z pandemii COVID-19 i jest kolejnym elementem budowania odporności państwa na sytuacje nadzwyczajne.",
+      "published": "Tue, 20 Jan 2026 16:52:13 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Groźby Trumpa zablokowały umowę handlową USA-UE. Bruksela \"nie da się zastraszyć\"",
+      "link": "https://www.bankier.pl/wiadomosc/Parlament-Europejski-wstrzymuje-ratyfikacje-umowy-handlowej-UE-USA-Poszlo-o-Grenlandie-9071293.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/b/623b8f26f4b2ee-948-567-0-32-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Parlament Europejski wstrzymuje ratyfikację umowy handlowej zawartej w ubiegłym roku między Unią Europejską a USA. Jak przekazało PAP źródło w UE, głosowanie nad porozumienien w ",
+      "published": "Tue, 20 Jan 2026 16:51:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "NATO ogranicza dzielenie się wywiadem z USA. \"Wbili nam nóż w plecy\"",
+      "link": "https://www.bankier.pl/wiadomosc/NATO-ogranicza-dzielenie-sie-wywiadem-z-USA-Wbili-nam-noz-w-plecy-9071292.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/e/aac61b319ecb09-948-568-0-0-3840-2303.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Urzędnicy NATO ograniczają przekazywanie informacji wywiadowczych USA z powodu zapowiedzi prezydenta Stanów Zjednoczonych Donalda Trumpa, dotyczących przejęcia Grenlandii - poinf",
+      "published": "Tue, 20 Jan 2026 16:50:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rząd wygasza specustawę ukraińską. Zmiany w pobycie i świadczeniach od 2026 r.",
+      "link": "https://www.bankier.pl/wiadomosc/Rzad-wygasza-specustawe-ukrainska-Zmiany-w-pobycie-i-swiadczeniach-od-2026-r-9071287.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/1/06e388373e486b-948-567-0-40-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />We wtorek Rada Ministrów przyjęła projekt wygaszający rozwiązania wynikające z ustawy o pomocy obywatelom Ukrainy. Zgodnie z nim najważniejsze narzędzia z tej ustawy nie znikną, ",
+      "published": "Tue, 20 Jan 2026 16:44:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Zostanie liderką partii i wicepremierką\". Polska 2050 powtarza głosowanie",
+      "link": "https://businessinsider.com.pl/wiadomosci/koniec-kryzysu-w-polsce2050-hennig-kloska-zostanie-wicepremierka/h8t7163",
+      "summary": "Polska 2050 powtarza drugą turę wewnętrznych wyborów na przewodniczącego partii. Wszystko wskazuje na to, że nową liderką ugrupowania zostanie Paulina Hennig-Kloska, która — według doniesień \"Rzeczpospolitej\" — ma również objąć stanowisko wicepremierki.",
+      "published": "Tue, 20 Jan 2026 16:42:34 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Zawał na rynku kryptowalut. Bitcoin i ether poniżej ważnych poziomów",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/bitcoin-i-ether-ponizej-waznych-poziomow-zawal-na-rynku/qzl9vpd",
+      "summary": "Wybicie powyżej wielomiesięcznych widełek się nie udało. Spekulacyjny rynek kryptowalut stał się mniej spekulacyjny, bo od połowy listopada właściwie krąży w tę i z powrotem. We wtorek jest właśnie to \"z powrotem\". Kryptowaluty wyraźnie spadają, a najmocniej ethereum.",
+      "published": "Tue, 20 Jan 2026 16:19:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "crypto"
+    },
+    {
+      "title": "Ponad 36 000 000 ETH zablokowanych, 30% całkowitej podaży Ethereum zostało stakingowane",
+      "link": "https://comparic.pl/ponad-36-000-000-eth-zablokowanych-30-calkowitej-podazy-ethereum-zostalo-stakingowane/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Over-36000000-ETH-Locked-Up-as-30-of-Ethereum-Total-Supply-Staked.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Over-36",
+      "published": "Tue, 20 Jan 2026 16:19:29 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "ONZ wynosi się z Nowego Jorku. Setki miejsc pracy otwarte w Bonn i Madrycie",
+      "link": "https://www.bankier.pl/wiadomosc/ONZ-wynosi-sie-z-Nowego-Jorku-Setki-miejsc-pracy-otwarte-w-Bonn-i-Madrycie-9071265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/f/b42fb60e6c3338-948-568-0-261-1744-1046.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Program Narodów Zjednoczonych ds. Rozwoju (UNDP) redukuje liczbę pracowników w Nowym Jorku i przenosi z tego amerykańskiego miasta około 300 stanowisk do Bonn w Niemczech. Kole",
+      "published": "Tue, 20 Jan 2026 16:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bessent do Europy: Weźcie głęboki oddech. Wojna celna to najgorszy scenariusz",
+      "link": "https://www.bankier.pl/wiadomosc/Bessent-do-Europy-Wezcie-gleboki-oddech-Wojna-celna-to-najgorszy-scenariusz-9071253.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/6/e69f2a96a2fdb2-948-568-0-247-2925-1754.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sekretarz stanu USA Scott Bessent poradził państwom europejskim we wtorek, by „wzięły głęboki oddech” i nie odpowiadały odwetem na zapowiedź nałożenia nowych ceł przez USA. Min",
+      "published": "Tue, 20 Jan 2026 16:06:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Groźby Donalda Trumpa. Inwestorzy reagują nerwowo",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/donald-trump-oslabil-dolara-davos-nie-pomaga-na-gieldach-czerwono/795xy69",
+      "summary": "Groźby Donalda Trumpa dotyczące przejęcia Grenlandii oraz nałożenia dodatkowych ceł na sojuszników Danii wystraszyły inwestorów. Na giełdach po obu stronach oceanu zrobiło się czerwono. Widmo wojny handlowej odbija się na dolarze, ale niektóre aktywa zyskują i osiągają rekordowe ceny.",
+      "published": "Tue, 20 Jan 2026 16:03:58 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Parlament Europejski wstrzymuje ratyfikację umowy z USA",
+      "link": "https://businessinsider.com.pl/polityka/parlament-europejski-wstrzymuje-zawarcie-umowy-z-usa/4mlc4lx",
+      "summary": "Parlament Europejski wstrzymał proces ratyfikacji umowy handlowej zawartej w ubiegłym roku między Unią Europejską a Stanami Zjednoczonymi. Źródło Polskiej Agencji Prasowej w Brukseli podało, że głosowanie nad porozumieniem w komisji handlu międzynarodowego PE, planowane pierwotnie na koniec stycznia, nie dojdzie do skutku. W sprawie tej miała zapanować zgodność między najważniejszymi frakcjami.",
+      "published": "Tue, 20 Jan 2026 16:02:52 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Widmo obniżki ratingu Polski. Eksperci ostrzegają: Wzrost PKB to nie wszystko",
+      "link": "https://www.bankier.pl/wiadomosc/Widmo-obnizki-ratingu-Polski-Eksperci-ostrzegaja-Wzrost-PKB-to-nie-wszystko-9071247.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/b/6805c34b33edd8-948-568-0-68-2500-1499.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />PKB wzrośnie w tym roku o 3,8 proc. rdr względem wzrostu na poziomie 3,6 proc. w 2025 r. - szacuje firma Coface. Wskazuje jednak, że nad koniunkturą wzrostową wciąż ciążą istotn",
+      "published": "Tue, 20 Jan 2026 16:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Michael Saylor znowu to zrobił. Strategy ma już ponad 700 tys. Bitcoinów",
+      "link": "https://comparic.pl/michael-saylor-znowu-to-zrobil-strategy-ma-juz-ponad-700-tys-bitcoinow/",
+      "summary": "<img alt=\"AI, Michael Saylor, MicroStrategy, Bitcoin, BTC\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-Michael-Saylor-MicroStrategy-Bitcoin-BTC.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"AI, Michael Saylor, MicroStrategy, Bitcoin, BTC\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image",
+      "published": "Tue, 20 Jan 2026 15:56:06 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Pekao stawia długi Polimerów Police w stan wymagalności. Grupa Azoty reaguje",
+      "link": "https://www.bankier.pl/wiadomosc/Postawienie-w-stan-wymagalnosci-kredytow-nie-wplywa-na-restrukturyzacje-GA-Polyolefins-prezes-9071243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/4/d0339faf54a0df-948-568-404-196-1471-882.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Postawienie przez banki w stan wymagalności wszystkich zobowiązań wynikających z umowy kredytowej i żądanie od GA Polyolefins ich wcześniejszej spłaty nie ma wpływu na plan re",
+      "published": "Tue, 20 Jan 2026 15:56:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Znany producent aut wesprze Ukrainę. Ruszy z produkcją dronów",
+      "link": "https://businessinsider.com.pl/wiadomosci/drony-renault-dla-ukrainy-znana-marka-aut-ruszy-z-nowa-produkcja/5lcx6c7",
+      "summary": "Renault zawarł porozumienie z francuską firmą zbrojeniową w sprawie produkcji dronów dla Ukrainy — informuje \"The Financial Times\". Mają wspólnie produkować dla Ukrainy drony o podobnych właściwościach jak irańskie Shahedy. Renault zajmuje się produkcją broni od I wojny światowej.",
+      "published": "Tue, 20 Jan 2026 15:47:28 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Człowiek Trumpa apeluje do Europy w sprawie ceł. \"Weźcie głęboki oddech\"",
@@ -66,44 +394,12 @@
       "category": "other"
     },
     {
-      "title": "Natural-gas prices soar as temperatures drop. It could be the toughest test for the markets in a decade.",
-      "link": "https://www.marketwatch.com/story/natural-gas-futures-are-jumping-20-it-will-be-toughest-test-in-a-decade-one-analyst-says-48d023bf?mod=mw_rss_topstories",
-      "summary": "Natural-gas futures skyrocketed on Tuesday in anticipation of a bitter cold stretch in the Northeastern part in the U.S.",
-      "published": "Tue, 20 Jan 2026 15:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The ‘Sell America’ trade is making a comeback on Tuesday. Here’s what investors need to know.",
-      "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories",
-      "summary": "Talk of the “Sell America” trade is making a big comeback on Tuesday as President Donald Trump’s latest tariff threats against European allies raised the possibility of a rerun of last April’s violent market spasms.",
-      "published": "Tue, 20 Jan 2026 15:02:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Które kraje skorzystają na AI? Szef giganta: zdecyduje jeden czynnik",
       "link": "https://businessinsider.com.pl/technologie/wyscig-ai-tematem-rozmow-w-davos-o-wygranej-zdecyduje-ten-czynnik/l9krgnm",
       "summary": "Wyścig AI nabiera tempa. Kto na nim skorzysta? Koszty energii zadecydują, które kraje wygrają wyścig sztucznej inteligencji — ocenił Satya Nadella podczas Światowego Forum Ekonomicznego w Davos. Szef Microsoftu dał też radę Europejczykom.",
       "published": "Tue, 20 Jan 2026 15:00:51 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "I started working as a dishwasher at age 13. Social Security refuses to acknowledge this. Am I being cheated?",
-      "link": "https://www.marketwatch.com/story/i-started-working-as-a-dishwasher-at-13-social-security-refuses-to-acknowledge-this-am-i-being-cheated-164d6435?mod=mw_rss_topstories",
-      "summary": "“I am 69, and started collecting Social Security when I was 66½.”",
-      "published": "Tue, 20 Jan 2026 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Alarm w Czarnobylu. Rosyjski atak odciął elektrowni zasilanie",
-      "link": "https://www.bankier.pl/wiadomosc/Alarm-w-Czarnobylu-Rosyjski-atak-odcial-elektrowni-zasilanie-9071194.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/9/a0b7dd5da2c9aa-948-568-30-290-3966-2380.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na skutek rosyjskich ataków rakietowych i dronowych Czarnobylska Elektrownia Atomowa została całkowicie odcięta od zewnętrznych źródeł zasilania – poinformowała we wtorek Międ",
-      "published": "Tue, 20 Jan 2026 14:56:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Macron o działaniach USA: celem jest chęć osłabienia Europy",
@@ -170,22 +466,6 @@
       "category": "other"
     },
     {
-      "title": "How Greenland could turn into a Big Tech problem, according to Morgan Stanley’s Mike Wilson",
-      "link": "https://www.marketwatch.com/story/how-greenland-could-turn-into-a-big-tech-problem-according-to-morgan-stanleys-mike-wilson-eabee481?mod=mw_rss_topstories",
-      "summary": "Strategists like Morgan Stanley’s chief U.S. equity strategist say fallout from a brewing U.S.-Europe spat over Greenland could be bad for tech.",
-      "published": "Tue, 20 Jan 2026 14:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Od 42 do 210 zł za to samo ładowanie samochodu. Gigantyczny rozstrzał cen",
-      "link": "https://www.bankier.pl/wiadomosc/Od-42-do-210-zl-za-to-samo-ladowanie-samochodu-Gigantyczny-rozstrzal-cen-9071178.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/6/5abc402535dde4-948-568-0-753-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Mimo stabilizacji cen u większości operatorów, różnica między najtańszymi a najdroższymi stacjami ładowania aut elektrycznych jest na rekordowym poziomie - wynika z opublikowan",
-      "published": "Tue, 20 Jan 2026 14:38:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Niemiecka gospodarka ignoruje groźby Donalda Trumpa. Najlepsze wskazania od czterech lat",
       "link": "https://businessinsider.com.pl/gospodarka/niemieckie-firmy-ignoruja-grozby-donalda-trumpa-gwaltowny-wzrost/sfp28tv",
       "summary": "Niemcy wysłali na Grenlandię 15 żołnierzy w reakcji na plany Donalda Trumpa przejęcia tej największej wyspy świata od Danii, by po 44 godzinach ich zawrócić. Prezydent USA włączył jednak naszego zachodniego sąsiada na listę krajów, którym grozi dodatkowymi 10-procentowymi cłami i to już od lutego. Firmy eksportowe w Niemczech po długim, negatywnym okresie wydaje się, że zaczynają się uodparniać na",
@@ -210,60 +490,12 @@
       "category": "other"
     },
     {
-      "title": "Ciemne chmury nad niemieckim rynkiem pracy. Polscy pracownicy mają powody do obaw",
-      "link": "https://businessinsider.com.pl/finanse/niemiecki-rynek-pracy-przed-kryzysem-polscy-pracownicy-zagrozeni/lnnc1e6",
-      "summary": "Niemiecki rynek pracy wchodzi w najtrudniejszą fazę od wielu lat. Jak wynika z raportu Instytutu Gospodarki Niemieckiej (Institut Der Dutschen Wirtshaft) coraz więcej przedsiębiorstw zapowiada redukcje zatrudnienia, a najbardziej niepokojące sygnały płyną ze wschodnich landów, położonych tuż przy polskiej granicy. To właśnie tam pracują dziesiątki tysięcy Polaków dojeżdżających codziennie m.in. do",
-      "published": "Tue, 20 Jan 2026 14:16:27 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "My wealthy friend invited me to stay, but he doesn’t need more ‘stuff.’ What do I get the man who has everything?",
-      "link": "https://www.marketwatch.com/story/my-wealthy-friend-invited-me-to-stay-but-he-doesnt-need-more-stuff-what-do-i-get-the-man-who-has-everything-077914b7?mod=mw_rss_topstories",
-      "summary": "“He has a beautiful home, and enough antiques and collectibles stored up over a lifetime.”",
-      "published": "Tue, 20 Jan 2026 14:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Chińska superambasada w Londynie. Spór rozstrzygnięty, szpiedzy się rozsiądą?",
-      "link": "https://www.bankier.pl/wiadomosc/Chinska-superambasada-w-Lodnynie-Spor-rozstrzygniety-szpiedzy-sie-rozsiada-9071140.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/3/a4c896433b7e65-948-568-0-71-1024-614.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd Wielkiej Brytanii wydał we wtorek zgodę na budowę nowej, budzącej znaczne kontrowersje ambasady Chin w Londynie. Placówka ma być największa w Europie, a ze względu na lokali",
-      "published": "Tue, 20 Jan 2026 13:57:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Spokojnie, to tylko \"bóle wzrostowe\". Pekin: Nasz cel to potęga konsumpcyjna",
       "link": "https://www.bankier.pl/wiadomosc/Spokojnie-to-tylko-bole-wzrostowe-Pekin-Nasz-cel-to-potega-konsumpcyjna-9071130.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/e/98ada168acf958-948-568-0-0-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier Chin He Lifeng zapowiedział we wtorek na Światowym Forum Ekonomicznym w Davos transformację gospodarczą kraju z „fabryki świata” do „światowego rynku”, stawiając na s",
       "published": "Tue, 20 Jan 2026 13:45:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Netflix neutralizuje argumenty Paramount. Płatność za Warner Bros. Discovery w 100 proc. gotówką",
-      "link": "https://www.bankier.pl/wiadomosc/Netflix-neutralizuje-argumenty-Paramount-Platnosc-za-Warner-Bros-Discovery-w-100-proc-gotowka-9071127.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/8/ccc801ab3259a4-948-568-0-138-1024-614.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Netflix złożył zmienioną, gotówkową umowę kupna studia i serwisu streamingowego Warner Bros. Discovery Inc., walcząc z Paramount Skydance Corp. o przejęcie jednej z najbardziej ",
-      "published": "Tue, 20 Jan 2026 13:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Europejsko-ukraińska armia zamiast NATO? Zełenski przedstawia swoją wizję",
-      "link": "https://www.bankier.pl/wiadomosc/Europejsko-ukrainska-armia-zamiast-NATO-Zelenski-przedstawia-swoja-wizje-9071124.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/8/61f3211f2517ad-948-568-2-5-1039-623.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski oświadczył we wtorek, że Ukraina i Europa powinny stworzyć wspólne siły zbrojne liczące do trzech milionów żołnierzy. Ukraiński przywódca powi",
-      "published": "Tue, 20 Jan 2026 13:39:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Miliardy euro dla Ukrainy. Parlament Europejski przyspiesza decyzję",
-      "link": "https://businessinsider.com.pl/gospodarka/parlament-europejski-rusza-z-pilna-pozyczka-dla-ukrainy-90-mld-euro-na-stole/hqk4sv0",
-      "summary": "We wtorek Parlament Europejski podjął decyzję o zastosowaniu trybu pilnego w sprawie zatwierdzenia 90 mld euro pożyczki dla Ukrainy. Wniosek o przyspieszenie procedur złożyły trzy główne grupy polityczne: Europejska Partia Ludowa, Socjaliści i Demokraci oraz Odnowić Europę. Decyzja ta ma umożliwić szybsze przeprowadzenie procesu legislacyjnego, w tym skrócenie lub pominięcie prac w komisjach oraz ",
-      "published": "Tue, 20 Jan 2026 13:38:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ambitny plan NBP. Glapiński dokupuje złoto i zapowiada pokaźne zapasy",
@@ -274,36 +506,12 @@
       "category": "pl"
     },
     {
-      "title": "Nowe zasady coraz bliżej. Rząd zdecydował w sprawie miliona obywateli Ukrainy",
-      "link": "https://businessinsider.com.pl/prawo/praca/nowe-zasady-zatrudniania-obywateli-ukrainy-rzad-wprowadza-wazne-zmiany/02447yw",
-      "summary": "We wtorek Rada Ministrów przyjęła projekt ustawy, który diametralnie zmieni zasady przebywania i zatrudniania w Polsce obywateli Ukrainy. Z jednej strony chodzi o blisko milion osób, z drugiej o tysiące firm, w których pracują. Projekt ustawy wygaszającej część rozwiązań pomocowych wprowadzonych po wybuchu wojny w Ukrainie jest procedowany ekspresowo. Pierwsze czytanie w Sejmie zaplanowano już w p",
-      "published": "Tue, 20 Jan 2026 13:32:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Co po euforii na JSW – panika czy dalsze wzrosty? Orlen blokowany! CD Projekt brutalnie zatrzymany! Żabka krwawi coraz mocniej! -co jest grane na GPW?",
       "link": "https://comparic.pl/co-po-euforii-na-jsw-panika-czy-dalsze-wzrosty-orlen-blokowany-cd-projekt-brutalnie-zatrzymany-zabka-krwawi-coraz-mocniej-co-jest-grane-na-gpw/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-wzrost-money-hossa-growth.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-wzrost-money-hossa-growth-324x",
       "published": "Tue, 20 Jan 2026 13:30:48 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Chiny nie chcą być już tylko \"fabryką świata\". Władze zapowiadają wielką transformację",
-      "link": "https://businessinsider.com.pl/finanse/wicepremier-chin-przemowil-na-forum-w-davos-padla-zapowiedz-wielkiej-transformacji/ppbg7e6",
-      "summary": "Chiny zamierzają przejść głęboką transformację gospodarczą — z roli globalnego zaplecza produkcyjnego do jednego z największych rynków konsumpcyjnych świata. Taką wizję przedstawił we wtorek wicepremier He Lifeng podczas Światowego Forum Ekonomicznego w Davos. Jak podkreślił, kluczowym priorytetem Pekinu stało się dziś pobudzanie popytu wewnętrznego oraz wzmacnianie konsumpcji, co ma w dłuższej pe",
-      "published": "Tue, 20 Jan 2026 13:29:51 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Media: To tam chce uderzyć UE. Odpowiedź na groźby Donalda Trumpa",
-      "link": "https://businessinsider.com.pl/finanse/handel/europa-odpowie-na-cla-trumpa-unia-rozwaza-uderzenie-w-apple-i-amazon/k0ky2rs",
-      "summary": "Donald Trump groził cłami tym pańśtwom, które sprzeciwiają się przejęciu Grenlandii przez USA. Europa stara się trzymać jeden front i jak donoszą media, chce odpowiedzieć w czuły punkt Amerykanów — gigantów technologicznych.",
-      "published": "Tue, 20 Jan 2026 13:26:16 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "WIG20 po 4000 pkt? Albert Rokicki ujawnia perełki GPW na 2026 rok",
@@ -314,51 +522,11 @@
       "category": "pl"
     },
     {
-      "title": "Netflix bolsters its bid for Warner Bros. by making it all cash",
-      "link": "https://www.marketwatch.com/story/netflix-bolsters-its-bid-for-warner-bros-by-making-it-all-cash-f56e172b?mod=mw_rss_topstories",
-      "summary": "The change addresses one of Paramount’s arguments of why its buyout bid was better than that of Netflix — it didn’t include stock.",
-      "published": "Tue, 20 Jan 2026 13:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Czy Rosja i Europa mogą się dogadać? Oto stanowisko Kremla",
-      "link": "https://businessinsider.com.pl/wiadomosci/forum-w-davos-i-tajne-rozmowy-o-ukrainie-rosja-stawia-warunki/smq792t",
-      "summary": "Moskwa przekonuje, że jest gotowa do rozmów z Europą, ale jednocześnie wątpi, czy obecne elity zachodnie są partnerami do jakiegokolwiek porozumienia. W tle trwają spotkania na szczycie w Davos, w których biorą udział wysłannicy Kremla i przedstawiciele USA.",
-      "published": "Tue, 20 Jan 2026 13:09:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Nacjonalizacja na GPW – szok, panika i wielkie spadki! Czy państwo przejmie znaną spółkę słynącą z wysokich dywidend!",
       "link": "https://comparic.pl/nacjonalizacja-na-gpw-szok-panika-i-wielkie-spadki-czy-panstwo-przejmie-znana-spolke-slynaca-z-wysokich-dywidend/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-krach-crisis-kryzys-panika-bessa.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-krach-cri",
       "published": "Tue, 20 Jan 2026 13:06:14 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump straszy cłami \"za Grenlandię\". Czy Bruksela wyceluje w Apple, Google'a i Metę?",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-straszy-clami-za-Grenlandie-Czy-Bruksela-wyceluje-w-Apple-Google-a-i-Mete-9071089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/f/dec60339aaeef6-945-567-0-10-945-567.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W sporze z prezydentem USA Donaldem Trumpem Unia Europejska ma asa w rękawie: mogłaby poważnie uderzyć w amerykańskie koncerny technologiczne wyższymi podatkami, ograniczeniem inw",
-      "published": "Tue, 20 Jan 2026 13:06:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Gdzie jest zegarek Omega? Oto, co kryje majątek Andrzeja Szejny",
-      "link": "https://businessinsider.com.pl/wiadomosci/andrzej-szejna-i-jego-oswiadczenie-majatkowe-dom-gotowka-majatek-wiceministra-msz/pfz87s0",
-      "summary": "Zegarek Omega, który w ostatnich dniach wywołał polityczną burzę, sprawił, że nazwisko Andrzeja Szejny znów znalazło się w centrum uwagi. Kontrowersje wokół luksusowego dodatku każą na nowo przyjrzeć się temu, co wiceminister MSZ ujawnił wcześniej w swoim oświadczeniu majątkowym — i temu, czego w nim zabrakło.",
-      "published": "Tue, 20 Jan 2026 13:05:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Przewodnicząca KE: Umowa to umowa. Groźby Trumpa są błędem. UE zapowiada nieugiętą reakcję",
-      "link": "https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Umowa-to-umowa-Grozby-Trumpa-sa-bledem-UE-zapowiada-nieugieta-reakcje-9071072.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/3/b967b28a49f6d0-948-568-310-210-3690-2213.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Groźby ekonomiczne prezydenta USA D. Trumpa wobec Unii Europejskiej w związku z Grenlandią są błędem, który narusza porozumienie handlowe zawarte w zeszłym roku między sojusz",
-      "published": "Tue, 20 Jan 2026 13:05:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -378,92 +546,12 @@
       "category": "pl"
     },
     {
-      "title": "Amerykańsko-europejski spór o Grenlandię. Moskwa komentuje",
-      "link": "https://businessinsider.com.pl/wiadomosci/siergiej-lawrow-o-grenlandii-rosja-nie-planuje-przejecia-wyspy/p8tw7me",
-      "summary": "Minister spraw zagranicznych Federacji Rosyjskiej Siergiej Ławrow zabrał głos w sprawie Grenlandii. Stwierdził, że \"Rosja nie planuje przejęcia wyspy\", z czego \"administracja Donalda Trumpa zdaje sobie sprawę\". Ławrow odniósł się także do kwestii bezpieczeństwa w Arktyce, podkreślając brak dowodów na rosyjskie lub chińskie zagrożenie dla tego regionu.",
-      "published": "Tue, 20 Jan 2026 12:51:58 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Hype na tokeny memowe słabnie — oto dlaczego ten nowy token użytkowy może nabrać rozpędu",
       "link": "https://comparic.pl/hype-na-tokeny-memowe-slabnie-oto-dlaczego-ten-nowy-token-uzytkowy-moze-nabrac-rozpedu/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Meme-Coin-Hype-Fades-—-Heres-Why-This-New-Utility-Token-Could-Gain-Momentum.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/",
       "published": "Tue, 20 Jan 2026 12:44:18 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Tajwan szykuje się na Chiny. Setki tysięcy dronów i HIMARSy",
-      "link": "https://businessinsider.com.pl/wiadomosci/modernizacja-wojska-na-tajwanie-rzad-stawia-na-drony-i-technologie-ai/jthgcdq",
-      "summary": "Tajwan przygotowuje największą od lat modernizację wojska, sięgając po technologie, które mają zmienić charakter obrony wyspy. Władze ostrzegają, że sytuacja w regionie szybko się zaostrza, a Pekin coraz śmielej demonstruje siłę.",
-      "published": "Tue, 20 Jan 2026 12:42:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Prezes NBP podjął kluczową decyzję. Dotyczy polskich rezerw złota",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/polskie-rezerwy-zlota-prezes-nbp-podjal-wazna-decyzje/fcjp131",
-      "summary": "Niedawno prof. Adam Glapiński mówił, że Polska zgromadziła 550 ton złota. Przy drożejącym kruszcu Polsce udało się dojść do 28 proc. zawartości złota w aktywach rezerwowych, co umacnia naszą walutę. Okazuje się, że to wcale nie koniec.",
-      "published": "Tue, 20 Jan 2026 12:42:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Analityk wyjaśnia, dlaczego prognoza ceny XRP wskazuje na wzrost do 8,70 USD",
-      "link": "https://comparic.pl/analityk-wyjasnia-dlaczego-prognoza-ceny-xrp-wskazuje-na-wzrost-do-870-usd/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Analyst-Breaks-Down-Why-XRP-Price-Prediction-Eyes-Rally-to-8.70.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/Analyst-B",
-      "published": "Tue, 20 Jan 2026 12:38:45 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Elektrownia jądrowa w Czarnobylu utraciła zasilanie przez ataki Rosji. MAEA alarmuje",
-      "link": "https://businessinsider.com.pl/gospodarka/elektrownia-jadrowa-w-czarnobylu-utracila-zasilanie-komunikat-maea/fnk4v34",
-      "summary": "Czarnobylska Elektrownia Jądrowa we wtorkowy poranek utraciła zasilanie w wyniku szeroko zakrojonych działań wojennych — przekazuje dyrektor generalny Międzynarodowej Agencji Energii Atomowej (MAEA) Rafael Grossi. Ponadto uszkodzeniu uległy linie energetyczne prowadzące do innych elektrowni w Ukrainie.",
-      "published": "Tue, 20 Jan 2026 12:35:43 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "BETA ETF Dywidenda Plus: Dochody za I kwartał 2026 pozostaną w funduszu i zostaną wypłacone później",
-      "link": "https://comparic.pl/beta-etf-dywidenda-plus-dochody-za-i-kwartal-2026-pozostana-w-funduszu-i-zostana-wyplacone-pozniej/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-4.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-",
-      "published": "Tue, 20 Jan 2026 12:33:16 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Elon Musk and Ryanair’s CEO call each other ‘idiots.’ The numbers say something else.",
-      "link": "https://www.marketwatch.com/story/elon-musk-and-ryanairs-ceo-call-each-other-idiots-the-numbers-say-something-else-338bad3c?mod=mw_rss_topstories",
-      "summary": "Elon Musk and Michael O’Leary are calling each other idiots — but shareholders of both companies would reject that charge.",
-      "published": "Tue, 20 Jan 2026 12:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Wall Street wraca do gry! Co zrobi rynek po krwawym poniedziałku w Europie?",
-      "link": "https://comparic.pl/wall-street-wraca-do-gry-co-zrobi-rynek-po-krwawym-poniedzialku-w-europie/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"736\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-down-kryzys-panika-bessa-crisis-panic-down-red-stock-market.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/",
-      "published": "Tue, 20 Jan 2026 12:26:44 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Sygnały ostrzegawcze na wykresach Bitcoina. Kurs BTC traci impet",
-      "link": "https://comparic.pl/sygnaly-ostrzegawcze-na-wykresach-bitcoina-kurs-btc-traci-impet/",
-      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-bitcoin-btc.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-bitcoin-btc-324x235.jpg\" style=",
-      "published": "Tue, 20 Jan 2026 12:25:57 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wielka sprzedaż właściciela TVN. O krok od przejęcia",
-      "link": "https://businessinsider.com.pl/media/warner-zgodzil-sie-na-decyzje-netflixa-o-krok-od-wielkiego-przejecia/wxnc53x",
-      "summary": "O krok od gigantycznego przejęcia na rynku mediów. Właściciel TVN, Warner Bros Discovery poinformowało, że zarząd firmy jednogłośnie nową ofertę Netflixa. Miała ona przekonać wahających się akcjonariuszy firmy. Jak widać, udało się. Oznacza to też, że popularn w Polsce TVN trafi do nowej spółki.",
-      "published": "Tue, 20 Jan 2026 12:24:16 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Znany producent aut angażuje się w produkcję dronów we Francji",
@@ -482,43 +570,11 @@
       "category": "pl"
     },
     {
-      "title": "Prezydent zablokował odwołanie szefa SOP. MSWiA zawiesza generała",
-      "link": "https://www.bankier.pl/wiadomosc/Dyscyplinarka-w-SOP-Komendant-zawieszony-po-kontroli-MSWiA-9071038.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/9/41b520e261a2aa-948-568-292-0-1352-811.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki nie zgodził się na odwołanie szefa SOP gen. bryg. Radosława Jaworskiego; zawieszenie szefa SOP nie wymaga zgody prezydenta, w tej sytuacji pełną odpowie",
-      "published": "Tue, 20 Jan 2026 12:01:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 20.1.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-20-1-2026-7245441969105088a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 20.1.2026. We wtorek za jednego dolara (USD) trzeba zapłacić 3.60450 zł.",
       "published": "Tue, 20 Jan 2026 12:00:07 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.1.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-1-2026-7245441461397728a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 20.1.2026. We wtorek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.85994 zł.",
-      "published": "Tue, 20 Jan 2026 11:58:23 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 20.1.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-20-1-2026-7245441017960672a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 20.1.2026. We wtorek za jednego franka (CHF) trzeba zapłacić 4.56534 zł.",
-      "published": "Tue, 20 Jan 2026 11:56:17 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Leyen: UE stawia na sprawiedliwy handel zamiast ceł i izolacji",
-      "link": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/3/ec9e1b1fa69bb2-948-568-60-70-3940-2363.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Umowa handlowa z Mercosurem wysyła jasny sygnał, że UE stawia na sprawiedliwy handel zamiast ceł i na partnerstwo zamiast izolacji - powiedziała we wtorek przewodnicząca Komisj",
-      "published": "Tue, 20 Jan 2026 11:24:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -530,35 +586,11 @@
       "category": "pl"
     },
     {
-      "title": "Strategiczna baza USA trafi w ręce Mauritiusu. Trump o decyzji brytyjczyków: Akt ogromnej głupoty",
-      "link": "https://www.bankier.pl/wiadomosc/Strategiczna-baza-USA-trafi-w-rece-Mauritiusu-Trump-o-decyzji-brytyjczykow-Akt-ogromnej-glupoty-9070989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/d/e937ccf436fa08-948-568-103-0-3396-2038.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump nazwał we wtorek umowę Wielkiej Brytanii z Mauritiusem, dotyczącą przekazania Wysp Czagos, „aktem ogromnej głupoty” - poinformowała we wtorek agencja",
-      "published": "Tue, 20 Jan 2026 10:33:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Czeski gigant zbrojeniowy uderza na giełdę. Rusza IPO warte nawet 3,8 mld euro",
-      "link": "https://www.bankier.pl/wiadomosc/Czeski-gigant-zbrojeniowy-uderza-na-gielde-Rusza-IPO-warte-nawet-3-8-mld-euro-9070971.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/4/f6932cc8866230-948-568-0-403-1536-921.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czechoslovak Group (CSG) ogłosiła rozpoczęcie pierwotnej oferty publicznej (IPO) akcji o wartości do 3,8 mld euro. Spółka podała w prospekcie emisyjnym, że oferta - jako private",
-      "published": "Tue, 20 Jan 2026 09:54:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Orlen odkrył nowe złoże gazu na Morzu Północnym",
       "link": "https://www.money.pl/gospodarka/orlen-odkryl-nowe-zloze-gazu-na-morzu-polnocnym-7245403254368448a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2a6e617b-e2fa-475c-bb93-d63f3839fe69\" width=\"308\" /> Orlen Upstream Norway wspólnie z Equinor odkryli nowe zasoby gazu ziemnego na Norweskim Szelfie Kontynentalnym. Wielkość złoża, nazwanego Sissel, pozwoli koncernowi wydobyć i przesłać do Polski prawie miliard metrów sześciennych gazu - podał Orlen w komunikacie prasowym.",
       "published": "Tue, 20 Jan 2026 09:46:55 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Średnio o 350 zł więcej co miesiąc. Ponad milion Polaków ma więcej w portfelach",
-      "link": "https://www.bankier.pl/wiadomosc/Renta-wdowia-bije-rekordy-Tyle-mozna-zyskac-9070967.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/4/22885ac28abc27-948-568-0-52-1900-1139.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W ciągu całego 2025 roku do ZUS-u wpłynęło przeszło 1 mln 156 tys. wniosków o rentę wdowią. Najwięcej złożono na Śląsku, Mazowszu i w Wielkopolsce. Uprawnieni zyskali średnio 35",
-      "published": "Tue, 20 Jan 2026 09:46:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -570,65 +602,9 @@
       "category": "pl"
     },
     {
-      "title": "PKO Bank Polski wprowadza nową metodę autoryzacji przelewów. Trzeba będzie włączyć kamerkę",
-      "link": "https://www.bankier.pl/wiadomosc/Wazne-zmiany-w-IKO-od-PKO-BP-Bank-wprowadza-nowa-metode-autoryzacji-9070938.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/5/76920e2456918f-948-568-0-20-1024-614.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />PKO Bank Polski wdrożył kolejną metodę autoryzacji przelewów wysyłanych online. W wybranych przypadkach klient będzie musiał w tym celu potwierdzić swoją tożsamość. Przyda się do",
-      "published": "Tue, 20 Jan 2026 09:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kryzys wokół Grenlandii. Oto co się dzieje z cenami ropy",
-      "link": "https://www.money.pl/gospodarka/kryzys-wokol-grenlandii-oto-co-sie-dzieje-z-cenami-ropy-7245385992665280a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/80d3d6f0-4dc2-44f5-bf21-b56f4fb9d9d2\" width=\"308\" /> Rynki ropy naftowej wahają się z powodu kryzysu dotyczącego Grenlandii oraz obaw o nadmiar surowca - - informują maklerzy.",
-      "published": "Tue, 20 Jan 2026 08:34:08 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "To Amerykanie płacą za cła Trumpa. Są nowe badania",
-      "link": "https://www.money.pl/gospodarka/to-amerykanie-placa-za-cla-trumpa-sa-nowe-badania-7245377099008192a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7b622a14-405f-440f-8f0c-a145c6defcfa\" width=\"308\" /> Amerykanie, a nie obcokrajowcy, ponoszą niemal cały koszt amerykańskich taryf - informuje \"The Wall Street Journal\" i dodaje, że nowe dane kłócą się z tym, co o cłach mówi prezydent USA Donald Trump.",
-      "published": "Tue, 20 Jan 2026 08:07:59 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-01-2026-7245369159264480a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 20.01.2026. We wtorek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.8677 zł.",
-      "published": "Tue, 20 Jan 2026 07:02:37 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 20.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-20-01-2026-7245369119512800a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 20.01.2026. We wtorek za jednego franka (CHF) trzeba zapłacić 4.5471 zł.",
-      "published": "Tue, 20 Jan 2026 07:02:28 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 20.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-20-01-2026-7245369091496160a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 20.01.2026. We wtorek za jedno euro (EUR) trzeba zapłacić 4.2239 zł.",
-      "published": "Tue, 20 Jan 2026 07:02:21 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Top Picks 2026 z z GPW pod lupą. Sprawdź, dlaczego rekomendacje „pewniaków” nie zawsze zarabiają",
       "link": "https://www.bankier.pl/wiadomosc/Top-Picks-2026-pod-lupa-Sprawdz-dlaczego-rekomendacje-pewniakow-nie-zawsze-zarabiaja-9070665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/5/d4a31523aecd00-945-560-51-726-2914-1748.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Początek 2026 roku na warszawskim parkiecie przyniósł spore zaskoczenie dla inwestorów sugerujących się zbiorczymi rekomendacjami analityków. Choć sentyment dopisywał i główne",
-      "published": "Tue, 20 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Gorzka diagnoza UE. Ekspert ING: Uzależnienie od Chin zaszło za daleko i dziś za to płacimy",
-      "link": "https://www.bankier.pl/wiadomosc/Energia-ESG-i-AI-cztery-trendy-ktore-przemebluja-polska-gospodarke-do-2035-roku-9070494.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/5/2e39ccacdb9306-948-567-0-52-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czy „zrównoważony” to tylko przymiotnik, czy nowa logika gospodarki? W ramach naszego cyklu rozmów z ekonomistami polskich banków Leszek Kąsek z ING Banku Śląskiego tłumaczy, jak",
       "published": "Tue, 20 Jan 2026 06:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
@@ -760,6 +736,14 @@
       "published": "Fri, 16 Jan 2026 12:30:01 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Mołdawia połączy się z Rumunią? Premier: Zagłosowałbym za tym pomysłem",
+      "link": "https://www.bankier.pl/wiadomosc/Moldawia-polaczy-sie-z-Rumunia-Premier-Zaglosowalbym-za-tym-pomyslem-9069311.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/7/0bae8baf389502-948-568-321-171-3637-2182.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Premier Mołdawii Alexandru Munteanu poparł w czwartek ideę połączenia swego kraju z Rumunią. Wcześniej kilka razy prezydent Mołdawii Maia Sandu wyraziła podobny pogląd, zastr",
+      "published": "Fri, 16 Jan 2026 06:45:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     }
   ]
 }
