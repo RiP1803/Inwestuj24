@@ -1,19 +1,379 @@
 {
-  "generated_at": "2026-01-28T04:10:46.477776",
+  "generated_at": "2026-01-28T06:49:12.632316",
   "articles": [
     {
-      "title": "Apple CEO Tim Cook says he’s ‘heartbroken’ after Minneapolis shootings, calls for de-escalation",
-      "link": "https://www.marketwatch.com/story/apple-ceo-tim-cook-says-hes-heartbroken-after-minneapolis-shootings-calls-for-de-escalation-bf9595f2?mod=mw_rss_topstories",
-      "summary": "Apple CEO Tim Cook said Tuesday he’s “heartbroken” by the recent events in Minneapolis, and that he has voiced his concerns about the situation with President Donald Trump.",
-      "published": "Wed, 28 Jan 2026 03:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Relacje z USA stają się \"niebezpieczne\". Skrajna prawica odcina się od Trumpa",
+      "link": "https://www.bankier.pl/wiadomosc/Donald-Trump-balastem-dla-Europy-Przywodcy-skrajnej-prawicy-masowo-odcinaja-sie-od-prezydenta-USA-9075130.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/3/2c89cbd787930c-948-568-0-376-1638-982.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bliskie związki z Donaldem Trumpem stały się politycznym balastem dla skrajnej prawicy w Europie; przywódcy takich formacji w Wielkiej Brytanii, Francji, Niemczech i Włoszech st",
+      "published": "Wed, 28 Jan 2026 07:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Krucha koalicja w Amsterdamie. Przyszły premier zapowiada inwestowanie w samą Holandię",
+      "link": "https://www.bankier.pl/wiadomosc/Przyszly-premier-zapowiada-inwestowanie-w-sama-Holandie-Krucha-koalicja-w-Amsterdamie-9075170.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/b/cce040cb276063-948-568-0-19-3950-2369.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Liderzy socjalliberałów, konserwatywnych liberałów i chadeków w Holandii uzgodnili główne założenia rządu mniejszościowego. Pełne porozumienie koalicyjne ma być przedstawione do",
+      "published": "Wed, 28 Jan 2026 07:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Szijjarto: Węgry jedyną przeszkodą na drodze Ukrainy do UE",
+      "link": "https://www.bankier.pl/wiadomosc/Szijjarto-Wegry-jedyna-przeszkoda-na-drodze-Ukrainy-do-UE-9075169.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/e/d3189386293d5e-948-568-33-8-3348-2008.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister spraw zagranicznych Węgier Peter Szijjarto skomentował wywiad udzielony przez szefa ukraińskiej dyplomacji Andrija Sybihę, w którym stwierdził on, że Węgry są jedyną pr",
+      "published": "Wed, 28 Jan 2026 07:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 28.01.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-28-01-2026-7248200366176512a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 28.01.2026. W środę za jednego franka (CHF) trzeba zapłacić 4.5738 zł.",
+      "published": "Wed, 28 Jan 2026 07:02:50 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 28.01.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-28-01-2026-7248200257845504a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 28.01.2026. W środę za jedno euro (EUR) trzeba zapłacić 4.1993 zł.",
+      "published": "Wed, 28 Jan 2026 07:02:24 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 28.01.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-28-01-2026-7248200212035872a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 28.01.2026. W środę za jednego dolara (USD) trzeba zapłacić 3.5005 zł.",
+      "published": "Wed, 28 Jan 2026 07:02:13 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 28.01.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-28-01-2026-7248200049518880a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 28.01.2026. W środę za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.8322 zł.",
+      "published": "Wed, 28 Jan 2026 07:01:33 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Netflix przejmuje Warner Bros.? \"Ryzyko znacznego ograniczenia konkurencji\"",
+      "link": "https://www.bankier.pl/wiadomosc/Netflix-przejmuje-Warner-Bros-Discovery-Ryzyko-znacznego-ograniczenia-konkurencji-9075174.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/8/ccc801ab3259a4-948-568-0-138-1024-614.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podkomisja Senatu ds. antymonopolowych zorganizuje w przyszły wtorek wysłuchanie na temat umowy o przejęciu koncernu Warner Bros. Discovery przez Netflixa. Jej przewodniczący Re",
+      "published": "Wed, 28 Jan 2026 07:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Prokuratura zamyka sprawę małego atomu Orlenu i Sołowowa",
+      "link": "https://www.money.pl/gospodarka/prokuratura-zamyka-sprawe-malego-atomu-orlenu-i-solowowa-7248193292761344a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5eee9d93-b141-45cc-b6eb-4b12d9f0b984\" width=\"308\" /> Minister klimatu w rządzie Mateusza Morawieckiego dała zielone światło małemu atomowi Orlenu i spółki Michała Sołowowa – wbrew stanowisku służb. Sprawa nie trafi do sądu, bo prokuratura nie dopatrzyła się w tym postępowaniu znamion przestępstwa. Poznaliśmy uzasadnienie je",
+      "published": "Wed, 28 Jan 2026 06:56:11 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Radosław Sikorski uderza w Elona Muska. Mówi o \"zarabianiu na zbrodniach wojennych\"",
+      "link": "https://businessinsider.com.pl/polityka/sikorski-uderza-w-muska-mowi-o-zarabianiu-na-zbrodniach-wojennych/zmcn5fw",
+      "summary": "Szef MSZ Radosław Sikorski zwrócił się do właściciela firmy SpaceX Elona Muska, z pytaniem dlaczego nie powstrzyma Rosjan przed wykorzystaniem systemów satelitarnych Starlink do atakowania Ukrainy. Zasugerował miliarderowi zarabianie na zbrodniach wojennych może zaszkodzić SpaceX. To nie pierwsze ich starcie w mediach społecznościowych.",
+      "published": "Wed, 28 Jan 2026 06:42:30 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "JSW akcje prognozy na najbliższe dni: JSW znów pod napięciem! Shorty uciekają, popyt naciska – 320 dni walki o wybicie! Czy to wreszcie ten moment?",
+      "link": "https://comparic.pl/jsw-akcje-prognozy-na-najblizsze-dni-jsw-znow-pod-napieciem-shorty-uciekaja-popyt-naciska-320-dni-walki-o-wybicie-czy-to-wreszcie-ten-moment/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"667\" src=\"https://comparic.pl/wp-content/uploads/2022/03/JSW-CC.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1000\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2022/03/JSW-CC-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" wi",
+      "published": "Wed, 28 Jan 2026 06:32:48 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Krach czy spektakularne wzrosty? Kurs S&P 500 pobił rekord! Jest jednak haczyk",
+      "link": "https://comparic.pl/krach-czy-spektakularne-wzrosty-kurs-sp-500-pobil-rekord-jest-jednak-haczyk-28-01-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-SP500-SPX-prognozy-Wall-Street.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-SP500-SPX-prognozy-Wall-Street-324x",
+      "published": "Wed, 28 Jan 2026 06:22:38 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Spór o mały atom Orlenu. Prokuratura: Opinia ABW nie wiąże rąk ministrowi",
+      "link": "https://www.bankier.pl/wiadomosc/Spor-o-maly-atom-Orlenu-Prokuratura-Opinia-ABW-nie-wiaze-rak-ministrowi-9075194.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/9/b7a5cb6918f6c6-948-568-285-225-2462-1477.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister klimatu w rządzie Mateusza Morawieckiego dała zielone światło małemu atomowi Orlenu i spółki Michała Sołowowa – wbrew stanowisku służb. Sprawa nie trafi do sądu, bo ",
+      "published": "Wed, 28 Jan 2026 06:16:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump stawia sprawę jasno. \"Kuba wkrótce upadnie\"",
+      "link": "https://www.money.pl/gospodarka/trump-stawia-sprawe-jasno-kuba-wkrotce-upadnie-7248185404999968a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/903b1609-494d-4947-a32e-9c0171b6b532\" width=\"308\" /> Prezydent USA Donald Trump ocenił we wtorek, że komunistyczne rządy na Kubie wkrótce upadną po tym, jak zostały odcięte od dostaw wenezuelskiej ropy naftowej. Według doniesień Politico Biały Dom rozważa blokadę importu surowca na wyspę.",
+      "published": "Wed, 28 Jan 2026 06:14:12 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Fundusz tnie pozycje bez litości. Te akcje mogą mieć problem?",
+      "link": "https://comparic.pl/fundusz-tnie-pozycje-bez-litosci-te-akcje-moga-miec-problem/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"754\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-buy-or-sell-kupno-zakup-long-sprzedaz-wzrosty-spadki-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-bu",
+      "published": "Wed, 28 Jan 2026 06:12:56 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowa oś sporu Polski z Ukrainą. Kijów blokuje eksport kluczowego surowca",
+      "link": "https://businessinsider.com.pl/gielda/surowce/nowa-os-sporu-polski-z-ukraina-kijow-blokuje-eksport-kluczowego-surowca/5kz0h5n",
+      "summary": "Polska i Ukraina mogą w najbliższym czasie spierać się o kolejną ważną rzecz dla polskich przedsiębiorców. Działania Kijowa bezpośrednio uderzają bowiem w biznes wielu firm nad Wisłą. — Potrzebna jest pilna interwencja dyplomatyczna — alarmują przedstawiciele branży.",
+      "published": "Wed, 28 Jan 2026 06:08:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Chcesz mieć dostęp do KSeF? Musisz to mieć, jeśli sam nie prowadzisz działalności",
+      "link": "https://businessinsider.com.pl/prawo/podatki/ksef-ten-druk-musza-zlozyc-spolki-i-fundacje-jak-wypelnic-i-zlozyc-zaw-fa/3cfle52",
+      "summary": "Już 1 lutego Krajowy System e-Faktur stanie się obowiązkowy. Dla wielu podmiotów — takich jak spółki, jednostki samorządu terytorialnego, fundacje czy stowarzyszenia — wejście do KSeF nie jest jednak tak proste, jak dla osób fizycznych. Te podmioty przygodę z KSeF muszą zacząć od złożenia we właściwym urzędzie skarbowym wniosku ZAW-FA. Co to jest i jak go złożyć? Wyjaśniamy.",
+      "published": "Wed, 28 Jan 2026 06:02:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "NBP jedzie na stracie. I dlaczego nie ma się czym przejmować",
+      "link": "https://www.bankier.pl/wiadomosc/Wielka-strata-NBP-w-2025-roku-I-dlaczego-nie-ma-sie-czym-przejmowac-9074855.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/f1b89034ff7c7b-948-568-0-217-3339-2003.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zapowiada się, że Narodowy Bank Polski zaksięguje kolejną gigantyczną stratę finansową. Tym razem może to być aż sto miliardów złotych.</p>",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rekordowa moc rynku kupującego nieruchomości w USA. „Największa luka w historii pomiarów”",
+      "link": "https://www.bankier.pl/wiadomosc/Rekordowa-moc-rynku-kupujacego-nieruchomosci-w-USA-Najwieksza-luka-w-historii-pomiarow-9074856.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/2/55e91c4466f996-948-567-50-50-950-569.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W grudniu 2025 r. padł nowy rekord przewagi sprzedających na rynku nieruchomości w Stanach Zjednoczonych. Z danych Redfin wynika, że pragnących pozbyć się domu lub mieszkania jes",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Małżeństwa mogą zyskać nawet 1520 zł. Jeden błąd na fakturze przekreśli ulgę",
+      "link": "https://www.bankier.pl/wiadomosc/Jeden-blad-na-fakturze-moze-przekreslic-ulge-Do-wziecia-nawet-1520-zl-9073953.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/0/217168349a703d-948-568-0-33-4414-2648.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie każdy wydatek na internet można odliczyć od podatku. Fiskus podkreśla, że brak wyraźnego wyszczególnienia usługi internetu na fakturze może całkowicie uniemożliwić skorzysta",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Golf po latach znów królem komisów. Ceny używanych aut spadły, ale klientów ubyło",
+      "link": "https://www.bankier.pl/wiadomosc/Golf-po-latach-znow-krolem-komisow-Ceny-uzywanych-aut-spadly-ale-klientow-ubylo-9074673.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/c/d180f040d06604-948-568-44-0-1860-1115.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Inaczej niż w salonach samochodowych, ubiegły rok w komisach przyniósł spadek sprzedaży aut – wynika z danych Instytutu Badań Rynku Motoryzacyjnego Samar. Wraz ze spadkiem liczb",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rządowy program dopłat w nowej odsłonie. Ile można będzie dostać?",
+      "link": "https://www.bankier.pl/wiadomosc/Rzadowy-program-doplat-w-nowej-odslonie-Ile-mozna-bedzie-dostac-9074220.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/1/7b33d2c7920025-948-568-0-239-3528-2116.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd pracuje nad następcą programu \"Mój prąd\". Tym razem wsparcie będzie się koncentrować na magazynach energii. Nabór wniosków ruszy jeszcze w tym kwartale. Wiemy, jak wysokie",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowa promocja pożyczki w Banku Millennium. Stałe oprocentowanie i zero prowizji",
+      "link": "https://www.bankier.pl/wiadomosc/Nowa-promocja-pozyczki-w-Banku-Millennium-Stale-oprocentowanie-i-zero-prowizji-9074761.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p>Bank Millennium przygotował kolejną edycję promocji pożyczki gotówkowej online, skierowaną do osób, które dotychczas nie korzystały z usług tej instytucji. Na uczestników czeka brak prowizji oraz gwarantowane, stałe oprocentowanie przez cały okres kredytowania. Sprawdzamy, jakie warunki trzeba spełnić, aby skorzystać z oferty.</p>",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "5 tys. zł od balkonu. Kiedy remont kończy się mandatem za samowolę budowlaną",
+      "link": "https://www.bankier.pl/wiadomosc/5-tys-zl-od-balkonu-Kiedy-remont-konczy-sie-mandatem-za-samowole-budowlana-9074116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/327d0b0422c260-948-568-1590-800-1970-1181.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Remont balkonu, a już na pewno jego zabudowanie czy przeszklenie wymaga zgody wspólnoty mieszkaniowej. Bez dopełnienia tego obowiązku, każdą zmianę w obrębie tej części mies",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Urlop w Gruzji na nowych zasadach. Bez polisy nie przekroczysz granicy",
+      "link": "https://www.bankier.pl/wiadomosc/Ubezpieczenie-na-wyjazd-do-Gruzji-koszty-i-zasady-9074948.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/f/656151cf356d8b-948-568-0-84-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Turyści wybierający się do Gruzji muszą przygotować się na dodatkowy wydatek związany z podróżą. Wraz z początkiem 2026 r. przy wjeździe do kraju obcokrajowcy muszą posiadać waż",
+      "published": "Wed, 28 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Hiszpania wypłaci 20 mln euro odszkodowań ofiarom katastrofy kolejowej",
+      "link": "https://www.money.pl/gospodarka/hiszpania-wyplaci-20-mln-euro-odszkodowan-ofiarom-katastrofy-kolejowej-7248181832780032a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/fce6ed7d-3e59-49a8-9f37-0c670568f04b\" width=\"308\" /> Rząd Hiszpanii wypłaci 20 mln euro odszkodowań ofiarom katastrofy kolejowej w Adamuz w prowincji Kordoba, która wydarzyła się w niedzielę 18 stycznia. W tej jednej z największych tragedii na kolei w historii kraju zginęło 45 osób, a ponad 100 zostało rannych.",
+      "published": "Wed, 28 Jan 2026 05:57:46 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Fed pod ścianą. Decyzja o stopach procentowych w cieniu śledztwa i walki o niezależność",
+      "link": "https://businessinsider.com.pl/gospodarka/koniec-szybkich-obnizek-w-usa-rynek-czeka-na-ruch-powella-i-decyzje-donalda-trumpa/5j6g3t7",
+      "summary": "Jerome Powell ugnie się pod presją Białego Domu czy jednak do końca swojej kadencji pozostanie wierny twardym danym makroekonomicznym? Oczy inwestorów zwrócone są nie tylko na statystyki gospodarcze, ale też na personalne przetasowania, w tym na giełdę nazwisk następców szefa Fedu. Przy dolarze tracącym w rok 10 proc. wartości, każda wskazówka dotycząca obniżek stóp procentowych i wpływająca na ni",
+      "published": "Wed, 28 Jan 2026 05:56:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Czy w 2026 r. da się jeszcze zarobić na nieruchomościach? \"Dobra inwestycja to taka, która ma płynność wyjścia i plan B\"",
+      "link": "https://businessinsider.com.pl/nieruchomosci/mieszkania-z-potencjalem-na-wynajem-tak-wygrywaja-dzis-inwestorzy/ylycl4s",
+      "summary": "Polski rynek nieruchomości wchodzi w etap większej selektywności i chłodnych kalkulacji. Inwestorzy indywidualni coraz rzadziej kupują \"bo ceny zawsze rosną\", a częściej pytają o realną rentowność, ryzyko i płynność wyjścia z inwestycji. Jak wskazuje Karol Szumański z Marshall Real Estate, nadchodzące miesiące będą prawdziwym testem dla rynku.",
+      "published": "Wed, 28 Jan 2026 05:48:49 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Vibe coding i vibe apokalipsy. Wisi nad nami katastrofa na skalę Czarnobyla",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/vibe-coding-i-vibe-apokalipsy-sami-szykujemy-sobie-cyfrowy-czarnobyl/7bn4j0f",
+      "summary": "Problemów związanych ze sztuczną inteligencją jest przynajmniej tyle, ile korzyści wynikających z upowszechnienia się tej technologii. O ile pośród tych najbardziej palących kwestii trudno wskazać tę najistotniejszą, tak wybranie tej najczęściej w dyskusjach pomijanej — jest niezwykle proste. Halucynacje AI piszącego i sprawdzającego kod, są nie tylko niezwykle częste, ale i niezwykle często bagat",
+      "published": "Wed, 28 Jan 2026 05:31:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Spór o dopłaty dla rolników. Setki tysięcy gospodarstw mogą stracić pieniądze. Prezydent zdecyduje",
+      "link": "https://businessinsider.com.pl/prawo/nowa-definicja-rolnika-aktywnego-kto-straci-doplaty-unijne-i-co-zrobi-prezydent/hwcl4qk",
+      "summary": "To jedna z najważniejszych zmian dla rolników obok umowy UE-Mercosur. W środę zajmie się nią Senat. Chodzi o ustawę mającą wzmocnić pozycję rolników aktywnych zawodowo. Opozycja i część rolników ostrzegają, że nowe przepisy wyeliminują z unijnych dopłat tysiące gospodarstw. Padają wręcz oskarżenia o dzielenie rolników na lepszych i gorszych. W efekcie ustawa może nie zyskać podpisu Karola Nawrocki",
+      "published": "Wed, 28 Jan 2026 05:26:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Strategia PSV: Struktura, wolumen, opcje. Dlaczego Nasdaq idzie dalej, a DAX stoi",
+      "link": "https://comparic.pl/strategia-psv-struktura-wolumen-opcje-dlaczego-nasdaq-idzie-dalej-a-dax-stoi/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"563\" src=\"https://comparic.pl/wp-content/uploads/2020/12/cc-comparic-DAX.jpeg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1000\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2020/12/cc-comparic-DAX-324x235.jpeg\" style=\"float: left; margin",
+      "published": "Wed, 28 Jan 2026 05:13:49 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Polacy chcą być w Radzie Pokoju Donalda Trumpa. Pod jednym warunkiem [TYLKO U NAS]",
+      "link": "https://businessinsider.com.pl/polityka/polacy-chca-byc-w-radzie-pokoju-donalda-trumpa-ale-pod-jednym-warunkiem/j7bjmz8",
+      "summary": "Polska nie powinna przystępować do Rady Pokoju Donalda Trumpa w obecnym kształcie — tak wypowiedzieli się respondenci w sondażu przeprowadzonym przez UCE Research na zlecenie Business Insider Polska. Jednak Polakom wcale nie przeszkadza zaproszenie tam Rosji czy Białorusi. Chodzi o coś zupełnie innego.",
+      "published": "Wed, 28 Jan 2026 05:09:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs JPY/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-japonskiego-dzisiaj-po-ile-jest-jen-japonski-28-stycznia-2026-r/nyxmlxm",
+      "summary": "Poznaj kurs japońskiego jena na dzień 28 stycznia 2026. Jen jest jedną z głównych walut rezerwowych świata, dlatego ma znaczenie dla światowej gospodarki. Jednak jego kurs interesuje także podróżujących do Japonii w celach turystycznych. Z tego powodu pokazujemy obecny kurs waluty, jak też zmiany kursu jena w perspektywie dziennej i tygodniowej.",
+      "published": "Wed, 28 Jan 2026 05:04:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs EUR/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-28-stycznia-2026-r/5mch1zl",
+      "summary": "Przedstawiamy notowania aktualnego kursu waluty euro z dnia 28 stycznia 2026 . Wczoraj wynosił on: 4,1993 zł. Od kursu uzależnione są ceny importowanych towarów oraz usług. Obecnie euro jest walutą obowiązującą w 20 państwach członkowskich Unii Europejskiej, a także kilku, które nie są jej członkami.",
+      "published": "Wed, 28 Jan 2026 05:03:56 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs USD/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-amerykanskiego-dzisiaj-po-ile-jest-dolar-amerykanski-28-stycznia-2026-r/wnjtt6d",
+      "summary": "Poznaj bieżący kurs dolara na dzień 28 stycznia 2026. Informujemy, jak przedstawia się obecny kurs USD oraz jak zmienił się on w perspektywie tygodniowej. Wczorajszy kurs amerykańskiej waluty to 3,4992 zł.",
+      "published": "Wed, 28 Jan 2026 05:03:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs GBP/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funtow-brytyjskich-dzisiaj-po-ile-jest-funt-brytyjski-28-stycznia-2026-r/4s6m054",
+      "summary": "Chcesz sprawdzić, jaki jest kurs GBP na dziś 28 stycznia 2026? Interesują cię bieżące notowania waluty? Jesteś w odpowiednim miejscu. Poniżej sprawdzisz, czy złotówka umacnia się, czy słabnie względem funta brytyjskiego. Wczorajszy kurs wynosił 4,8298 zł. Warto wiedzieć jak kurs wymiany prezentuje się dziś.",
+      "published": "Wed, 28 Jan 2026 05:03:33 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs CHF/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-szwajcarskiego-dzisiaj-po-ile-jest-frank-szwajcarski-28-stycznia-2026-r/hpkznrk",
+      "summary": "Poznaj bieżący kurs franka szwajcarskiego na dzień 28 stycznia 2026. CHF to waluta, która przede wszystkim interesuje osoby mające kredyt we frankach. Czy polska waluta wzmocniła się, czy osłabła? Wczoraj kurs szwajcarskiej waluty wynosił 4,5728 zł. Jak wygląda dzisiejszy kurs CHF/PLN, sprawdzisz w tym artykule.",
+      "published": "Wed, 28 Jan 2026 05:03:33 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs CZK/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-czeska-28-stycznia-2026-r/yzbgrs0",
+      "summary": "Jak dziś wygląda aktualny kurs korony czeskiej względem złotego? Czy opłaca się wymieniać korony czeskie na polskie złotówki? Wczoraj wartość CZK wyniosła: 0,1733 zł. Sprawdź dane dla 28 stycznia 2026.",
+      "published": "Wed, 28 Jan 2026 05:03:13 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs NOK/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-norweska-28-stycznia-2026-r/29vrww2",
+      "summary": "Jak zmienił się kurs korony norweskiej od wczoraj? Czy złoty słabnie, czy może umacnia się względem waluty Norwegów? To ważna informacja dla wszystkich, którzy aktualnie pracują lub wybierają się do Skandynawii. Sprawdź, jak dziś prezentuje się kurs NOK.",
+      "published": "Wed, 28 Jan 2026 05:03:11 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Zygmunt Solorz chwyta się ostatniej deski ratunku. Wykonał nowy ruch",
+      "link": "https://businessinsider.com.pl/biznes/zygmunt-solorz-przegral-sukcesje-ale-znow-idzie-do-sadu-jest-skarga/zp5w6yf",
+      "summary": "Zygmunt Solorz jeszcze nie pogodził się z utratą kontroli nad swoim biznesowym imperium. Według ustaleń Business Insider Polska 23 stycznia jego prawnicy złożyli skargę konstytucyjną na orzeczenie sądu apelacyjnego, który prawomocnie zdecydował o sukcesji firm na rzecz dzieci miliardera. To jedyna deska ratunku biznesmena, ale ze znikomą szansą na sukces.",
+      "published": "Wed, 28 Jan 2026 05:03:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs SEK/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-szwedzkiej-dzisiaj-po-ile-jest-korona-szwedzka-28-stycznia-2026-r/l8qpkeq",
+      "summary": "Chcesz sprawdzić, jak zmienia się kurs korony szwedzkiej w ujęciu dziennym i tygodniowym? Zobacz notowanie z 28 stycznia 2026. Wczoraj kurs wynosił 0,3974 zł. Jak zmienił się dziś? Złoty się umacnia czy traci? Aktualne dane znajdziesz poniżej.",
+      "published": "Wed, 28 Jan 2026 05:02:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs DKK/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-dunskiej-dzisiaj-po-ile-jest-korona-dunska-28-stycznia-2026-r/2py62zt",
+      "summary": "Jeśli potrzebujesz informacji o kursie korony duńskiej, przedstawiamy bieżące notowania. Wczorajszy kurs wynosił 0,5624 zł. Zobacz, jak sytuacja kształtuje się dziś: 28 stycznia 2026.",
+      "published": "Wed, 28 Jan 2026 05:02:58 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs HUF/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-forinta-wegierskiego-dzisiaj-po-ile-jest-forint-wegierski-28-stycznia-2026-r/gh8emrk",
+      "summary": "Zobacz kurs węgierskiego forinta 28 stycznia 2026 w odniesieniu do polskiej waluty. W tym artkule sprawdzisz, czy HUF umacnia się, czy traci do PLN nie tylko dzień do dnia, ale także w perspektywie tygodniowej. Wczoraj kurs węgierskiej waluty wynosił 1,1048 zł.",
+      "published": "Wed, 28 Jan 2026 05:02:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs TRY/PLN 28 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-turckiej-dzisiaj-po-ile-jest-lira-turecka-28-stycznia-2026-r/bfzrhl3",
+      "summary": "Zobacz zmiany kursu tureckiej liry do polskiego złotego (TRY/PLN). Czy lira, jedna z najszybciej tracących wartość w ostatnich latach walut na świcie, ponownie się osłabiła? Czy aktualnie opłaca się wymieniać liry na inne waluty w tym polską?",
+      "published": "Wed, 28 Jan 2026 05:02:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Inflacja spadła, ale promocje zostały. Sklepy zmuszone do nieustannych obniżek",
+      "link": "https://www.bankier.pl/wiadomosc/Inflacja-spadla-ale-promocje-zostaly-Sklepy-zmuszone-do-nieustannych-obnizek-9075175.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/0134a04ca9e1aa-948-568-0-89-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przy kiepskiej koniunkturze konsumenckiej sieci handlowe muszą organizować coraz więcej promocji. Liczba takich akcji wzrosła w ubiegłym roku aż o 13,1 proc. Nawet 40 proc. z ni",
+      "published": "Wed, 28 Jan 2026 04:21:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Texas Instruments forecasts something that hasn’t happened in 16 years, lifting its stock",
       "link": "https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories",
       "summary": "The company’s outlook implies revenue in the first quarter could be higher than what it was in the fourth quarter as a recovery takes hold.",
-      "published": "Wed, 28 Jan 2026 03:11:00 GMT",
+      "published": "Wed, 28 Jan 2026 04:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Apple CEO Tim Cook says he’s ‘heartbroken’ after Minneapolis shootings, calls for de-escalation",
+      "link": "https://www.marketwatch.com/story/apple-ceo-tim-cook-says-hes-heartbroken-after-minneapolis-shootings-calls-for-de-escalation-bf9595f2?mod=mw_rss_topstories",
+      "summary": "Apple CEO Tim Cook said Tuesday he’s “heartbroken” by the recent events in Minneapolis, and that he has voiced his concerns about the situation with President Donald Trump.",
+      "published": "Wed, 28 Jan 2026 03:43:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -32,6 +392,14 @@
       "published": "Wed, 28 Jan 2026 02:14:00 GMT",
       "source": "MarketWatch",
       "category": "us"
+    },
+    {
+      "title": "Trump: Wysłałem kolejna armadę. Mam nadzieję, że Iran pójdzie na układ",
+      "link": "https://www.bankier.pl/wiadomosc/Trump-Wyslalem-kolejna-armade-Mam-nadzieje-ze-Iran-pojdzie-na-uklad-9075168.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/6/23ee010f3b79a4-948-568-30-83-3001-1801.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kolejna armada płynie w kierunku Iranu - powiedział we wtorek prezydent USA Donald Trump. Doradził przy tym irańskim władzom, by zawarły z nim układ w sprawie zakończenia swoje",
+      "published": "Wed, 28 Jan 2026 01:51:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Dollar tumbles to a four-year low as Trump claims it’s ‘doing great’",
@@ -122,27 +490,11 @@
       "category": "us"
     },
     {
-      "title": "Iran rozpoczął manewry z ostrą amunicją. To reakcja na działania USA",
-      "link": "https://businessinsider.com.pl/wiadomosci/iran-wysyla-sygnal-stanom-zjednoczonym-rozpoczal-cwiczenia-z-ostra-bronia/mwe9qbb",
-      "summary": "Iran rozpoczął we wtorek ćwiczenia wojskowe z użyciem ostrej amunicji na Morzu Arabskim. Zamknął przestrzeń powietrzną wokół swojej najważniejszej bazy morskiej Dżask w Zatoce Omańskiej. Dowództwo lotnictwa irańskiego poinformowało o tym w depeszy NOTAM. To reakcja Iranu na działania USA na Bliskim Wschodzie.",
-      "published": "Tue, 27 Jan 2026 20:46:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Tak Polska handluje z Indiami. Co dla nas oznacza nowa unijna umowa?",
       "link": "https://www.money.pl/gospodarka/tak-polska-handluje-z-indiami-co-dla-nas-oznacza-nowa-unijna-umowa-7247944392587552a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5b78ead1-61f2-4054-9389-68781e070094\" width=\"308\" /> Porozumienie UE z Indiami to największa handlowa umowa świata, która obejmuje 2 mld osób. Otwarcie rynku na Indie jest jednocześnie szansą i zagrożeniem dla polskich przedsiębiorców. Wyjaśniamy, kto może zyskać, a kto może stracić.",
       "published": "Tue, 27 Jan 2026 20:43:40 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "20 mln euro dla ofiar katastrofy w Adamuz. Hiszpania przyspiesza wypłaty",
-      "link": "https://www.bankier.pl/wiadomosc/20-mln-euro-dla-ofiar-katastrofy-w-Adamuz-Hiszpania-przyspiesza-wyplaty-9075118.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/5/cabc89eb1d5ff9-948-568-18-174-2380-1428.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd Hiszpanii wypłaci 20 mln euro odszkodowań ofiarom katastrofy kolejowej w Adamuz w prowincji Kordoba, która wydarzyła się w niedzielę 18 stycznia. W tej jednej z największ",
-      "published": "Tue, 27 Jan 2026 20:41:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -152,14 +504,6 @@
       "published": "Tue, 27 Jan 2026 20:28:11 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Wyparowało 15 mld dol. Niepokojący raport o Tesli",
-      "link": "https://businessinsider.com.pl/technologie/motoryzacja/przyjazn-elona-muska-z-donaldem-trumpem-kosztowala-tesle-miliardy-jest-raport/me91rpc",
-      "summary": "Na zaangażowaniu Elona Muska w politykę i przyjaźni miliardera z Donaldem Trumpem ucierpiała Tesla. Szkody idą w miliardy dolarów — wynika z najnowszego raportu.",
-      "published": "Tue, 27 Jan 2026 20:24:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Cena srebra dotarła do granicy. Dalsze wzrosty są niemożliwe?",
@@ -178,36 +522,12 @@
       "category": "pl"
     },
     {
-      "title": "To koniec jednej z największych hurtowni w Polsce? Pogrążył ją atak hakerski",
-      "link": "https://businessinsider.com.pl/biznes/jedna-z-najwiekszych-hurtowni-w-polsce-ma-klopoty-pograzyl-ja-atak-hakerski/1h578yh",
-      "summary": "Jedna z największych hurtowni w Polsce, należąca do Grupy PWN i zajmująca się dystrybucją książek, ma poważne problemy finansowe. Jak ustaliła \"Gazeta Wyborcza\", przedsiębiorstwo Azymut jest zadłużone na ponad 100 mln zł. Z informacji na stronie firmy wynika, że największym wierzycielem jest Wydawnictwo Naukowe PWN. Poważne kłopoty zaczęły się od ataku hakerskiego, a obecnie w firmie trwa postępow",
-      "published": "Tue, 27 Jan 2026 20:05:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "VanEck uruchamia pierwszy w USA ETF z ekspozycją na Avalanche (AVAX)",
       "link": "https://comparic.pl/vaneck-uruchamia-pierwszy-w-usa-etf-z-ekspozycja-na-avalanche-avax/",
       "summary": "<img alt=\"Avalanche\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-Avalanche-AVAX.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Avalanche\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-Avalanche-AVAX-324x235.webp\" sty",
       "published": "Tue, 27 Jan 2026 19:59:48 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Nielegalne plakaty komitetu PiS. Pieniądze z grzywny trafią na badania profilaktyczne",
-      "link": "https://www.bankier.pl/wiadomosc/Nielegalne-plakaty-komitetu-PiS-Pieniadze-z-grzywny-trafia-na-badania-profilaktyczne-9075104.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/6/ec400b89cd4e91-948-568-0-27-3600-2159.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Program profilaktyczny w Ostrowie Wlkp. zostanie sfinansowany z pieniędzy komitetu wyborczego PiS; komitet ten musiał zapłacić za nieprawne wieszanie banerów wyborczych promując",
-      "published": "Tue, 27 Jan 2026 19:56:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Budżet Francji ocalony. Premier też",
-      "link": "https://businessinsider.com.pl/polityka/los-premiera-francji-wisial-na-wlosku-przetrwal-glosowanie-i-ocalil-budzet/dqq573f",
-      "summary": "W ostatnich miesiącach Francja balansowała na krawędzi upadku rządu i wyborów. Aby przetrwać, premier musiał iść na ustępstwa. We wtorek nastąpił zwrot, który przybliża kraj do zabezpieczenia budżetu na 2026 r.",
-      "published": "Tue, 27 Jan 2026 19:49:51 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Dolar słabnie w oczach. Tak nisko nie był od 2018 r.",
@@ -218,52 +538,12 @@
       "category": "pl"
     },
     {
-      "title": "Dronizacja Wojska Polskiego. MON: Będziemy uczyć się od Ukraińców",
-      "link": "https://www.bankier.pl/wiadomosc/Dronizacja-Wojska-Polskiego-MON-Bedzie-uczyc-sie-od-Ukraincow-9075101.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/6/871f23e2071a1c-948-568-0-0-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował, że rozmawiał we wtorek ze swoim ukraińskim odpowiednikiem Mychajłem Fedorowem nt. rozwoju umiejętności Wojska Polski",
-      "published": "Tue, 27 Jan 2026 19:49:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Boeing's quarterly sales jump 57% as CEO says there's 'a lot to be optimistic about'",
       "link": "https://www.cnbc.com/2026/01/27/boeing-ba-4q-2025-earnings.html",
       "summary": "Boeing's aircraft deliveries have surged over the past year as the manufacturer expects to continue to increase production.",
       "published": "Tue, 27 Jan 2026 19:48:25 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Restrukturyzacja PKP Cargo w liczbach. Tysiące wypowiedzeń w ciągu dwóch lat",
-      "link": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-PKP-Cargo-w-liczbach-Tysiace-wypowiedzen-w-ciagu-dwoch-lat-9075099.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/5/ea0f562d833480-948-568-157-607-3993-2396.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />PKP Cargo w 2025 roku zwolniło 450 pracowników - podała spółka we wtorek w komunikacie giełdowym. Firma na koniec ub. roku zatrudniała ponad 8 tys. osób.</p>",
-      "published": "Tue, 27 Jan 2026 19:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Inwestorzy uodpornili się na Trumpa. 49 gróźb o cłach, 25 proc. realizacji",
-      "link": "https://www.bankier.pl/wiadomosc/Inwestorzy-uodpornili-sie-na-Trumpa-49-grozb-o-clach-25-proc-realizacji-9075098.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/f/93d5f27bfa9d58-948-568-174-31-3000-1800.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Agencja Bloomberga napisała we wtorek, że inwestorzy z coraz większym dystansem odnoszą się do gróźb prezydenta USA Donalda Trumpa w sprawie nakładania kolejnych ceł. Wyliczon",
-      "published": "Tue, 27 Jan 2026 19:36:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Państwowa spółka zwolniła w ubiegłym roku 450 osób. To nie koniec zmian",
-      "link": "https://businessinsider.com.pl/gospodarka/pkp-cargo-zwolnilo-w-zeszlym-roku-450-osob-to-nie-koniec-zmian/4th1fwh",
-      "summary": "Spółka PKP Cargo poinformowała, że w tym roku zwolniła 450 osób. To kolejny etap restrukturyzacji po fali zwolnień, która nastąpiła w 2024 r. Jak podała spółka we wtorek w komunikacie giełdowym, firma na koniec ubiegłego roku zatrudniała wciąż ponad 8 tys. osób.",
-      "published": "Tue, 27 Jan 2026 19:29:54 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "CBA w KGHM. W tle zakupy na miliony i handlarz bronią",
-      "link": "https://businessinsider.com.pl/wiadomosci/cba-w-kghm-w-tle-afera-respiratorowa-i-handlarz-bronia/z290l5l",
-      "summary": "Agenci Centralnego Biura Antykorupcyjnego przez dwa dni pracowali w siedzibie KGHM, jednej z największych polskich spółek giełdowych. W tle sprawy znajdują się kontakty z handlarzem bronią.",
-      "published": "Tue, 27 Jan 2026 19:24:07 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Humana, UnitedHealth plunge 20% after Trump administration proposes keeping Medicare Advantage rates flat",
@@ -296,22 +576,6 @@
       "published": "Tue, 27 Jan 2026 18:44:42 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Wylał 500 litrów gnojowicy i groził żonie ministra. Sąd nie zgodził się na uchylenie aresztu",
-      "link": "https://www.bankier.pl/wiadomosc/Wylal-gnojowice-i-grozil-zonie-ministra-Sad-nie-zgodzil-sie-na-uchylenie-aresztu-9075074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/4/47ba78d0aad0d4-948-568-30-350-3876-2325.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sąd Okręgowy w Łomży oddalił we wtorek zażalenie obrońcy na areszt mężczyzny podejrzanego m.in. o groźby bezprawne i znieważenie konstytucyjnego organu RP. Chodzi o incydent, ",
-      "published": "Tue, 27 Jan 2026 18:32:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Giganci mediów społecznościowych staną przed sądem. Pozwała ich 19-latka",
-      "link": "https://businessinsider.com.pl/prawo/wlasciciele-youtubea-facebooka-i-instagrama-przed-sadem-pozew-od-19-latki/kgrbk6g",
-      "summary": "Najwięksi na świecie gracze mediów społecznościowych mają stanąć przed sądem w Kalifornii w historycznym procesie dotyczącym uzależnienia od internetu. Powódką jest 19-latka, znana pod pseudonimem \"KGM\", która zarzuca technologicznym gigantom doprowadzenie do choroby psychicznej i myśli samobójczych — informuje CBS News. Proces zaczął się we wtorek.",
-      "published": "Tue, 27 Jan 2026 18:27:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "UE i Indie łączą siły. Czy to geopolityczny szach-mat dla ceł Trumpa?",
@@ -354,28 +618,12 @@
       "category": "pl"
     },
     {
-      "title": "Największa przecena KGHM od kwietnia. PKO drepcze po piętach Orlenowi",
-      "link": "https://www.bankier.pl/wiadomosc/Najwieksza-przecena-KGHM-od-kwietnia-PKO-drepcze-po-pietach-Orlenowi-9075052.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/3/61012bf33887b3-869-521-2-89-869-521.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wtorkowa sesja na warszawskim parkiecie upłynęła pod znakiem nowych rekordów hossy. Choć na horyzoncie pojawiły się symptomy realizacji zysków na KGHM, rolę przewodnika stada najw",
-      "published": "Tue, 27 Jan 2026 17:46:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Krach dolara! USD najniżej od 4 lat. Czego boją się inwestorzy?",
       "link": "https://comparic.pl/krach-dolara-usd-najnizej-od-4-lat-czego-boja-sie-inwestorzy/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-6.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-6-324x235.jpg",
       "published": "Tue, 27 Jan 2026 17:41:11 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Chcą kupować gaz z Rosji. Zaskarżą do TSUE decyzję UE",
-      "link": "https://businessinsider.com.pl/gospodarka/energetyczne-samobojstwo-ue-kraj-sklada-pozew-do-tsue/3lg56g5",
-      "summary": "Słowacja zamierza zaskarżyć do Trybunału Sprawiedliwości Unii Europejskiej (TSUE) decyzję UE w sprawie rosyjskiego gazu — poinformował we wtorek premier Robert Fico. Określił ją jako \"głupią\" i \"ideologiczną\" oraz nazwał \"energetycznym samobójstwem UE\". Co zmienia decyzja Wspólnoty?",
-      "published": "Tue, 27 Jan 2026 17:38:46 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Chicago's United Center will sell THC beverages at concessions in a U.S. arena first",
@@ -386,28 +634,12 @@
       "category": "us"
     },
     {
-      "title": "Nerwowa reakcja na wyniki – ale czy słuszna? Akcje z GPW warte ułamek wartości! Czy to doskonały moment na kupno tanich akcji?!",
-      "link": "https://comparic.pl/nerwowa-reakcja-na-wyniki-ale-czy-sluszna-akcje-z-gpw-warte-ulamek-wartosci-czy-to-doskonaly-moment-na-kupno-tanich-akcji/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-krach-crisis-kryzys-panika-bessa.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-krach-cri",
-      "published": "Tue, 27 Jan 2026 17:20:01 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "JSW zawiesza negocjacje ze związkami. Zarząd analizuje \"alternatywną restrukturyzację\"",
       "link": "https://www.bankier.pl/wiadomosc/Zarzad-JSW-zawiesil-rozmowy-ze-strona-spoleczna-9075027.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/b/a8ec395bbe6c7b-948-568-0-119-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zarząd Jastrzębskiej Spółki Węglowej zawiesił rozmowy ze stroną społeczną, która istotnie zmieniła stanowisko negocjacyjne – podała we wtorek spółka. Według związkowców zarząd ",
       "published": "Tue, 27 Jan 2026 17:12:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Tak Donald Trump zmienia układ sił. Niemcy szybko znalazły alternatywę",
-      "link": "https://businessinsider.com.pl/gospodarka/zwrot-niemiec-w-strone-chin-inwestycje-w-przyspieszonym-tempie/q84yk3c",
-      "summary": "Niemiecka gospodarka żywo reaguje na politykę gospodarczą Donalda Trumpa, która od początku jego drugiej kadencji na stanowisku prezydenta USA wnosi niepewność na światowe rynki. Niemcy zdecydowanie zwracają się w kierunku Chin. Jak podaje Reuters, opierając się na niepublikowanych wcześniej danych, inwestycje niemieckich firm w Państwie Środka osiągnęły w 2025 r. rekordowe wartości po raz pierwsz",
-      "published": "Tue, 27 Jan 2026 17:07:26 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Trump zmienia taktykę w Minnesocie. \"Gdy ona odpadnie, stracimy też LA i Chicago\"",
@@ -426,116 +658,12 @@
       "category": "us"
     },
     {
-      "title": "Gigantyczne emocje na JSW – czy kurs sięgnie 30 zł? Mocne banki i Orlen! CD Projekt może wznowić rajd, słabe Dino i Żabka! – co jest grane na GPW?",
-      "link": "https://comparic.pl/gigantyczne-emocje-na-jsw-czy-kurs-siegnie-30-zl-mocne-banki-i-orlen-cd-projekt-moze-wznowic-rajd-slabe-dino-i-zabka-co-jest-grane-na-gpw/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-hossa-euforia-wzrost-zysk-profit-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-hossa-euforia-wzrost-",
-      "published": "Tue, 27 Jan 2026 16:58:21 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Srebro w centrum spekulacji. Rekordowe obroty ETF i ryzyko przegrzania rynku",
-      "link": "https://comparic.pl/srebro-w-centrum-spekulacji-rekordowe-obroty-etf-i-ryzyko-przegrzania-rynku/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"755\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1-324x235.jpg\" styl",
-      "published": "Tue, 27 Jan 2026 16:52:33 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "UnitedHealth posts modest earnings beat, soft revenue guidance as insurer plots turnaround",
       "link": "https://www.cnbc.com/2026/01/27/unitedhealth-group-unh-earnings-q4-2025.html",
       "summary": "UnitedHealth expects 2026 revenue to come in greater than $439 billion, which is a 2% year-over-year decline that reflects \"right-sizing across the enterprise.\"",
       "published": "Tue, 27 Jan 2026 16:51:55 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Co czeka rynek mieszkaniowy w 2026 roku? Eksperci prognozują",
-      "link": "https://comparic.pl/co-czeka-rynek-mieszkaniowy-w-2026-roku-eksperci-prognozuja/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/ekspertownik.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/ekspertownik-324x235.webp\" style=\"float: left; margin: 0 15",
-      "published": "Tue, 27 Jan 2026 16:45:57 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tani niszczyciel dronów. Polski samolot Draco to nowe wersja kultowej Wilgi",
-      "link": "https://www.bankier.pl/wiadomosc/Tani-niszczyciel-dronow-Polski-samolot-Draco-to-nowe-wersja-kultowej-Wilgi-9075003.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/8/e73e35c2eaf761-948-568-188-0-1638-982.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Samolot Draco to idealne rozwiązanie dla pilotów prywatnych, straży granicznej i wojska – powiedział PAP prezes polskiego startupu Draco Aircraft Johannes von Thadden. Dodał, że",
-      "published": "Tue, 27 Jan 2026 16:43:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Największa na świecie firma kurierska zwolni 30 tys. pracowników",
-      "link": "https://businessinsider.com.pl/wiadomosci/zwolnienia-u-giganta-dotkna-30-tys-osob-w-tle-amazon/fgmj6jq",
-      "summary": "UPS, największa na świecie firma kurierska, ogłosiła we wtorek, że zwolni 30 tys. pracowników. W tle jest decyzja dotycząca Amazona, największego klienta UPS. \"Przez cały rok 2026 zamierzamy zmniejszać liczbę przesyłek o kolejny milion dziennie\"— czytamy w komunikacie.",
-      "published": "Tue, 27 Jan 2026 16:31:46 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Gdzie są serwery KSeF? Będą też zmiany. Ministerstwo wyjaśnia",
-      "link": "https://businessinsider.com.pl/prawo/podatki/bezpieczenstwo-ksef-pod-lupa-ministerstwo-finansow-odpowiada-na-dezinformacje/8ynl63g",
-      "summary": "Serwery KSeF, na których będą przechowywane faktury, są zlokalizowane w Polsce. Dezinformacją są twierdzenia, że serwery są za granicą — poinformowało Ministerstwo Finansów. Resort zapewnia też o bezpieczeństwie systemu i rozwiewa obawy przedsiębiorców. Wiemy też, od kiedy będzie można zgłaszać faktury scamowe, czyli takie, które przedsiębiorcom prześlą oszuści.",
-      "published": "Tue, 27 Jan 2026 16:21:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Agenci ICE na Igrzyskach Olimpijskich we Włoszech. MSZ: To nie przyjedzie SS",
-      "link": "https://www.bankier.pl/wiadomosc/Agenci-ICE-na-Igrzyskach-Olimpijskich-we-Wloszech-MSZ-To-nie-przyjedzie-SS-9074982.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/9/d878e6ed89e254-948-568-5-147-2091-1254.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />We Włoszech trwa polemika wokół udziału funkcjonariuszy amerykańskiego Urzędu ds. Imigracji i Egzekwowania Ceł (ICE) w zapewnieniu bezpieczeństwa podczas Zimowych Igrzysk Olimp",
-      "published": "Tue, 27 Jan 2026 16:17:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tak polskie miasto szykuje się na kryzys. Powstał specjalny magazyn",
-      "link": "https://businessinsider.com.pl/wiadomosci/w-grudziadzu-powstal-specjalny-kryzysowy-magazyn-poprawia-gotowosc-sluzb/421bn59",
-      "summary": "W Grudziądzu (woj. kujawsko-pomorskie) otwarto specjalny magazyn, który ma służyć poprawie bezpieczeństwa mieszkańców miasta i być wsparciem na wypadek poważnego kryzysu. \"Poprawia gotowość służb na sytuacje kryzysowe\" — czytamy we wpisie Urzędu Wojewódzkiego w Bydgoszczy w mediach społecznościowych.",
-      "published": "Tue, 27 Jan 2026 16:11:56 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Złoto i srebro od KGHM. Kombinat pochwalił się wynikami",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/zloto-i-srebro-od-kghm-powyzej-zalozen/yl4ybgt",
-      "summary": "Lepszych okoliczności polska spółka miedziowa wyobrazić sobie nie mogła. Wystrzeliły do rekordowych poziomów ceny wszystkiego, co produkuje. Złoto przebiło 5 tys. dol., srebro 100 dol. za uncję, a do tego miedź też biła ostatnio rekordy. Wystarczy tylko więcej wyprodukować. Jak wygląda sytuacja KGHM od tej strony?",
-      "published": "Tue, 27 Jan 2026 16:06:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Popularyzator technologii z nową inicjatywą. Znamy plany Macieja Kaweckiego",
-      "link": "https://businessinsider.com.pl/wiadomosci/maciej-kawecki-chce-rozszerzyc-dzialalnosc-oto-plany-youtubera/xvnbldp",
-      "summary": "Maciej Kawecki na przestrzeni lat zdobył zarówno szerokie grono zwolenników, jak i przeciwników. Teraz popularyzator technologii poinformował o swoim nowym projekcie. Jego spółki zarządzające kanałami This Is It i This is World na YouTubie pozyskały nowych inwestorów. Znalazł się wśród nich fundusz RIO, za którym stoi założyciel InPostu Rafał Brzoska. Twórca internetowy planuje dzięki inwestycjom ",
-      "published": "Tue, 27 Jan 2026 15:58:17 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Niemiecki gigant po presją. Sprzedał część biznesu Chińczykom",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/czesc-niemieckiego-giganta-przechodzi-w-rece-chinczykow/2mvnqjm",
-      "summary": "Chińska firma Anta kupuje od rodziny Pinault prawie 30 proc. udziałów w Pumie za 1,5 mld euro. Niemiecki gigant odzieżowy borykał się ostatnio z problemami. Anta jest już właścicielem m.in. marek Fila czy Jack Wolfskin. Transakcja ma m.in. zwiększyć obecność Pumy na rynku chińskim.",
-      "published": "Tue, 27 Jan 2026 15:28:55 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "TSUE ws. Węgier i marihuany: Państwo członkowskie nie może głosować przeciwko UE",
-      "link": "https://www.bankier.pl/wiadomosc/TSUE-ws-Wegier-i-marihuany-Panstwo-czlonkowskie-nie-moze-glosowac-przeciwko-UE-9074930.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/2/ad8c937fb67863-948-568-4-14-1986-1192.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Trybunał Sprawiedliwości Unii Europejskiej orzekł we wtorek, że Węgry naruszyły prawo UE, głosując przeciwko wspólnemu stanowisku Rady Unii Europejskiej, dotyczącemu zmiany klas",
-      "published": "Tue, 27 Jan 2026 15:28:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Coraz mniej polskiego węgla, coraz większa produkcja magazynów energii. Nowe dane GUS",
-      "link": "https://businessinsider.com.pl/gospodarka/produkcja-wyrobow-z-gus-coraz-mniej-polskiego-wegla-coraz-wiecej-magazynow-energii/8cvyl3n",
-      "summary": "Po najnowszych danych GUS widać, jak bardzo się kurczy koło zamachowe polskiej gospodarki sprzed wielu lat, a jak przestawiamy się na inne kategorie. Polskiego węgla wydobyto spod ziemi zaledwie 81 mln ton w ub.r., a szczególnie spadała ilość jego brunatnej odmiany. Co w zamian? Zauważyliśmy między innymi skokowy wzrost produkcji akumulatorów wykorzystywanych do magazynów energii.",
-      "published": "Tue, 27 Jan 2026 15:23:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Bunt Węgier i Słowacji ws. rosyjskiego gazu. UE: Spotkamy się w sądzie",
@@ -546,108 +674,12 @@
       "category": "pl"
     },
     {
-      "title": "Więcej gazu popłynie z Polski do Ukrainy. Są nowe ustalenia z Kijowem",
-      "link": "https://businessinsider.com.pl/gospodarka/wzrosnie-przeplyw-gazu-z-polski-do-ukrainy-dziekujemy-polskim-partnerom/364tp0n",
-      "summary": "Od lutego zostanie zwiększona przepustowość w dostawach gazu z Polski do Ukrainy. O porozumieniu, które Warszawa nawiązała w Kijowem w tej sprawie, poinformował we wtorek pierwszy wicepremier i minister energetyki Ukrainy Denys Szmyhal. \"Dziękujemy polskim partnerom\" — napisał na Telegramie.",
-      "published": "Tue, 27 Jan 2026 15:02:11 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Historyczny wyrok w sprawie Korei Północnej. \"Zrujnowane życie\"",
-      "link": "https://businessinsider.com.pl/prawo/sad-w-tokio-zazadal-odszkodowania-od-korei-polnocnej-kim-dzong-un-milczy/lz75n4t",
-      "summary": "Zgodnie z wyrokiem sądu w Tokio Korea Północna powinna zapłacić 88 mln jenów japońskich (ok. 2 mln zł) odszkodowania imigrantom, którzy kilka dekad temu zostali zwabieni do kraju przez propagandę — donosi BBC. Oficjalne komunikaty obiecywały sielankowe życie, a w rzeczywistości osoby te były zmuszane do pracy ponad siły. — Nie będzie przesadą stwierdzenie, że życie większości z nich zostało zrujno",
-      "published": "Tue, 27 Jan 2026 14:53:05 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "TSUE uderza w Węgry. Chodzi o konopie indyjskie",
-      "link": "https://businessinsider.com.pl/gospodarka/wegry-naruszyly-prawo-ue-chodzi-o-konopie/64q5bcd",
-      "summary": "Trybunał Sprawiedliwości Unii Europejskiej orzekł, że Węgry naruszyły prawo UE, głosując przeciwko wspólnemu stanowisku Rady Unii Europejskiej, dotyczącemu zmiany klasyfikacji konopi indyjskich.",
-      "published": "Tue, 27 Jan 2026 14:49:26 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nowy rok i zmiany w urlopach. Tak będzie wyglądać wypłata ekwiwalentu",
-      "link": "https://businessinsider.com.pl/wiadomosci/wyplata-ekwiwalentu-za-urlop-teraz-bedzie-na-nowych-zasadach/ygjg976",
-      "summary": "Od 27 stycznia 2026 r. wejdą w życie nowe przepisy dotyczące wypłaty ekwiwalentu za niewykorzystany urlop wypoczynkowy. Zgodnie z przepisami, termin wypłaty ekwiwalentu będzie powiązany z terminem wypłaty wynagrodzenia. W przypadku wcześniejszego zakończenia pracy, pracodawca będzie musiał wypłacić ekwiwalent w ciągu 10 dni.",
-      "published": "Tue, 27 Jan 2026 14:29:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "New AI tool from Fundrise brings high-level CRE analysis to the public",
       "link": "https://www.cnbc.com/2026/01/27/new-ai-tool-from-fundrise-brings-high-level-cre-analysis-to-the-public.html",
       "summary": "Fundrise's co-founder and CEO, Ben Miller, says the new tool goes far beyond what more generalized AI, like ChatGPT, can offer.",
       "published": "Tue, 27 Jan 2026 14:20:40 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Rekordowa hossa na złocie. Inwestorzy porzucają amerykańską walutę",
-      "link": "https://www.bankier.pl/wiadomosc/Rekordowa-hossa-na-zlocie-Inwestorzy-porzucaja-amerykanska-walute-9074854.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/0/10b2d5f70e7974-948-568-0-367-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Złoto może nadal zyskiwać na wartości, ponieważ rosnąca izolacja USA na arenie międzynarodowej przekonuje wielu inwestorów do redukcji aktywów dolarowych i przejścia na kruszec",
-      "published": "Tue, 27 Jan 2026 14:12:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Umowa UE-Indie przejdzie do historii. Niemcy nie ukrywają zadowolenia",
-      "link": "https://www.money.pl/gospodarka/umowa-ue-indie-przejdzie-do-historii-niemcy-nie-ukrywaja-zadowolenia-7247932063643936a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ebccddf9-7331-429e-be9b-00d2e26fb1f8\" width=\"308\" /> Unia Europejska i Indie zakończyły negocjacje umowy o wolnym handlu - poinformowała we wtorek Komisja Europejska. Berlin z entuzjazmem przyjął porozumienie. - Niemcy muszą szukać nowych partnerów w odpowiedzi na zmiany w globalnym porządku - oświadczyła niemiecka ministra",
-      "published": "Tue, 27 Jan 2026 13:38:11 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Nadchodzi zmiana. Analityk o cenach mieszkań",
-      "link": "https://www.money.pl/gospodarka/nadchodzi-zmiana-analityk-o-cenach-mieszkan-7247933837410881v.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/921fed18-b1d5-4508-bdd9-eb3d8091186e.png\" width=\"308\" /> - Boom na <a href=\"https://www.money.pl/gospodarka/deweloper-wezwal-wiceministra-na-dywanik-te-czasy-sie-skonczyly-7245778462615776a.html\" rel=\"noopener noreferrer\">nieruchomości</a> długoterminowo się kończy. Przede wszystkim ze względu na demografię - uważa Alfred Adamiec. Jak tłum",
-      "published": "Tue, 27 Jan 2026 13:38:01 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Andrzej Duda z nową posadą. Były prezydent dołącza do think tanku w USA",
-      "link": "https://www.bankier.pl/wiadomosc/Andrzej-Duda-z-nowa-posada-Byly-prezydent-dolacza-do-think-tanku-w-USA-9074769.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/2/248bd6c5cdcc80-948-568-340-15-1660-995.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" /> Koniec spekulacji na temat przyszłości Andrzeja Dudy po zakończeniu kadencji. Jeden z najbardziej wpływowych konserwatywnych think tanków na świecie, Heritage Foundation, ofic",
-      "published": "Tue, 27 Jan 2026 12:45:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tak zarabiają na webinarach specjaliści od medycyny, podatków i IT. Nawet 4405 zł za bilet",
-      "link": "https://www.bankier.pl/wiadomosc/Nawet-4405-zl-za-bilet-na-webinar-Tak-zarabiaja-szkoleniach-online-specjalisci-od-medycyny-podatkow-i-IT-9074701.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/5/e3194e17fbd2fc-948-568-0-130-2705-1623.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wydarzenia online stają się jednym z najskuteczniejszych narzędzi komercjalizacji wiedzy eksperckiej, przyciągając tysiące uczestników gotowych płacić za jakość i konkretne umi",
-      "published": "Tue, 27 Jan 2026 11:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wojsko wzywa rekordową liczbę Polaków. Wezwanie mogą dostać też kobiety i 50-latkowie",
-      "link": "https://www.bankier.pl/wiadomosc/Rusza-najwieksza-kwalifikacja-wojskowa-Wezwania-moga-trafic-tez-do-kobiet-9074665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/7/87f3132ac2b6e3-948-568-0-47-1900-1139.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Około 235 tys. osób obejmie w tym roku kwalifikacja wojskowa, która ruszy już w przyszłym tygodniu. Wezwanie mogą otrzymać nie tylko młodzi mężczyźni. Niestawienie się na komisj",
-      "published": "Tue, 27 Jan 2026 11:11:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wchodzi bat na piratów drogowych. Zmiany w przepisach już od czwartku",
-      "link": "https://www.bankier.pl/wiadomosc/Zmiany-w-kodeksie-drogowym-wiezienie-i-utrata-prawa-jazdy-dla-piratow-drogowych-i-recydywistow-9074603.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/4/1fd83960c8ed86-948-568-0-133-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zapowiadane od dłuższego czasu j restrykcyjne kary za rażące łamanie przepisów w ruchu drogowym wejdą w życie w najbliższy czwartek. Piratom drogowym i recydywistą będzie grozi",
-      "published": "Tue, 27 Jan 2026 10:33:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Historyczna umowa UE. Premier Indii zabiera głos",
-      "link": "https://www.money.pl/gospodarka/historyczna-umowa-ue-premier-indii-zabiera-glos-7247884590667968a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/70a5a072-8dd6-4545-9299-178cd896c3d8\" width=\"308\" /> - Indie i Unia Europejska sfinalizowały przełomową umowę handlową, która obejmie jedną czwartą światowej gospodarki - tak finalizację negocjacji skomentował we wtorek indyjski premier Narendra Modi.",
-      "published": "Tue, 27 Jan 2026 10:02:25 +0100",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Auto executives are hoping for the best and planning for the worst in 2026",
