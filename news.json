@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-02-11T21:40:36.278105",
+  "generated_at": "2026-02-12T02:57:59.694279",
   "articles": [
+    {
+      "title": "McDonald’s earnings beat estimates as chain’s value push pays off",
+      "link": "https://www.cnbc.com/2026/02/11/mcdonalds-mcd-q4-2025-earnings.html",
+      "summary": "Buzzy promotions have helped McDonald's win over high-income consumers.",
+      "published": "Wed, 11 Feb 2026 23:45:06 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘Hell of a story, isn’t it?’: My brother stole $500K from my ailing father. Can we get justice?",
+      "link": "https://www.marketwatch.com/story/hell-of-a-story-isnt-it-my-brother-stole-500k-from-my-ailing-father-can-we-get-justice-e2848289?mod=mw_rss_topstories",
+      "summary": "“That money was intended for my children.”",
+      "published": "Wed, 11 Feb 2026 23:04:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why Amazon’s $6.5 billion chip deal with Astera Labs is a ‘double-edged sword’",
+      "link": "https://www.marketwatch.com/story/why-amazons-6-5-billion-chip-deal-with-astera-labs-is-a-double-edged-sword-209424ea?mod=mw_rss_topstories",
+      "summary": "Shares of Astera Labs tumbled on Wednesday despite a fourth-quarter earnings beat, as investors questioned the merits of the large deal with Amazon.",
+      "published": "Wed, 11 Feb 2026 22:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "FAA abruptly halted El Paso flights over Defense Department's plans for anti-drone technology",
+      "link": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
+      "summary": "A Trump administration official said the Department of Defense disabled Mexican cartel drones that had breached U.S. airspace.",
+      "published": "Wed, 11 Feb 2026 22:51:46 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
     {
       "title": "Na Wall Street lekkie spadki, Dow przerwał serię trzech wzrostowych dni",
       "link": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-lekkie-spadki-Dow-przerwal-serie-trzech-wzrostowych-dni-9082434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -26,6 +58,14 @@
       "category": "pl"
     },
     {
+      "title": "Novo Nordisk faces a defining year in the obesity drug market. It’s off to a dramatic start",
+      "link": "https://www.cnbc.com/2026/02/11/novo-nordisk-faces-defining-year-in-the-obesity-drug-market.html",
+      "summary": "The Danish drugmaker kicked off 2026 with its explosive obesity pill launch, but recent challenges have centered around protecting its market share.",
+      "published": "Wed, 11 Feb 2026 22:01:42 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
       "title": "Awantura na Kapitolu. Prokurator Bondi w ogniu pytań o Epsteina",
       "link": "https://www.bankier.pl/wiadomosc/Awantura-na-Kapitolu-Prokurator-Bondi-w-ogniu-pytan-o-Epsteina-9082428.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/9/af91d831300709-948-568-10-280-3983-2390.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prokurator generalna Pam Bondi broniła się w środę w Komisji Sprawiedliwości Izby Reprezentantów przed zarzutami o tuszowanie sprawy Jeffreya Epsteina i narażanie na szwank of",
@@ -34,59 +74,11 @@
       "category": "pl"
     },
     {
-      "title": "McDonald’s earnings beat estimates as chain’s value push pays off",
-      "link": "https://www.cnbc.com/2026/02/11/mcdonalds-mcd-q4-2025-earnings.html",
-      "summary": "Buzzy promotions have helped McDonald's win over high-income consumers.",
-      "published": "Wed, 11 Feb 2026 21:35:54 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Stocks have turned volatile despite strong January jobs report. Here’s why investors aren’t happy.",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-loving-this-january-jobs-report-dcc240e5?mod=mw_rss_topstories",
-      "summary": "Volatility is back on Wall Street on Wednesday, this time with a surprisingly strong jobs report for January playing a central role in the day’s turbulence.",
-      "published": "Wed, 11 Feb 2026 21:33:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "FAA abruptly halted El Paso flights over Defense Department's plans for anti-drone technology",
-      "link": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
-      "summary": "A Trump administration official said the Department of Defense disabled Mexican cartel drones that had breached U.S. airspace.",
-      "published": "Wed, 11 Feb 2026 21:30:49 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Value is the key to McDonald's growth plans, but it's creating tensions with some franchisees",
       "link": "https://www.cnbc.com/2026/02/11/mcdonalds-value-franchisees.html",
       "summary": "McDonald's has doubled down on value, which will likely help boost sales, but some franchisees are standing ground in their ability to continue to independently set prices.",
       "published": "Wed, 11 Feb 2026 21:24:26 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Novo Nordisk faces a defining year in the obesity drug market. It’s off to a dramatic start",
-      "link": "https://www.cnbc.com/2026/02/11/novo-nordisk-faces-defining-year-in-the-obesity-drug-market.html",
-      "summary": "The Danish drugmaker kicked off 2026 with its explosive obesity pill launch, but recent challenges have centered around protecting its market share.",
-      "published": "Wed, 11 Feb 2026 21:23:26 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Why Amazon’s AI spending triggered the stock’s worst slide in over a year",
-      "link": "https://www.marketwatch.com/story/why-amazons-ai-spending-triggered-the-stocks-worst-slide-in-over-a-year-6da31e8c?mod=mw_rss_topstories",
-      "summary": "Amazon’s AI spending plans have spooked investors and triggered a 16% selloff — but some believe the tech giant’s $200 billion bet can pay off.",
-      "published": "Wed, 11 Feb 2026 21:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "This home-generator maker is shifting focus to AI data centers, and the stock is soaring",
-      "link": "https://www.marketwatch.com/story/this-home-generator-maker-is-shifting-focus-to-ai-data-centers-and-the-stock-is-soaring-cc6f3d8f?mod=mw_rss_topstories",
-      "summary": "Fewer power outages led to disappointing residential sales for Generac, but investors cheered the jump in sales to data centers.",
-      "published": "Wed, 11 Feb 2026 21:15:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -130,14 +122,6 @@
       "category": "pl"
     },
     {
-      "title": "‘She is planning to move out of state’: My sister sold our elderly mother’s house from under her. What can I do?",
-      "link": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
-      "summary": "“She claims that she needs to have those funds available for when our mother eventually requires nursing-home care.”",
-      "published": "Wed, 11 Feb 2026 20:31:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Donald Trump stawia na węgiel. \"Rozkaz\" dla Pentagonu",
       "link": "https://businessinsider.com.pl/gospodarka/armia-usa-zasilana-weglem-na-pierwszy-ogien-idzie-pentagon/lq98yjy",
       "summary": "Donald Trump walczy z wiatrakami i stawia na węgiel. Prezydent USA chce, aby Pentagon kupował energię elektryczną z elektrowni węglowych — podają media. To element szerszego planu dla USA. W tle — wzrost zapotrzebowania na energię spowodowany rozwojem sztucznej inteligencji.",
@@ -152,14 +136,6 @@
       "published": "Wed, 11 Feb 2026 20:20:28 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Coal stocks gain as Trump looks set to issue executive order calling for industry deals with military",
-      "link": "https://www.marketwatch.com/story/coal-stocks-gain-as-trump-looks-set-to-issue-executive-order-calling-for-industry-deals-with-military-4acd8005?mod=mw_rss_topstories",
-      "summary": "Coal stocks advanced Wednesday following news that President Donald Trump plans to sign an executive order that could help the industry.",
-      "published": "Wed, 11 Feb 2026 20:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zełenski o 24 lutego jako dacie ogłoszenia wyborów: pierwsze słyszę",
@@ -258,14 +234,6 @@
       "category": "pl"
     },
     {
-      "title": "The latest jobs report is bad news if you’re looking for work — except in these fields",
-      "link": "https://www.marketwatch.com/story/the-latest-jobs-report-is-bad-news-if-youre-looking-for-work-except-in-these-fields-e20d78c9?mod=mw_rss_topstories",
-      "summary": "January’s jobs report easily surpassed Wall Street expectations, giving a temporary boost to stocks Wednesday — but it was downbeat data for many Americans who are unemployed and looking for work.",
-      "published": "Wed, 11 Feb 2026 18:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 11.02.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-11-02-2026-7253325409356160a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 11.02.2026. W środę za jednego franka (CHF) trzeba zapłacić 4.60647 zł.",
@@ -290,14 +258,6 @@
       "category": "pl"
     },
     {
-      "title": "A budget airline cancelled my flight and gave me a $25 voucher and a hotel room. Is this normal?",
-      "link": "https://www.marketwatch.com/story/a-budget-airline-cancelled-my-flight-and-gave-me-a-25-voucher-and-a-hotel-room-is-this-normal-506b2626?mod=mw_rss_topstories",
-      "summary": "“After cancelling, they put me on a different flight that had no TVs.”",
-      "published": "Wed, 11 Feb 2026 18:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Atak na Przesmyk Suwalski? Szef NATO ostrzega Rosję",
       "link": "https://www.bankier.pl/wiadomosc/Atak-na-Przesmyk-Suwalski-Szef-NATO-ostrzega-Rosje-9082354.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/0/1d88285b105c60-948-568-0-91-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sekretarz generalny NATO Mark Rutte oświadczył w środę na konferencji w Brukseli, że reakcja Sojuszu na ewentualną blokadę tzw. przesmyku suwalskiego przez Rosję będzie szybka i",
@@ -311,22 +271,6 @@
       "summary": "Doustdar said Medicare coverage and the launch of Novo's new obesity pill should help gradually boost prescription volumes and offset lower prices in the U.S.",
       "published": "Wed, 11 Feb 2026 18:15:11 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Trump: I hiked Swiss tariffs because their president was rude to me",
-      "link": "https://www.marketwatch.com/story/trump-i-hiked-swiss-tariffs-because-their-prime-minister-was-rude-to-me-ac606de0?mod=mw_rss_topstories",
-      "summary": "Is it a national-security matter if a foreign leader speaks in a way the president doesn’t like?",
-      "published": "Wed, 11 Feb 2026 17:59:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?",
-      "link": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
-      "summary": "“He charged $180 for the second visit for his time, including $40 for the part.”",
-      "published": "Wed, 11 Feb 2026 17:54:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -360,14 +304,6 @@
       "published": "Wed, 11 Feb 2026 17:41:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Chipotle CEO: Don’t come to us for dollar menus",
-      "link": "https://www.marketwatch.com/story/chipotle-ceo-doubles-down-on-not-offering-value-meals-says-our-food-is-worth-every-penny-96f3cbbd?mod=mw_rss_topstories",
-      "summary": "The fast-casual chain isn’t looking to compete with the likes of McDonald’s when it comes to bargain pricing",
-      "published": "Wed, 11 Feb 2026 17:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zarząd JSW zawnioskuje o obniżenie swoich wynagrodzeń",
@@ -727,6 +663,70 @@
       "summary": "The FDA requested that Novo take immediate action to address the violations, which could include ceasing all ads containing misleading claims about the pill.",
       "published": "Tue, 10 Feb 2026 00:16:21 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "I’m trying to fix my relationship with my stepdaughter. Should my husband and I tell her how we have divided our assets?",
+      "link": "https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories",
+      "summary": "“We bought a house outright for $500,000. We each contributed $250,000.”",
+      "published": "Thu, 12 Feb 2026 02:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I feel the clock ticking’: My wife and I are in our 60s — and employ 48 people in a small town. Can we ever retire?",
+      "link": "https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories",
+      "summary": "“We could survive financially, but my people would not.”",
+      "published": "Thu, 12 Feb 2026 01:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Chipotle CEO: Don’t come to us for dollar menus",
+      "link": "https://www.marketwatch.com/story/chipotle-ceo-doubles-down-on-not-offering-value-meals-says-our-food-is-worth-every-penny-96f3cbbd?mod=mw_rss_topstories",
+      "summary": "The fast-casual chain isn’t looking to compete with the likes of McDonald’s when it comes to bargain pricing",
+      "published": "Thu, 12 Feb 2026 01:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Cisco’s stock falls as investors pan a seemingly upbeat earnings report",
+      "link": "https://www.marketwatch.com/story/ciscos-stock-falls-as-investors-pan-a-seemingly-upbeat-earnings-report-17f46ba4?mod=mw_rss_topstories",
+      "summary": "The networking company sported AI momentum and delivered a rosy revenue outlook, but that wasn’t enough for Wall Street.",
+      "published": "Thu, 12 Feb 2026 01:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘She is planning to move out of state’: My sister sold our elderly mother’s house from under her. What can I do?",
+      "link": "https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories",
+      "summary": "“She claims that she needs to have those funds available for when our mother eventually requires nursing-home care.”",
+      "published": "Thu, 12 Feb 2026 01:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "McDonald’s says value meals are bringing back customers, but it still expects a tough year ahead",
+      "link": "https://www.marketwatch.com/story/mcdonalds-says-value-meals-are-bringing-back-customers-as-results-lift-stock-6ba005ed?mod=mw_rss_topstories",
+      "summary": "McDonald’s reported the fastest growth in comparable sales, both in the U.S. and globally, in more than two years.",
+      "published": "Thu, 12 Feb 2026 01:17:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "A budget airline cancelled my flight and gave me a $25 voucher and a hotel room. Is this normal?",
+      "link": "https://www.marketwatch.com/story/a-budget-airline-cancelled-my-flight-and-gave-me-a-25-voucher-and-a-hotel-room-is-this-normal-506b2626?mod=mw_rss_topstories",
+      "summary": "“After cancelling, they put me on a different flight that had no TVs.”",
+      "published": "Thu, 12 Feb 2026 00:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "T-Mobile’s stock turns higher after earnings. Here’s what’s impressing Wall Street.",
+      "link": "https://www.marketwatch.com/story/t-mobile-sees-huge-boom-in-phone-subscribers-but-heres-why-the-stock-is-falling-ae9c445d?mod=mw_rss_topstories",
+      "summary": "The company gave an upbeat forecast for service revenue at its investor day on Wednesday, overshadowing some weak points in its fourth-quarter results.",
+      "published": "Thu, 12 Feb 2026 00:12:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
