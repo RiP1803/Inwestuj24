@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T15:50:32.286321",
+  "generated_at": "2026-02-16T18:56:30.425681",
   "articles": [
     {
       "title": "FAA abruptly halted El Paso flights over Defense Department's plans for anti-drone technology",
@@ -130,22 +130,6 @@
       "category": "us"
     },
     {
-      "title": "Polka po 20 latach pracy w Niemczech. Oto jaką wyliczyli jej emeryturę",
-      "link": "https://www.money.pl/emerytury/polka-po-20-latach-pracy-w-niemczech-oto-jaka-wyliczyli-jej-emeryture-7254654553291200a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/225e0965-5ee1-4e8d-9f75-7603e8135431\" width=\"308\" /> Po 20 latach pracy w Niemczech pani Elżbieta poznała wysokość swojej przyszłej emerytury. Wyliczenie niemieckiej instytucji ubezpieczeniowej wskazuje na świadczenie rzędu 520–600 euro miesięcznie. Kwota okazała się dla niej dużym rozczarowaniem.",
-      "published": "Sun, 15 Feb 2026 15:55:59 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Robią wrzawę wokół emerytur dla Ukraińców. \"Powiedzieć, że kapiszon, to nic nie powiedzieć\" [OPINIA]",
-      "link": "https://www.money.pl/emerytury/robia-wrzawe-wokol-emerytur-dla-ukraincow-powiedziec-ze-kapiszon-to-nic-nie-powiedziec-opinia-7254634444224896a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7d911e1a-afdb-45fd-9cba-0d8dd4cecbe3\" width=\"308\" /> Konfederacja próbuje przekonać Polaków, że Ukraińcy wyjątkowo korzystają na polskim systemie emerytalnym. Tymczasem mowa o jednej dwustusiedziemdziesięciotysięcznej pieniędzy przeznaczanych na emerytury i dopłatach sięgających średnio po 100 zł miesięcznie – pisze w opini",
-      "published": "Sun, 15 Feb 2026 14:08:23 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Lunar New Year gives luxury brands a chance to win back big spenders in China",
       "link": "https://www.cnbc.com/2026/02/14/lunar-new-year-luxury-china.html",
       "summary": "The Chinese luxury market is expected to turnaround this year, but Western brands can't afford to be complacent, analysts said.",
@@ -154,10 +138,258 @@
       "category": "us"
     },
     {
+      "title": "Pentagon w sporze z amerykańską firmą od AI. Chodzi m.in. o inwigilację",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/pentagon-i-anthropic-w-sporze-w-tle-obawy-o-masowa-inwigilacje-obywateli/0357j1g",
+      "summary": "Pentagon jest bliski zerwania współpracy z firmą Anthropic, twórcą modelu AI Claude. Grozi wpisaniem jej na \"czarną listę\" z powodu chęci ograniczenia wojskowego zastosowania technologii — poinformował w poniedziałek portal Axios. Claude miał zostać użyty podczas ostatniej głośnej operacji wojskowej.",
+      "published": "Mon, 16 Feb 2026 18:46:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Popyt na mieszkania odbija. Indeks Nastrojów Deweloperów najwyżej od 2023 roku",
+      "link": "https://comparic.pl/popyt-na-mieszkania-odbija-indeks-nastrojow-deweloperow-najwyzej-od-2023-roku/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-deweloper.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content",
+      "published": "Mon, 16 Feb 2026 18:41:43 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jak wybierać dobre spółki na GPW? Analitycy zdradzają swoje typy",
+      "link": "https://comparic.pl/jak-wybierac-dobre-spolki-na-gpw-analitycy-zdradzaja-swoje-typy/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/02/ChatGPT-Image-3-lut-2026-09_28_14-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/ChatGPT-Image-3-lut-2026-09_28_14-1-",
+      "published": "Mon, 16 Feb 2026 18:38:34 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Niemiecka firma w sieci dostawców Rosji. Dziennikarskie śledztwo ujawnia powiązania",
+      "link": "https://businessinsider.com.pl/gospodarka/ujawnili-powiazania-niemieckiej-firmy-z-rosja-ma-dostarczac-wazny-produkt/bhytr7h",
+      "summary": "Śledztwo przeprowadzone przez dziennikarzy serwisu Kyiv Independent ujawniło podejrzane powiązania między firmą z Niemiec a grupą biznesową z Rosji importującą chemikalia z Europy. Produkty, które płyną do Rosji tym kanałem, mogą być wykorzystywane do produkcji m.in. amunicji — twierdzą autorzy analizy.",
+      "published": "Mon, 16 Feb 2026 18:22:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kryzys na rurociągu „Przyjaźń”. MOL prosi o uwolnienie rezerw",
+      "link": "https://www.bankier.pl/wiadomosc/MOL-rozpoczyna-uwalnianie-strategicznych-rezerw-ropy-naftowej-9084595.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/77802ee929ac67-948-569-7-72-991-595.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grupa MOL zwróciła się do węgierskiego Ministerstwa Energii o uwolnienie strategicznych rezerw ropy naftowej - poinformowała spółka w komunikacie. Dzięki tym działaniom spółka zap",
+      "published": "Mon, 16 Feb 2026 18:22:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 16.02.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-16-02-2026-7255089002383744a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 16.02.2026. W poniedziałek po godz. 18 za jednego funta brytyjskiego (GBP) trzeba zapłacić 4,8393 zł.",
+      "published": "Mon, 16 Feb 2026 18:13:25 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.02.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-02-2026-7255088801384832a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 16.02.2026. W poniedziałek po godz. 18 za jednego franka (CHF) trzeba zapłacić 4,6085 zł.",
+      "published": "Mon, 16 Feb 2026 18:12:24 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 16.02.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-16-02-2026-7255088372185472a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 16.02.2026. W poniedziałek o godz. 18:10 za jedno euro (EUR) trzeba zapłacić 4,2080 zł.",
+      "published": "Mon, 16 Feb 2026 18:11:06 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.02.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-02-2026-7255087408843136a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 16.02.2026. W poniedziałek po godzinie 18 za jednego dolara (USD) płacono 3,5467 zł.",
+      "published": "Mon, 16 Feb 2026 18:08:23 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Węgierski odpowiednik Orlenu sięga po koło ratunkowe. Brakuje strategicznego surowca",
+      "link": "https://businessinsider.com.pl/gielda/surowce/mol-ma-problem-prosi-o-uwolnienie-strategicznych-rezerw-ropy-naftowej/mjwrcve",
+      "summary": "Węgierski gigant z branży surowców, MOL, zwrócił się do węgierskiego Ministerstwa Energii o uwolnienie strategicznych rezerw ropy naftowej. To efekt problemów z dostawami przez Rurociąg Przyjaźń.",
+      "published": "Mon, 16 Feb 2026 17:59:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Złoto spada poniżej 5000 USD! Czy zaczyna się kolejna fala spadków?",
+      "link": "https://comparic.pl/zloto-spada-ponizej-5000-usd-czy-zaczyna-sie-kolejna-fala-spadkow/",
+      "summary": "<img alt=\"złoto\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/zloto-chatgpt.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"złoto\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/zloto-chatgpt-324x235.jpg\" style=\"float: left; m",
+      "published": "Mon, 16 Feb 2026 17:56:18 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Perła w koronie polskiej gospodarki\". Orlen wart ponad 100 mld zł na giełdzie",
+      "link": "https://www.bankier.pl/wiadomosc/Perla-w-koronie-polskiej-gospodarki-Orlen-wart-ponad-100-mld-zl-na-gieldzie-9084569.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/2/ce937da5cf8e57-948-568-0-184-4565-2739.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska energetyka jest bardziej odporna niż kiedykolwiek, pomimo niestabilności cen na świecie, ceny energii w Polsce konsekwentnie spadają – ocenił prezes Orlenu Ireneusz Fąfa",
+      "published": "Mon, 16 Feb 2026 17:53:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jak owce bez przewodnika. Dzień prezydenta odbił się na giełdowych notowaniach",
+      "link": "https://www.bankier.pl/wiadomosc/Jak-owce-bez-przewodnika-Dzien-prezydenta-odbil-sie-na-gieldowych-notowaniach-9084559.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/6/8cf8f394351897-945-560-0-1191-1414-848.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Poniedziałkowa sesja na GPW upłynęła pod znakiem ograniczonej aktywności przy zamkniętych rynkach w USA i Chinach. Kosmetyczne zmiany głównych indeksów przy obniżonych obrotach",
+      "published": "Mon, 16 Feb 2026 17:38:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Unia rynków kapitałowych przyspieszy? Polska w grupie E6 stawia na ambitne zmiany",
+      "link": "https://www.bankier.pl/wiadomosc/Unia-rynkow-kapitalowych-przyspieszy-Polska-w-grupie-E6-stawia-na-ambitne-zmiany-9084555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/3/decc7593484b99-948-568-30-89-2970-1781.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister finansów Andrzej Domański w poniedziałek w Brukseli wziął udział w pierwszym spotkaniu ministrów finansów, reprezentujących sześć najsilniejszych gospodarek UE zwanych",
+      "published": "Mon, 16 Feb 2026 17:36:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jak często kontrolerzy sprawdzają domy pod kątem abonamentu RTV? Poczta Polska odpowiada",
+      "link": "https://businessinsider.com.pl/finanse/abonament-rtv-pod-lupa-kontrolerow-jak-duza-szansa-ze-zapukaja-do-ciebie/rw2h7hr",
+      "summary": "Płacisz abonament RTV? Jeśli kontroler stwierdzi posiadanie sprawnego odbiornika radiofonicznego lub telewizyjnego, który nie został zarejestrowany, może nałożyć karę w wysokości 30-krotności miesięcznej opłaty.",
+      "published": "Mon, 16 Feb 2026 17:28:52 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Czy 2026 to początek końca dominacji USA? Ray Dalio ostrzega przed nową fazą Wielkiego Cyklu",
+      "link": "https://comparic.pl/czy-2026-to-poczatek-konca-dominacji-usa-ray-dalio-ostrzega-przed-nowa-faza-wielkiego-cyklu/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"683\" src=\"https://comparic.pl/wp-content/uploads/2021/03/ray-dalio.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1024\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2021/03/ray-dalio-324x235.jpg\" style=\"float: left; margin: 0 15px 15px ",
+      "published": "Mon, 16 Feb 2026 17:11:06 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Co to jest WIG20? Wszystko, co musisz wiedzieć o indeksie GPW",
+      "link": "https://businessinsider.com.pl/finanse/co-to-jest-wig20-oto-jak-dziala-jakie-spolki-i-dlaczego-jest-wazny/s29lpk6",
+      "summary": "WIG20 to najważniejszy indeks warszawskiej giełdy, który od lat pokazuje kondycję największych polskich spółek. Jego historia to wzloty i upadki, a skład regularnie się zmienia. Wyjaśniamy, jak działa WIG20, jakie spółki wchodzą w jego skład i dlaczego ten indeks GPW nazywany indeksem \"blue chipów\".",
+      "published": "Mon, 16 Feb 2026 17:02:30 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wykonanie budżetu na starcie 2026 roku. Resort podał dane o deficycie",
+      "link": "https://www.bankier.pl/wiadomosc/Wykonanie-budzetu-na-starcie-2026-roku-Resort-podal-dane-o-deficycie-9084522.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/9/ae64b64cae48b5-948-568-10-448-1083-649.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Deficyt budżetu państwa po styczniu br. wyniósł 3,7 mld zł - wynika z opublikowanych w poniedziałek szacunków Ministerstwa Finansów. Wydatki wyniosły 59,3 mld z, a dochody 55,6",
+      "published": "Mon, 16 Feb 2026 17:01:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jak zalogować się do Twój e-PIT? Wyjaśniamy krok po kroku",
+      "link": "https://businessinsider.com.pl/prawo/podatki/jak-zalogowac-sie-do-twoj-e-pit-i-zlozyc-pit-2025-online/nt2e78h",
+      "summary": "Od 15 lutego 2026 r. w usłudze Twój e-PIT czekają na podatników gotowe rozliczenia PIT za 2025 rok. Najłatwiej zalogować się do systemu przez aplikację mobilną e-Urzędu Skarbowego (e-US), ale dostępne są też inne metody. Wyjaśniamy, jak szybko i bezpiecznie uzyskać dostęp do swojego rozliczenia.",
+      "published": "Mon, 16 Feb 2026 17:00:07 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ceny apartamentów od Roberta Lewandowskiego zwalają z nóg. W środku luksusy",
+      "link": "https://businessinsider.com.pl/nieruchomosci/tyle-kosztuja-apartamenty-od-lewandowskiego-w-warszawie-kwoty-zwalaja-z-nog/z894gkj",
+      "summary": "Nawet 80 tys. zł za m kw. może kosztować lokal w apartamentowcu przy ul. Chłodnej 35 w Warszawie — wynika z informacji na stronie internetowej firmy Monting Development, której jednym z udziałowców jest piłkarz Robert Lewandowski. O tzw. inwestycji Lewandowskiego zrobiło się ostatnio głośno po tym, jak deweloper opublikował cennik w sieci. Sprawdzamy, co znajduje się w środku obiektu, co mogłoby w",
+      "published": "Mon, 16 Feb 2026 16:50:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polska bomba atomowa? Ekspert: Kosztowny plan prezydenta oznacza izolację",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-bomba-atomowa-Ekspert-Kosztowny-plan-prezydenta-oznacza-izolacje-9084513.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/7/e899b85644ce3c-948-567-0-0-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Uruchomienie własnego programu jądrowego przez Polskę byłoby kosztowne, mogłoby zająć kilkanaście lat i musielibyśmy liczyć się z negatywną reakcją społeczności międzynarodowej - ",
+      "published": "Mon, 16 Feb 2026 16:48:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Minister aktywów państwowych zapowiada krok naprzód w sprawie local content",
+      "link": "https://businessinsider.com.pl/biznes/local-content-po-polsku-wojciech-balczun-zapowiada-kolejny-krok/93ffn0t",
+      "summary": "W tym tygodniu zaproponujemy definicję local content, którą wypracowaliśmy w ostatnim czasie. Jesteśmy po uzgodnieniach z Urzędem Zamówień Publicznych i GUS — powiedział minister aktywów państwowych Wojciech Balczun podczas podsumowania pierwszego roku realizacji strategii Orlenu.",
+      "published": "Mon, 16 Feb 2026 16:46:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Problem na wschodniej flance NATO. W Niemczech zgłosiło się zaledwie 200 żołnierzy",
+      "link": "https://www.bankier.pl/wiadomosc/Problem-na-wschodniej-flance-NATO-W-Niemczech-zglosilo-sie-zaledwie-200-zolnierzy-9084511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/2/c13f4f38822aa9-948-568-34-139-4623-2773.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do służby w 45. brygadzie pancernej Bundeswehry „Litwa” zgłosiło się zaledwie 10 proc. potrzebnych żołnierzy. Szef komisji obrony Bundestagu Thomas Roewekamp zapowiedział, że ",
+      "published": "Mon, 16 Feb 2026 16:46:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I’m a loner’: I’m 62 with a multimillion-dollar portfolio and no heirs. Should I find a wife for my twilight years?",
+      "link": "https://www.marketwatch.com/story/im-a-loner-im-62-with-a-multimillion-dollar-portfolio-and-no-heirs-should-i-find-a-wife-for-my-twilight-years-4f4f4408?mod=mw_rss_topstories",
+      "summary": "“I have never been married, have no siblings, and both my parents have passed away.”",
+      "published": "Mon, 16 Feb 2026 16:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Warszawa ujawnia ceny mieszkań. Każdy może sprawdzić realne stawki w rejestrze",
+      "link": "https://businessinsider.com.pl/nieruchomosci/warszawa-udostepnia-ceny-mieszkan-rejestr-cen-nieruchomosci-juz-dostepny/y7fk3hj",
+      "summary": "Jawne ceny mieszkań i domów w Warszawie stały się faktem. Stolica udostępniła publicznie Rejestr Cen Nieruchomości, który pokazuje realne stawki z aktów notarialnych. To przełom dla kupujących, sprzedających i inwestorów analizujących rynek nieruchomości.",
+      "published": "Mon, 16 Feb 2026 16:39:42 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rekordowe wyniki Freedom Holding Corp.145,4 mln USD zysku netto w dziewięć miesięcy",
+      "link": "https://comparic.pl/rekordowe-wyniki-freedom-holding-corp-1454-mln-usd-zysku-netto-w-dziewiec-miesiecy/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk-hossa-wzrost-growth-stock-market-chart.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk",
+      "published": "Mon, 16 Feb 2026 16:20:55 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Chorzy w Polsce nie dożywają tego, co obiecało im państwo. Tyle jeszcze poczekają",
+      "link": "https://businessinsider.com.pl/prawo/historia-hani-ma-ciag-dalszy-kiedy-zmiany-w-chorych-przepisach/cbwx760",
+      "summary": "Historia Hani, opisana niedawno przez Business Insidera, została zauważona przez resort rodziny, który obiecuje zmiany chorych przepisów. Niestety zajmie to dużo czasu. Wiadomo m.in. kiedy projekt nowych przepisów ma trafić do prac parlamentarnych.",
+      "published": "Mon, 16 Feb 2026 16:11:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I feel the clock ticking’: My wife and I are in our 60s — and employ 48 people in a small town. Can we ever retire?",
+      "link": "https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories",
+      "summary": "“We could survive financially, but my people would not.”",
+      "published": "Mon, 16 Feb 2026 16:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘It’s a life-changing sum’: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
+      "link": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "summary": "”I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.”",
+      "published": "Mon, 16 Feb 2026 15:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "\"Broń masowego rażenia\" czy WIBOR-owy kapiszon? Adwokat o głośnym formularzu [OPINIA]",
       "link": "https://businessinsider.com.pl/prawo/opinie/wyrok-tsue-zamyka-spory-o-wibor-czy-esis-cos-zmienia/hdn0565",
       "summary": "W przestrzeni publicznej pojawiły się ostatnio wypowiedzi sugerujące, że formularz ESIS może stanowić nową podstawę do unieważniania umów kredytów hipotecznych opartych o WIBOR. Tego rodzaju interpretacje nie znajdują potwierdzenia ani w przepisach prawa, ani w ostatnim wyroku TSUE. Tak uważa adwokat Łukasz Merski ze Związku Banków Polskich.",
       "published": "Mon, 16 Feb 2026 15:45:34 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kontrole abonamentu RTV w całym kraju. Poczta Polska o wizytach w domach",
+      "link": "https://www.bankier.pl/wiadomosc/Kontrole-abonamentu-RTV-w-calym-kraju-Poczta-Polska-o-wizytach-w-domach-9084460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/07b4bd2e4ac8f8-948-568-0-131-2508-1504.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Liczba kontroli w gospodarstwach domowych jest znikoma i stanowi jedynie niewielki odsetek wszystkich - poinformowało PAP Biuro Prasowe Poczty Polskiej w odpowiedzi na pytania ",
+      "published": "Mon, 16 Feb 2026 15:44:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Papież ostro o nowoczesnych rozwiązaniach. \"Osłabiają krytyczne myślenie i umiejętności kreatywne\"",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/papiez-ostro-o-nowoczesnych-rozwiazaniach-sa-przypadki-samobojstw/7nt7t7e",
+      "summary": "W dobie szybkiego rozwoju sztucznej inteligencji głosy ostrzegawcze płyną z nieoczekiwanych stron. Papież Leon XIV, głowa Kościoła Katolickiego, w swoich ostatnich wypowiedziach wezwał do pilnych regulacji AI, szczególnie w kontekście chatbotów, które mogą prowadzić do poważnych problemów emocjonalnych i psychicznych wśród młodych użytkowników. Wszystko po przypadkach samobójstw wśród młodych ludz",
+      "published": "Mon, 16 Feb 2026 15:40:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
@@ -172,7 +404,7 @@
     {
       "title": "Deficyt budżetu dużo wyższy rok do roku. W kolejnych miesiącach będzie jeszcze gorzej",
       "link": "https://businessinsider.com.pl/finanse/deficyt-budzetowy-polski-duzo-wyzszy-rok-do-roku-to-dopiero-poczatek/gbhfd94",
-      "summary": "Deficyt budżetu będzie w tym roku rekordowy. Decydują o tym wydatki na programy socjalne, na zbrojenia oraz na obsługę długu. Ministerstwo podało dane za styczeń. Dziura budżetowa z całą mocą objawi się w kolejnych miesiącach, ale i pierwszy miesiąc nie był dobry. Szczególnie niepokojące są informacje o kosztach obsługi długu.",
+      "summary": "Deficyt budżetu będzie w tym roku rekordowy. Decydują o tym wydatki na programy socjalne, na zbrojenia oraz na obsługę długu. W poniedziałek Ministerstwo Finansów podało dane za styczeń. Dziura budżetowa z całą mocą objawi się w kolejnych miesiącach, ale i pierwszy miesiąc nie był dobry. Koszty obsługi długu wzrosły aż dwukrotnie.",
       "published": "Mon, 16 Feb 2026 15:31:57 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -210,10 +442,10 @@
       "category": "us"
     },
     {
-      "title": "Wielka awaria serwisu X. Nie działa ani aplikacja, ani strona www",
-      "link": "https://www.bankier.pl/wiadomosc/Wielka-awaria-serwisu-X-Nie-dziala-ani-aplikacja-ani-strona-www-9084435.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/d/4398ca4b6acbd1-948-568-55-170-1300-780.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Krótko przed godz. 15 polskiego czasu w poniedziałek użytkownicy serwisu DownDetector zaczęli zgłaszać awarię serwisu X. Nie działa on ani w wersji przeglądarkowej, ani jako ap",
-      "published": "Mon, 16 Feb 2026 15:08:00 +0100",
+      "title": "Twórca SKOK-ów twarzą w twarz z b. szefami KNF. Burzliwe przesłuchanie w sądzie",
+      "link": "https://www.bankier.pl/wiadomosc/Tworca-SKOK-ow-twarza-w-twarz-z-b-szefami-KNF-Burzliwe-przesluchanie-w-sadzie-9084432.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/3/f5b5865051007b-945-560-0-33-1496-897.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Warszawski sąd, przed którym toczy się proces byłych szefów KNF ws. nadzoru nad SKOK Wołomin, przesłuchuje w poniedziałek - jako świadka - współtwórcę społecznych kas oszczędnośc",
+      "published": "Mon, 16 Feb 2026 15:05:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -226,17 +458,17 @@
       "category": "us"
     },
     {
-      "title": "Nie będzie koalicji? Kaczyński drwi z otoczenia Brauna: Tam są różne jaszczury",
-      "link": "https://www.bankier.pl/wiadomosc/Nie-bedzie-koalicji-Kaczynski-drwi-z-otoczenia-Brauna-Tam-sa-rozne-jaszczury-9084424.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/9/32ddfe7217c702-948-568-0-120-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie ma mowy o żadnych sojuszach z Konfederacją Korony Polskiej, partią europosła Grzegorza Brauna - podkreślił w poniedziałek prezes PiS Jarosław Kaczyński. W jego ocenie jest ",
+      "title": "Prąd po 160 zł za MWh? Eksperci: To możliwe, jeśli potroimy moc wiatraków",
+      "link": "https://www.bankier.pl/wiadomosc/Prad-po-160-zl-za-MWh-Eksperci-To-mozliwe-jesli-potroimy-moc-wiatrakow-9084425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/5/8a12cc056da432-948-568-0-768-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Trzykrotny wzrost mocy w energetyce wiatrowej i szybszy jej rozwój w stosunku do propozycji rządu, przełoży się na spadek hurtowych cen energii elektrycznej do poziomu 160-320 ",
       "published": "Mon, 16 Feb 2026 15:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
     {
-      "title": "Prąd po 160 zł za MWh? Eksperci: To możliwe, jeśli potroimy moc wiatraków",
-      "link": "https://www.bankier.pl/wiadomosc/Prad-po-160-zl-za-MWh-Eksperci-To-mozliwe-jesli-potroimy-moc-wiatrakow-9084425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/5/8a12cc056da432-948-568-0-768-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Trzykrotny wzrost mocy w energetyce wiatrowej i szybszy jej rozwój w stosunku do propozycji rządu, przełoży się na spadek hurtowych cen energii elektrycznej do poziomu 160-320 ",
+      "title": "Nie będzie koalicji? Kaczyński drwi z otoczenia Brauna: Tam są różne jaszczury",
+      "link": "https://www.bankier.pl/wiadomosc/Nie-bedzie-koalicji-Kaczynski-drwi-z-otoczenia-Brauna-Tam-sa-rozne-jaszczury-9084424.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/9/32ddfe7217c702-948-568-0-120-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie ma mowy o żadnych sojuszach z Konfederacją Korony Polskiej, partią europosła Grzegorza Brauna - podkreślił w poniedziałek prezes PiS Jarosław Kaczyński. W jego ocenie jest ",
       "published": "Mon, 16 Feb 2026 15:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
@@ -247,6 +479,14 @@
       "summary": "<img alt=\"AI Bitcoin RSI\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/02/ChatGPT-Image-16-lut-2026-09_42_18-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"AI Bitcoin RSI\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/ChatGPT",
       "published": "Mon, 16 Feb 2026 14:59:15 +0000",
       "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "„Rosja szykuje zmasowane uderzenie”. Zełenski wydaje pilne rozkazy dowódcom",
+      "link": "https://www.bankier.pl/wiadomosc/Rosja-szykuje-zmasowane-uderzenie-Zelenski-wydaje-pilne-rozkazy-dowodcom-9084423.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/1/cfe7d69d5955e9-948-568-0-202-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski zapowiedział, że w tym tygodniu we Francji odbędzie się spotkanie z sojusznikami w formacje tzw. energetycznego Ramstein. Polecił też przyg",
+      "published": "Mon, 16 Feb 2026 14:59:00 +0100",
+      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -284,26 +524,18 @@
     {
       "title": "Awaria w X. Zgłoszenia z całego świata",
       "link": "https://businessinsider.com.pl/technologie/awaria-platformy-x-elona-muska-uzytkownicy-na-calym-swiecie-maja-problem/c3wclt1",
-      "summary": "Problemy techniczne dotknęły platformę X, należącą do Elona Muska, a użytkownicy masowo zgłaszają trudności z dostępem do serwisu. Nie jest jeszcze jasne, co spowodowało awarię.",
+      "summary": "Problemy techniczne dotknęły w poniedziałek platformę X, należącą do Elona Muska, a użytkownicy masowo zgłaszali trudności z dostępem do serwisu. Nie jest jeszcze jasne, co spowodowało awarię.",
       "published": "Mon, 16 Feb 2026 14:51:28 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
     {
-      "title": "Rosyjski Paks II i amerykańskie SMR-y. Węgry balansują między mocarstwami w energetyce",
-      "link": "https://www.bankier.pl/wiadomosc/Rosyjski-Paks-II-i-amerykanskie-SMR-y-Wegry-balansuja-miedzy-mocarstwami-w-energetyce-9084411.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/c/eff19f67b6cbf0-948-568-0-156-3469-2081.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sekretarz stanu USA Marco Rubio i minister spraw zagranicznych Węgier Peter Szijjarto podpisali w poniedziałek w Budapeszcie umowę ws. cywilnej energetyki jądrowej - ogłosił w ",
-      "published": "Mon, 16 Feb 2026 14:47:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Bez stempli w paszportach, za to w kolejkach. Utrudnienia na granicach UE",
-      "link": "https://www.bankier.pl/wiadomosc/Bruksela-reaguje-na-skargi-lotnisk-Wykryto-trudnosci-techniczne-przy-wdrazaniu-EES-9084402.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/1/616dbdd74578a3-948-568-0-133-1980-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rzecznik Komisji Europejskiej Guillaume Mercier poinformował w poniedziałek, że w kilku krajach UE wykryto problemy techniczne z cyfrowym systemem wjazdu i wyjazdu. Według wład",
-      "published": "Mon, 16 Feb 2026 14:31:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Jak \"usunąć się\" z Google? Ukryj swoje zdjęcia i inne dane z wyszukiwarki [KROK PO KROKU]",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/jak-usunac-swoje-dane-z-google-poradnik-krok-po-kroku/0z5nxxp",
+      "summary": "Czy po wpisaniu swojego imienia i nazwiska do wyszukiwarki Google znajdujesz tam zdjęcia lub informacje, którymi nie chcesz dzielić się w tak prosty sposób z całym światem? Teraz Google udostępnia proste narzędzie pomocy, dzięki któremu łatwo sprawdzimy, jakie informacje i zdjęcia są dostępne w wynikach wyszukiwania o nas, a także pozwala nam wnioskować o ich ukrycie z wyników wyszukiwań. Oto jak ",
+      "published": "Mon, 16 Feb 2026 14:44:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "These might be the winners from the latest round of Chinese new year AI launches",
@@ -316,18 +548,10 @@
     {
       "title": "Tak Węgry zasilają wojenny budżet Rosji. \"Trwała luka w reżimie sankcji\"",
       "link": "https://businessinsider.com.pl/gospodarka/wegry-nadal-kupuja-rosyjska-rope-zyskuje-gigant-powiazany-z-rzadem-orbana/ykxs9f8",
-      "summary": "Węgry wciąż kupują rosyjską ropę mimo dostępności alternatywnych źródeł, a zyskuje na tym głównie paliwowy gigant powiązany z Viktorem Orbanem — alarmuje raport Centrum Studiów nad Demokracją (CSD), którego ustalenia publikuje CNN. W ten sposób kraj nie tylko finansuje machinę wojenną Rosji, ale też nie spełnia obietnic Orbana, który zapowiadał tańsze paliwa dla mieszkańców.",
+      "summary": "Węgry wciąż kupują rosyjską ropę mimo dostępności alternatywnych źródeł — alarmuje raport Centrum Studiów nad Demokracją (CSD), którego ustalenia publikuje CNN. W ten sposób kraj finansuje machinę wojenną Rosji. Nie spełnia przy tym obietnic Viktora Orbana, który zapowiadał tańsze paliwa dla mieszkańców. Zyski z oszczędności idą na zupełnie inne konto.",
       "published": "Mon, 16 Feb 2026 14:26:10 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Manewry w cieniu dyplomacji. Iran testuje gotowość bojową w kluczowej cieśninie Ormuz",
-      "link": "https://www.bankier.pl/wiadomosc/Manewry-w-cieniu-dyplomacji-Iran-testuje-gotowosc-bojowa-w-kluczowej-ciesninie-Ormuz-9084395.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/e/cd8c00d027f373-945-567-0-0-1286-772.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Marynarka wojenna Korpusu Strażników Rewolucji Islamskiej (IRGC) rozpoczęła w poniedziałek manewry w strategicznej cieśninie Ormuz – poinformowała półoficjalna agencja irańska Tas",
-      "published": "Mon, 16 Feb 2026 14:23:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Prokuratura interweniuje ws. marki „Nowrocky”. Prezydent: Pożyczyłem koszulkę. Nie mam z tego zysku",
@@ -336,14 +560,6 @@
       "published": "Mon, 16 Feb 2026 14:19:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Są problemy z cyfrowym systemem na granicach kilku krajów UE. Mogą robić się kolejki",
-      "link": "https://businessinsider.com.pl/technologie/kolejki-na-granicach-przez-nowy-system-kontroli-jest-komentarz-ke/d2s882r",
-      "summary": "Nowy system kontrolujący wjazd i wyjazd osób spoza UE jest w fazie testów. Ma w pełni zacząć działać w całej strefie od 10 kwietnia. Tymczasem linie lotnicze o lotniska zgłaszają problemy. Jeśli nic się nie zmieni do wakacji, w szczycie sezonu będzie zamieszanie i wielogodzinne kolejki do kontroli.",
-      "published": "Mon, 16 Feb 2026 14:12:42 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Wall Street potajemnie skupuje XRP! Szokująca prognoza 1000 USD przestaje być żartem",
@@ -370,60 +586,12 @@
       "category": "us"
     },
     {
-      "title": "Panika na Wall Street: Dlaczego inwestorzy masowo uciekają z akcji technologicznych do obligacji USA?",
-      "link": "https://comparic.pl/panika-na-wall-street-dlaczego-inwestorzy-masowo-uciekaja-z-akcji-technologicznych-do-obligacji-usa/",
-      "summary": "<img alt=\"Daniel Kostecki Analityk Rynków Finansowych CMC Markets\" class=\"attachment-full size-full wp-post-image\" height=\"740\" src=\"https://comparic.pl/wp-content/uploads/2023/01/Capture-336.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1101\" /><img alt=\"Daniel Kostecki Analityk Rynków Finansowych CMC Markets\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src",
-      "published": "Mon, 16 Feb 2026 13:57:31 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Import nawozów z Rosji nie ustaje mimo wysiłku UE. Polska niechlubnym liderem",
-      "link": "https://businessinsider.com.pl/gospodarka/import-nawozow-z-rosji-nie-ustaje-w-ue-polska-na-pierwszym-miejscu/ygez16z",
-      "summary": "Najnowsze dane Eurostat pokazują, że choć w drugiej połowie 2025 r. Unia Europejska wyraźnie ograniczyła zakupy nawozów z Rosji, skala importu nadal pozostaje bardzo duża. Od lipca do grudnia do krajów Wspólnoty trafiło łącznie 1,53 mln ton takich produktów, czyli o 44 proc. mniej niż rok wcześniej. Największym odbiorcą okazała się tutaj Polska.",
-      "published": "Mon, 16 Feb 2026 13:52:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
       "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
       "summary": "Unloved companies with rock-bottom expectations are the real engines of your portfolio.",
       "published": "Mon, 16 Feb 2026 13:51:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "16 firm technologicznych z 11 krajów łączy siły. Mają pięć zasad",
-      "link": "https://businessinsider.com.pl/biznes/giganci-technologiczni-zawarli-sojusz-16-firm-z-11-krajow/7mz94gc",
-      "summary": "Firmy z Afryki, Azji, Europy i Ameryki Północnej ogłosiły powołanie jednej grupy. Wśród nich jest m.in. Google i Nokia. To globalni dostawcy technologii, którzy łączą siły, opierając się na wspólnym zestawie zasad dotyczących m.in. łączności, infrastruktury chmurowej czy oprogramowania i sztucznej inteligencji.",
-      "published": "Mon, 16 Feb 2026 13:46:44 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bitcoin za 68 000$: Najgorszy kwartał od 2018 roku to fakt",
-      "link": "https://comparic.pl/bitcoin-za-68-000-najgorszy-kwartal-od-2018-roku-to-fakt/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/02/Bitcoin-at-68K-The-worst-quarter-since-2018-is-confirmed2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/Bitcoin-at-68K-",
-      "published": "Mon, 16 Feb 2026 13:46:38 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Jak uzyskać pożyczkę w 2026 roku? Poradnik bezpiecznego wyboru",
-      "link": "https://comparic.pl/jak-uzyskac-pozyczke-w-2026-roku-poradnik-bezpiecznego-wyboru/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"467\" src=\"https://comparic.pl/wp-content/uploads/2019/10/Jak-nie-dać-się-oszukać-w-Internecie-szukając-pożyczki_.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2019/10/Jak-nie-dać-się-os",
-      "published": "Mon, 16 Feb 2026 13:46:35 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Bitcoin traci wobec złota. Willy Woo wskazuje na zagrożenie",
-      "link": "https://comparic.pl/bitcoin-traci-wobec-zlota-willy-woo-wskazuje-na-zagrozenie/",
-      "summary": "<img alt=\"Bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-Bitcoin-BTC-komputery-kwantowe.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"Bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/AI-Bitcoin-BTC-komputer",
-      "published": "Mon, 16 Feb 2026 13:45:17 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Rząd częściowo odtajni listę projektów SAFE? \"Możemy się spodziewać w najbliższych dniach\"",
@@ -434,14 +602,6 @@
       "category": "pl"
     },
     {
-      "title": "Miliardy na ochronę ludności. Oto co deklaruje rząd",
-      "link": "https://businessinsider.com.pl/gospodarka/marcin-kierwinski-o-nowych-wydatkach-na-ochrone-ludnosci-polska-szykuje-schrony/cbrnk2w",
-      "summary": "Zakupy sprzętu ratowniczego, modernizacja służb i przygotowania do budowy schronów — tak według szefa MSWiA wygląda pierwszy bilans obowiązywania ustawy o ochronie ludności i obronie cywilnej. Marcin Kierwiński podkreśla, że wydane miliardy to odpowiedź nie tylko na klęski żywiołowe, ale też na nową sytuację geopolityczną Polski.",
-      "published": "Mon, 16 Feb 2026 13:40:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Sasin alarmuje o „prywatyzacji 10 spółek”. MAP odpowiada: Nie stracimy kontroli, naprawiamy błędy poprzedników",
       "link": "https://www.bankier.pl/wiadomosc/Sasin-alarmuje-o-prywatyzacji-10-spolek-MAP-odpowiada-Nie-stracimy-kontroli-naprawiamy-bledy-poprzednikow-9084367.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/e/a8a2caa14243ce-948-568-291-676-3986-2392.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska nie straci kontroli nad żadną spółką z udziałem Skarbu Państwa - zapewnił w poniedziałek resort aktywów państwowych. Odniósł się w ten sposób do wpisu Jacka Sasina (Pi",
@@ -450,100 +610,12 @@
       "category": "pl"
     },
     {
-      "title": "Wojna cenowa na polskich torach? Czesi straszą, PKP odpowiada obniżkami",
-      "link": "https://www.bankier.pl/wiadomosc/Wojna-cenowa-na-polskich-torach-Czesi-strasza-PKP-odpowiada-obnizkami-9084315.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/f/8f2941cea308cd-948-568-0-110-3966-2380.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />PKP Intercity obniża ceny. Pociągiem Pendolino możemy pojechać za kilkadziesiąt złotych. To wszystko przez wejście na polskie tory czeskiego konkurenta, spółki Regiojet - czyta",
-      "published": "Mon, 16 Feb 2026 13:25:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rozbudowa autostrady A4. Minister infrastruktury podjął ważną decyzję",
-      "link": "https://businessinsider.com.pl/gospodarka/koniec-oplat-na-a4-w-2027-jest-decyzja-ministra/t1h8jyh",
-      "summary": "Minister infrastruktury Dariusz Klimczak podpisał dokumenty uruchamiające program rozbudowy autostrady A4 na terenie Małopolski i Śląska. Inwestycja obejmie poszerzenie trasy o dodatkowe pasy ruchu, a jej realizacja ma odpowiedzieć na rosnące natężenie ruchu na jednej z najważniejszych tras komunikacyjnych w Polsce. Resort zapowiedział również zmiany w systemie opłat za przejazd.",
-      "published": "Mon, 16 Feb 2026 13:17:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "The shale boom that made the U.S. the world’s top oil producer is nearing a crucial turning point",
       "link": "https://www.marketwatch.com/story/the-shale-boom-that-made-the-u-s-the-worlds-top-oil-producer-is-nearing-a-crucial-turning-point-a7bf72f8?mod=mw_rss_topstories",
       "summary": "The shale-oil revolution that transformed the U.S. into the world’s top oil producer is entering a new phase — one that could see America’s hard-fought lead in energy erode in fewer than five years as oil production growth peters out.",
       "published": "Mon, 16 Feb 2026 13:07:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Czy złoty juan to mrzonka? Co przyniesie tydzień? – dr Przemysław Kwiecień",
-      "link": "https://comparic.pl/czy-zloty-juan-to-mrzonka-co-przyniesie-tydzien-dr-przemyslaw-kwiecien/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/02/Cz_zloty_juan_to_mrzonka-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/Cz_zloty_juan_to_mrzonka-1-324x235.jpg\" style=",
-      "published": "Mon, 16 Feb 2026 12:59:39 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "These markets have been ‘bangers’ this year. Here’s why they have further to rally, says Goldman Sachs.",
-      "link": "https://www.marketwatch.com/story/these-asian-markets-have-been-bangers-this-year-heres-why-they-have-further-to-rally-says-goldman-sachs-3467c694?mod=mw_rss_topstories",
-      "summary": "South Korea and Japan have left Wall Street in the dust in 2026",
-      "published": "Mon, 16 Feb 2026 12:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Powrót „starej Ameryki” mało realny nawet z Demokratą w Białym Domu",
-      "link": "https://www.bankier.pl/wiadomosc/Powrot-starej-Ameryki-malo-realny-nawet-z-Demokrata-w-Bialym-Domu-9084339.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/7/63318174a00e6d-948-568-3-579-1352-811.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Stany Zjednoczone pokazały podczas konferencji w Monachium wiele twarzy, a ich politycy walczyli o wizerunek kraju przed kampanią prezydencką w 2028 r. - ocenił portal tygodnika",
-      "published": "Mon, 16 Feb 2026 12:48:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Pokój za Donbas? Kreml: Jeden z głównych punktów rozmów w Genewie",
-      "link": "https://www.bankier.pl/wiadomosc/Pokoj-za-Donbas-Kreml-Jeden-z-glownych-punktow-rozmow-w-Genewie-9084337.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/7/0540c9dec547b9-948-568-7-232-2975-1785.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W kolejnej rundzie negocjacji pokojowych delegacje Ukrainy, Rosji i USA skupią się w Genewie m.in. na kwestiach terytorialnych - oświadczył w poniedziałek rzecznik Kremla Dmitr",
-      "published": "Mon, 16 Feb 2026 12:47:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ceny ropy w górę. Rekordowe zakupy Chin w Rosji",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/ceny-ropy-w-gore-chiny-zastepuja-indie-i-kupuja-rekordowe-ilosci-w-rosji/ypm2kx9",
-      "summary": "Ceny ropy rosną w poniedziałek, a inwestorzy czekają na efekt rozmów USA-Iran oraz oczekiwany wzrost produkcji przez OPEC+. W tym samym czasie Rosja robi wszystko, żeby sprzedać gdzieś ropę, którą przestają kupować Indie. W Chinach padł rekord importu z Rosji.",
-      "published": "Mon, 16 Feb 2026 12:40:42 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Polskie firmy wciąż boją się AI. Wskazują głównie jeden punkt",
-      "link": "https://businessinsider.com.pl/technologie/ai-w-firmie-oto-najwieksza-bariera-wedlug-polskich-przedsiebiorcow/vhg1edm",
-      "summary": "Choć liczba firm, które decydują się na wdrażanie sztucznej inteligencji, rośnie, to wciąż w Polsce mamy do takiej technologii dość sceptyczne podejście. Przedsiębiorcy wskazują przede wszystkim na jedną obawę w tym kontekście.",
-      "published": "Mon, 16 Feb 2026 12:39:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "The seeds of the dramatic selloff in AI losers were planted as far back as 2022, says Deutsche Bank",
-      "link": "https://www.marketwatch.com/story/the-seeds-of-the-dramatic-sell-off-in-ai-losers-were-planted-as-far-back-as-2022-says-deutsche-bank-f144f47b?mod=mw_rss_topstories",
-      "summary": "Deutsche Bank says angst behind the selloff of over stocks vulnerable to AI disruption has been simmering awhile.",
-      "published": "Mon, 16 Feb 2026 12:37:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Here’s the only group in New York City having children at a rate high enough to maintain the population",
-      "link": "https://www.marketwatch.com/story/heres-the-only-group-in-new-york-city-having-children-at-a-rate-high-enough-to-maintain-the-population-2815d103?mod=mw_rss_topstories",
-      "summary": "An innovative use of tax data shows just how tough it is for New Yorkers to grow a family.",
-      "published": "Mon, 16 Feb 2026 12:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Kupujesz auto używane? Większość oferowanych w Polsce jest po wypadku lub ma cofnięty licznik",
-      "link": "https://www.bankier.pl/wiadomosc/Kupujesz-auto-uzywane-Wiekszosc-oferowanych-w-Polsce-jest-po-wypadku-lub-ma-cofniety-licznik-9084273.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/6/2f583fd8c4ef39-948-568-273-173-1713-1028.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nawet 63 proc. używanych samochodów oferowanych w Polsce jest po wypadku – informuje „Auto Świat”. Na taki odsetek wskazuje raport Carfax za 2025 r., w którym zostały uwzględ",
-      "published": "Mon, 16 Feb 2026 12:30:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Inflacja zaskoczyła, ale RPP nie odpuści. Decyzja jest już przesądzona",
@@ -562,52 +634,12 @@
       "category": "pl"
     },
     {
-      "title": "Inwestycje w ramach OKI mogą się opóźnić. Jest sporo uwag do projektu ustawy",
-      "link": "https://businessinsider.com.pl/finanse/ulga-w-podatku-belki-pod-znakiem-zapytania-eksperci-krytykuja-projekt-oki/es1k711",
-      "summary": "Rządowy projekt ustawy o Osobistych Kontach Inwestycyjnych (OKI) przeszedł już etap konsultacji publicznych i zbierania opinii. Sama idea — ulga od tzw. podatku Belki — została przyjęta z entuzjazmem, bo ma zachęcić Polaków do inwestowania i skierować więcej kapitału na rynek. Jednak im głębiej eksperci zaglądają w zapisy projektu, tym więcej pojawia się wątpliwości, czy w obecnym kształcie OKI fa",
-      "published": "Mon, 16 Feb 2026 12:10:12 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Niemcy publicznie karcą Francję. Chodzi o wydatki na zbrojenia",
-      "link": "https://businessinsider.com.pl/finanse/spor-o-tempo-militaryzacji-europy-niemcy-zadaja-wiecej-od-francji/33pq6pn",
-      "summary": "Spór o tempo zbrojeń w Europie wychodzi na pierwszy plan. Szef niemieckiej dyplomacji publicznie skrytykował poziom francuskich wydatków na obronność, wzywając Paryż do większego wysiłku finansowego. Obecnie Francja wydaje jedynie 2 proc. PKB na zbrojenia.",
-      "published": "Mon, 16 Feb 2026 12:05:18 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ulga przy rozliczaniu PIT, o której wielu zapomina. Tak z niej skorzystasz",
-      "link": "https://businessinsider.com.pl/finanse/o-tej-uldze-w-pit-malo-kto-pamieta-warto-z-niej-skorzystac/531qqeb",
-      "summary": "Od 15 lutego polscy podatnicy mogą składać rozliczenie podatkowe w usłudze Twój e-PIT. Niewielu z nas pamięta, że skorzystać możemy z rzadko wykorzystywanej ulgi, która pozwala odliczyć od podatku wydatki poniesione na wyposażenie i remont mieszkania lub domu. Wśród kosztów, które można uwzględnić, znajduje się m.in. meble wykonane na zamówienie, sprzęty takie jak pralka czy zmywarka oraz elementy",
-      "published": "Mon, 16 Feb 2026 11:59:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Biurowiec JSW w Katowicach sprzedany. Przejmuje go medyczny gigant",
       "link": "https://www.bankier.pl/wiadomosc/Biurowiec-JSW-w-Katowicach-sprzedany-Przejmuje-go-medyczny-gigant-9084261.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/a/a672aa95cd329d-948-568-0-200-3933-2359.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Budynek Jastrzębskiej Spółki Węglowej na os. Paderewskiego w Katowicach przechodzi do rąk spółki córki dystrybutora produktów medycznych i giganta produkcji jednorazowych rękaw",
       "published": "Mon, 16 Feb 2026 11:49:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "\"Rybak\" nie pomógł. Oto co poszło nie tak z North Fish",
-      "link": "https://businessinsider.com.pl/gospodarka/co-poszlo-nie-tak-z-siecia-north-fish/e18rs8b",
-      "summary": "Ta sieć wydawała się skazana na sukces. Oferowała \"szybkie\" jedzenie, ale w dość zdrowej formie, pojawiła się w odpowiednim momencie na rynku — i na dodatek miała wsparcie najbogatszego Polaka. Pytamy się zatem ekspertów, czemu to nie wypaliło, a North Food, właściciel sieci North Fish, jest na skraju upadku.",
-      "published": "Mon, 16 Feb 2026 11:10:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Co to jest inflacja? Wyjaśniamy prostym językiem, jak wpływa na twoje pieniądze",
-      "link": "https://businessinsider.com.pl/finanse/inflacja-w-polsce-2026-co-to-jest-i-jak-wplywa-na-twoj-portfel/pph6e18",
-      "summary": "Inflacja wpływa na codzienne życie, ceny produktów i oszczędności. Jej poziom decyduje o stabilności gospodarki i bezpieczeństwie finansowym obywateli. Zrozumienie mechanizmów inflacyjnych pozwala lepiej chronić finanse i podejmować świadome decyzje.",
-      "published": "Mon, 16 Feb 2026 11:03:09 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Polska w czołówce. Za medale płacimy więcej niż Niemcy",
@@ -626,26 +658,10 @@
       "category": "pl"
     },
     {
-      "title": "Ucieczka do Czech, bo Polska jest już za droga? Oto realia zimowych kurortów",
-      "link": "https://www.bankier.pl/wiadomosc/Ucieczka-do-Czech-bo-Polska-jest-juz-za-droga-Oto-realia-zimowych-kurortow-9084166.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/a/5fdeddf0ab324a-948-568-350-200-3650-2189.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zakopane dla wielu z nas stało się wyjazdem znacznie przewyższającym nasze możliwości. Mijające i dla niektórych wciąż trwające ferie zimowe 2026 są dowodem, że ceny w sercu ",
-      "published": "Mon, 16 Feb 2026 10:14:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Złoty Bankier 2026. Startujemy! Oto na jakich zasadach nagrodzimy banki",
       "link": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Startujemy-Oto-na-jakich-zasadach-nagrodzimy-banki-RELACJA-9084213.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/3/af67ef797edc55-948-568-30-410-3970-2381.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po raz pierwszy w historii rankingu Złoty Bankier organizatorzy – „Puls Biznesu” i Bankier.pl – zaprosili przedstawicieli sektora finansowego na oficjalne spotkanie inaugurują",
       "published": "Mon, 16 Feb 2026 09:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "43 miliardy euro na zbrojenia dla Polski. Rząd może ominąć weto prezydenta",
-      "link": "https://www.bankier.pl/wiadomosc/43-miliardy-euro-na-zbrojenia-dla-Polski-Rzad-moze-ominac-weto-prezydenta-9084218.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/2/a51c915e3af66e-948-568-80-0-1200-719.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zdaniem pełnomocniczki rządu ds. Programu SAFE Magdaleny Sobkowiak-Czarneckiej w przypadku ew. weta prezydenta do ustawy wdrażającej unijny program dozbrajania SAFE rząd i tak mo",
-      "published": "Mon, 16 Feb 2026 09:47:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -674,58 +690,10 @@
       "category": "pl"
     },
     {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.02.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-02-2026-7254924187486656a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 16.02.2026. W poniedziałek za jednego franka (CHF) trzeba zapłacić 4.6177 zł.",
-      "published": "Mon, 16 Feb 2026 07:02:08 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 16.02.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-16-02-2026-7254924132227456a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 16.02.2026. W poniedziałek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.8406 zł.",
-      "published": "Mon, 16 Feb 2026 07:01:55 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.02.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-02-2026-7254924078131584a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 16.02.2026. W poniedziałek za jednego dolara (USD) trzeba zapłacić 3.5488 zł.",
-      "published": "Mon, 16 Feb 2026 07:01:42 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 16.02.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-16-02-2026-7254924074617280a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 16.02.2026. W poniedziałek za jedno euro (EUR) trzeba zapłacić 4.2111 zł.",
-      "published": "Mon, 16 Feb 2026 07:01:41 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Polska gospodarka rośnie, ale jest problem na rynku pracy",
       "link": "https://www.money.pl/gospodarka/polska-gospodarka-rosnie-ale-jest-problem-na-rynku-pracy-7254914339932544a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1253340c-434a-4894-8cb7-8910c95bfd7b\" width=\"308\" /> Zima zapanowała na rynku rekrutacji. Zmroziła popyt zarówno na prace fizyczne, jak i biurowe. Jest to o tyle zaskakujące, że notujemy szybki wzrost gospodarczy - informuje poniedziałkowy \"Puls Biznesu\".",
       "published": "Mon, 16 Feb 2026 06:33:38 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump ogłasza sukces w walce z drożyzną. Oto co sądzą Amerykanie",
-      "link": "https://www.money.pl/gospodarka/trump-oglasza-sukces-w-walce-z-drozyzna-oto-co-sadza-amerykanie-7254911183116672a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/f67c51e9-c8ae-4e19-a290-30df79a94984\" width=\"308\" /> Donald Trump ogłasza sukces w walce z drożyzną, wskazując na rekordy giełdowe oraz spadek inflacji, jednak większość Amerykanów wciąż negatywnie ocenia stan swoich portfeli. Poprawa wskaźników makroekonomicznych w ograniczonym stopniu przekłada się na budżety mniej zamożn",
-      "published": "Mon, 16 Feb 2026 06:20:36 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Polska emanuje siłą\". Analitycy Fitcha tłumaczą, czemu nie obcięli nam ratingu",
-      "link": "https://www.money.pl/gospodarka/polska-emanuje-sila-analitycy-fitcha-tlumacza-czemu-nie-obcieli-nam-ratingu-7254298447329600a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1ed475e2-e7b8-4e99-997f-85ac45c48f0f\" width=\"308\" /> - Nasz scenariusz bazowy zakłada, że deficyt sektora finansów publicznych w Polsce w tym roku wyniesie około 7 proc. PKB, a w dwóch kolejnych latach wyniesie 6,3-6,5 proc. i nieco poniżej 6 proc. Jeśli będzie się on sprawdzał, obecna ocena wiarygodności kredytowej Polski ",
-      "published": "Mon, 16 Feb 2026 05:40:42 +0100",
       "source": "Money.pl",
       "category": "pl"
     },
