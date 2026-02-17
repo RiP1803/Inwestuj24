@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T21:36:42.361095",
+  "generated_at": "2026-02-17T02:48:49.282066",
   "articles": [
     {
       "title": "FAA abruptly halted El Paso flights over Defense Department's plans for anti-drone technology",
@@ -90,6 +90,14 @@
       "category": "us"
     },
     {
+      "title": "U.S. stock futures slump as investors digest ongoing tech selloff",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories",
+      "summary": "U.S. stock futures turned lower Monday night, following another brutal week for tech stocks.",
+      "published": "Tue, 17 Feb 2026 02:35:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "American Airlines flight attendants picket as CEO tries to calm frustrated employees",
       "link": "https://www.cnbc.com/2026/02/12/american-airlines-ceo-pressure-flight-attendants-picket.html",
       "summary": "The union that represents American's 28,000 cabin crew members issued a vote of no confidence of CEO Robert Isom.",
@@ -135,6 +143,46 @@
       "summary": "The Chinese luxury market is expected to turnaround this year, but Western brands can't afford to be complacent, analysts said.",
       "published": "Sat, 14 Feb 2026 13:00:01 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Skandal na GPW! Insider wyprzedawał akcje, ale milczał tygodniami! Co zrobi KNF?",
+      "link": "https://comparic.pl/skandal-na-gpw-insider-wyprzedawal-akcje-ale-milczal-tygodniami-co-zrobi-knf/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-panic-panika-strach-kryzys-crisis-spadek-bessa-krach.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-pan",
+      "published": "Mon, 16 Feb 2026 23:21:30 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I’m close to retiring’: I’m behind on my property tax. Is this a really bad time to sell my house?",
+      "link": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
+      "summary": "“I’ve never been late on a mortgage, so this makes me nervous.”",
+      "published": "Mon, 16 Feb 2026 23:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
+      "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
+      "summary": "Unloved companies with rock-bottom expectations are the real engines of your portfolio.",
+      "published": "Mon, 16 Feb 2026 22:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘Am I crazy?’ My boyfriend’s parents say he doesn’t earn enough to marry me. Who is to blame here?",
+      "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+      "summary": "The Moneyist: “I have a Valentine’s message for you, but you won’t read it in a Hallmark card.”",
+      "published": "Mon, 16 Feb 2026 22:49:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘It’s a life-changing sum’: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
+      "link": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "summary": "”I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.”",
+      "published": "Mon, 16 Feb 2026 22:28:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -498,14 +546,6 @@
       "category": "us"
     },
     {
-      "title": "‘It’s a life-changing sum’: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
-      "link": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
-      "summary": "”I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.”",
-      "published": "Mon, 16 Feb 2026 15:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "\"Broń masowego rażenia\" czy WIBOR-owy kapiszon? Adwokat o głośnym formularzu [OPINIA]",
       "link": "https://businessinsider.com.pl/prawo/opinie/wyrok-tsue-zamyka-spory-o-wibor-czy-esis-cos-zmienia/hdn0565",
       "summary": "W przestrzeni publicznej pojawiły się ostatnio wypowiedzi sugerujące, że formularz ESIS może stanowić nową podstawę do unieważniania umów kredytów hipotecznych opartych o WIBOR. Tego rodzaju interpretacje nie znajdują potwierdzenia ani w przepisach prawa, ani w ostatnim wyroku TSUE. Tak uważa adwokat Łukasz Merski ze Związku Banków Polskich.",
@@ -562,22 +602,6 @@
       "category": "pl"
     },
     {
-      "title": "‘I’m close to retiring’: I’m behind on my property tax. Is this a really bad time to sell my house?",
-      "link": "https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories",
-      "summary": "“I’ve never been late on a mortgage, so this makes me nervous.”",
-      "published": "Mon, 16 Feb 2026 15:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘Am I crazy?’ My boyfriend’s parents say he doesn’t earn enough to marry me. Who is to blame here?",
-      "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
-      "summary": "The Moneyist: “I have a Valentine’s message for you, but you won’t read it in a Hallmark card.”",
-      "published": "Mon, 16 Feb 2026 15:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Twórca SKOK-ów twarzą w twarz z b. szefami KNF. Burzliwe przesłuchanie w sądzie",
       "link": "https://www.bankier.pl/wiadomosc/Tworca-SKOK-ow-twarza-w-twarz-z-b-szefami-KNF-Burzliwe-przesluchanie-w-sadzie-9084432.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/3/f5b5865051007b-945-560-0-33-1496-897.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Warszawski sąd, przed którym toczy się proces byłych szefów KNF ws. nadzoru nad SKOK Wołomin, przesłuchuje w poniedziałek - jako świadka - współtwórcę społecznych kas oszczędnośc",
@@ -592,14 +616,6 @@
       "published": "Mon, 16 Feb 2026 15:02:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Bitcoin jest już blisko dna wyprzedaży! Ten wskaźnik sugeruje nadchodzące odbicie!",
-      "link": "https://comparic.pl/bitcoin-jest-juz-blisko-dna-wyprzedazy-ten-wskaznik-sugeruje-nadchodzace-odbicie/",
-      "summary": "<img alt=\"AI Bitcoin RSI\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/02/ChatGPT-Image-16-lut-2026-09_42_18-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"AI Bitcoin RSI\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/ChatGPT",
-      "published": "Mon, 16 Feb 2026 14:59:15 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "These might be the winners from the latest round of Chinese new year AI launches",
@@ -626,14 +642,6 @@
       "category": "us"
     },
     {
-      "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
-      "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
-      "summary": "Unloved companies with rock-bottom expectations are the real engines of your portfolio.",
-      "published": "Mon, 16 Feb 2026 13:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rząd częściowo odtajni listę projektów SAFE? \"Możemy się spodziewać w najbliższych dniach\"",
       "link": "https://www.money.pl/gospodarka/rzad-czesciowo-odtajni-liste-projektow-safe-mozemy-sie-spodziewac-w-najblizszych-dniach-7255008825633216a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8b459349-70f6-4454-98df-a7791f22a976\" width=\"308\" /> Szef MON Władysław Kosiniak-Kamysz poinformował w poniedziałek, że nie wszystkie szczegóły listy projektów w ramach programu SAFE zostaną upublicznione. Jak mówił, w najbliższych dniach dojdzie do pogodzenia dwóch racji – potrzeby oklauzulowania dokumentu i chęci prezenta",
@@ -648,14 +656,6 @@
       "published": "Mon, 16 Feb 2026 13:39:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "The shale boom that made the U.S. the world’s top oil producer is nearing a crucial turning point",
-      "link": "https://www.marketwatch.com/story/the-shale-boom-that-made-the-u-s-the-worlds-top-oil-producer-is-nearing-a-crucial-turning-point-a7bf72f8?mod=mw_rss_topstories",
-      "summary": "The shale-oil revolution that transformed the U.S. into the world’s top oil producer is entering a new phase — one that could see America’s hard-fought lead in energy erode in fewer than five years as oil production growth peters out.",
-      "published": "Mon, 16 Feb 2026 13:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Polska w czołówce. Za medale płacimy więcej niż Niemcy",
