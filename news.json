@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T18:48:50.357296",
+  "generated_at": "2026-02-22T21:32:12.375638",
   "articles": [
     {
       "title": "As Walmart and Target head in different directions, all eyes are on their new CEOs",
@@ -32,14 +32,6 @@
       "published": "Wed, 18 Feb 2026 15:48:49 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Dodatkowy zwrot podatku dla rodziców. Fiskus sam ich nie naliczy",
-      "link": "https://www.bankier.pl/wiadomosc/Ulga-na-dzieci-w-PIT-Blisko-1-8-mln-Polakow-moze-odebrac-dodatkowy-zwrot-podatku-9084318.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/a/73db644dd54e05-948-568-0-105-3504-2102.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wielu rodziców, widząc „0 zł” podatku w systemie Twój e-PIT, rezygnuje z dalszego sprawdzania. To błąd, który może kosztować nawet kilka tysięcy złotych. Blisko 1,8 mln Polaków",
-      "published": "Tue, 17 Feb 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Famed director James Cameron sends scathing letter to antitrust lawmaker over Netflix-WBD deal",
@@ -90,12 +82,188 @@
       "category": "us"
     },
     {
+      "title": "‘It’s a life-changing sum’: Can I stop my kids from using their inheritance to support political causes I vehemently oppose?",
+      "link": "https://www.marketwatch.com/story/its-a-life-changing-sum-can-i-stop-my-kids-from-using-their-inheritance-to-support-political-causes-i-vehemently-oppose-90809fd7?mod=mw_rss_topstories",
+      "summary": "”I would hate for our money to end up in the hands of organizations that oppose everything we have supported throughout our lives.”",
+      "published": "Sun, 22 Feb 2026 21:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
+      "link": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
+      "summary": "“I have $650,000 in investments, $250,000 in life insurance and about $150,000 equity in my home.”",
+      "published": "Sun, 22 Feb 2026 21:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "\"Zostawiła pewne blizny\". Ekonomista mówi o skutkach inflacji z 2022 roku",
+      "link": "https://www.money.pl/gospodarka/zostawila-pewne-blizny-ekonomista-mowi-o-skutkach-inflacji-z-2022-roku-7248674613043777v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/f093ff4b-efff-4137-b3e2-4c45475652f6.jpg\" width=\"308\" /> - Wydaje mi się, że wydarzenie na taką skalę, jak inflacja w Polsce w 2022 roku, która w pewnym momencie zbliżyła się do 18 procent, prędko się nie powtórzy. Oczywiście nie znamy przyszłości, ale pamiętajmy, że ta inflacja była pokłosiem największej od stu lat pandemii i największej ",
+      "published": "Sun, 22 Feb 2026 20:51:19 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Media ujawniają tajną umowę Rosji z Iranem. Chodzi o nawet 500 mln euro",
+      "link": "https://businessinsider.com.pl/biznes/ta-umowa-miala-byc-tajna-za-to-iran-zaplaci-rosji-pol-miliarda-euro/btmq3q9",
+      "summary": "Iran i Rosja podpisały umowę na dostarczenie w latach 2027-2029 nowoczesnego uzbrojenia. Moskwa ma dostarczyć 500 przenośnych wyrzutni rakiet i 2,5 tys. pocisków 9M336 — donosi \"The Financial Times\", który dotarł do zapisów tajnej umowy. Kontrakt opiewa na 500 mln euro, czyli ponad 2,1 mld zł.",
+      "published": "Sun, 22 Feb 2026 20:42:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I have a moral and ethical conundrum’: My husband was killed by a careless driver. I received $2 million. What do I owe my stepdaughter?",
+      "link": "https://www.marketwatch.com/story/i-have-a-moral-and-ethical-conundrum-my-husband-was-killed-by-a-careless-driver-i-received-2-million-what-do-i-owe-my-stepdaughter-2c3250e8?mod=mw_rss_topstories",
+      "summary": "“As the children grew, life became more complicated.”",
+      "published": "Sun, 22 Feb 2026 20:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tariffs costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
+      "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
+      "summary": "The Supreme Court struck down most of the Trump administration’s tariffs, but uncertainty remains for store chains.",
+      "published": "Sun, 22 Feb 2026 20:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Popularny komunikator zablokuje część funkcji. Odzyskasz je tylko wtedy, gdy wyślesz skan dowodu",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/weryfikacja-wieku-na-discord-co-stracisz-jesli-nie-wyslesz-dowodu/gn451vp",
+      "summary": "Rzeczywistość, w której aby korzystać z internetu lub przynajmniej mediów społecznościowych, logować będziemy musieli się naszymi prawdziwymi danymi, powoli przestaje być życzeniowym myśleniem wybranych polityków. Kolejne komunikatory wprowadzają nowe wymogi, a jeden z najpopularniejszych pośród młodszych osób, czyli Discord, wiekowe restrykcje implementuje także w Polsce. Co się zmieni?",
+      "published": "Sun, 22 Feb 2026 20:36:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I won’t take out a loan’: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
+      "link": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
+      "summary": "“I plan to be debt-free in less than two years.”",
+      "published": "Sun, 22 Feb 2026 20:36:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "﻿Zamiast 100 stron tylko 7?! „Odchudzona” ustawa na ratunek krypto w Polsce",
+      "link": "https://comparic.pl/zamiast-100-stron-tylko-7-odchudzona-ustawa-na-ratunek-krypto-w-polsce/",
+      "summary": "<img alt=\"Sławomir Mentzen, Krzysztof Piech\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/02/Slawomir-mentzen-krzysztof-piech.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"Sławomir Mentzen, Krzysztof Piech\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/",
+      "published": "Sun, 22 Feb 2026 20:33:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Last week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.",
+      "link": "https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories",
+      "summary": "Shares of asset managers fell due to worries over a private-credit fund managed by Blue Owl Capital, triggering broader anxiety about spillover effects.",
+      "published": "Sun, 22 Feb 2026 20:33:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Francja wzywa ambasadora USA. Napięcie po śmierci aktywisty w Lyonie",
+      "link": "https://www.bankier.pl/wiadomosc/Francja-wzywa-ambasadora-USA-Napiecie-po-smierci-aktywisty-w-Lyonie-9087398.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/a6b2289bab7656-948-568-30-160-3800-2280.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Francja wezwie ambasadora USA Charlesa Kushnera, aby zaprotestować przeciwko komentarzom administracji Donalda Trumpa dotyczących śmiertelnego pobicia skrajnie prawicowego akt",
+      "published": "Sun, 22 Feb 2026 20:22:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
+      "link": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
+      "summary": "“Our son makes $45,000 a year and has no immediate prospects for significantly increasing his income.”",
+      "published": "Sun, 22 Feb 2026 20:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Naftowy klincz w rocznicę wojny. Węgry biorą unijne sankcje na Rosję jako zakładnika",
+      "link": "https://www.bankier.pl/wiadomosc/Naftowy-klincz-w-rocznice-wojny-Wegry-biora-unijne-sankcje-na-Rosje-jako-zakladnika-9087385.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/e/d3189386293d5e-948-568-33-8-3348-2008.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Węgry zablokują 20. pakiet sankcji Unii Europejskiej wobec Rosji - ogłosił w niedzielę węgierski minister spraw zagranicznych Peter Szijjarto. Dodał, że dopóki transport rosyjsk",
+      "published": "Sun, 22 Feb 2026 20:17:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "USA i Iran wracają do stołu rozmów. W czwartek negocjacje w Genewie",
+      "link": "https://www.bankier.pl/wiadomosc/USA-i-Iran-wracaja-do-stolu-rozmow-W-czwartek-negocjacje-w-Genewie-9087427.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/0/ba48b7a298b59c-948-568-0-112-1732-1039.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister spraw zagranicznych Omanu Badr bin Hamad Al Busaidi, którego kraj pośredniczył w rozmowach między USA i Iranem, potwierdził w niedzielę, że rozmowy przedstawicieli obu",
+      "published": "Sun, 22 Feb 2026 20:06:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czarzasty o śmierci Pszczoły: Właściwie został zabity złym słowem",
+      "link": "https://www.bankier.pl/wiadomosc/Czarzasty-o-smierci-Pszczoly-Wlasciwie-zostal-zabity-zlym-slowem-9087402.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/5/f39e29b2efb7cc-945-560-0-34-1732-1039.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Właściwie został zabity złym słowem - tak marszałek Sejmu Włodzimierz Czarzasty skomentował śmierć związanego z Nową Lewicą wieloletniego radomskiego radnego Jana Pszczoły. Pszc",
+      "published": "Sun, 22 Feb 2026 19:51:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zamach terrorystyczny we Lwowie. Zełenski: Sprawcy zwerbowani przez Rosję",
+      "link": "https://www.bankier.pl/wiadomosc/Zamach-terrorystyczny-we-Lwowie-Zelenski-Sprawcy-zwerbowani-przez-Rosje-9087425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/f/0d0a084b52228b-948-568-10-300-4274-2564.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sprawcy aktu terrorystycznego we Lwowie, w wyniku którego zginęła policjantka, a 25 osób zostało rannych, zostali zwerbowani przez rosyjską organizację w komunikatorze Telegra",
+      "published": "Sun, 22 Feb 2026 19:50:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Układ krwionośny współczesnego świata\". Metal, który zmienia przemysł i geopolitykę",
+      "link": "https://businessinsider.com.pl/technologie/swiat-czeka-deficyt-miedzi-to-ogromna-szansa-dla-polski/0ncqfht",
+      "summary": "Z pewnością słyszeliście o szalejących cenach złota, ale nie jest to jedyny metal, który nabrał strategicznego znaczenia, a w związku z tym także zdecydowanie wyższej rynkowej wartości. O ile jednak Polska nie liczy się na światowych rynkach wydobycia i produkcji złota, o tyle jest globalnym potentatem wydobycia i hutnictwa innego surowca, od którego jest uzależniony rozwój technologiczny świata i",
+      "published": "Sun, 22 Feb 2026 19:48:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tu żyje najwięcej stulatków. ZUS pokazał statystykę",
+      "link": "https://www.bankier.pl/wiadomosc/Tu-zyje-najwiecej-stulatkow-ZUS-pokazal-statystyke-9085703.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/2/0a2c13bbafa077-948-569-7-72-991-595.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W Małopolsce rośnie liczba osób, które ukończyły 100 lat i pobierają świadczenie honorowe z Zakład Ubezpieczeń Społecznych. Obecnie w regionie jest 418 stulatków – o blisko 17 pro",
+      "published": "Sun, 22 Feb 2026 19:35:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "21-latek ze strzelbą i benzyną przed domem Trumpa. Został zastrzelony",
+      "link": "https://www.bankier.pl/wiadomosc/21-latek-ze-strzelba-i-benzyna-przed-domem-Trumpa-Zostal-zastrzelony-9087423.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/1/27a3591a9660a4-948-568-160-80-3800-2280.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Agenci Secret Service zastrzelili uzbrojonego mężczyznę, który wkroczył na objęty ochroną teren rezydencji prezydenta USA Donalda Trumpa Mar-a-Lago na Florydzie - poinformował",
+      "published": "Sun, 22 Feb 2026 19:25:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ceny mieszkań rosną w metropoliach. W powiatach zaczyna się walka o przetrwanie",
+      "link": "https://businessinsider.com.pl/nieruchomosci/polska-dzieli-sie-na-dwa-swiaty-metropolie-rosna-powiaty-pustoszeja/49gn60l",
+      "summary": "Depopulacja w Polsce przestaje być prognozą, a staje się realnym wyzwaniem dla rynku mieszkaniowego. Spadek liczby ludności coraz silniej wpływa na ceny nieruchomości, popyt na mieszkania i rozwój regionów. Powstaje wyraźny podział na Polskę dwóch prędkości – dynamicznie rosnące metropolie przyciągające mieszkańców i kapitał oraz miasta i powiaty, które mierzą się z postępującym wyludnieniem.",
+      "published": "Sun, 22 Feb 2026 19:20:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Chcesz pracować w marketingu? Tyle musisz umieć, by mieć szansę na rynku",
+      "link": "https://businessinsider.com.pl/praca/chcesz-pracowac-w-marketingu-sprawdz-jakie-umiejetnosci-sa-dzis-kluczowe/tt9y8ym",
+      "summary": "Jeszcze niedawno marketing jawił się jako ziemia obiecana dla humanistów i absolwentów szkół artystycznych. Panowało przekonanie, że idzie się tam, by realizować wielkie, kreatywne kampanie i \"kosić pieniądz\". Jednak współczesny obraz tej branży jest znacznie bardziej złożony. Na rynku jest wielu chętnych, ale brakuje specjalistów, którzy potrafią połączyć kreatywność z danymi, technologią i bizne",
+      "published": "Sun, 22 Feb 2026 19:01:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Raport o fuzji, AGI i kwantach. Inwestycje rosną błyskawicznie",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/raport-o-fuzji-agi-i-kwantach-inwestycje-rosna-blyskawicznie-oto-technologiczne/8f6qrvx",
       "summary": "W dzisiejszym świecie, gdzie technologia rozwija się w zawrotnym tempie, często słyszymy o przełomowych innowacjach, które mają odmienić losy ludzkości. Rok 2026 przynosi nowe perspektywy, a na czoło wysuwają się trzy wielkie trendy i nie jest to jedynie sztuczna inteligencja. Tłumaczymy, jak przełomy w tych dziedzinach wpłyną na nasze życie.",
       "published": "Sun, 22 Feb 2026 18:40:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
+    },
+    {
+      "title": "Iran zawarł z Rosją tajną umowę zbrojeniową o wartości 500 mln euro",
+      "link": "https://www.bankier.pl/wiadomosc/Iran-zawarl-z-Rosja-tajna-umowe-zbrojeniowa-o-wartosci-500-mln-euro-9087417.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/7/f60e8aedd81655-948-568-160-110-3840-2303.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Iran zawarł z Rosją tajną umowę zbrojeniową o wartości 500 mln euro na zakup tysięcy zaawansowanych pocisków odpalanych z ramienia - poinformował w niedzielę brytyjski dzienn",
+      "published": "Sun, 22 Feb 2026 18:18:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Polacy na emigracji. Tak przez lata zmieniały się kierunki wyjazdów [TABELA]",
@@ -170,14 +338,6 @@
       "category": "other"
     },
     {
-      "title": "‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
-      "link": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
-      "summary": "“I have $650,000 in investments, $250,000 in life insurance and about $150,000 equity in my home.”",
-      "published": "Sun, 22 Feb 2026 16:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Dług przebije próg konstytucyjny w roku wyborczym. Prognoza zapowiada ostre cięcia socjalu",
       "link": "https://businessinsider.com.pl/finanse/dlug-publiczny-przebije-prog-konstytucyjny-w-roku-wyborczym-zlowieszcze-prognozy-wiiw/c30vnl8",
       "summary": "Wroku wyborczym tematy finansów publicznych zwykle elektryzują opinię publiczną, ale najnowsze prognozy budżetowe mogą wywołać jeszcze większe emocje. Oficjalne dane wskazują na ryzyko przekroczenia kluczowego progu konstytucyjnego długu, co stawia pytania o stabilność finansów państwa i przyszłe decyzje polityczne. Co to oznacza dla gospodarki i obywateli?",
@@ -216,14 +376,6 @@
       "published": "Sun, 22 Feb 2026 15:07:39 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Tariffs costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
-      "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
-      "summary": "The Supreme Court struck down most of the Trump administration’s tariffs, but uncertainty remains for store chains.",
-      "published": "Sun, 22 Feb 2026 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Dwie firmy z Tajlandii zaopatrują rosyjską armię. Gwałtowny wzrost importu chińskich dronów",
@@ -274,28 +426,12 @@
       "category": "other"
     },
     {
-      "title": "Strategia \"buy Canadian\". Czy USA będą atakować Kanadę tak jak UE?",
-      "link": "https://www.bankier.pl/wiadomosc/Strategia-buy-Canadian-Czy-USA-beda-atakowac-Kanade-tak-jak-UE-9087311.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/8ec1b5430ab2a0-948-568-0-44-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W nowej strategii Kanady dla przemysłu obronnego założono, że 70 proc. zamówień armii trafi do kanadyjskich firm, a uzależnienie od dostaw z USA się skończy. Media analizują, cz",
-      "published": "Sun, 22 Feb 2026 13:48:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Under mounting toy pressures, Hasbro has a secret sauce that Mattel hasn't matched",
       "link": "https://www.cnbc.com/2026/02/21/hasbro-vs-mattel-toy-industry-pressures-make-digital-the-star.html",
       "summary": "Hasbro's secret weapon has been its Wizards of the Coast division, which includes Dungeons & Dragons, Magic: The Gathering and the company's digital games.",
       "published": "Sun, 22 Feb 2026 13:45:41 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Darczyńca przekazał Osace 21 kg złota na naprawę rur wodociągowych",
-      "link": "https://www.bankier.pl/wiadomosc/Darczynca-przekazal-Osace-21-kg-zlota-na-naprawe-rur-wodociagowych-9087363.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/f/212b2ba584ca6f-948-568-0-138-2048-1228.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Anonimowy darczyńca przekazał japońskiemu miastu Osace sztabki złota ważące 21 kg z zaleceniem, by wykorzystano je na naprawę miejskich rur wodociągowych - przekazał dziennik „",
-      "published": "Sun, 22 Feb 2026 13:37:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Decydują niuanse i grafik. Kiedy sąd, a kiedy PIP uzna Twoje B2B za umowę o pracę?",
@@ -306,18 +442,10 @@
       "category": "pl"
     },
     {
-      "title": "Trump wysyła statek szpitalny? Premierka Danii przypomina USA o bezpłatnym leczeniu",
+      "title": "Trump wysyła statek szpitalny? Premier Grenlandii: Nie, dziękujemy",
       "link": "https://www.bankier.pl/wiadomosc/Trump-wysyla-statek-szpitalny-Premierka-Danii-przypomina-USA-o-bezplatnym-leczeniu-9087376.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/e/145ef0e7a4855a-948-568-0-75-3765-2258.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Premierka Danii Mette Frederiksen, odnosząc się do zapowiedzi prezydenta USA Donalda Trumpa o wysłaniu na Grenlandię okrętu szpitalnego, oświadczyła w niedzielę, że duńska i gre",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/1/cdeeccbaee4b71-948-568-0-0-4096-2457.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Premierka Danii Mette Frederiksen, odnosząc się do zapowiedzi prezydenta USA Donalda Trumpa o wysłaniu na Grenlandię okrętu szpitalnego, oświadczyła w niedzielę, że duńska i gren",
       "published": "Sun, 22 Feb 2026 13:25:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Sikorski: SAFE narodowi się należy. Opozycja szuka dziury w całym?",
-      "link": "https://www.bankier.pl/wiadomosc/Sikorski-SAFE-narodowi-sie-nalezy-Opozycja-szuka-dziury-w-calym-9087353.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/5/2e7b0fe022503e-948-568-0-0-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Program SAFE narodowi się należy; Polska będzie jego największym beneficjentem; jestem zszokowany, że dzisiejsza opozycja szuka dziury w całym - powiedział minister spraw zagrani",
-      "published": "Sun, 22 Feb 2026 13:06:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -328,54 +456,6 @@
       "published": "Sun, 22 Feb 2026 13:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Tak Polacy zachowaliby się w sytuacji podbramkowej. Deklarują radykalne kroki w sprawie zakupów",
-      "link": "https://businessinsider.com.pl/finanse/tak-zaciskanie-pasa-deklaruje-wiekszosc-polakow-w-ten-sposob-oszczedzaja/g8b6e0v",
-      "summary": "Aż 83 proc. Polaków byłoby gotowych robić bardziej oszczędne zakupy spożywcze, gdyby znaleźli się w trudnej sytuacji finansowej — wynika z badania IBRiS przeprowadzonego dla Santander Consumer Banku. Możliwość podjęcia takich kroków rozważyliby przede wszystkim seniorzy i mieszkańcy średnich miast. Wiele osób podjęłoby także różne inne działania, by oszczędzać.",
-      "published": "Sun, 22 Feb 2026 12:46:41 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Parlament Europejski zamraża umowę z USA. \"Czysty chaos celny\" po decyzjach Trumpa",
-      "link": "https://businessinsider.com.pl/gospodarka/parlament-europejski-zamraza-umowe-handlowa-z-usa-czysty-chaos-celny/2625te7",
-      "summary": "Parlament Europejski zamraża ratyfikację umowy handlowej z USA. \"Czysty chaos celny\" — szef komisji handlu nie zostawia suchej nitki na polityce Donalda Trumpa.",
-      "published": "Sun, 22 Feb 2026 12:44:27 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nowe oszustwo na Blika. \"Nie należy samodzielnie odsyłać środków\"",
-      "link": "https://www.bankier.pl/wiadomosc/Nowe-oszustwo-na-Blika-Nie-nalezy-samodzielnie-odsylac-srodkow-9086237.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/6/8bacfb33d9bb3f-948-568-142-435-2637-1582.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie należy samodzielnie odsyłać środków po otrzymaniu niespodziewanego przelewu BLIK – ostrzega w czwartkowym komunikacie Rzecznik Finansowy. Zwrot pieniędzy na inny numer te",
-      "published": "Sun, 22 Feb 2026 12:37:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Z tej aplikacji korzystają miliony Polaków. \"Czeka nas pożegnanie\"",
-      "link": "https://businessinsider.com.pl/gospodarka/czy-to-juz-koniec-mobywatela-rozwiazania-zasadniczo-rozne-od-wymagan-ue/9z3n9re",
-      "summary": "Popularna wśród Polaków i chętnie promowana aplikacja mObywatel może wkrótce przestać funkcjonować. Wskazuje na to uzasadnienie projektu nowelizacji o usługach zaufania oraz identyfikacji elektronicznej, w którym Ministerstwo Cyfryzacji twierdzi, że rozwiązania aplikacji mObywatel, ustanowione w oparciu o przepisy krajowe, są \"zasadniczo różne\" od wymagań dla europejskiego portfela tożsamości cyfr",
-      "published": "Sun, 22 Feb 2026 12:17:11 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ile naprawdę zarabia się w Biedronce w 2026 r.? Konkretne kwoty od kasjera do kierownika",
-      "link": "https://businessinsider.com.pl/praca/ile-zarabia-sie-w-biedronce-w-2026-najnowsze-zarobki-kasjera-magazyniera-i-kierownika/fq3phdy",
-      "summary": "Biedronka podnosi wynagrodzenia i rozszerza benefity dla pracowników. Sieć, będąca największym pracodawcą w Polsce, wprowadza podwyżki bazowej pensji oraz podwaja kwotę potencjalnej premii. Pracownicy oprócz zarobków mogą liczyć także na szeroki pakiet dodatków.",
-      "published": "Sun, 22 Feb 2026 12:03:22 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Duża zmiana dla freelancerów i dorabiających. Chodzi o limit przychodów",
-      "link": "https://businessinsider.com.pl/finanse/limit-przychodow-dzialalnosci-nierejestrowanej-2026-nowe-progi-i-zasady/8vqddjc",
-      "summary": "Od 1 stycznia 2026 roku zmienił się sposób ustalania limitu przychodów dla działalności nierejestrowanej. Zamiast miesięcznego limitu, wprowadzony zostanie limit kwartalny, co ma ułatwić prowadzenie drobnych działalności zarobkowych. Nowe przepisy mają zmniejszyć ryzyko przypadkowego przekroczenia limitu i zachęcić więcej osób do legalnego dorabiania.",
-      "published": "Sun, 22 Feb 2026 11:55:53 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ile Ethereum ma Vitalik Buterin? Zaglądamy do portfela współtwórcy ETH",
@@ -410,26 +490,10 @@
       "category": "pl"
     },
     {
-      "title": "Jak Polacy tną wydatki w kryzysie? Gotowanie w domu i oszczędne zakupy spożywcze",
-      "link": "https://www.bankier.pl/wiadomosc/Jak-Polacy-tna-wydatki-w-kryzysie-Gotowanie-w-domu-i-oszczedne-zakupy-spozywcze-9087341.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/2/9d3006f371cf05-948-568-860-300-2920-1751.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dla 83 proc. Polaków trudna sytuacja finansowa oznaczałaby bardziej oszczędne zakupy spożywcze - wynika z badania IBRiS dla Santander Consumer Banku. Ankietowani wydawaliby t",
-      "published": "Sun, 22 Feb 2026 08:55:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Koniec mObywatela? Ministerstwo Cyfryzacji planuje nową aplikację",
       "link": "https://www.bankier.pl/wiadomosc/Koniec-mObywatela-Ministerstwo-Cyfryzacji-planuje-nowa-aplikacje-9087350.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/3/7bd681315fb9d8-948-568-9-0-1970-1182.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na podstawie uzasadnienia projektu noweli, która ma wprowadzić europejski portfel tożsamości cyfrowej, można podejrzewać, że czeka nas pożegnanie z mObywatelem – ocenił w rozmowi",
       "published": "Sun, 22 Feb 2026 08:46:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ukraina odpowiada Węgrom i Słowacji: Ultimatum stawiajcie Kremlowi, nie nam",
-      "link": "https://www.bankier.pl/wiadomosc/Ukraina-odpowiada-Wegrom-i-Slowacji-Ultimatum-stawiajcie-Kremlowi-nie-nam-9087287.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/c/303b7ffc6a0ede-948-568-0-186-3543-2125.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />MSZ Ukrainy skomentowało w sobotę niedawne decyzje władz Węgier i Słowacji po wstrzymaniu dostaw rosyjskiej ropy rurociągiem Przyjaźń. Wzywamy rządy tych państw do konstruktywn",
-      "published": "Sun, 22 Feb 2026 08:30:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -466,14 +530,6 @@
       "category": "pl"
     },
     {
-      "title": "Mieszkanie od spółdzielni zamiast od dewelopera. Jak dostać takie lokum?",
-      "link": "https://www.bankier.pl/wiadomosc/Mieszkanie-od-spoldzielni-zamiast-od-dewelopera-Jak-dostac-takie-lokum-9085743.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p>Mieszkanie od spółdzielni mieszkaniowej wciąż jest realną alternatywą wobec zakupu lokalu od dewelopera. Choć jak podkreślają eksperci portalu GetHome.pl skala nowych inwestycji spółdzielczych jest dziś wielokrotnie mniejsza niż w latach 80. i 90., w największych miastach nadal powstają budynki realizowane przez spółdzielnie. Warunki nabycia lokalu różnią się jednak od standardowej umowy dewelo",
-      "published": "Sun, 22 Feb 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Why you shouldn’t fall in love with the S&P 500",
       "link": "https://www.marketwatch.com/story/this-chart-shows-why-stocks-arent-all-theyre-cracked-up-to-be-64b98603?mod=mw_rss_topstories",
       "summary": "What Wall Street doesn’t tell you about the long-term return on your investments.",
@@ -482,44 +538,12 @@
       "category": "us"
     },
     {
-      "title": "This is the biggest weakness in most people’s budgets. Here’s how to fix it.",
-      "link": "https://www.marketwatch.com/story/this-is-the-biggest-weakness-in-most-peoples-budgets-heres-how-to-fix-it-9290b3f0?mod=mw_rss_topstories",
-      "summary": "“Most people don’t blow up their budget because they’re careless,” one financial planner said. It happens because they neglect this critical detail.",
-      "published": "Sat, 21 Feb 2026 23:52:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The sobering way most Americans plan to use their tax refunds this year",
-      "link": "https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories",
-      "summary": "Tax refunds are projected to be larger on average — and Americans are thinking hard about how to spend them.",
-      "published": "Sat, 21 Feb 2026 23:52:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "United Airlines’ best loyalty perks will soon be reserved for its cardholders. Is the card worth it?",
-      "link": "https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories",
-      "summary": "Frequent flyers who hold a United Airlines co-branded credit or debit card can soon earn up to twice as many miles as noncardholders, effectively rewarding the airline’s biggest spenders.",
-      "published": "Sat, 21 Feb 2026 23:52:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "8 ways you may be squandering money in retirement",
-      "link": "https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories",
-      "summary": "Expenses that made sense during your peak earning years can drain your resources once you stop working.",
-      "published": "Sat, 21 Feb 2026 23:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "I’m 72 and started claiming Social Security at 69. Will I get more money if I work part-time?",
-      "link": "https://www.marketwatch.com/story/im-72-and-started-claiming-social-security-at-69-will-i-get-more-money-if-i-work-part-time-71288018?mod=mw_rss_topstories",
-      "summary": "The Social Security Administration requires 40 credits to qualify for benefits and calculates your benefit using your highest 35 years of earnings.",
-      "published": "Sat, 21 Feb 2026 23:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Trump zapowiedział podniesienie globalnej stawki ceł z 10 do 15 procent",
+      "link": "https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-podniesienie-globalnej-stawki-celnej-z-10-do-15-procent-9087265.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/a/34b811ee949f64-948-568-0-189-2918-1750.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump zapowiedział w sobotę, że podniesie z 10 do 15 proc. tymczasową globalną stawkę celną na towary importowane, po tym, jak Sąd Najwyższy Stanów Zjednoc",
+      "published": "Sat, 21 Feb 2026 18:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Nadpodaż mieszkań to iluzja? Analitycy zapowiadają nagły zwrot",
@@ -570,14 +594,6 @@
       "category": "pl"
     },
     {
-      "title": "Rewolucja czy hazard? Nowe ETF-y predykcyjne typu „wszystko albo nic”",
-      "link": "https://comparic.pl/rewolucja-czy-hazard-nowe-etf-y-predykcyjne-typu-wszystko-albo-nic/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk-hossa-wzrost-growth-stock-market-chart.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk",
-      "published": "Sat, 21 Feb 2026 14:33:53 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Co to ETF? \"W szkołach nie uczymy się jak się obsługiwać pieniędzmi\"",
       "link": "https://www.money.pl/pieniadze/co-to-etf-w-szkolach-nie-uczymy-sie-jak-sie-obslugiwac-pieniedzmi-7256469285806657v.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/wptv.wpcdn.pl/3086591-01prevb.jpg\" width=\"308\" /> ETF jest narzędziem, które pomaga nam w tym, aby pieniądze dobrze zagospodarować. To jest, najkrócej mówiąc, fundusz, którego jednostki są notowane na giełdzie, czyli są w obrocie giełdowym - wyjaśniał Jacek Lempart, twórca portalu atalsetf.pl, w programie \"Horyzonty\" Patrycjusza Wyżgi.",
@@ -599,14 +615,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b3902ecb-6f5d-4ace-850c-ec53fa487732\" width=\"308\" /> Ponad 10 tys. wniosków o interwencję w trzy lata, z których połowa dotyczy seniorów. Oszuści manipulują, wyłudzają kody BLIK i zostawiają ludzi z długiem. – Sugerowanie, że ofiara \"sama się okrada\", budzi mój sprzeciw – mówi nam dr Michał Ziemiak, pełniący funkcję Rzeczni",
       "published": "Sat, 21 Feb 2026 06:42:24 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Mocarne wyniki Orlenu, przeszacowane ceny mieszkań i słabiutke dane o płacach",
-      "link": "https://www.bankier.pl/wiadomosc/Mocarne-wyniki-Orlenu-przeszacowane-ceny-mieszkan-i-slabiutke-dane-o-placach-9086701.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/c/81b9228b8157a7-948-568-276-10-3819-2291.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Trzeci tydzień lutego obfitował w solidną paczkę ważnych danych. Wynikami pochwalił się Orlen, zanotowano słabe dane z rynku pracy i przemysłu, a wyniki deweloperów dotyczące ",
-      "published": "Sat, 21 Feb 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -712,14 +720,6 @@
       "published": "Fri, 20 Feb 2026 17:06:18 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Sąd zdecydował ws. ceł Trumpa. Natychmiastowa reakcja giełdy w USA",
-      "link": "https://www.money.pl/gielda/sad-zdecydowal-ws-cel-trumpa-natychmiastowa-reakcja-gieldy-w-usa-7256478863456704a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a05b0786-b23c-4b56-a1f1-1d771da543b8\" width=\"308\" /> Sąd Najwyższy USA uznał w piątek, że prezydent USA Donald Trump nie miał uprawnień do nakładania ceł na podstawie ustawy IEEPA, stosowanej dotąd głównie do wprowadzania sankcji. Oto jak zareagowała na ten wyrok amerykańska giełda.",
-      "published": "Fri, 20 Feb 2026 16:45:36 +0100",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Small furniture retailers face existential tariff threat, despite Supreme Court ruling",
