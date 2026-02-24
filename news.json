@@ -1,19 +1,51 @@
 {
-  "generated_at": "2026-02-23T21:54:50.348895",
+  "generated_at": "2026-02-24T02:49:33.372442",
   "articles": [
+    {
+      "title": "Hims & Hers’ expansion plans — as well as its Super Bowl ad — have investors worried about profits",
+      "link": "https://www.marketwatch.com/story/hims-hers-expansion-plans-as-well-as-its-super-bowl-ad-have-investors-worried-about-profits-1e60d262?mod=mw_rss_topstories",
+      "summary": "The wellness platform’s results arrived amid heightened legal and regulatory scrutiny over its weight-loss-drug business.",
+      "published": "Tue, 24 Feb 2026 01:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
+      "link": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6?mod=mw_rss_topstories",
+      "summary": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything.”",
+      "published": "Tue, 24 Feb 2026 00:59:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?",
+      "link": "https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories",
+      "summary": "“I have $650,000 in investments, $250,000 in life insurance and about $150,000 equity in my home.”",
+      "published": "Tue, 24 Feb 2026 00:52:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
+      "link": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories",
+      "summary": "“I own a home worth $520,000 and do not have a mortgage on it.”",
+      "published": "Tue, 24 Feb 2026 00:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Congress must enact Trump’s tariffs now to steer the U.S. from a massive revenue cliff",
+      "link": "https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999?mod=mw_rss_topstories",
+      "summary": "Tariffs need to become law or the federal budget will take a hit. Lawmakers have less than 150 days to decide.",
+      "published": "Tue, 24 Feb 2026 00:42:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
     {
       "title": "Famed director James Cameron sends scathing letter to antitrust lawmaker over Netflix-WBD deal",
       "link": "https://www.cnbc.com/2026/02/19/netflix-wbd-james-cameron-sends-scathing-letter-to-antitrust-lawmaker.html",
       "summary": "James Cameron, award-winning director of \"Avatar\" and \"Titanic,\" calls Netflix's proposed acquisition of WBD assets \"disastrous\" for the theater business.",
       "published": "Thu, 19 Feb 2026 23:00:07 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Ultra-rich families spend more on their private investment firms as their fortunes rise",
-      "link": "https://www.cnbc.com/2026/02/19/ultra-rich-families-private-investment-firms-costs-rise.html",
-      "summary": "Family offices with at least $1 billion in assets reported spending $6.6 million in annual operating costs on average, according to J.P. Morgan Private Bank.",
-      "published": "Thu, 19 Feb 2026 15:31:24 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -34,36 +66,76 @@
       "category": "us"
     },
     {
+      "title": "Tariff ruling sparks ‘refund chaos’ that small businesses and families can’t afford",
+      "link": "https://www.marketwatch.com/story/tariff-ruling-sparks-refund-chaos-that-small-businesses-and-families-cant-afford-e01a5e89?mod=mw_rss_topstories",
+      "summary": "Employers and workers need a stable, predictable U.S. trade policy.",
+      "published": "Mon, 23 Feb 2026 23:42:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Jest nowa oferta kupna Warner Bros. Discovery. Paramount chce rozbić bank",
+      "link": "https://businessinsider.com.pl/firmy/paramount-moze-przejac-wbd-koncern-przebil-wlasna-oferte/c1q5rl5",
+      "summary": "Paramount Skydance przedłożyło podwyższoną ofertę kupna Warner Bros. Discovery — informuje Bloomberg. Paramount rywalizuje o przejęcie studia z Netflixem. O ile Paramount chce przejąć całość koncernu, Netflixa interesuje jedynie segment platform streamingowych i studiów filmowych, bez stacji telewizyjnych.",
+      "published": "Mon, 23 Feb 2026 23:19:30 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Big Tech’s ‘Lag 7’ is putting the S&P 500 — and your index fund — at risk",
+      "link": "https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9?mod=mw_rss_topstories",
+      "summary": "A breakdown of the “Magnificent Seven” and AI hyperscalers raises concern for the stock market and the economy",
+      "published": "Mon, 23 Feb 2026 23:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Cruise companies cancel Puerto Vallarta stops after violence in Mexico",
+      "link": "https://www.cnbc.com/2026/02/23/cruises-puerto-vallarta-mexico.html",
+      "summary": "American travel companies are scrambling to reroute cruise ships and take care of tourists to Mexico.",
+      "published": "Mon, 23 Feb 2026 23:04:21 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Uber’s latest effort to become a super app is all about parking",
+      "link": "https://www.marketwatch.com/story/ubers-latest-effort-to-become-a-super-app-is-all-about-parking-7d05bfba?mod=mw_rss_topstories",
+      "summary": "Uber on Monday said it had agreed to buy the parking-reservations app SpotHero, a move that will allow people to book parking reservations on the Uber app.",
+      "published": "Mon, 23 Feb 2026 23:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Jobs and CPI reports are not being politically manipulated, government’s statistics chief says",
+      "link": "https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories",
+      "summary": "The temporary chief of the U.S. agency that produces critical economic reports on jobs, unemployment and inflation says the data is not being manipulated or influenced by politicians.",
+      "published": "Mon, 23 Feb 2026 22:52:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Did a blog post just cause software stocks to lose more than $200 billion in market cap?",
+      "link": "https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories",
+      "summary": "For investors to wade back into the software sector, they “want and need to see the stocks stop trading down on new AI headlines,” one analyst says.",
+      "published": "Mon, 23 Feb 2026 22:47:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Śnieżyca paraliżuje USA. 600 tys. domów bez prądu",
+      "link": "https://businessinsider.com.pl/wiadomosci/sniezyca-w-usa-odwolane-loty-tysiace-ludzi-bez-pradu/gn6v9ww",
+      "summary": "USA zmagają się z atakiem zimy. Na wschodnim wybrzeżu kraju w wyniku opadów śniegu bez prądu pozostało 600 tys. domów i firm. Odwołano ponad 5600 lotów do i z USA.",
+      "published": "Mon, 23 Feb 2026 22:19:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Krok w przód, krok wstecz. Tym razem Wall Street kończy na czerwono",
       "link": "https://www.bankier.pl/wiadomosc/Krok-w-przod-krok-wstecz-Tym-razem-Wall-Street-konczy-na-czerwono-9088006.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/3561651816a673-948-567-5-60-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przecena spółek technologicznych i finansowych doprowadziła do jednoznacznie spadkowej sesji na nowojorskich giełdach.</p>",
       "published": "Mon, 23 Feb 2026 22:05:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Why Nvidia’s earnings report isn’t the market force it once was",
-      "link": "https://www.marketwatch.com/story/why-nvidias-earnings-report-isnt-the-market-force-it-once-was-f1315d54?mod=mw_rss_topstories",
-      "summary": "Investors have moved on to other AI plays, an analyst says. That presents an opportunity to get Nvidia’s stock at a discount.",
-      "published": "Mon, 23 Feb 2026 21:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "PayPal’s stock pops on takeover hopes. Here’s who could swoop in with a purchase.",
-      "link": "https://www.marketwatch.com/story/paypals-stock-pops-on-takeover-hopes-heres-who-could-swoop-in-with-a-purchase-78e05466?mod=mw_rss_topstories",
-      "summary": "Analysts think private-equity firms or other strategic buyers might see more value in PayPal than its $40 billion market cap currently reflects.",
-      "published": "Mon, 23 Feb 2026 21:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Paramount looks to put itself in the driver’s seat on Warner Bros. deal with increased bid",
-      "link": "https://www.marketwatch.com/story/paramount-looks-to-put-itself-in-the-drivers-seat-on-warner-bros-deal-with-increased-bid-b11c0c74?mod=mw_rss_topstories",
-      "summary": "Paramount Skydance CEO David Ellison will have to put all his chips in by a midnight Monday deadline if he wants to pry Warner Bros. Discovery from Netflix’s hands.",
-      "published": "Mon, 23 Feb 2026 21:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Wyższy dodatek dla sołtysów. Oto ile będą dostawać od marca",
@@ -74,44 +146,12 @@
       "category": "pl"
     },
     {
-      "title": "Why software stocks lost more than $200 billion in market cap today",
-      "link": "https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories",
-      "summary": "For investors to wade back into the software sector, they “want and need to see the stocks stop trading down on new AI headlines,” one analyst says.",
-      "published": "Mon, 23 Feb 2026 21:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Dow has its worst day in a month as Trump looks to impose replacement tariffs",
-      "link": "https://www.marketwatch.com/story/dow-heads-for-worst-day-in-a-month-as-trump-looks-to-impose-replacement-tariffs-d22a741d?mod=mw_rss_topstories",
-      "summary": "President Donald Trump opened up a new round of verbal attacks against the Supreme Court on Monday, just days after the high court struck down his sweeping tariff program — creating an uneasy environment for investors in U.S. assets.",
-      "published": "Mon, 23 Feb 2026 21:33:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Novo Nordisk’s stock slips to 4-year low after its next-gen weight-loss drug lost to Lilly’s in Phase 3 trial",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079?mod=mw_rss_topstories",
-      "summary": "Novo Nordisk shares were under pressure on Monday as the struggling Danish pharmaceutical said a head-to-head study found a drug in development didn’t cut as much weight as an Eli Lilly product.",
-      "published": "Mon, 23 Feb 2026 21:31:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "UE zamraża umowę z USA. Czy Trump rozpęta nową wojnę handlową?",
       "link": "https://comparic.pl/ue-zamraza-umowe-z-usa-czy-trump-rozpeta-nowa-wojne-handlowa/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/02/AI-usa-ue-wojna-handlowa-cla-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/AI-usa-ue-wojna-handlowa-cla-1-324x235.jpg",
       "published": "Mon, 23 Feb 2026 21:22:42 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop",
-      "link": "https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?mod=mw_rss_topstories",
-      "summary": "The company sold more common shares to buy $40 million worth of bitcoin, even as its total holdings are more than $8 billion in the red.",
-      "published": "Mon, 23 Feb 2026 21:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Szefowa EBC w ogniu krytyki. Chodzi o wynagrodzenie",
@@ -128,14 +168,6 @@
       "published": "Mon, 23 Feb 2026 20:58:08 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Where Trump’s affordability ideas stand ahead of his State of the Union",
-      "link": "https://www.marketwatch.com/story/here-are-trumps-affordability-proposals-and-where-they-stand-8674bd99?mod=mw_rss_topstories",
-      "summary": "President Donald Trump is likely to tackle the elevated cost of living in his State of the Union address on Tuesday night. Here’s a look at what he has promised on that front — and whether he’s delivering.",
-      "published": "Mon, 23 Feb 2026 20:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "38 mld zł na pensje nauczycieli. MEN ujawnia szczegóły",
@@ -156,26 +188,10 @@
     {
       "title": "\"Gospodarcza rzeź Trumpa\". Prezydent USA: nie muszę pytać Kongresu",
       "link": "https://businessinsider.com.pl/gospodarka/donald-trump-nie-musze-pytac-kongresu-prezydent-usa-nie-zostawia-zludzen/xnd7fem",
-      "summary": "Nowe 15-proc. cła ogłoszone przez Donalda Trumpa mogą — zdaniem ekspertów — obowiązywać 150 dni. Demokraci zapowiadają, że będą blokować w Kongresie próby ich przedłużenia. \"Demokraci nie przyłączą się do dalszej gospodarczej rzezi Trumpa\" — czytamy w oświadczeniu. Co na to prezydent USA? W najnowszym wpisie twierdzi, że nie potrzebuje zgody Kongresu.",
+      "summary": "Nowe 15-proc. cła ogłoszone przez Donalda Trumpa mogą — zdaniem ekspertów — obowiązywać jedynie przez 150 dni. Demokraci zapowiadają, że będą blokować w Kongresie próby ich przedłużenia i mówią o \"gospodarczej rzezi Trumpa\". Co na to prezydent USA? W najnowszym wpisie twierdzi, że nie potrzebuje zgody Kongresu.",
       "published": "Mon, 23 Feb 2026 20:17:30 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.",
-      "link": "https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?mod=mw_rss_topstories",
-      "summary": "Investors have pulled roughly $4.3 billion out of spot bitcoin ETFs in the past five weeks, according to Dow Jones Market Data.",
-      "published": "Mon, 23 Feb 2026 20:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Domino’s CEO says it’s ‘just not true’ that people are eating less pizza",
-      "link": "https://www.marketwatch.com/story/dominos-earnings-show-its-just-not-true-that-people-are-eating-less-pizza-c141818f?mod=mw_rss_topstories",
-      "summary": "Domino’s stock was rallying Monday after a sales beat showed that the quick-service pizza category remains healthy, despite the weakness seen by rivals.",
-      "published": "Mon, 23 Feb 2026 20:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Semestr w godzinę? Rektor po tekście „Newsweeka”: Działamy zgodnie z prawem",
@@ -566,22 +582,6 @@
       "link": "https://businessinsider.com.pl/gielda/cena-ropy-naftowej-w-2026-i-2027-r-wielki-bank-ujawnil-swoje-prognozy/566j2hc",
       "summary": "Napięcia geopolityczne, produkcja ropy w krajach OPEC, zapasy ropy naftowej — to tylko kilka z czynników, jakie trzeba wziąć pod uwagę w kontekście przyszłych cen \"czarnego złota\". Goldman Sachs pokazał prognozy średniej ceny ropy Brent i WTI w 2026 i 2027 r.",
       "published": "Mon, 23 Feb 2026 14:36:12 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Dlaczego WIG20 spada, gdy spółki wypłacają dywidendy? Wyjaśniamy paradoks indeksu",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wig20-a-dywidendy-jak-obliczanie-indeksu-wplywa-na-notowania/wnm9h6h",
-      "summary": "Osoby obserwujące lub inwestujące w spółki z indeksu WIG20 mogą zauważyć zaskakującą prawidłowość WIG20 może spadać, kiedy spółki wypłacają dywidendy. Niższy poziom notować na tym indeksie nie jest błędem, a efektem konstrukcji najważniejszego indeksu GPW, który nie uwzględnia zysków przekazywanych akcjonariuszom. Wyjaśniamy, dlaczego tak się dzieje i jakie są tego konsekwencje.",
-      "published": "Mon, 23 Feb 2026 14:33:05 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Spółka córki premiera znika z rynku. MLE Brand w likwidacji",
-      "link": "https://businessinsider.com.pl/biznes/katarzyna-tusk-cudna-likwiduje-swoja-spolke-to-koniec-mle-brand/6rthmsj",
-      "summary": "Spółka MLE Brand, w której 50 proc. udziałów miała córka premiera Katarzyna Tusk-Cudna, została postawiona w stan likwidacji — informuje \"Wprost\". Firma zajmowała się sprzedażą odzieży. Nie był to pierwszy biznes córki polityka.",
-      "published": "Mon, 23 Feb 2026 14:21:46 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
