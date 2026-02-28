@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T09:34:07.069022",
+  "generated_at": "2026-02-28T13:01:34.906826",
   "articles": [
     {
       "title": "Cava stock jumps 26% after surprise same-store sales growth, driven by menu prices",
@@ -74,26 +74,10 @@
       "category": "us"
     },
     {
-      "title": "Epstein files highlight how the wealthy borrow against art collections",
-      "link": "https://www.cnbc.com/2026/02/24/epstein-files-wealthy-borrow-against-art-collections.html",
-      "summary": "Art loans are typically used by the wealthy to provide ready cash, leverage financial investments and avoid hefty tax bills.",
-      "published": "Tue, 24 Feb 2026 17:20:07 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Novo Nordisk to slash GLP-1 list prices by up to 50% in U.S. to cut costs for insured patients",
       "link": "https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html",
       "summary": "The cuts aim to make the drugs more accessible to insured patients, particularly people with high-deductible health plans or coinsurance benefit designs.",
       "published": "Tue, 24 Feb 2026 16:49:14 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Jamie Dimon says 'watch out’ as lofty asset prices add to economic risks: ‘My anxiety is high’",
-      "link": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html",
-      "summary": "JPMorgan Chase CEO Jamie Dimon is anxious as high asset levels collide with increased competition among lenders and jitters over loans to the software industry.",
-      "published": "Tue, 24 Feb 2026 13:17:41 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -138,6 +122,102 @@
       "category": "us"
     },
     {
+      "title": "NASA is sending its first Black and first female astronauts to the moon",
+      "link": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
+      "summary": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch, marking the first journey to the moon in over 50 years.",
+      "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "How the 'K-shaped' economy is showing up at two big U.S. gyms",
+      "link": "https://www.cnbc.com/2026/02/28/life-time-planet-fitness-earnings-show-k-shaped-economy.html",
+      "summary": "The outlooks of Life Time and Planet Fitness show the divergence in spending between higher- and lower-income consumers.",
+      "published": "Sat, 28 Feb 2026 13:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Can China just steal America’s AI brain that’s costing trillions to develop?",
+      "link": "https://www.marketwatch.com/story/can-china-just-steal-americas-ai-brain-thats-costing-trillions-to-develop-da126634?mod=mw_rss_topstories",
+      "summary": "American companies are spending enormous sums to develop high-performing AI models. Distillation attacks are attempting to maliciously extract them — and nobody is doing much to stop it.",
+      "published": "Sat, 28 Feb 2026 13:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15K on a new one?",
+      "link": "https://www.marketwatch.com/story/i-dread-the-snow-my-heating-and-air-conditioning-always-breaks-down-do-i-spend-15k-on-a-new-one-e4cbf07e?mod=mw_rss_topstories",
+      "summary": "“Is there a formula or method for figuring out when replacement becomes more cost-effective than ongoing repairs?”",
+      "published": "Sat, 28 Feb 2026 12:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These fintech stocks are loved by analysts and could bounce back in a big way",
+      "link": "https://www.marketwatch.com/story/these-fintech-stocks-are-loved-by-analysts-and-could-bounce-back-in-a-big-way-567f0f46?mod=mw_rss_topstories",
+      "summary": "Shares of PayPal and Block are both cheap relative to historic levels, but only one of them commands heavy enthusiasm from analysts.",
+      "published": "Sat, 28 Feb 2026 12:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Atak Izraela i USA na Iran. Tak wojna może przełożyć się na rynek ropy",
+      "link": "https://businessinsider.com.pl/gospodarka/iran-jako-gigant-energetyczny-taki-moze-byc-wplyw-ataku-usa-na-rynek-ropy/nhvphgb",
+      "summary": "Teheran od dekad pozostaje jednym z filarów światowego rynku energii. Iran dysponuje jednymi z największych złóż ropy naftowej na świecie, co czyni go strategicznym graczem w globalnej gospodarce. Jak oceniają analitycy, sobotni atak USA i Izraela na Iran doprowadzi w poniedziałek do wzrostu cen ropy naftowej na rynkach. Wskazują jednak, że trudno ocenić skalę tego wzrostu po weekendzie i w kolejn",
+      "published": "Sat, 28 Feb 2026 12:21:34 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Any chance the Fed cuts rates this year is ‘evaporating before our very eyes’ as Iran tensions raise oil prices",
+      "link": "https://www.marketwatch.com/story/any-chance-the-fed-cuts-rates-this-year-is-evaporating-before-our-very-eyes-as-iran-tensions-raise-oil-prices-18978691?mod=mw_rss_topstories",
+      "summary": "With oil prices rising in response to growing tensions with Iran, the rationale for additional interest-rate cuts by the Federal Reserve is disappearing.",
+      "published": "Sat, 28 Feb 2026 12:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Szykuje się paraliż w lotnictwie. EASA ostrzega po ataku USA na Iran",
+      "link": "https://businessinsider.com.pl/biznes/szykuje-sie-paraliz-w-lotnictwie-easa-ostrzega/8p1k57n",
+      "summary": "Biznes lotniczy może w najbliższych dniach mocno ucierpieć przez atak USA i Izraela na Iran. Agencja Unii Europejskiej ds. Bezpieczeństwa Lotniczego ostrzega przed wysokim ryzykiem podróży nie tylko do Iranu, ale też do innych krajów, w tym takich, które są tradycyjnymi węzłami przesiadkowymi przy podróży np. do dalekiej Azji.",
+      "published": "Sat, 28 Feb 2026 11:51:10 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Po pięciu latach mieszkania za granicą — w Kanadzie i Europie — zdjęłam różowe okulary i wróciłam do USA",
+      "link": "https://businessinsider.com.pl/lifestyle/moj-instagram-sprawial-mylne-wrazenie-zycie-w-europie-nie-bylo-uslane-rozami/1vssmf2",
+      "summary": "Około pięciu lat temu wyjechałam z USA — najpierw do Kanady, potem do Luksemburga i Francji. Nauczyłam się bardzo wiele i przeżyłam doświadczenia, które zmieniły moje życie, ale nie wszystko było usłane różami. Okazało się, że pracodawcy nie czekali na Amerykankę z otwartymi rękami.",
+      "published": "Sat, 28 Feb 2026 11:07:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Dolar po 3 zł jeszcze w 2026 roku? Kurs USD/PLN może stracić 50 groszy – znamy powód",
+      "link": "https://comparic.pl/dolar-po-3-zl-jeszcze-w-2026-roku-kurs-usd-pln-moze-stracic-50-groszy-znamy-powod/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/02/krypto-2026-02-20T105136.345.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/krypto-2026-02-20T105136.345-324x235.webp\" ",
+      "published": "Sat, 28 Feb 2026 10:38:37 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
+      "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+      "summary": "A massive backlog of maintenance and software contracts will ensure recurring revenue.",
+      "published": "Sat, 28 Feb 2026 10:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.",
+      "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
+      "summary": "Bitcoin was tumbling on Saturday after military action was carried out against Iran by the U.S. and Israel.",
+      "published": "Sat, 28 Feb 2026 10:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "„Przypływ podnosił dotąd wszystkie łodzie”. Za to teraz trzeba zachować ostrożność",
       "link": "https://www.bankier.pl/wiadomosc/Przyplyw-podnosil-dotad-wszystkie-lodzie-Za-to-teraz-trzeba-zachowac-ostroznosc-9090143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/7/9ae11cd2152c3b-948-568-146-151-1638-982.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wśród rynkowych niedźwiedzi słychać porównania obecnej sytuacji na rynkach finansowych już nie do bańki dotcomów, ale do wielkiego kryzysu z 2008 roku. Jednak obecnie najwięce",
@@ -168,6 +248,22 @@
       "published": "Sat, 28 Feb 2026 10:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Ten okręt pomógł w ataku na Iran. Jest większy od wieży Eiffla",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/uss-gerald-r-ford-najwiekszy-okret-wojenny-jaki-kiedykolwiek-zbudowano/4eh3cd4",
+      "summary": "USS Gerald R. Ford, największy lotniskowiec świata i największy okręt wojenny, jaki kiedykolwiek zbudowano, kilka dni temu wpłynął do portu w Sudzie na greckiej Krecie. Nie ma wątpliwości, że był jednym z kluczowych elementów sobotniego ataku USA i Izraela na Iran. Przyjrzeliśmy się, co potrafi największy lotniskowiec świata.",
+      "published": "Sat, 28 Feb 2026 09:58:13 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Drugie życie filologów. Po latach wyśmiewania humaniści zyskują szacunek i posady",
+      "link": "https://businessinsider.com.pl/praca/czy-warto-jeszcze-studiowac-kierunki-humanistyczne-na-swiecie-zyskuja-drugie-zycie/ex7gy6r",
+      "summary": "Na Uniwersytecie Kolorado w Boulder można zapisać się na kurs prowadzony wspólnie przez matematyka stosowanego i badacza renesansu. — Studenci to uwielbiają — mówi John-Michael Rivera, dziekan wydziału sztuk i humanistyki, o zajęciach zatytułowanych \"Inclusive Interdisciplinary Data Science for All\", co można przetłumaczyć jako \"Inkluzywna interdyscyplinarna analiza danych dla wszystkich\". No dobr",
+      "published": "Sat, 28 Feb 2026 09:31:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Wszystkie oczy na ten mały punkt na mapie. Może zachwiać światową gospodarką",
@@ -216,14 +312,6 @@
       "published": "Sat, 28 Feb 2026 09:11:27 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Trump says ‘massive’ strike against Iran underway — bitcoin plunge offers a glimpse of how markets could react",
-      "link": "https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?mod=mw_rss_topstories",
-      "summary": "Bitcoin was tumbling on Saturday after military action was carried out against Iran by the U.S. and Israel.",
-      "published": "Sat, 28 Feb 2026 08:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zwiastowała nie tylko atak USA na Iran. Czym jest teoria Pentagon Pizza Index?",
@@ -402,46 +490,6 @@
       "category": "us"
     },
     {
-      "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
-      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
-      "summary": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway",
-      "published": "Fri, 27 Feb 2026 22:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Will the bank get suspicious if I deposit $150,000 in cash into my checking account?",
-      "link": "https://www.marketwatch.com/story/i-live-in-a-state-with-no-inheritance-tax-is-it-legal-to-deposit-150k-cash-into-my-bank-account-d7987cfe?mod=mw_rss_topstories",
-      "summary": "“I live in a state with no inheritance tax. I assume I can make this deposit legally.”",
-      "published": "Fri, 27 Feb 2026 22:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Trump warned ‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.",
-      "link": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c?mod=mw_rss_topstories",
-      "summary": "Oil prices jolted higher on Friday, booking their biggest daily gains in over a week, after President Trump signaled the window for using diplomacy to end Tehran’s nuclear program may be closing.",
-      "published": "Fri, 27 Feb 2026 22:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "United’s stock had its worst day in months on rising oil prices, market jitters",
-      "link": "https://www.marketwatch.com/story/uniteds-stock-and-other-airline-shares-get-a-reality-check-from-rising-oil-prices-market-jitters-2b6adfd0?mod=mw_rss_topstories",
-      "summary": "United Airlines’ stock on Friday suffered its worst drop in 10 months, with other airline stocks also seeing steep declines amid rising oil futures prices and increased market jitters.",
-      "published": "Fri, 27 Feb 2026 22:35:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Medicare will run out of money 12 years earlier than expected",
-      "link": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83?mod=mw_rss_topstories",
-      "summary": "The Congressional Budget Office warns America’s public retirement programs are deteriorating at a shocking rate.",
-      "published": "Fri, 27 Feb 2026 22:22:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Grupa Allegro sprzedała swoją działalność w Słowenii i Chorwacji",
       "link": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/d/2005e3f5389635-948-568-0-251-4031-2418.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.</p>",
@@ -516,7 +564,7 @@
     {
       "title": "Donald Trump o swoich planach wobec Kuby. \"Przyjazne przejęcie\"",
       "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-chce-wykorzystac-kryzys-na-kubie-zaskakujace-co-powiedzial/6h584zd",
-      "summary": "Donald Trump twierdzi, że Kuba jest \"delikatnie mówiąc, krajem upadającym\". Prezydent USA chce wykorzystać trudną sytuację wyspy i mówi o jej \"przyjaznym przejęciu\".",
+      "summary": "Donald Trump twierdzi, że Kuba jest \"delikatnie mówiąc, krajem upadającym\". Prezydent USA chce wykorzystać trudną sytuację wyspy i kreśli zaskakujący scenariusz.",
       "published": "Fri, 27 Feb 2026 20:49:05 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -578,22 +626,6 @@
       "category": "pl"
     },
     {
-      "title": "Nowa rola byłego premiera Wielkiej Brytanii. Ma doradzać Ukrainie",
-      "link": "https://businessinsider.com.pl/gospodarka/nowa-rola-bylego-premiera-wielkiej-brytanii-rishi-sunaka-ma-doradzac-ukrainie/ezphhs2",
-      "summary": "Były brytyjski premier Rishi Sunak objął nieodpłatną funkcję doradcy Ukrainy w zakresie odbudowy gospodarki, dołączając do międzynarodowej rady doradczej ds. odnowy ekonomicznej kraju. Informację potwierdzono w dokumentach opublikowanych 27 lutego przez niezależnego doradcę ds. standardów ministerialnych w Wielkiej Brytanii.",
-      "published": "Fri, 27 Feb 2026 19:19:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Syn miliardera wygrał batalię o właściciela TVN. Kim jest?",
-      "link": "https://businessinsider.com.pl/biznes/do-kogo-nalezy-tvn-juz-niebawem-do-niego-kim-jest-david-ellison/xbr4vjc",
-      "summary": "David Ellison — syn miliardera, producent i były aktor — buduje medialne imperium. W piątek nieoczekiwanie pokonał znacznie większego gracza — Netfliksa — w zaciętym wyścigu o przejęcie właściciela TVN. Taki zwrot jest po myśli prezydenta USA Donalda Trumpa.",
-      "published": "Fri, 27 Feb 2026 18:34:38 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 27.02.2026",
       "link": "https://www.money.pl/waluty/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-27-02-2026-7258985026910656a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 27.02.2026. W piątek po południu za jednego dolara (USD) trzeba zapłacić 3.57375 zł.",
@@ -650,14 +682,6 @@
       "category": "pl"
     },
     {
-      "title": "Polska wspiera firmy chcące odbudować Ukrainę. Otrzymują specjalne pożyczki",
-      "link": "https://businessinsider.com.pl/gospodarka/polska-wspiera-firmy-chcace-odbudowac-ukraine-otrzymuja-specjalne-pozyczki/8r4dckz",
-      "summary": "Podpisano już 32 umowy o łącznej wartości ponad 103 mln zł w ramach programu preferencyjnych pożyczek dla przedsiębiorców zainteresowanych udziałem w odbudowie Ukrainy — poinformowało w piątek Ministerstwo Funduszy i Polityki Regionalnej. Całkowity budżet instrumentu wynosi 250 mln zł.",
-      "published": "Fri, 27 Feb 2026 17:21:25 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Srebro wznawia rajd! Czy to już czas na atak 100 USD za uncję?",
       "link": "https://comparic.pl/srebro-wznawia-rajd-czy-to-juz-czas-na-atak-100-usd-za-uncje-27-02-2026/",
       "summary": "<img alt=\"AI ChatGPT Srebro wzrosty, silver cc\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/ChatGPT-Image-27-sty-2026-12_17_15-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"AI ChatGPT Srebro wzrosty, silver cc\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://co",
@@ -672,30 +696,6 @@
       "published": "Fri, 27 Feb 2026 16:35:35 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Kurs Netflix wystrzelił o blisko 10% w górę! Gigant wycofuje się z kontrowersyjnej decyzji!",
-      "link": "https://comparic.pl/kurs-netflix-wystrzelil-o-blisko-10-w-gore-gigant-wycofuje-sie-z-kontrowersyjnej-decyzji/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"820\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-stock-market-chart-wykres-wzrost-grow-growth-hossa-up-5.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-s",
-      "published": "Fri, 27 Feb 2026 16:33:30 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Coraz gorsza sytuacja demograficzna. Ekonomista: to wymusi wielką reformę",
-      "link": "https://businessinsider.com.pl/gospodarka/coraz-gorsza-sytuacja-demograficzna-ekonomista-to-wymusi-wielka-reforme/bbdhjh2",
-      "summary": "Kurcząca się populacja i wysokie koszty stałe sprawiają, że obecny podział administracyjny kraju staje się coraz trudniejszy do utrzymania. Przewodniczący Rady Fiskalnej dr Sławomir Dudek ostrzega, że Polskę czeka trzeci etap reformy samorządowej, polegający na łączeniu mniejszych gmin.",
-      "published": "Fri, 27 Feb 2026 16:25:13 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Mroźna zima spowolniła wzrost gospodarczy w Polsce. Nowe prognozy",
-      "link": "https://businessinsider.com.pl/gospodarka/mrozna-zima-hamowala-wzrost-gospodarczy-w-polsce-nowe-prognozy/w778dgl",
-      "summary": "— Początek 2026 r. przyniósł spowolnienie wzrostu gospodarczego w Polsce — ocenił Rafał Benecki, główny ekonomista ING Banku Śląskiego. Główną przyczyną była mroźna zima, która ograniczyła aktywność w wielu sektorach gospodarki.",
-      "published": "Fri, 27 Feb 2026 16:18:21 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior",
