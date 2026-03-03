@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T21:41:30.474320",
+  "generated_at": "2026-03-03T02:49:35.978047",
   "articles": [
     {
       "title": "Restaurant reservation wars heat up as DoorDash enters the arena with Resy, OpenTable",
@@ -31,6 +31,46 @@
       "summary": "JPMorgan, the world's biggest bank by market cap, has the industry's largest annual tech budget at nearly $20 billion, and it has outlined an ambitious AI plan.",
       "published": "Tue, 24 Feb 2026 21:33:36 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa?mod=mw_rss_topstories",
+      "summary": "A “planned” transition involving the exits of two sales leaders is also rattling investors.",
+      "published": "Tue, 03 Mar 2026 02:23:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase",
+      "link": "https://www.marketwatch.com/story/sofis-stock-rises-as-ceo-anthony-noto-reacts-to-recent-selloff-with-a-1-million-purchase-d03ba5b6?mod=mw_rss_topstories",
+      "summary": "Noto, who already owns a SoFi stake worth about $215 million on paper, has been known to buy the dip before.",
+      "published": "Tue, 03 Mar 2026 01:28:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Apple launches new iPhone and iPad Air as it gears up for a major AI push",
+      "link": "https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae?mod=mw_rss_topstories",
+      "summary": "The company is boosting the storage capacity of its devices, a move thought to be a prelude to expected Siri enhancements later this year.",
+      "published": "Tue, 03 Mar 2026 00:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "First flights take off from Dubai after Iran strikes, but service is 'limited'",
+      "link": "https://www.cnbc.com/2026/03/02/middle-east-flights.html",
+      "summary": "Emirates airline said it will resume a limited number of flights as early as Monday evening local time.",
+      "published": "Tue, 03 Mar 2026 00:12:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?",
+      "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
+      "summary": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”",
+      "published": "Tue, 03 Mar 2026 00:00:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -258,25 +298,65 @@
       "category": "pl"
     },
     {
-      "title": "Trump’s war on Iran could make many things more expensive, despite his affordability promises",
-      "link": "https://www.marketwatch.com/story/trumps-war-on-iran-could-make-many-things-more-expensive-despite-his-affordability-promises-66060ea4?mod=mw_rss_topstories",
-      "summary": "How do you campaign on “affordability” if you just pushed up prices?",
-      "published": "Mon, 02 Mar 2026 21:33:00 GMT",
+      "title": "EchoStar’s business deemed ‘irrelevant’ as investors focus on future SpaceX stake",
+      "link": "https://www.marketwatch.com/story/echostars-business-deemed-irrelevant-as-investors-focus-on-future-spacex-stake-5a89c0c7?mod=mw_rss_topstories",
+      "summary": "The satellite-communications company is essentially a hedge fund with a SpaceX stake, in the view of MoffettNathanson analysts.",
+      "published": "Mon, 02 Mar 2026 23:28:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Here is the ‘worst-case scenario’ for oil and the Strait of Hormuz",
-      "link": "https://www.marketwatch.com/story/here-is-the-worst-case-scenario-for-oil-and-the-strait-of-hormuz-d1aada30?mod=mw_rss_topstories",
-      "summary": "Oil prices settled at their highest levels since June on Monday, as the conflict in the Middle East brings with it an inherent risk to the world’s available crude supplies.",
-      "published": "Mon, 02 Mar 2026 21:31:00 GMT",
+      "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
+      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d?mod=mw_rss_topstories",
+      "summary": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway",
+      "published": "Mon, 02 Mar 2026 23:23:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
+      "link": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html",
+      "summary": "The suit against JPMorgan, the world's biggest bank by market cap, and its CEO puts Dimon in an awkward position.",
+      "published": "Mon, 02 Mar 2026 23:01:45 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "How this under-the-radar U.S. natural-gas exporter could capitalize on a potential shortage in Europe",
+      "link": "https://www.marketwatch.com/story/how-this-under-the-radar-u-s-natural-gas-exporter-could-capitalize-on-a-potential-shortage-in-europe-c6938bab?mod=mw_rss_topstories",
+      "summary": "The U.S. is the world’s largest exporter of liquefied natural gas, and one relatively obscure U.S. company seems ready to reap the benefits of a surge in global natural-gas prices following the U.S. and Israel’s attacks on Iran and the widening conflict in the Middle East.",
+      "published": "Mon, 02 Mar 2026 23:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "eu"
+    },
+    {
+      "title": "Chevron’s stock surges to a record as U.S.-Israeli attacks on Iran spark an oil rally",
+      "link": "https://www.marketwatch.com/story/chevrons-stock-surges-toward-a-record-as-u-s-israeli-attacks-on-iran-spark-an-oil-rally-c6283fd5?mod=mw_rss_topstories",
+      "summary": "Investors leaned onto U.S. energy stocks on Monday, with the widening conflict in the Middle East boosting shares of major U.S. exploration and production and integrated-energy companies, in particular Chevron.",
+      "published": "Mon, 02 Mar 2026 22:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The smartest money moves to make as the Iran conflict rattles markets",
+      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-as-the-iran-conflict-rattles-markets-d8e57ef3?mod=mw_rss_topstories",
+      "summary": "You may have opportunities to optimize for short-term volatility, financial planners told MarketWatch.",
+      "published": "Mon, 02 Mar 2026 22:35:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia’s stock is Morgan Stanley’s new top chip pick — replacing Micron",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-morgan-stanleys-new-top-chip-pick-replacing-micron-2dfffd2b?mod=mw_rss_topstories",
+      "summary": "An analyst sees a “surprisingly good entry point” for Nvidia investors given the stock’s recent sluggish performance.",
+      "published": "Mon, 02 Mar 2026 22:18:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
       "title": "Iran twierdzi, że cieśnina Ormuz jest zamknięta. Ostrzega statki przed atakami",
       "link": "https://businessinsider.com.pl/gospodarka/iran-zamyka-ciesnine-ormuz-ostrzega-statki-przed-atakami/8s68fbb",
-      "summary": "Iran twierdzi, że cieśnina Ormuz została zamknięta i ostrzega, że zaatakuje statki próbujące ją przepłynąć — poinformowała agencja Reuters, powołując się na irańskie media.",
+      "summary": "Iran twierdzi, że cieśnina Ormuz została zamknięta i ostrzega, że zaatakuje każdy statek próbujący ją przepłynąć — poinformowała agencja Reuters, powołując się na irańskie media.",
       "published": "Mon, 02 Mar 2026 21:27:48 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -286,22 +366,6 @@
       "link": "https://www.cnbc.com/2026/03/02/iran-strikes-flights-travel-stocks.html",
       "summary": "Airlines and some hotel stocks fell after the U.S.-Israeli attacks on Iran and subsequent retaliation strikes.",
       "published": "Mon, 02 Mar 2026 21:25:20 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Bonds log biggest selloff in 9 months as Iran conflict sparks unusual Treasury moves",
-      "link": "https://www.marketwatch.com/story/bonds-head-for-biggest-selloff-in-nine-months-as-iran-conflict-sparks-unusual-treasury-moves-c40aed49?mod=mw_rss_topstories",
-      "summary": "Mortgage rates and more will be vulnerable to the surge in the 10-year Treasury yield.",
-      "published": "Mon, 02 Mar 2026 21:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Jamie Dimon says Trump’s $5 billion debanking lawsuit ‘has no merit’ but he’s sympathetic to concerns",
-      "link": "https://www.cnbc.com/2026/03/02/dimon-trump-debanking-lawsuit-no-merit-concerns.html",
-      "summary": "The suit against JPMorgan, the world's biggest bank by market cap, and its CEO puts Dimon in an awkward position.",
-      "published": "Mon, 02 Mar 2026 21:04:04 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -330,14 +394,6 @@
       "category": "other"
     },
     {
-      "title": "Iran conflict hits a market that’s more overvalued than during the 1973 oil shock",
-      "link": "https://www.marketwatch.com/story/iran-conflict-hits-a-market-thats-more-overvalued-than-during-the-1973-oil-shock-f9035d9d?mod=mw_rss_topstories",
-      "summary": "Arab–Israeli war in 1973 and the oil embargo that followed shows that stocks don’t always rebound quickly.",
-      "published": "Mon, 02 Mar 2026 20:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Versant is about to test Wall Street’s appetite for cable TV in its first earnings report as a public company",
       "link": "https://www.cnbc.com/2026/03/02/versant-earnings-report-test-wall-street-cable-tv.html",
       "summary": "Versant, the portfolio of pay TV networks previously owned by Comcast, will release its first earnings report since going public earlier this year.",
@@ -362,35 +418,11 @@
       "category": "other"
     },
     {
-      "title": "‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?",
-      "link": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories",
-      "summary": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”",
-      "published": "Mon, 02 Mar 2026 20:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week's decline",
       "link": "https://www.cnbc.com/2026/03/02/mortgage-rates-jump-sharply-higher-after-iran-strikes-reversing-last-weeks-decline.html",
       "summary": "Mortgage rates moved decidedly higher Monday, as the U.S. war with Iran pushed oil prices up and Treasury yields followed.",
       "published": "Mon, 02 Mar 2026 20:00:13 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Emirates' first flight out of Dubai since Iran strikes takes off",
-      "link": "https://www.cnbc.com/2026/03/02/middle-east-flights.html",
-      "summary": "Emirates airline said it will resume a limited number of flights as early as Monday evening local time.",
-      "published": "Mon, 02 Mar 2026 19:46:46 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Why CrowdStrike’s stock just got an upgrade ahead of earnings",
-      "link": "https://www.marketwatch.com/story/why-crowdstrikes-stock-just-got-an-upgrade-ahead-of-earnings-1a7450be?mod=mw_rss_topstories",
-      "summary": "An analyst sees minimal risk to the company’s guidance and thinks shares have been overly punished by a broad selloff in the software sector.",
-      "published": "Mon, 02 Mar 2026 19:40:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -418,28 +450,12 @@
       "category": "other"
     },
     {
-      "title": "HBO Max and Paramount+ will become one streaming service. What does that mean for you?",
-      "link": "https://www.marketwatch.com/story/hbo-max-and-paramount-will-become-one-streaming-service-what-does-that-mean-for-you-79f99ca9?mod=mw_rss_topstories",
-      "summary": "HBO Max and Paramount+ collectively reach over 200 million subscribers worldwide, which is more than Disney+, nearly on par with Amazon’s Prime Video and just behind Netflix.",
-      "published": "Mon, 02 Mar 2026 19:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "JPMorgan: Kryzys naftowy po ataku na Iran może wywołać gwałtowny wzrost dolara",
       "link": "https://comparic.pl/jpmorgan-kryzys-naftowy-po-ataku-na-iran-moze-wywolac-gwaltowny-wzrost-dolara/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"801\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-1-324x235.jpg",
       "published": "Mon, 02 Mar 2026 18:56:27 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "How Applied Optoelectronics became the latest viral AI stock",
-      "link": "https://www.marketwatch.com/story/how-applied-optoelectronics-became-the-latest-viral-ai-stock-f644d345?mod=mw_rss_topstories",
-      "summary": "Shares of the optical-networking provider have nearly tripled so far this year as AI players seek out high-bandwidth, low-latency connectivity products.",
-      "published": "Mon, 02 Mar 2026 18:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 02.03.2026",
@@ -474,25 +490,9 @@
       "category": "pl"
     },
     {
-      "title": "Prediction-market traders betting against Iran’s Khamenei got a messy reminder to always read the fine print",
-      "link": "https://www.marketwatch.com/story/prediction-market-traders-betting-on-irans-khamenei-got-a-messy-reminder-to-always-read-the-fine-print-72a39382?mod=mw_rss_topstories",
-      "summary": "As tensions between the U.S. and Iran rose over the past few weeks, traders were using Kalshi and Polymarket to bet on whether Iran’s Supreme Leader Ali Khamenei would remain in power. But when news broke that Khamenei was killed in U.S.-Israel strikes, these traders were left with more questions than answers.",
-      "published": "Mon, 02 Mar 2026 18:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Trump leaves door open for extended U.S. campaign against Iran. What that could mean for the economy.",
-      "link": "https://www.marketwatch.com/story/trump-leaves-door-open-for-extended-u-s-campaign-against-iran-e2d21f8f?mod=mw_rss_topstories",
-      "summary": "President Donald Trump said Monday the military operation against Iran could last four to five weeks — or longer.",
-      "published": "Mon, 02 Mar 2026 18:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Państwowy gigant ma nowego prezesa",
       "link": "https://businessinsider.com.pl/gielda/grupa-azoty-z-nowym-prezesem-kim-jest-marcin-celejewski/1vpebc0",
-      "summary": "Grupy Azoty ma nowego prezesa. W połowie lutego w państwowym gigancie o strategicznym znaczeniu dla Polski doszło do kadrowego trzęsienia ziemi. W poniedziałek rada nadzorcza powołała nowy zarząd. Jego prezesem został Marcin Celejewski, który w przeszłości kierował już dwiema państwowymi spółkami, w tym PKP Intercity. \"Grupa Azoty wymaga dziś zdecydowanej zmiany\" — zapowiada.",
+      "summary": "W państwowym gigancie o strategicznym znaczeniu dla Polski doszło w połowie lutego do kadrowego trzęsienia ziemi. W poniedziałek rada nadzorcza powołała nowy zarząd. Prezesem Grupy Azoty został Marcin Celejewski, który w przeszłości kierował m.in. PKP Intercity. \"Grupa Azoty wymaga dziś zdecydowanej zmiany\" — zapowiada.",
       "published": "Mon, 02 Mar 2026 18:06:45 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -588,7 +588,7 @@
     {
       "title": "Macron: zwiększymy liczbę głowic. Parasol jądrowy także dla Polski",
       "link": "https://businessinsider.com.pl/wiadomosci/francja-zwiekszy-arsenal-nuklearny-macron-wspomina-o-polsce/gj1r5t3",
-      "summary": "Francja zwiększy liczbę głowic nuklearnych — zapowiedział Emmanuel Macron. Prezydent wymienił Polskę jako jeden z krajów, które zadeklarowały udział w zaproponowanym przez Francję programie odstraszania nuklearnego.",
+      "summary": "Francja zwiększy liczbę głowic nuklearnych — zapowiedział Emmanuel Macron. Prezydent wymienił Polskę jako jeden z krajów, które zadeklarowały udział w zaproponowanym przez Francję programie odstraszania nuklearnego. Do tych słów odniósł się premier Donald Tusk.",
       "published": "Mon, 02 Mar 2026 16:02:31 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
