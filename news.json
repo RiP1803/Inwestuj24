@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-03-10T21:36:12.737667",
+  "generated_at": "2026-03-11T02:41:51.465588",
   "articles": [
     {
-      "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
-      "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
-      "summary": "Ford CEO Jim Farley last month said diversifying Pro's revenue — specifically in software — is a crucial growth area for the company.",
-      "published": "Tue, 10 Mar 2026 21:30:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Why CrowdStrike’s stock just won another fan on Wall Street",
-      "link": "https://www.marketwatch.com/story/why-crowdstrikes-stock-just-won-another-fan-on-wall-street-121dd5f6?mod=mw_rss_topstories",
-      "summary": "AI could increase the need for cybersecurity offerings, not cut into CrowdStrike’s business, according to Morgan Stanley.",
-      "published": "Tue, 10 Mar 2026 21:25:00 GMT",
+      "title": "Obamacare enrollment is plunging as costs soar, pushing down stocks like Centene",
+      "link": "https://www.marketwatch.com/story/obamacare-enrollment-is-plunging-as-costs-soar-pushing-down-stocks-like-centene-dff8248f?mod=mw_rss_topstories",
+      "summary": "Americans are opting out of the Affordable Care Act, and health insurance companies are taking a financial hit.",
+      "published": "Wed, 11 Mar 2026 02:26:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -21,8 +13,96 @@
       "title": "What’s next for crude-oil prices as wealthy nations consider a release of their reserves",
       "link": "https://www.marketwatch.com/story/whats-next-for-crude-oil-prices-as-wealthy-nations-consider-a-release-of-their-reserves-d46cba38?mod=mw_rss_topstories",
       "summary": "Panic in the oil market has calmed down, with prices pulling back from the week’s highs near $120 a barrel after a group of wealthy nations said they will consider a coordinated release of emergency global crude reserves",
-      "published": "Tue, 10 Mar 2026 21:24:00 GMT",
+      "published": "Wed, 11 Mar 2026 01:13:00 GMT",
       "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years",
+      "link": "https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories",
+      "summary": "For the first time in over a decade and a half, Oracle says it grew both revenue and earnings by at least 20%.",
+      "published": "Wed, 11 Mar 2026 00:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance",
+      "link": "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1?mod=mw_rss_topstories",
+      "summary": "Amazon is preparing one of the largest corporate bond offerings in history to fund its AI buildout",
+      "published": "Tue, 10 Mar 2026 23:50:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tesla and Google team up to push their own fix for rising electricity bills",
+      "link": "https://www.marketwatch.com/story/tesla-and-google-team-up-to-push-their-own-fix-for-rising-electricity-bills-3fca75bc?mod=mw_rss_topstories",
+      "summary": "The Big Tech giants joined a coalition that aims to work with U.S. lawmakers and regulators to utilize more of the electric grid and lower costs.",
+      "published": "Tue, 10 Mar 2026 23:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Krucha stabilizacja na Wall Street. Rynek ropy reaguje na sprzeczne sygnały",
+      "link": "https://www.bankier.pl/wiadomosc/Krucha-stabilizacja-na-Wall-Street-Rynek-ropy-reaguje-na-sprzeczne-sygnaly-9096217.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/5/2abd7d76d46581-948-568-110-190-3890-2333.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wtorkowa sesja na Wall Street zakończyła się niewielkimi zmianami głównych indeksów, a na rynkach widać było poprawę nastrojów na fali oczekiwań, że wojna USA i Izraela z Ira",
+      "published": "Tue, 10 Mar 2026 23:03:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I am stuck in a low-income trap’: I’m a teacher and very good at my job. Will I ever earn six figures?",
+      "link": "https://www.marketwatch.com/story/i-am-stuck-in-a-low-income-trap-im-a-teacher-will-i-ever-earn-six-figures-5f7dd2b9?mod=mw_rss_topstories",
+      "summary": "“My low salary requires me to have multiple other part-time jobs.”",
+      "published": "Tue, 10 Mar 2026 23:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "New Social Security whistleblower alleges DOGE worker improperly accessed data and planned to share it",
+      "link": "https://www.marketwatch.com/story/new-social-security-whistleblower-alleges-doge-worker-improperly-accessed-data-and-planned-to-share-it-d6100479?mod=mw_rss_topstories",
+      "summary": "According to a report, a former DOGE software engineer allegedly told co-workers that he had two databases of U.S. citizens’ information.",
+      "published": "Tue, 10 Mar 2026 22:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-insurers-are-overcharging-taxpayers-and-seniors-billions-of-dollars-why-is-anyone-surprised-71ca5da4?mod=mw_rss_topstories",
+      "summary": "The big for-profit health insurers who run the Medicare Advantage program aren’t happy with the latest government watchdog report",
+      "published": "Tue, 10 Mar 2026 22:06:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump’s Iran attack is saddling your portfolio with a costly ‘risk tax’ — and you can’t escape it",
+      "link": "https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories",
+      "summary": "America’s use of ‘hard power’ is pricing a security risk premium into every asset class.",
+      "published": "Tue, 10 Mar 2026 22:04:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?",
+      "link": "https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories",
+      "summary": "“I didn’t ask a man to rear-end my car at a red light.”",
+      "published": "Tue, 10 Mar 2026 22:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Cieśnina Ormuz zaminowana? Trump grozi Iranowi: Usuńcie je i strzeżcie się",
+      "link": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zaminowana-Trump-grozi-Iranowi-Usuncie-je-i-strzezcie-sie-9096206.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/c/8ed9b4f65f0b36-948-568-280-10-2550-1530.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump oświadczył we wtorek, że nie posiada informacji na temat tego, by Iran zaminował cieśninę Ormuz, jednak jeśli jakieś ładunki podłożono, mają zostać ",
+      "published": "Tue, 10 Mar 2026 21:47:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ford launches new AI to grow multibillion-dollar Pro commercial business",
+      "link": "https://www.cnbc.com/2026/03/10/ford-pro-ai.html",
+      "summary": "Ford CEO Jim Farley last month said diversifying Pro's revenue — specifically in software — is a crucial growth area for the company.",
+      "published": "Tue, 10 Mar 2026 21:30:01 GMT",
+      "source": "CNBC",
       "category": "us"
     },
     {
@@ -34,36 +114,20 @@
       "category": "other"
     },
     {
-      "title": "The next oil scare in the Strait of Hormuz: Mines",
-      "link": "https://www.marketwatch.com/story/the-next-oil-scare-in-the-strait-of-hormuz-mines-5d152edd?mod=mw_rss_topstories",
-      "summary": "Trump warned Iran anew on Tuesday not to lay mines in the strategic waterway.",
-      "published": "Tue, 10 Mar 2026 21:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Program Czarnka: obniżka VAT na paliwa, promocja rodziny i walka z drożyzną",
+      "link": "https://www.bankier.pl/wiadomosc/Program-Czarnka-obnizka-VAT-na-paliwa-promocja-rodziny-i-walka-z-drozyzna-9096195.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/0/d969e886674450-948-568-0-67-3832-2299.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kandydat PiS na premiera, wiceprezes PiS Przemysław Czarnek od spotkania z mieszkańcami Iławy rozpoczął dyskusję na temat tego, czego Polacy oczekują od państwa. Mówił na nim m.",
+      "published": "Tue, 10 Mar 2026 21:23:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
-      "title": "How Trump’s Iran attack saddles your portfolio with a risk tax",
-      "link": "https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae?mod=mw_rss_topstories",
-      "summary": "America’s use of ‘hard power’ is pricing a security risk premium into every asset class.",
-      "published": "Tue, 10 Mar 2026 21:17:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The charts warn that airline stocks face more worries than just rising oil prices",
-      "link": "https://www.marketwatch.com/story/the-charts-warn-that-airline-stocks-face-more-worries-than-just-rising-oil-prices-315cb8fa?mod=mw_rss_topstories",
-      "summary": "The Jets airline ETF has broken below some key chart levels, which signals there’s now more to the selloff than just rising oil prices.",
-      "published": "Tue, 10 Mar 2026 21:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Oracle’s stock rises as AI demand spurs an earnings milestone not seen in 15 years",
-      "link": "https://www.marketwatch.com/story/oracles-stock-rises-as-ai-demand-spurs-an-earnings-milestone-not-seen-in-15-years-c45c437f?mod=mw_rss_topstories",
-      "summary": "For the first time in over a decade and a half, Oracle says it grew both revenue and earnings by at least 20%.",
-      "published": "Tue, 10 Mar 2026 21:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "„SAFE albo hańba”. Ultimatum Radosława Sikorskiego pod adresem Nawrockiego",
+      "link": "https://www.bankier.pl/wiadomosc/SAFE-albo-hanba-Ultimatum-Radoslawa-Sikorskiego-pod-adresem-Nawrockiego-9096192.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/f/e08e647e319162-948-568-0-67-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef MSZ Radosław Sikorski, odnosząc się do „polskiego SAFE”, ocenił we wtorek, że pomysł generowania pieniędzy wirtualnych na rezerwach złota to „szarlataneria”. Podkreślił, że",
+      "published": "Tue, 10 Mar 2026 21:13:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Tak państwa reagują na szok naftowy. \"Największy w historii\"",
@@ -90,12 +154,12 @@
       "category": "other"
     },
     {
-      "title": "‘Cruising used to feel special.’ Cruise lines were struggling even before the Iran conflict.",
-      "link": "https://www.marketwatch.com/story/cruising-used-to-feel-special-cruise-lines-were-struggling-even-before-the-iran-conflict-hurt-stocks-78b6a88b?mod=mw_rss_topstories",
-      "summary": "Cruise stocks were among the S&amp;P 500’s biggest decliners since the Middle East conflict, and it’s not just about rising fuel prices",
-      "published": "Tue, 10 Mar 2026 20:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Rośnie napięcie w Nigerii. USA ostrzegają obywateli przed atakami",
+      "link": "https://www.bankier.pl/wiadomosc/Rosnie-napiecie-w-Nigerii-USA-ostrzegaja-obywateli-przed-atakami-9096175.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/b20f13edacaa7b-948-568-0-79-3958-2374.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ambasada Stanów Zjednoczonych w Nigerii ostrzegła we wtorek swoich obywateli o możliwych atakach terrorystycznych na amerykańskie placówki i szkoły w tym zachodnioafrykańskim kr",
+      "published": "Tue, 10 Mar 2026 20:39:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 10.03.2026",
@@ -138,22 +202,6 @@
       "category": "pl"
     },
     {
-      "title": "Oil futures lose more than 11%, as energy ministers consider release of emergency crude reserves",
-      "link": "https://www.marketwatch.com/story/oil-futures-slide-8-as-energy-ministers-set-to-meet-on-emergency-reserves-035da30c?mod=mw_rss_topstories",
-      "summary": "Oil futures settled sharply lower on Tuesday, extending losses from the overnight session, as world leaders considered releasing emergency crude supplies with the Iran conflict stretching into an 11th day.",
-      "published": "Tue, 10 Mar 2026 20:22:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "10-year Treasury yield trades below key level after a drop in oil prices eases inflation fears",
-      "link": "https://www.marketwatch.com/story/european-bonds-join-treasury-rally-as-lower-oil-prices-ease-inflation-fears-c317b735?mod=mw_rss_topstories",
-      "summary": "Treasury yields were edging up Tuesday, but traded below levels seen Monday when inflation fears tied to oil’s surge were rising.",
-      "published": "Tue, 10 Mar 2026 20:21:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Aluminium najdroższe od 4 lat. Bliski Wschód odcina 20% światowych dostaw",
       "link": "https://www.bankier.pl/wiadomosc/Aluminium-najdrozsze-od-4-lat-Bliski-Wschod-odcina-20-swiatowych-dostaw-9096167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/6/3988ad28059098-948-567-0-52-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ceny aluminium na światowych rynkach przekroczyły 3,5 tys. dolarów za tonę, to najwyższy poziom od czterech lat - wskazali autorzy raportu z Centrum Analiz PKO Banku Polskiego. J",
@@ -166,14 +214,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Paliwowy-szok-w-Niemczech-Benzyna-drozeje-tam-najszybciej-w-UE-9096166.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/c/8f854f10bfdfe7-948-568-0-79-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ceny paliw w Niemczech rosną szybciej niż w większości krajów Unii Europejskiej, wyjątkiem jest Finlandia - napisał we wtorek portal gazety „Die Zeit”. W poniedziałek i wtorek c",
       "published": "Tue, 10 Mar 2026 20:14:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Bogucki z Kancelarii Prezydenta: Technologie z USA są nam niezbędne. Unijny SAFE tego nie sfinansuje",
-      "link": "https://www.bankier.pl/wiadomosc/Bogucki-z-Kancelarii-Prezydenta-Technologie-z-USA-sa-nam-niezbedne-Unijny-SAFE-tego-nie-sfinansuje-9096160.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/e/67edd2695c3335-948-568-11-59-4712-2827.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef Kancelarii Prezydenta Zbigniew Bogucki nie zaprzeczył przyszłego zakupu amerykańskiego sprzętu wojskowego w ramach prezydenckiego programu SAFE 0 proc. Jeśli ktoś obserwuj",
-      "published": "Tue, 10 Mar 2026 20:02:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -242,22 +282,6 @@
       "category": "other"
     },
     {
-      "title": "Tesla and Google team up to push their own fix for rising electricity bills",
-      "link": "https://www.marketwatch.com/story/tesla-and-google-team-up-to-push-their-own-fix-for-rising-electricity-bills-3fca75bc?mod=mw_rss_topstories",
-      "summary": "The Big Tech giants joined a coalition that aims to work with U.S. lawmakers and regulators to utilize more of the electric grid and lower costs.",
-      "published": "Tue, 10 Mar 2026 19:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Nieodwracalna decyzja? Kanclerz Niemiec o „atomowym błędzie” poprzedników",
-      "link": "https://www.bankier.pl/wiadomosc/Nieodwracalna-decyzja-Kanclerz-Niemiec-o-atomowym-bledzie-poprzednikow-9096129.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/6/bb88fcb7c53b77-948-568-4-143-1975-1185.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kanclerz Niemiec Friedrich Merz powiedział we wtorek w Berlinie, że podziela opinię szefowej KE Ursuli von der Leyen, iż odejście Europy od energetyki jądrowej było błędem. Dod",
-      "published": "Tue, 10 Mar 2026 19:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Rosnące zadłużenie w sektorze nieruchomości. Eksperci ostrzegają przed efektem domina",
       "link": "https://comparic.pl/rosnace-zadluzenie-w-sektorze-nieruchomosci-eksperci-ostrzegaja-przed-efektem-domina/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-krach-crisis-kryzys-panika-bessa.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-spadek-krach-cri",
@@ -286,14 +310,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Domanski-o-SAFE-Glapinskiego-i-Nawrockiego-Nie-ma-tam-zadnych-pieniedzy-9096116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/f/ff0606120b51e5-948-568-0-101-4500-2699.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Żadnych pieniędzy tam nie ma, nie ma również żadnych gwarancji zysku z NBP, jest za to pomysł zadłużenia BGK - napisał we wtorek na X minister finansów i gospodarki Andrzej Dom",
       "published": "Tue, 10 Mar 2026 18:39:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Apartamenty w Muzeum II Wojny Światowej. Prokuratura chce przesłuchać prezydenta",
-      "link": "https://www.bankier.pl/wiadomosc/Apartamenty-w-Muzeum-II-Wojny-Swiatowe-Prokuratura-chce-przesluchac-prezydenta-9096105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/8/3c0c18375682c8-948-568-247-135-3811-2286.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prokuratura przesłała do Kancelarii Prezydenta RP pismo z prośbą o wskazanie możliwego terminu przesłuchania prezydenta Karola Nawrockiego w charakterze świadka – poinformowa",
-      "published": "Tue, 10 Mar 2026 18:26:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -418,14 +434,6 @@
       "category": "other"
     },
     {
-      "title": "5,6 mld dolarów w 48 godzin. Gigantyczne koszty amerykańskiej kampanii przeciwko Iranowi",
-      "link": "https://www.bankier.pl/wiadomosc/5-6-mld-dolarow-w-48-godzin-Gigantyczne-koszty-amerykanskiej-kampanii-przeciwko-Iranowi-9095985.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/6/345d5c7073a1e5-948-568-0-120-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Armia USA w pierwszych dwóch dniach wojny z Iranem zużyła amunicje o wartości 5,6 mld dolarów - podał we wtorek „Washington Post”, powołując się na trzech amerykańskich urzędni",
-      "published": "Tue, 10 Mar 2026 16:21:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Przebudowujesz stare mieszkanie? Ten błąd może cię kosztować fortunę",
       "link": "https://comparic.pl/przebudowujesz-stare-mieszkanie-ten-blad-moze-cie-kosztowac-fortune/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"467\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-mieszkanie-remont.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp",
@@ -520,14 +528,6 @@
       "published": "Tue, 10 Mar 2026 14:54:23 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Rudy tytanu wracają do państwa. Rząd Ukrainy unieważnia licencje oligarchy",
-      "link": "https://www.bankier.pl/wiadomosc/Rudy-tytanu-wracaja-do-panstwa-Rzad-Ukrainy-uniewaznia-licencje-oligarchy-9095911.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/b/8fbeee3263685b-948-568-7-7-3003-1802.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd Ukrainy odebrał koncesje na eksploatację trzech złóż rudy tytanu, powiązane z objętym sankcjami biznesmenem Dmytrem Firtaszem i zamierza ponownie wystawić je na aukcję – poi",
-      "published": "Tue, 10 Mar 2026 14:49:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Błędy w offboardingu kosztują. Santander Bank Polska słono przegrywa przed NSA",
