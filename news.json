@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-03-11T21:40:41.609897",
+  "generated_at": "2026-03-12T02:47:02.456067",
   "articles": [
+    {
+      "title": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
+      "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
+      "summary": "The largest-ever release of oil from the International Energy Agency’s emergency stockpiles lifted prices for the commodity up by nearly 5% on Wednesday.",
+      "published": "Wed, 11 Mar 2026 23:19:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Uber’s stock rises as new Amazon robotaxi partnership is ‘a positive surprise’",
+      "link": "https://www.marketwatch.com/story/ubers-stock-rises-as-new-amazon-robotaxi-partnership-is-a-positive-surprise-675873a1?mod=mw_rss_topstories",
+      "summary": "Amazon’s Zoox still needs regulatory approval to use its custom-built robotaxis for commercial service",
+      "published": "Wed, 11 Mar 2026 23:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Oracle’s stock surges. Here’s how it finally left the AI penalty box.",
+      "link": "https://www.marketwatch.com/story/oracles-stock-surges-heres-how-it-finally-left-the-ai-penalty-box-d1d73d39?mod=mw_rss_topstories",
+      "summary": "Oracle is benefiting from its new bring-your-own-chip policy, which helps protect margins as the company wins more cloud business.",
+      "published": "Wed, 11 Mar 2026 23:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?",
+      "link": "https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories",
+      "summary": "“I didn’t ask a man to rear-end my car at a red light.”",
+      "published": "Wed, 11 Mar 2026 21:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I have lost nearly everything’: My mother’s trustee changed her $1 million will and my attorney fleeced me. What can I do?",
+      "link": "https://www.marketwatch.com/story/i-have-lost-nearly-everything-my-mothers-trustee-changed-her-1-million-will-and-my-attorney-fleeced-me-what-can-i-do-37768a2a?mod=mw_rss_topstories",
+      "summary": "“My attorney, who described himself as a minister doing ‘God’s work,’ had me sign a 40% contingency agreement.”",
+      "published": "Wed, 11 Mar 2026 21:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "As Starbucks’ Howard Schultz heads to Miami, here’s a list of other billionaire business leaders moving to Florida",
+      "link": "https://www.marketwatch.com/story/as-starbucks-howard-schultz-heads-to-miami-heres-a-list-of-other-billionaire-business-leaders-moving-to-florida-2d14af75?mod=mw_rss_topstories",
+      "summary": "A few Big Tech execs have also headed to the Sunshine State in recent months",
+      "published": "Wed, 11 Mar 2026 21:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
     {
       "title": "Banki i firmy doradcze ewakuują swoje biura w Dubaju",
       "link": "https://www.money.pl/biznes/banki-i-firmy-doradcze-ewakuuja-swoje-biura-w-dubaju-7263279372519648a.html",
@@ -10,12 +58,12 @@
       "category": "pl"
     },
     {
-      "title": "Options traders are pricing in ‘disaster’ as Iran conflict intensifies. Here’s how investors might profit.",
-      "link": "https://www.marketwatch.com/story/options-markets-are-bracing-for-disaster-as-iran-conflict-intensifies-nomura-says-heres-how-a-trader-might-profit-192d00ad?mod=mw_rss_topstories",
-      "summary": "The Iran conflict has sparked tumult in global equity markets, with major indexes in some markets, including South Korea, falling into correction territory.",
-      "published": "Wed, 11 Mar 2026 21:21:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Reforma ustawy o Państwowej Inspekcji Pracy. Jest decyzja Sejmu",
+      "link": "https://businessinsider.com.pl/wiadomosci/reforma-ustawy-o-panstwowej-inspekcji-pracy-poslowie-zdecydowali/9plt0md",
+      "summary": "Sejm uchwalił nowelizację ustawy o Państwowej Inspekcji Pracy. Nowe przepisy nadają instytucji uprawnienia do zamiany pozornych umów cywilnoprawnych i B2B w umowy o pracę.",
+      "published": "Wed, 11 Mar 2026 21:39:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ropa drożeje, ale Wall Street się tylko przygląda",
@@ -24,22 +72,6 @@
       "published": "Wed, 11 Mar 2026 21:16:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Nebius’s stock soars after Nvidia investment. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/nebiuss-stock-soars-after-nvidia-investment-heres-what-to-know-5f1ed5f0?mod=mw_rss_topstories",
-      "summary": "Nvidia continues to strike AI relationships that come alongside financial investments.",
-      "published": "Wed, 11 Mar 2026 21:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The S&P 500’s biggest gainer since the Iran conflict started is not an oil stock",
-      "link": "https://www.marketwatch.com/story/the-s-p-500s-biggest-gainer-since-the-iran-conflict-started-is-not-an-oil-stock-ef9e5632?mod=mw_rss_topstories",
-      "summary": "CF Industrials shares have been the S&amp;P 500’s biggest gainers since the Iran conflict began, as fertilizer prices have climbed more than oil futures prices.",
-      "published": "Wed, 11 Mar 2026 21:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Robert Kiyosaki ostrzega przed krachem stulecia! Ile może kosztować złoto?",
@@ -56,22 +88,6 @@
       "published": "Wed, 11 Mar 2026 20:51:22 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Why the IEA’s largest-ever release of oil reserves is pushing up crude prices",
-      "link": "https://www.marketwatch.com/story/oil-futures-rise-as-traders-await-decision-on-reserves-3cd81485?mod=mw_rss_topstories",
-      "summary": "The largest-ever release of oil from the International Energy Agency’s emergency stockpiles lifted prices for the commodity up by nearly 5% on Wednesday.",
-      "published": "Wed, 11 Mar 2026 20:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The 70% odds that say your portfolio isn’t ready for the Iran conflict’s escalation",
-      "link": "https://www.marketwatch.com/story/the-70-odds-that-say-your-portfolio-isnt-ready-for-the-iran-conflicts-escalation-2546b93a?mod=mw_rss_topstories",
-      "summary": "The next seven days of the Iran conflict will set the stage for stagflation or global recession",
-      "published": "Wed, 11 Mar 2026 20:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Paliwo jest dostępne, rafinerie pracują. Domański: Nie ma powodów do paniki",
@@ -154,22 +170,6 @@
       "category": "us"
     },
     {
-      "title": "‘There is no policy response’ that can stop the rise in oil prices: Carlyle’s Currie",
-      "link": "https://www.marketwatch.com/story/no-policy-response-can-stop-the-rise-in-crude-prices-says-jeff-currie-591118aa?mod=mw_rss_topstories",
-      "summary": "Wednesday brought the strongest effort so far to ensure adequate global supplies of crude oil amid the conflict in the Middle East — but one expert said the IEA’s decision to release an unprecedented amount of crude from its reserves won’t halt climbing oil prices.",
-      "published": "Wed, 11 Mar 2026 19:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Defense stocks are the market’s newest safe havens — and this ETF is a pure play",
-      "link": "https://www.marketwatch.com/story/why-defense-stocks-are-the-markets-newest-safe-havens-and-this-etf-is-a-pure-play-493a36e7?mod=mw_rss_topstories",
-      "summary": "The iShares Aerospace & Defense exchange-traded fund profits from the U.S and global military buildup.",
-      "published": "Wed, 11 Mar 2026 19:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Stanowcze słowa ministra finansów w sprawie SAFE 0 proc. \"Nie ma żadnego prawdziwego planu\"",
       "link": "https://businessinsider.com.pl/finanse/jasna-deklaracja-domanskiego-w-sprawie-safe-0-proc-odpowiada-glapinskiemu/bgnqzqp",
       "summary": "Koszty nawet dwukrotnie większe od związanych z unijnym programem SAFE - Domański stanowczo o planie prezydenta.",
@@ -184,14 +184,6 @@
       "published": "Wed, 11 Mar 2026 19:15:40 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "United Airlines just set a daily record for bookings, but that isn’t helping the stock",
-      "link": "https://www.marketwatch.com/story/united-airlines-just-set-a-daily-record-for-bookings-but-that-isnt-helping-the-stock-78cadc9d?mod=mw_rss_topstories",
-      "summary": "Rising crude prices have been a major drag on U.S. airlines stocks, but in the middle of Spring Break season and as people look ahead to summer air travel, United Airlines says it is breaking booking records.",
-      "published": "Wed, 11 Mar 2026 19:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Cieśnina Ormuz w ogniu. Kolejne statki trafione pociskami!",
@@ -218,14 +210,6 @@
       "category": "other"
     },
     {
-      "title": "‘My parents begged me never to put him in a home’: I have taken care of my disabled brother my entire life. Am I doing enough?",
-      "link": "https://www.marketwatch.com/story/i-promised-my-parents-i-take-care-of-my-brother-who-is-developmentally-disabled-im-now-retired-am-i-doing-enough-c3d926a9?mod=mw_rss_topstories",
-      "summary": "”I have $560,000 in my IRA, $125,000 in stocks and $50,000 in savings.”",
-      "published": "Wed, 11 Mar 2026 18:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 11.3.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-11-3-2026-7263237293193504a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 11.3.2026. W środę za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.92993 zł.",
@@ -248,14 +232,6 @@
       "published": "Wed, 11 Mar 2026 18:46:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Education Department slashed monitoring of student-loan servicers after Trump administration cuts",
-      "link": "https://www.marketwatch.com/story/the-education-department-slashed-monitoring-of-student-loan-servicers-after-trump-administration-cuts-3e5ced7b?mod=mw_rss_topstories",
-      "summary": "The Education Department stopped monitoring calls between servicers and borrowers and reviewing borrower data for accuracy, watchdog finds.",
-      "published": "Wed, 11 Mar 2026 18:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 11.3.2026",
@@ -490,22 +466,6 @@
       "category": "other"
     },
     {
-      "title": "VeloBank mierzy wyżej. Milion klientów więcej i miliardy kredytów w nowej strategii",
-      "link": "https://businessinsider.com.pl/finanse/nowe-otwarcie-velobanku-od-przymusowej-restrukturyzacji-do-planow-podboju-polskiego/0hjm399",
-      "summary": "Polskie banki są silne finansowo i głodne rozwoju. VeloBank jest kolejną instytucją, która przedstawiła ambitną strategię, zakładającą spory wzrost liczby obsługiwanych klientów i wartości udzielonych kredytów. Nowa strategia na lata 2026-2028 zakłada rozwój banku uniwersalnego, w którym głównym motorem wzrostu pozostanie bankowość detaliczna, ale swój wkład będzie mieć też budowa bankowości bizne",
-      "published": "Wed, 11 Mar 2026 14:17:08 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Prezes Glapiński wyjaśnił SAFE 0 proc. Oto jak można finansować zbrojenia ze złota NBP",
-      "link": "https://businessinsider.com.pl/gospodarka/prezes-glapinski-tlumaczy-sie-z-safe-0-proc-jak-finansowac-zbrojenia-ze-zlota-nbp/5sjm57l",
-      "summary": "Jak sfinansować wysokie nakłady na zbrojenia? Państwo zaciąga na to wielkie długi, ale z racji wojny w Iranie sytuacja się skomplikowała.",
-      "published": "Wed, 11 Mar 2026 14:07:55 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Nowe dane GUS o mieszkaniach w Polsce. Jedna liczba mówi wszystko o rynku",
       "link": "https://comparic.pl/nowe-dane-gus-o-mieszkaniach-w-polsce-jedna-liczba-mowi-wszystko-o-rynku/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-deweloper.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content",
@@ -656,6 +616,46 @@
       "published": "Tue, 10 Mar 2026 07:15:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock",
+      "link": "https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories",
+      "summary": "The software giant will conduct $25 billion worth of accelerated share repurchases after management previously signaled that the stock is too cheap.",
+      "published": "Thu, 12 Mar 2026 02:42:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "USA uwolnią ogromne zapasy ropy. Sekretarz energii wskazał kiedy",
+      "link": "https://businessinsider.com.pl/wiadomosci/usa-uwolnia-rope-z-rezerwy-sekretarz-energii-wskazal-termin/0cp83gx",
+      "summary": "Amerykański sekretarz energii Chris Wright poinformował, że Stany Zjednoczone rozpoczną w przyszłym tygodniu proces uwolnienia 172 mln baryłek ropy z rezerwy strategicznej tego surowca. Ma to pozwolić obniżyć ceny ropy, która wystrzeliła po ataku USA i Izraela na Iran.",
+      "published": "Thu, 12 Mar 2026 02:08:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Dow futures down more than 400 points as oil prices continue to climb",
+      "link": "https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories",
+      "summary": "Stock futures tumbled after hours on Wednesday, building on earlier losses for the S&amp;P 500 and Dow Jones Industrial Average, as crude-oil prices pressed higher.",
+      "published": "Thu, 12 Mar 2026 01:47:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The next 7 days in Iran will determine if we face stagflation or a total global recession",
+      "link": "https://www.marketwatch.com/story/the-70-odds-that-say-your-portfolio-isnt-ready-for-the-iran-conflicts-escalation-2546b93a?mod=mw_rss_topstories",
+      "summary": "Your portfolio probably isn’t ready for the Iran conflict’s escalation.",
+      "published": "Thu, 12 Mar 2026 01:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Petco is leaning on services, fresh food and pet tarantulas — and it is paying off",
+      "link": "https://www.marketwatch.com/story/petco-is-leaning-on-services-fresh-food-and-pet-tarantulas-and-it-is-paying-off-3dd720f7?mod=mw_rss_topstories",
+      "summary": "Shares of Petco Health & Wellness jumped after hours on Wednesday after the pet-supplies retailer said it expects sales to rebound this year, as efforts to overhaul its store selections and lean more into services like dog grooming and training are starting to pay off.",
+      "published": "Thu, 12 Mar 2026 01:04:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Inside the booming business of wellness third spaces and membership clubs",
