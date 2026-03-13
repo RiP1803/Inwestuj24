@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T13:17:26.038942",
+  "generated_at": "2026-03-13T15:52:11.761594",
   "articles": [
     {
       "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
@@ -74,14 +74,6 @@
       "category": "us"
     },
     {
-      "title": "Stellantis taps Toyota, Bosch suppliers for hybrid technologies for new Jeeps",
-      "link": "https://www.cnbc.com/2026/03/10/stellantis-jeep-hybrid-toyota-bosch.html",
-      "summary": "Jeep maker Stellantis is leaning on technologies from automotive suppliers for its newest hybrid vehicles, CNBC has learned.",
-      "published": "Tue, 10 Mar 2026 10:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "WNBA players say they’re 'feeling movement' as league, union push toward landmark CBA",
       "link": "https://www.cnbc.com/2026/03/12/wnba-players-union-inch-toward-landmark-cba.html",
       "summary": "The WNBA season is set to kick off Friday, May 8, and the draft is scheduled for April 13.",
@@ -102,14 +94,6 @@
       "link": "https://www.cnbc.com/2026/03/12/airfare-prices-jet-fuel-iran-war.html",
       "summary": "Some airlines are already raising fares after a historic surge in jet-fuel costs.",
       "published": "Thu, 12 Mar 2026 20:30:43 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "EV maker Lucid reveals plans for robotaxi, positive free cash flow late this decade",
-      "link": "https://www.cnbc.com/2026/03/12/lucid-investor-day.html",
-      "summary": "The EV company is aiming to hit that target through market expansion into midsize vehicles, robotaxis and new counties, specifically in Europe.",
-      "published": "Thu, 12 Mar 2026 20:21:44 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -146,12 +130,260 @@
       "category": "us"
     },
     {
-      "title": "Ticketmaster parent Live Nation reaches settlement with Department of Justice over antitrust concerns",
-      "link": "https://www.cnbc.com/2026/03/09/ticketmaster-parent-live-nation-doj-antitrust-settlement.html",
-      "summary": "Live Nation, which owns Ticketmaster, reached a settlement with the Department of Justice over antitrust concerns.",
-      "published": "Mon, 09 Mar 2026 19:05:37 GMT",
+      "title": "Iran grozi światu. Drugi kluczowy szlak może zostać zamknięty. \"Ani litra ropy\"",
+      "link": "https://www.bankier.pl/wiadomosc/Iran-grozi-swiatu-Drugi-kluczowy-szlak-moze-zostac-zamkniety-Ani-litra-ropy-9098116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/7/bdc4bedd9c952b-948-569-7-0-991-595.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jeśli Stany Zjednoczone popełnią „strategiczny błąd”, Teheran może rozszerzyć swoją wojenną kampanię morską na drugi strategiczny szlak wodny – położoną między Jemenem i Rogiem Afr",
+      "published": "Fri, 13 Mar 2026 16:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Państwowy gigant dostanie więcej pieniędzy na wyjście z kłopotów. Wykorzysta akcje",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/grupa-azoty-sprzeda-nowe-akcje-i-podwyzszy-kapital-jest-decyzja/nhm9fey",
+      "summary": "Grupa Azoty, kontrolowana przez Skarb Państwa, podjęła ważną decyzję. Nowa emisja obejmuje prawie 34 mln akcji o wartości nominalnej 5 zł za sztukę.",
+      "published": "Fri, 13 Mar 2026 15:40:52 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kontroferta Karola Nawrockiego. Doradca prezydenta komentuje weto, zysk NBP i SAFE [WYWIAD]",
+      "link": "https://businessinsider.com.pl/finanse/safe-bez-zgodny-prezydenta-doradca-karola-nawrockiego-tlumaczy-weto/xtjccsz",
+      "summary": "To prawda, że zysk NBP nie jest w pełni pewny. Wiele zależy od sytuacji rynkowej i kursu złotego. W ekonomii nic nie jest pewne, również nie są pewne parametry europejskiego SAFE — komentuje w wywiadzie dla Business Insider Polska doradca społeczny prezydenta Leszek Skiba.",
+      "published": "Fri, 13 Mar 2026 15:35:52 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Can Adobe’s next CEO turn around its battered stock?",
+      "link": "https://www.marketwatch.com/story/can-adobes-next-ceo-turn-around-its-battered-stock-a4ea3111?mod=mw_rss_topstories",
+      "summary": "A leadership transition and lackluster growth in yearly subscription value have intensified questions about Adobe’s near-term trajectory.",
+      "published": "Fri, 13 Mar 2026 15:32:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "How the Iran war could start to impact U.S. retail prices",
+      "link": "https://www.cnbc.com/2026/03/13/iran-war-retail-prices.html",
+      "summary": "The retail industry could soon be taking the next hit from the Iran war's disruption to the global supply chain.",
+      "published": "Fri, 13 Mar 2026 15:30:02 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Plan B w sprawie SAFE może nie wypalić. Konstytucjonalista ma poważne wątpliwości",
+      "link": "https://businessinsider.com.pl/prawo/czy-rzad-moze-wziac-pozyczke-z-safe-bez-ustawy-konstytucjonalista-to-byloby-niezgodne/40d3wmw",
+      "summary": "Skoro prezydent zawetował ustawę wprowadzającą instrument finansowy, to nie ma przesłanek do zaciągnięcia zobowiązania — mówi prof. Ryszard Piotrowski. Ponadto jego zdaniem zawetowana ustawa nie wystarczyłaby do zaciągnięcia zobowiązania.",
+      "published": "Fri, 13 Mar 2026 15:29:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Europa rozmawia z Iranem o bezpieczeństwie transportu ropy przez Cieśninę Ormuz",
+      "link": "https://businessinsider.com.pl/gospodarka/francja-prowadzi-rozmowy-z-iranem-o-bezpieczenstwie-w-ormuzie/0c0rpf2",
+      "summary": "Europejskie państwa — w tym Francja — prowadzą zakulisowe rozmowy z Teheranem dotyczące zapewnienia bezpieczeństwa żeglugi w Cieśninie Ormuz, jednym z kluczowych szlaków transportu ropy na świecie, wynika z informacji osób zaznajomionych z negocjacjami.",
+      "published": "Fri, 13 Mar 2026 15:28:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The Iran conflict came just as Americans were feeling better about the economy",
+      "link": "https://www.marketwatch.com/story/americans-were-feeling-better-about-the-economy-and-then-war-with-iran-broke-out-49cbf36a?mod=mw_rss_topstories",
+      "summary": "A swath of consumers across incomes reported declines in expectations for their personal finances. Economists worry that consumers will pull back their spending.",
+      "published": "Fri, 13 Mar 2026 15:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rosja może dostać 10 mld dolarów. Zełenski bije na alarm w Paryżu. \"To nie pomaga\"",
+      "link": "https://www.bankier.pl/wiadomosc/Rosja-moze-dostac-10-mld-dolarow-Zelenski-bije-na-alarm-w-Paryzu-To-nie-pomaga-9098094.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/7/d5d01f0c7f0bce-948-568-18-6-2382-1429.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Francji Emmanuel Macron powiedział w piątek, że jeśli Rosja ma nadzieję, iż wojna USA i Izraela z Iranem da jej wytchnienie, to się myli. Przypomniał, że kraje G7 potw",
+      "published": "Fri, 13 Mar 2026 15:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "This MarketWatch portfolio of hated stocks is crushing the stock market in 2026",
+      "link": "https://www.marketwatch.com/story/this-marketwatch-portfolio-of-hated-stocks-is-crushing-the-stock-market-in-2026-2e4b7dc9?mod=mw_rss_topstories",
+      "summary": "Pariah Capital’s strategy is one thing that’s been winning during the Iran conflict.",
+      "published": "Fri, 13 Mar 2026 15:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "EV maker Lucid reveals plans for robotaxi, positive free cash flow late this decade",
+      "link": "https://www.cnbc.com/2026/03/12/lucid-investor-day.html",
+      "summary": "The EV company is aiming to hit that target through market expansion into midsize vehicles, robotaxis and new counties, specifically in Europe.",
+      "published": "Fri, 13 Mar 2026 15:16:53 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Światowa gospodarka w cieniu wojny z Iranem. Tydzień banków centralnych i dane z Polski",
+      "link": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-16-22-marca-Iran-i-tydzien-bankow-centralnych-9098057.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/1/ff6d96d2be8b92-948-568-0-270-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W trzecim tygodniu marca decyzje o kierunku polityki pieniężnej podejmie szereg najważniejszych banków centralnych świata od amerykańskiego Fed, przez EBC i Bank Anglii po Japo",
+      "published": "Fri, 13 Mar 2026 15:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "15 stocks in the S&P 500 showing double-digit gains since the attack on Iran began",
+      "link": "https://www.marketwatch.com/story/15-stocks-in-the-s-p-500-showing-double-digit-gains-since-the-attack-on-iran-began-db77ce42?mod=mw_rss_topstories",
+      "summary": "The materials sector of the S&amp;P 500 has been the strongest of the index’s 11 sectors since Feb. 27.",
+      "published": "Fri, 13 Mar 2026 15:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przerwy w dużych bankach. W te dni nie zrobisz przelewu ani nie użyjesz Blika",
+      "link": "https://www.bankier.pl/wiadomosc/Przerwy-w-duzych-bankach-w-m-in-PKO-BP-ING-mBanku-9098068.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/4/79f506029b34d8-948-568-0-168-2500-1499.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nadchodzący weekend może oznaczać problemy z dostępem do usług bankowych wśród wielu klientów. Przerwy zaplanowały bowiem niektóre z największych banków. Większość problemów do",
+      "published": "Fri, 13 Mar 2026 14:55:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Militarny gigant odkrywa karty. KC-390 Millennium zaprezentowany w Polsce",
+      "link": "https://www.bankier.pl/wiadomosc/Militarny-gigant-odkrywa-karty-KC-390-Millennium-zaprezentowany-w-Polsce-9098067.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/3/04ff60966498ad-948-568-5-15-2042-1225.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Samolot transportowy Embraer KC-390 Millennium, oferowany Polsce przez brazylijski koncern, został piątek zaprezentowany w Bydgoszczy. Prezes Wojskowych Zakładów Lotniczych nr 2",
+      "published": "Fri, 13 Mar 2026 14:55:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Producent \"Borsuków\" może dużo stracić na wecie w sprawie SAFE. \"Musimy mieć zapewnione środki\"",
+      "link": "https://businessinsider.com.pl/gospodarka/wzm-produkuja-czesci-do-borsukow-moga-duzo-stracic-bez-pieniedzy-z-safe/b13wqv4",
+      "summary": "Brak pieniędzy z SAFE po wecie prezydenta Karola Nawrockiego może zablokować ważne projekty polskich firm zbrojeniowych. O krok przed podpisaniem kluczowej umowy jest m.in. fabryka z Poznania.",
+      "published": "Fri, 13 Mar 2026 14:51:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Job openings jump to 3-month high, but businesses aren’t actually hiring more people",
+      "link": "https://www.marketwatch.com/story/job-openings-jump-to-3-month-high-but-businesses-arent-actually-hiring-more-people-8ad47804?mod=mw_rss_topstories",
+      "summary": "Job openings in the U.S. showed a surprising pop in January, but it’s far from clear if the increase is sustainable. Other evidence suggests the labor market is still very sluggish.",
+      "published": "Fri, 13 Mar 2026 14:51:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kapitał dla technologii przyszłości. Jak Future Tech Poland ma wzmocnić polski rynek VC?",
+      "link": "https://www.bankier.pl/wiadomosc/Kapital-dla-technologii-przyszlosci-Jak-Future-Tech-Poland-ma-wzmocnic-polski-rynek-VC-9098060.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/c/a52754624d5a3f-948-568-102-12-1177-706.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wartość inwestycji venture capital w Polsce stanowi zaledwie około 0,01 proc. PKB, czyli blisko osiem razy mniej niż średnia w Unii Europejskiej. Oznacza to, że wiele obiecując",
+      "published": "Fri, 13 Mar 2026 14:45:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kolejna obietnica rządu opóźniona. Podatku Belki tak szybko się nie ominie",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/oszczedzanie/osobiste-konta-inwestycyjne-pozniej-padla-nowa-data/g6yz574",
+      "summary": "Wszyscy, którzy chcieliby oszczędzić na podatku Belki, muszą uzbroić się w cierpliwość. Osobiste konto inwestycyjne z nową datą.",
+      "published": "Fri, 13 Mar 2026 14:41:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Oil prices retreat from $100 after U.S. temporarily lifts sanctions on some Russian oil",
+      "link": "https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories",
+      "summary": "Oil prices were retreating from the key $100 level, after the U.S. government temporarily removed sanctions on Russian tankers currently at sea.",
+      "published": "Fri, 13 Mar 2026 14:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Pieniądze dla JDG leżą na stole. Banki płacą za przejście, rekordzista daje 5000 zł",
+      "link": "https://www.bankier.pl/wiadomosc/Pieniadze-dla-JDG-leza-na-stole-Banki-placa-za-przejscie-rekordzista-daje-5000-zl-9097818.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/c/064eb30462cb84-948-568-98-63-2386-1431.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czy Twój stary bank co miesiąc każe Ci płacić za prowadzenie rachunku, podstawowe przelewy do ZUS czy obsługę karty firmowej? Jeśli tak, to najwyższy czas na zmianę banku. Spra",
+      "published": "Fri, 13 Mar 2026 14:40:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "UE pod lupą USA. Chodzi o pracę przymusową",
+      "link": "https://businessinsider.com.pl/finanse/handel/stany-zjednoczone-wszczynaja-dochodzenie-wobec-60-krajow-mozliwe-nowe-cla/p6y4y8x",
+      "summary": "Stany Zjednoczone rozpoczęły szeroko zakrojone dochodzenie handlowe wobec 60 krajów i gospodarek świata w związku z podejrzeniami dotyczącymi wykorzystywania pracy przymusowej w globalnych łańcuchach dostaw. Postępowanie prowadzone przez biuro przedstawiciela handlowego USA może w przyszłości doprowadzić do nałożenia nowych ceł na importowane towary.",
+      "published": "Fri, 13 Mar 2026 14:36:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?",
+      "link": "https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories",
+      "summary": "“The issue is not the weather, high insurance premiums or high maintenance fees.”",
+      "published": "Fri, 13 Mar 2026 14:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank",
+      "link": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
+      "summary": "For JPMorgan Chase, winning the niche of startup banking from rivals is about more than just gaining deposits: It's a bet to future-proof the largest U.S. bank.",
+      "published": "Fri, 13 Mar 2026 14:29:50 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Czy ceny złota mogą być manipulowane? Nowe dane mogą zaskoczyć inwestorów",
+      "link": "https://comparic.pl/czy-ceny-zlota-moga-byc-manipulowane-nowe-dane-moga-zaskoczyc-inwestorow/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"532\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-7.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-7-324x235.jpg\" style=\"floa",
+      "published": "Fri, 13 Mar 2026 14:24:54 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Mortgage rates swing back above 6%, raising tricky questions for buyers and sellers",
+      "link": "https://www.marketwatch.com/story/with-mortgage-rates-back-above-6-spring-homebuying-season-kicks-off-with-a-tricky-calculation-for-both-buyers-and-sellers-a419b125?mod=mw_rss_topstories",
+      "summary": "A recent dip below 6% had buyers and sellers feeling hopeful about a thawing housing market, but the Iran war has added uncertainty.",
+      "published": "Fri, 13 Mar 2026 14:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Hegseth: Chamenei jest ranny i prawdopodobnie oszpecony",
+      "link": "https://www.bankier.pl/wiadomosc/Hegseth-Chamenei-jest-ranny-i-prawdopodobnie-oszpecony-9098040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/9/13075ad665b3d8-948-568-8-8-3563-2137.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nowy przywódca Iranu Modżtaba Chamenei jest ranny, prawdopodobnie oszpecony i zdesperowany - powiedział w piątek szef Pentagonu Pete Hegseth, zapowiadając kolejny rekordowy dzień",
+      "published": "Fri, 13 Mar 2026 14:24:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "HOA fees are becoming more common for single-family homes — and top $500 a month in these hot spots",
+      "link": "https://www.marketwatch.com/story/home-buyers-beware-hoa-fees-are-topping-500-a-month-in-these-hot-spots-6809531f?mod=mw_rss_topstories",
+      "summary": "The unwelcome surprise of expensive HOA fees is yet another cost pushing homeownership further out of reach for many.",
+      "published": "Fri, 13 Mar 2026 14:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "A BofA strategist sees parallels between European Central Bank rate-hike expectations and the global financial crisis",
+      "link": "https://www.marketwatch.com/story/a-bofa-strategist-sees-parallels-between-european-central-bank-rate-hike-expectations-and-the-global-financial-crisis-d46e2c47?mod=mw_rss_topstories",
+      "summary": "The probability of an increase by June has risen to 75% amid ongoing conflict in the Middle East.",
+      "published": "Fri, 13 Mar 2026 14:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "eu"
+    },
+    {
+      "title": "Sejm otwiera drogę do rozwodów poza sądem. Nowe przepisy uchwalone",
+      "link": "https://businessinsider.com.pl/prawo/sejm-przeglosowal-rozwody-poza-sadem-nowe-przepisy-juz-od-2027-roku/p4yjxwm",
+      "summary": "W piątek Sejm przyjął nowelizację Kodeksu rodzinnego i opiekuńczego, która wprowadza możliwość pozasądowego rozwiązywania małżeństw. Nowe przepisy, będące inicjatywą Ministerstwa Sprawiedliwości, mają zacząć obowiązywać od 1 stycznia 2027 r. Rozwód poza sądem będzie możliwy pod określonymi warunkami.",
+      "published": "Fri, 13 Mar 2026 14:18:15 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ceny paliw w górę. Analitycy ostrzegają: kolejne podwyżki nieuniknione",
+      "link": "https://businessinsider.com.pl/gielda/surowce/ceny-paliw-znowu-w-gore-eksperci-ostrzegaja-przed-kolejnymi-podwyzkami/p5770pg",
+      "summary": "W przyszłym tygodniu kierowcy muszą przygotować się na dalszy wzrost cen paliw, jak ostrzegają analitycy Refleksu. Według ich prognoz, ceny benzyny Pb95 oraz oleju napędowego mogą wzrosnąć o ponad 20 groszy za litr, a na niektórych stacjach już teraz za litr diesla trzeba zapłacić ponad 8 zł.",
+      "published": "Fri, 13 Mar 2026 14:04:28 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "\"Środki z SAFE są kluczowe dla polskiego przemysłu zbrojeniowego\". Branża czeka na dalsze decyzje",
+      "link": "https://businessinsider.com.pl/gospodarka/srodki-z-safe-kluczowe-dla-pgz-prezes-adam-leszkiewicz-zabiera-glos/9wr37kg",
+      "summary": "Prezes Polskiej Grupy Zbrojeniowej Adam Leszkiewicz, podkreśla, że środki z unijnego mechanizmu SAFE są niezbędne, by polski przemysł zbrojeniowy mógł skutecznie budować bezpieczeństwo kraju. — Czekamy na dalsze decyzje — zaznaczył podczas piątkowego briefingu prasowego.",
+      "published": "Fri, 13 Mar 2026 13:58:45 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Sejm wybrał nowych sędziów Trybunału Konstytucyjnego",
@@ -159,6 +391,30 @@
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/1/f42739f8d36a89-945-560-158-230-1889-1133.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm wybrał w piątek sześcioro sędziów Trybunału Konstytucyjnego - wszyscy to osoby, których kandydatury zostały zgłoszone przez Prezydium Sejmu. Poparcia nie zyskali dwaj ka",
       "published": "Fri, 13 Mar 2026 13:55:00 +0100",
       "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ważny polityk UE krytykuje decyzję administracji Donalda Trumpa. \"Bardzo niepokojąca\"",
+      "link": "https://businessinsider.com.pl/gospodarka/wazny-polityk-ue-krytykuje-ostatnia-decyzje-usa-bardzo-niepokojaca/zcrhd1v",
+      "summary": "Jednostronna decyzja Stanów Zjednoczonych o czasowym zniesieniu sankcji na eksportowaną przez Rosję ropę naftową budzi poważne obawy w Unii Europejskiej — taką opinię wyraził przewodniczący Rady Europejskiej Antonio Costa.",
+      "published": "Fri, 13 Mar 2026 13:51:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Oto realna cena XRP, gdyby 30% obecnej podaży XRP zostało przeznaczone na staking",
+      "link": "https://comparic.pl/oto-realna-cena-xrp-gdyby-30-obecnej-podazy-xrp-zostalo-przeznaczone-na-staking/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/Heres-the-Realistic-Price-of-XRP-if-30-of-the-Current-XRP-Supply-Is-Staked.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/",
+      "published": "Fri, 13 Mar 2026 13:49:55 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "XRP odmieniło życie dzięki wzrostowi o 50 000% – Ta jedna moneta może uczynić z niej milionerów?",
+      "link": "https://comparic.pl/xrp-odmienilo-zycie-dzieki-wzrostowi-o-50-000-ta-jedna-moneta-moze-uczynic-z-niej-milionerow-2/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/XRP-Transformed-Lives-With-Its-50000-Rally—Experts-Say-This-One-Coin-Can-Make-Millionaires.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-conten",
+      "published": "Fri, 13 Mar 2026 13:45:38 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -170,11 +426,59 @@
       "category": "pl"
     },
     {
+      "title": "Ropa po 100 dol. na dłużej? Goldman Sachs prognozuje ceny kluczowego surowca",
+      "link": "https://businessinsider.com.pl/gielda/surowce/cena-ropy-naftowej-w-marcu-powyzej-100-dol-goldman-sachs-prognozuje/fx377dt",
+      "summary": "\"Jeśli zakłócenia w przepływach ropy okażą się trwalsze, notowania ropy mogą osiągnąć wyższe szczyty\" — ostrzegają eksperci jednego z największych banków inwestycyjnych.",
+      "published": "Fri, 13 Mar 2026 13:42:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "AI tworzy nowych miliarderów i nową architekturę kapitału. Na Impact’26 eksperci pokażą, jak powstają biznesowe jednorożce",
+      "link": "https://businessinsider.com.pl/biznes/era-ai-i-nowe-fortuny-swiata-o-tym-beda-dyskutowac-liderzy-na-impact26-w-poznaniu/jlk39kj",
+      "summary": "Kapitał zawsze wyczuwa zmianę szybciej niż reszta świata. Dziś jego kompas wskazuje jeden kierunek. To sztuczna inteligencja. Wokół niej powstają nowe fortuny, nowe firmy i nowy układ sił w globalnym kapitale.",
+      "published": "Fri, 13 Mar 2026 13:40:50 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Iran ostrzega, że ​​cena ropy zmierza do 200 dolarów: Czy Bitcoin może wzbogacić posiadaczy kryptowalut?",
+      "link": "https://comparic.pl/iran-ostrzega-ze-cena-ropy-zmierza-do-200-dolarow-czy-bitcoin-moze-wzbogacic-posiadaczy-kryptowalut/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/Iran-Warns-Oil-Price-Heads-to-200-Could-Bitcoin-Turn-Holders-Crypto-Rich.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03",
+      "published": "Fri, 13 Mar 2026 13:37:35 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
       "title": "Wzrost PKB w USA był niższy od wcześniejszych szacunków. Wszystko przez shutdown?",
       "link": "https://www.bankier.pl/wiadomosc/Wzrost-PKB-w-USA-byl-nizszy-od-wczesniejszych-szacunkow-Wszystko-przez-shutdown-9097999.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/f/457549a4213f34-948-568-675-607-2325-1394.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Odczyt produktu krajowego brutto Stanów Zjednoczonych za ostatni kwartał 2025 roku ponownie okazał się wyraźnie niższy od oczekiwań.</p>",
       "published": "Fri, 13 Mar 2026 13:35:00 +0100",
       "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Prognoza ceny XRP – Trump wzywa do awaryjnego obniżenia stóp procentowych przez Fed przed przyszłym tygodniem",
+      "link": "https://comparic.pl/prognoza-ceny-xrp-trump-wzywa-do-awaryjnego-obnizenia-stop-procentowych-przez-fed-przed-przyszlym-tygodniem/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/XRP-Price-Prediction-as-Trump-Calls-For-Emergency-Fed-Rate-Cut-Before-Next-Week.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2",
+      "published": "Fri, 13 Mar 2026 13:24:05 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ceny paliw mogą przekroczyć 8 zł już w przyszłym tygodniu. \"Dopiero zaczyna się odbijać\"",
+      "link": "https://businessinsider.com.pl/gospodarka/ceny-paliw-rosna-ile-zaplacimy-na-stacjach-benzynowych-w-kolejnych-dniach/mw4phhc",
+      "summary": "Ceny diesla już w nadchodzącym tygodniu mogą przekroczyć nawet 8 zł za litr. \"Blokada Cieśniny Ormuz dopiero zaczyna odbijać się realnymi deficytami w podaży, co uderza w globalną gospodarkę\" — wskazują analitycy portalu e-petrol.pl, prognozując, ile kierowcy mogą zapłacić na stacjach benzynowych w Polsce.",
+      "published": "Fri, 13 Mar 2026 13:23:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Konto RAW Spread już dostępne w Forex.com",
+      "link": "https://comparic.pl/konto-raw-spread-juz-dostepne-w-forex-com/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"401\" src=\"https://comparic.pl/wp-content/uploads/2021/04/trading1-cc.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"600\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2021/04/trading1-cc-324x235.jpg\" style=\"float: left; margin: 0 15px 15",
+      "published": "Fri, 13 Mar 2026 13:23:01 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -226,28 +530,12 @@
       "category": "other"
     },
     {
-      "title": "Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one cure.",
-      "link": "https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories",
-      "summary": "Other efforts to coax oil down prices — now at $100 a barrel — are like putting a Band-Aid on a shotgun wound, says analyst",
-      "published": "Fri, 13 Mar 2026 12:50:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Sekretarz obrony USA: nowy przywódca Iranu jest ranny i prawdopodobnie oszpecony",
       "link": "https://businessinsider.com.pl/wiadomosci/modztaba-chamenei-jest-ranny-amerykani-mowia-wrecz-o-oszpeceniu/p1z2y1m",
       "summary": "Sekretarz obrony USA Pete Hegseth twierdzi, że Modżtaba Chamenei nie jest w pełni sił. Dlatego ma unikać pokazywania swojej twarzy.",
       "published": "Fri, 13 Mar 2026 12:49:22 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Oil prices retreat from $100 after U.S. temporarily lifts sanctions on some Russian oil",
-      "link": "https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories",
-      "summary": "Oil prices were retreating from the key $100 level, after the U.S. government temporarily removed sanctions on Russian oil currently at sea.",
-      "published": "Fri, 13 Mar 2026 12:46:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Sejm uderza w umowę UE-Mercosur. Izba jednogłośnie żąda od rządu zaskarżenia traktatu",
@@ -258,14 +546,6 @@
       "category": "pl"
     },
     {
-      "title": "‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?",
-      "link": "https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories",
-      "summary": "“I can draw $4,300 a month in Social Security if I retire this summer.”",
-      "published": "Fri, 13 Mar 2026 12:40:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "XRP przed wybiciem? Bycza formacja i dane onchain zwiastują potężny ruch",
       "link": "https://comparic.pl/xrp-przed-wybiciem-bycza-formacja-i-dane-onchain-zwiastuja-potezny-ruch/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-2-324x235.jpg\" style=\"float:",
@@ -274,44 +554,12 @@
       "category": "pl"
     },
     {
-      "title": "GDP grew at a tepid 0.7% pace in the fourth quarter. The future is foggy, too.",
-      "link": "https://www.marketwatch.com/story/gdp-grew-at-a-tepid-0-7-pace-in-the-fourth-quarter-the-future-is-foggy-too-39d5a867?mod=mw_rss_topstories",
-      "summary": "Iran conflict and Supreme Court tariff ruling add to air of uncertainty around the economy",
-      "published": "Fri, 13 Mar 2026 12:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Why a 1980s conflict may be the best market analog for the current Iran situation",
-      "link": "https://www.marketwatch.com/story/why-a-1980s-conflict-may-be-the-best-market-analog-for-the-current-iran-situation-4e0d404a?mod=mw_rss_topstories",
-      "summary": "Citi’s global macro strategy team led by Dirk Willer went in search of historical analogs, looking through the last five oil crises",
-      "published": "Fri, 13 Mar 2026 12:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Amerykańska gospodarka mocno wcisnęła hamulec. Nowe dane zaskakują",
       "link": "https://businessinsider.com.pl/gospodarka/pkb-usa-zaskakuje-amerykanska-gospodarka-wcisnela-hamulec/5h1ley8",
       "summary": "Donald Trump zapowiadał, że pod jego rządami Stany Zjednoczone czeka złota era. W piątek poznaliśmy najnowsze dane na temat wzrostu największej gospodarki świata. Zupełnie tego nie potwierdzają.",
       "published": "Fri, 13 Mar 2026 12:34:55 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Fed’s favorite price gauge shows sticky inflation — and little chance of improvement soon",
-      "link": "https://www.marketwatch.com/story/feds-favorite-price-gauge-shows-sticky-inflation-and-little-chance-of-improvement-soon-a0dcf9dd?mod=mw_rss_topstories",
-      "summary": "Core PCE price index has risen 3.1% in past year. Iran conflict will push it even higher.",
-      "published": "Fri, 13 Mar 2026 12:33:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I have lost nearly everything’: My mother’s trustee changed her $1 million will and my attorney fleeced me. What can I do?",
-      "link": "https://www.marketwatch.com/story/i-have-lost-nearly-everything-my-mothers-trustee-changed-her-1-million-will-and-my-attorney-fleeced-me-what-can-i-do-37768a2a?mod=mw_rss_topstories",
-      "summary": "“My attorney, who described himself as a minister doing ‘God’s work,’ had me sign a 40% contingency agreement.”",
-      "published": "Fri, 13 Mar 2026 12:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Weto prezydenta ws. SAFE. Rząd reaguje. Wdraża plan B",
@@ -346,46 +594,6 @@
       "category": "other"
     },
     {
-      "title": "Filing taxes is painful enough without worrying that your accountant is judging you",
-      "link": "https://www.marketwatch.com/story/filing-taxes-is-painful-enough-without-worrying-that-your-accountant-is-judging-you-5f48f70b?mod=mw_rss_topstories",
-      "summary": "Your tax preparer becomes an intimate partner during tax season — but they’re far too busy to worry about your money choices.",
-      "published": "Fri, 13 Mar 2026 12:20:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Nieoczekiwane koszty inwazji na Iran. Stany Zjednoczone się \"wystrzelały\"",
-      "link": "https://businessinsider.com.pl/gospodarka/amunicja-na-lata-wystrzelana-przez-usa-bialy-dom-prosi-o-dodatkowe-srodki/pz9dpn2",
-      "summary": "Od początku wojny z Iranem Stany Zjednoczone zużyły zapasy amunicji wystarczające \"na lata\" — informuje \"Financial Times\". Jak ocenia jedna z osób zaznajomionych ze sprawą, \"marynarka wojenna odczuje ten wydatek przez kilka lat\".",
-      "published": "Fri, 13 Mar 2026 12:13:48 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "‘I have no savings’: I’m inheriting $400,000. I’m 64 with $900 in Social Security. What should I do?",
-      "link": "https://www.marketwatch.com/story/i-have-no-savings-im-inheriting-400-000-im-64-with-900-in-social-security-what-should-i-do-084ec1cb?mod=mw_rss_topstories",
-      "summary": "“I have no experience with any life other than paycheck to paycheck.”",
-      "published": "Fri, 13 Mar 2026 12:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Sankcje na rosyjską ropę. Ten kraj nie ustępuje",
-      "link": "https://businessinsider.com.pl/gospodarka/wielka-brytania-nie-odpuszcza-sankcji-na-rosyjska-rope-stanowcza-deklaracja-rzadu/gxb4wz3",
-      "summary": "W obliczu wzrostu cen ropy naftowej, wywołanego napięciami związanymi z konfliktem USA i Izraela z Iranem, Wielka Brytania pozostaje nieugięta w kwestii sankcji na rosyjski surowiec. Jak zapewnił w piątek Michael Shanks, wiceminister bezpieczeństwa energetycznego, Londyn nie planuje żadnych ustępstw w tej sprawie.",
-      "published": "Fri, 13 Mar 2026 12:03:03 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Jak Samsung zbudował i utrzymał dominację na rynku telewizorów przez 20 lat",
-      "link": "https://businessinsider.com.pl/biznes/jak-samsung-zbudowal-i-utrzymal-dominacje-na-rynku-telewizorow-przez-20-lat/f0qjq7f",
-      "summary": "Globalny rynek telewizorów to jeden z najbardziej konkurencyjnych segmentów elektroniki użytkowej, charakteryzujący się szybkim tempem innowacji i rosnącymi oczekiwaniami konsumentów. Telewizor przestał być jedynie odbiornikiem sygnału telewizyjnego, stając się centrum domowej rozrywki i elementem ekosystemu cyfrowego.",
-      "published": "Fri, 13 Mar 2026 12:02:02 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Likwidacja CBA zatwierdzona. Sejm podjął kluczową decyzję. Kto przejmie ponad 1200 funkcjonariuszy?",
       "link": "https://www.bankier.pl/wiadomosc/Likwidacja-CBA-zatwierdzona-Sejm-podjal-kluczowa-decyzje-Kto-przejmie-ponad-1200-funkcjonariuszy-9097906.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/6/62c65aa123bd6c-948-568-168-60-1025-615.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm uchwalił w piątek ustawę likwidującą 1 października Centralne Biuro Antykorupcyjne. Po tej dacie - jeśli nowe przepisy wejdą w życie – kompetencje Biura przejmie policja, ",
@@ -408,14 +616,6 @@
       "published": "Fri, 13 Mar 2026 12:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "KE może mieć problem z SAFE nie tylko w Polsce. Są opóźnienia w wielu krajach",
-      "link": "https://businessinsider.com.pl/gospodarka/ke-moze-miec-problem-z-safe-nie-tylko-w-polsce-sa-opoznienia-w-wielu-krajach/1l67d1v",
-      "summary": "Polska nie jest jedynym państwem Unii Europejskiej, w którym pojawiły się problemy z wdrażaniem programu dozbrajania SAFE — zauważa brytyjski dziennik \"Financial Times\".",
-      "published": "Fri, 13 Mar 2026 11:59:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ropa po 100 dolarów i koniec taniego kredytu. Co czeka inwestorów?”",
@@ -458,30 +658,6 @@
       "category": "pl"
     },
     {
-      "title": "Gold Flow: Ostrożnie – rynek testuje kluczowe wsparcie 5055 USD",
-      "link": "https://comparic.pl/gold-flow-ostroznie-rynek-testuje-kluczowe-wsparcie-5055-usd/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD-324x235.jpg\" style=\"",
-      "published": "Fri, 13 Mar 2026 11:44:16 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kurs Bitcoina przebija 72 000 USD! Kryptowaluta odporna na wojnę i naciski Trumpa",
-      "link": "https://comparic.pl/kurs-bitcoina-przebija-72-000-usd-kryptowaluta-odporna-na-wojne-i-naciski-trumpa/",
-      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"393\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-3-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-3-2-324x235.jpg\"",
-      "published": "Fri, 13 Mar 2026 11:43:44 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ulta Beauty’s stock heads for worst day in 2 years as consumers get pickier about cosmetics",
-      "link": "https://www.marketwatch.com/story/ulta-beauty-says-its-increasingly-mindful-of-effects-that-global-conflicts-have-on-shoppers-as-profit-forecast-sinks-stock-b03cc1c3?mod=mw_rss_topstories",
-      "summary": "Ulta Beauty’s stock was among the S&amp;P 500’s biggest decliners after a downbeat earnings outlook.",
-      "published": "Fri, 13 Mar 2026 11:37:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Urzędniczka sprawdzała dane m.in. Karola Nawrockiego. Popełniła 151 przestępstw",
       "link": "https://www.bankier.pl/wiadomosc/Urzedniczka-sprawdzala-dane-m-in-eksmeza-i-Karola-Nawrockiego-Popelnila-151-przestepstw-9097876.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/b/17968b461879dc-948-568-0-18-1200-719.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pracownica szczecińskiej skarbówki przez ponad dwa lata nielegalnie przeglądała i pobierała dane podatników. Sprawdzała zarobki m.in. eksmęża, rodziny i znajomych. Wpadła, gdy po",
@@ -490,90 +666,10 @@
       "category": "pl"
     },
     {
-      "title": "Zakupy możliwe w niedziele. Nowe przepisy od tego weekendu",
-      "link": "https://www.bankier.pl/wiadomosc/Niedzielny-handel-wraca-W-tych-kurortach-bedzie-to-mozliwe-9097881.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/6/45fbd1675e91b7-948-568-0-418-1678-1007.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Od najbliższego weekendu ponownie będzie można robić zakupy także w niedziele. Będzie to możliwe w wielu niemieckich miejscowościach nad Morzem Północnym i Bałtykiem. Nowe praw",
-      "published": "Fri, 13 Mar 2026 11:24:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rząd przyjął uchwałę w sprawie SAFE. Kancelaria premiera ogłasza",
-      "link": "https://businessinsider.com.pl/finanse/rzad-przyjal-uchwale-w-sprawie-programu-polska-zbrojna-polska-dolacza-do-safe/zr4e11p",
-      "summary": "Rząd przyjął uchwałę w sprawie Programu \"Polska Zbrojna\", a ministrowie obrony oraz finansów zostali upoważnieni do podpisania umowy dotyczącej udziału Polski w programie SAFE — poinformowała Kancelaria Prezesa Rady Ministrów.",
-      "published": "Fri, 13 Mar 2026 11:19:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Wielka Recesja 2026: Ropa, złoto i giełdy na krawędzi! Ten czwarty element przeważy szalę",
-      "link": "https://comparic.pl/wielka-recesja-2026-ropa-zloto-i-gieldy-na-krawedzi-ten-czwarty-element-przewazy-szale/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/03/krypto-2026-03-13T101418.001.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/krypto-2026-03-13T101418.001-324x235.webp\" ",
-      "published": "Fri, 13 Mar 2026 11:07:36 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kanclerz Niemiec krytykuje decyzję administracji Donalda Trumpa. \"Błąd\"",
-      "link": "https://businessinsider.com.pl/gospodarka/usa-luzuja-sankcje-na-rosyjska-rope-kanclerz-niemiec-reaguje/8hke7lb",
-      "summary": "Kanclerz Niemiec Friedrich Merz skrytykował decyzję Stanów Zjednoczonych o czasowym wyłączeniu rosyjskiej ropy z części sankcji. Jego zdaniem taki krok jest \"błędem z kilku powodów\" i może mieć negatywne konsekwencje polityczne oraz gospodarcze.",
-      "published": "Fri, 13 Mar 2026 10:59:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Dotknęliśmy inflacyjnego dna? W kolejnych miesiącach może być tylko gorzej",
-      "link": "https://businessinsider.com.pl/gospodarka/inflacja-w-polsce-juz-nizej-nie-bedzie-obnizki-stop-procentowych-odlozone-na-polke/35rswe1",
-      "summary": "\"Obniżki stóp odłożone na półkę\" — takie komentarze pojawiają się po publikacji nowych danych o inflacji. Ceny rosną najwolniej od prawie dwóch lat, ale eksperci patrzą już z niepokojem w przyszłość.",
-      "published": "Fri, 13 Mar 2026 10:59:03 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Polska nie mówi już jednym głosem. Zagraniczne media: Weto sparaliżowało polskie zbrojenia i bezpieczeństwo Europy",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-nie-mowi-juz-jednym-glosem-Zagraniczne-media-Weto-sparalizowalo-polskie-zbrojenia-i-bezpieczenstwo-Europy-9097864.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/3/63d3f38fd915b3-945-567-0-100-945-567.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska mogłaby otrzymać z UE miliardy euro na zakup broni, jednak prezydent Karol Nawrocki hamuje ten proces - oceniła dpa, odnosząc się do zapowiedzi weta ws. programu SAFE. Pol",
-      "published": "Fri, 13 Mar 2026 10:58:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Jazda z Google Maps będzie od teraz wyglądać inaczej. To największa zmiana od ponad 10 lat",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-wyglad-google-maps-immersyjna-nawigacja-zmienia-sposob-jazdy/frtpcsx",
-      "summary": "Google zaprezentowało zmiany w swojej najważniejszej aplikacji nawigacyjnej. Widok, który będzie nam towarzyszył podczas jazdy, wygląda całkowicie inaczej, a to nie jedyna rewolucja.",
-      "published": "Fri, 13 Mar 2026 10:54:48 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Na OKI poczekamy sobie dłużej. MF zabiera głos",
       "link": "https://www.bankier.pl/wiadomosc/Na-OKI-poczekamy-sobie-dluzej-MF-zabiera-glos-9097858.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/6/b4fb90267428f6-945-560-7-7-1492-895.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Planowane wejście w życie ustawy o osobistych kontach inwestycyjnych (OKI) zostało przesunięte na 1 stycznia 2027 r. - poinformowało Ministerstwo Finansów w stanowisku do uwag zgł",
       "published": "Fri, 13 Mar 2026 10:52:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szef MON tłumaczy, jak rząd zaciągnie pożyczki na fundusz SAFE",
-      "link": "https://businessinsider.com.pl/finanse/mon-nie-wyda-budzetu-na-pozyczke-safe-kosiniak-kamysz-pokazuje-alternatywe/v7ttxhn",
-      "summary": "\"Skorzystamy z Funduszu Wsparcia Sił Zbrojnych. W uchwale rządu zabezpieczyliśmy budżet MON — nie będzie z niego spłacana pożyczka z programu SAFE\" — powiedział w Sejmie Władysław Kosiniak-Kamysz.",
-      "published": "Fri, 13 Mar 2026 10:47:26 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bitcoin czy złoto? JPMorgan wskazuje zwycięzcę po konflikcie z Iranem",
-      "link": "https://comparic.pl/bitcoin-czy-zloto-jpmorgan-wskazuje-zwyciezce-po-konflikcie-z-iranem/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-zloto-GOLD-XAU.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-zloto-GOLD-XAU-324x",
-      "published": "Fri, 13 Mar 2026 10:46:24 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trybunał Stanu dla Tuska? Błaszczak grozi: jeśli \"nielegalnie weźmie pożyczki”",
-      "link": "https://www.bankier.pl/wiadomosc/Trybunal-Stanu-dla-Tuska-Blaszczak-grozi-jesli-nielegalnie-wezmie-pozyczki-9097852.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/d/bbb4e161e9ac91-948-568-10-50-3990-2393.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jeśli premier Donald Tusk „nielegalnie weźmie pożyczki”, będzie to podstawą do postawienia go przed Trybunał Stanu po zmianie władzy - tak szef klubu PiS, b. szef MON Mariusz B",
-      "published": "Fri, 13 Mar 2026 10:45:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -586,51 +682,11 @@
       "category": "pl"
     },
     {
-      "title": "Giełda i obligacje zmuszą Trumpa do zakończenia tej wojny? Rynki tracą cierpliwość! Świat walut Marka Rogalskiego",
-      "link": "https://comparic.pl/gielda-i-obligacje-zmusza-trumpa-do-zakonczenia-tej-wojny-rynki-traca-cierpliwosc/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/fxs8q6hxus0.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/fxs8q6hxus0-324x235.jpg\" style=\"float: left; margin: 0 15px 1",
-      "published": "Fri, 13 Mar 2026 10:41:30 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polskie firmy czekają na pieniądze z SAFE. Donald Tusk przedstawił listę",
-      "link": "https://businessinsider.com.pl/gospodarka/huty-fabryki-zaklady-te-polskie-przedsiebiorstwa-czekaja-na-safe/gfz8t5b",
-      "summary": "Premier Donald Tusk skrytykował dziś weto prezydenta Karola Nawrockiego wobec ustawy o SAFE. Wymienił przy tym listę polskich spółek, które mają skorzystać na programie.",
-      "published": "Fri, 13 Mar 2026 10:28:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Tak prezydent Nawrocki tłumaczy weto w sprawie SAFE. Sprawdzamy, czy to fakty, czy raczej mity",
-      "link": "https://businessinsider.com.pl/gospodarka/slowa-prezydenta-o-safe-a-fakty-sprawdzamy/3754b6n",
-      "summary": "Karol Nawrocki mówi \"nie\" unijnemu programowi SAFE. Aby wytłumaczyć Polakom swoją decyzję, prezydent przygotował siedmiominutowe orędzie. Sprawdzamy, w jakim stopniu jego narracja jest zgodna z tym, co wynika z zapisów o SAFE. I z tym, co mówią eksperci.",
-      "published": "Fri, 13 Mar 2026 10:26:56 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Tusk ostro komentuje propozycję prezydenta i prezesa  NBP. \"Niebezpieczna hucpa\"",
       "link": "https://www.money.pl/gospodarka/tusk-ostro-komentuje-propozycje-prezydenta-i-prezesa-nbp-niebezpieczna-hucpa-7263812915235232a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/528b5728-b7c4-428a-a36f-19f2456be8c7\" width=\"308\" /> - Wysłuchałem informacji prezydenta Karola Nawrockiego i prezesa NBP Adama Glapińskiego o tym, jaki mają pomysł na pozyskanie środków z NBP. Nic w tej informacji nie było rzetelne ani prawdziwe - podkreślił premier Donald Tusk. Dodał, że \"wymyślono niebezpieczną hucpę\", ż",
       "published": "Fri, 13 Mar 2026 10:14:34 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "IKEA stawia na mniejszy format. W Polsce powstanie kolejny sklep kompaktowy",
-      "link": "https://www.bankier.pl/wiadomosc/IKEA-przyspiesza-ekspansje-Nowy-format-sklepow-trafi-do-kolejnych-miast-9097767.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/0/d5332da8202a43-948-568-0-165-2448-1468.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Operator sklepów IKEA, Ingka Group, zapowiada otwarcie 20 nowych, mniejszych sklepów w ciągu najbliższych sześciu miesięcy w Europie i Ameryce Północnej. Firma chce być bliżej ",
-      "published": "Fri, 13 Mar 2026 09:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "10% dywidendy, 20% korekty i wycena poniżej realnej wartości! Czy gigant z GPW to najbardziej niedoszacowana perła sektora?",
-      "link": "https://comparic.pl/10-dywidendy-20-korekty-i-wycena-ponizej-realnej-wartosci-czy-gigant-z-gpw-to-najbardziej-niedoszacowana-perla-sektora/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"572\" src=\"https://comparic.pl/wp-content/uploads/2026/02/euforia.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1024\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/euforia-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" ",
-      "published": "Fri, 13 Mar 2026 09:45:50 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -650,38 +706,6 @@
       "category": "pl"
     },
     {
-      "title": "Jest decyzja rządu w sprawie SAFE. Szef kancelarii Karola Nawrockiego reaguje",
-      "link": "https://businessinsider.com.pl/gospodarka/uchwala-w-sprawie-safe-przyjeta-jest-reakcja-palacu-prezydenckiego/eel7p1j",
-      "summary": "Szef Kancelarii Prezydenta Zbigniew Bogucki, który uczestniczył w posiedzeniu rządu, poinformował, że ten przyjął uchwałę w sprawie SAFE. Zdaniem współpracownika Karola Nawrockiego to obejście prawa.",
-      "published": "Fri, 13 Mar 2026 09:18:53 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Inflacja w Polsce najniższa od prawie dwóch lat. Nowe dane o cenach i nowy koszyk",
-      "link": "https://businessinsider.com.pl/gospodarka/inflacja-w-polsce-dawno-nie-byla-tak-nisko-nowe-dane-gus-o-cenach/h275pjy",
-      "summary": "Inflacja w Polsce w lutym 2026 r. była o ponad połowę mniejsza niż rok temu — wynika z opublikowanych w piątek danych Głównego Urzędu Statystycznego.",
-      "published": "Fri, 13 Mar 2026 09:01:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Podaż obligacji pod lupą MF. Domański: Sytuacja jest bardzo zmienna",
-      "link": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/5/1cd11c634f7436-948-568-152-0-1490-894.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />MF będzie dostosowywało podaż obligacji do warunków rynkowych - poinformował w Programie I Polskiego Radia minister finansów i gospodarki Andrzej Domański. W tle jest m.in. prez",
-      "published": "Fri, 13 Mar 2026 09:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Chiny krytykują nowy ruch USA. \"Typowy unilateralizm\"",
-      "link": "https://businessinsider.com.pl/gospodarka/nowy-spor-handlowy-na-linii-pekinwaszyngton-chiny-dopuszczaja-odwet/p8tnywb",
-      "summary": "Ministerstwo Handlu Chińskiej Republiki Ludowej skrytykowało decyzję Stanów Zjednoczonych o wszczęciu dochodzenia dotyczącego nadmiernych mocy produkcyjnych w Chinach.",
-      "published": "Fri, 13 Mar 2026 08:52:57 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "\"Nowa Grupa Azoty\". Prezes giganta zdradza plany",
       "link": "https://www.money.pl/gospodarka/nowa-grupa-azoty-prezes-giganta-zdradza-plany-7263788482672960a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a878f365-8a40-4ca2-988e-44540cdff5a5\" width=\"308\" /> Nowy prezes chce budowy \"nowej Grupy Azoty\", powstałej po konsolidacji i restrukturyzacji, zasilanej dodatkowym źródłem przychodów. Marcin Celejewski w rozmowie z PAP Biznes zapowiada nowe kierunki rozwoju, ale najpierw konieczne jest uporządkowanie relacji z bankami i sp",
@@ -690,27 +714,11 @@
       "category": "pl"
     },
     {
-      "title": "Koniec \"podatku Apple\" w Chinach. Przełomowa decyzja giganta",
-      "link": "https://www.bankier.pl/wiadomosc/Koniec-podatku-Apple-w-Chinach-Przelomowa-decyzja-giganta-9097760.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/8/aaae0b0bdbc8d8-948-568-150-262-2587-1552.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Apple ugina się przed mocarstwem. Miliardy dolarów zostaną w kieszeniach twórców za sprawą obniżenia stawek prowizji pobieranych od deweloperów w App Store na terenie Chin ko",
-      "published": "Fri, 13 Mar 2026 08:30:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Media: USA nie doceniły gotowości Iranu do zamknięcia Cieśniny Ormuz",
       "link": "https://www.money.pl/gospodarka/media-usa-nie-docenily-gotowosci-iranu-do-zamkniecia-ciesniny-ormuz-7263782346041664a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/82fb9069-e8ca-4d80-a90d-b697270aa261\" width=\"308\" /> Zarówno Pentagon, jak i Rada Bezpieczeństwa Narodowego USA w znacznym stopniu nie doceniły gotowości Iranu do zamknięcia Cieśniny Ormuz, kluczowego szlaku transportowego dla ropy naftowej i gazu ziemnego - poinformowała stacja CNN, powołując się na źródła zaznajomione ze ",
       "published": "Fri, 13 Mar 2026 08:05:53 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump zdejmuje kolejne sankcje z rosyjskiej ropy naftowej. Europa się sprzeciwia",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-zdejmuje-kolejne-sankcje-z-rosyjskiej-ropy-naftowej-9097677.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/b/b74aaf57efbf40-948-568-0-0-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Resort finansów USA po raz drugi w ciągu tygodnia ogłosił zwolnienie rosyjskiej ropy naftowej z obowiązujących sankcji. Wydana licencja dotyczy surowca załadowanego na tankowce p",
-      "published": "Fri, 13 Mar 2026 07:39:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -751,14 +759,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 13.03.2026. W piątek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.9521 zł.",
       "published": "Fri, 13 Mar 2026 07:00:18 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "USA i Iran podpalili ropę. Kolany: Skończył się okres dezinflacji",
-      "link": "https://www.bankier.pl/wiadomosc/USA-i-Iran-podpalili-rope-Kolany-Skonczyl-sie-okres-dezinflacji-9097500.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/18d55c6d1ce712-948-568-379-1230-2970-1782.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ropa znów stała się paliwem globalnego strachu. Wystarczyło kilka uderzeń, groźba blokady cieśniny Ormuz i rynek natychmiast przypomniał sobie, jak wygląda prawdziwy szok na",
-      "published": "Fri, 13 Mar 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     }
   ]
