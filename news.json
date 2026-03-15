@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T03:21:44.969887",
+  "generated_at": "2026-03-15T07:09:21.053351",
   "articles": [
     {
       "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
@@ -88,6 +88,70 @@
       "published": "Thu, 12 Mar 2026 14:08:12 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Od ofiary do oskarżonego. Banki oddają pieniądze, ale kierują sprawy do sądu",
+      "link": "https://businessinsider.com.pl/finanse/od-ofiary-do-oskarzonego-banki-oddaja-klientom-pieniadze-ale-kieruja-sprawy-do-sadu/trde7pc",
+      "summary": "Skala wyłudzeń w polskiej bankowości może sięgać nawet miliarda złotych rocznie, a spór o to, kto powinien pokryć te straty, wchodzi w decydującą fazę. UOKiK domaga się od banków niemal automatycznych zwrotów środków w jednodniowym trybie, sektor finansowy odpowiada radykalnie: coraz częściej pozywa własnych klientów o zwrot wypłaconych pieniędzy, podejrzewając ich o próbę wyłudzenia.",
+      "published": "Sun, 15 Mar 2026 06:53:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Brad Garlinghouse twierdzi, że Gary Gensler przeprosił Ripple w Białym Domu",
+      "link": "https://comparic.pl/brad-garlinghouse-twierdzi-ze-gary-gensler-przeprosil-ripple-w-bialym-domu/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/Brad-Garlinghouse-Says-Gary-Gensler-Apologized-to-Ripple-at-White-House.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/",
+      "published": "Sun, 15 Mar 2026 06:52:21 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Doradca Vaclava Havla o nowej wizji Polski i Czech. \"Czas myśleć o Unii Światowej, nie tylko UE\"",
+      "link": "https://businessinsider.com.pl/gospodarka/znany-czech-szczerze-o-polsce-mowi-o-glownym-celu-warszawy-i-pragi/w02cbsn",
+      "summary": "Wszyscy konkurujemy — firmy, państwa, a nawet ludzie w codziennym życiu. To jednak nie wyklucza wspólnego interesu. Wręcz przeciwnie — mówi dla Business Insidera o polsko-czeskiej rywalizacji Tomas Sedlacek, czeski ekonomista, były członek czeskiej Narodowej Rady Gospodarczej i doradca prezydenta Vaclava Havla. Będzie gościem wydarzenia IMPACT 2026, które odbędzie się w Poznaniu już 13-14 maja.",
+      "published": "Sun, 15 Mar 2026 06:30:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Prognoza ceny XRP po dodaniu Ripple do projektu płatności o wartości 9 bilionów dolarów przez Mastercard",
+      "link": "https://comparic.pl/prognoza-ceny-xrp-po-dodaniu-ripple-do-projektu-platnosci-o-wartosci-9-bilionow-dolarow-przez-mastercard/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/03/XRP-Price-Prediction-as-Mastercard-Adds-Ripple-to-9-Trillion-Payment-Project.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1280\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/202",
+      "published": "Sun, 15 Mar 2026 06:21:23 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "W sieci wielki fake news. Pod płaszczykiem wywiadu jest oszustwo inwestycyjne",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/fake-news-monika-olejnik-zmiazdzyla-prezesa-nbp-to-oszustwo-inwestycyjne/e64zy37",
+      "summary": "Rocznie blokowane są dziesiątki tysięcy stron internetowych. Tworzone są przez cyberprzestępców, zazwyczaj z myślą o wyłudzeniu pieniędzy. Ostatnio w taki wielki fake został wplątany prezes NBP, który miał udzielić kontrowersyjnego wywiadu. Wszystko było zmyślone. Po co? KNF i resort cyfryzacji tłumaczą schemat działania.",
+      "published": "Sun, 15 Mar 2026 06:10:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Chcesz być klasą średnią? Tutaj wystarczą 3 tys. zł pensji [WYLICZENIA]",
+      "link": "https://businessinsider.com.pl/gospodarka/oto-prog-wejscia-do-klasy-sredniej-w-polsce-niespodziewanie-niski-kwoty/wp9jsx0",
+      "summary": "Klasa średnia w Polsce to grono, do którego zalicza się ponad połowa z nas. Ile trzeba zarabiać, żeby się tu znaleźć? Wszystko zależy od miejsca zamieszkania, ale są gminy, gdzie wystarczy zaledwie nieco ponad 3 tys. zł. Policzyliśmy progi wejścia dla każdego z 2,5 tys. polskich miast.",
+      "published": "Sun, 15 Mar 2026 05:29:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ile zarabia Apple? Liczby, które pokazują skalę giganta",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/ile-zarabia-apple-liczby-ktore-pokazuja-skale-giganta/ctqs4wc",
+      "summary": "Apple to jedna z najwyżej wycenianych firm na świecie. Gigant z Cupertino choć już dawno przestał szokować technologicznymi nowościami, skutecznie poszerza swoje wpływy.",
+      "published": "Sun, 15 Mar 2026 05:00:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Cała prawda o emeryturach. Tyle pieniędzy trafia do seniorów",
+      "link": "https://businessinsider.com.pl/praca/emerytury/emerytury-w-polsce-zobacz-ile-osob-dostaje-do-1-tys-a-ile-ponad-7-tys-zl-tabela/tnsg6js",
+      "summary": "Na wypłaty świadczeń dla emerytów w 2024 r. poszło 336,2 mld zł. Wydaje się, że to duża kwota, ale przeciętna miesięczna emerytura z ZUS nie powala. Choć z perspektywy 2026 r. wydają się to archiwalne dane, ale w najpełniejszy sposób pokazują, jak wiele osób otrzymuje konkretne świadczenia. Liczby mogą zaskakiwać.",
+      "published": "Sun, 15 Mar 2026 04:53:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Kurs dolara w 2 tygodnie podrożał o 17 groszy! Analityk wskazuje kolejne prognozy USD/PLN",
@@ -490,60 +554,12 @@
       "category": "pl"
     },
     {
-      "title": "Sprawdziliśmy nowy model kultowych słuchawek. Warte są uwagi i wydania aż 1300 zł?",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/sony-wf-1000xm6-przetestowane-sprawdzilismy-anc-i-jakos-dzwieku-oto-nasza-ocena/wr3ghes",
-      "summary": "Słuchawki firmy Sony uznawane są za jedne z najlepszych na rynku, a ich flagowe serie WF-1000X oraz WH-1000X wyznaczają wzorce dla mobilnej jakości dźwięku oraz skuteczności pracy techniki ANC. Czy podobnie jest w najnowszym modelu WF-1000XM6? Sprawdziliśmy to dla was.",
-      "published": "Sat, 14 Mar 2026 14:01:40 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Jacek Sasin: \"wychodzimy z ETS. To nie jest hasło\"",
-      "link": "https://businessinsider.com.pl/gospodarka/ets-bez-polski-jacek-sasin-chce-rewolucji/0epsmk8",
-      "summary": "\"ETS przygniata energetykę, przemysł, zwłaszcza energochłonny. ETS2 zniszczy Polaków\" — przestrzegł Jacek Sasin.",
-      "published": "Sat, 14 Mar 2026 13:36:21 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Koszt odbudowy Ukrainy będzie gigantyczny. Skąd wziąć takie pieniądze? [WYWIAD]",
       "link": "https://www.money.pl/polityka/koszt-odbudowy-ukrainy-bedzie-gigantyczny-skad-wziac-takie-pieniadze-wywiad-7261723017754784a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c5a2a0af-b5de-49f2-86b1-e111e82205b1\" width=\"308\" /> Odbudowa Ukrainy po wojnie może pochłonąć około 550 mld dol., czyli równowartość połowy PKB Polski. Duża część tej kwoty musi pochodzić od prywatnych inwestorów, motywowanych chęcią zysku. Tylko wtedy ich zaangażowanie będzie trwałe - ocenia w rozmowie z money.pl Erik Sav",
       "published": "Sat, 14 Mar 2026 13:32:28 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Przewodnik dla rodziców po szale na karty Pokemon. Także finansowy",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/pokemony-znow-na-topie-na-co-uwazac-kupujac-dziecku-karty-na-to-hobby-latwo-wydac/9q5xpwx",
-      "summary": "Karty Pokemon gwałtownie zyskały na popularności, stając się w zeszłym roku produktem zabawkowym nr 1 na świecie. Dla rodziców, którzy się na tym nie znają, karty kolekcjonerskie mogą oznaczać wejście w nowy, skomplikowany i kosztowny świat — zauważa w rozmowie z Business Insiderem właściciel sklepu kolekcjonerskiego. Oto trzy rzeczy, które rodzice powinni wiedzieć, zanim rozpoczną z dzieckiem prz",
-      "published": "Sat, 14 Mar 2026 13:14:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Jak bezpiecznie i zgodnie z prawem zwolnić się z pracy? O tym trzeba pamiętać",
-      "link": "https://businessinsider.com.pl/praca/wypowiedzenie-umowy-o-prace-o-tych-formalnosciach-trzeba-pamietac/h7vbqbp",
-      "summary": "Zakończenie współpracy z pracodawcą wiąże się z szeregiem formalności, o których pracownicy często zapominają. Niezależnie od tego, czy odchodzimy w przyjacielskiej atmosferze, czy w tle tli się konflikt, warto sprawdzić, jaka forma rozwiązania umowy jest dla nas korzystna. Wyjaśniamy czemu wypowiedzenie umowy o pracę nie jest najlepszym wyjściem, jak obliczyć okres wypowiedzenia i o czym bezwzglę",
-      "published": "Sat, 14 Mar 2026 12:37:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Węgry i Słowacja dały się przekonać w sprawie Rosji. Zapadła decyzja Unii Europejskiej",
-      "link": "https://businessinsider.com.pl/gospodarka/wegry-i-slowacja-nie-protestowaly-w-sprawie-rosji-zapadla-decyzja-ue/w2f39bz",
-      "summary": "Na kolejne pół roku państwa członkowskie Unii Europejskiej przedłużyły sankcje wobec Rosji. Decyzja zapadła w sobotę za zgodą wszystkich 27 krajów. Dzień wcześniej Węgry i Słowacja domagały się zmian na sankcyjnej \"czarnej liście\".",
-      "published": "Sat, 14 Mar 2026 12:33:09 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Polska rozważa skargę na umowę z Mercosurem. Decyzja w rękach rządu",
-      "link": "https://businessinsider.com.pl/wiadomosci/polska-rozwaza-skarge-na-umowe-ue-z-mercosurem-rzad-zdecyduje-o-krokach/mbcmzy6",
-      "summary": "Polska nie wyklucza zaskarżenia umowy handlowej Unii Europejskiej z krajami Mercosuru do Trybunału Sprawiedliwości Unii Europejskiej (TSUE). Jak poinformował w sobotę minister rolnictwa i rozwoju wsi Stefan Krajewski, decyzja w tej sprawie należy jednak do rządu, a nie do pojedynczego ministra.",
-      "published": "Sat, 14 Mar 2026 12:07:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Drugi mocarz świata zmienia zasady. Nowy plan pięcioletni w Chinach",
@@ -570,14 +586,6 @@
       "category": "us"
     },
     {
-      "title": "Zdominował GPW i S&P 500 od początku konfliktu USA-Iran. To nie złoto!",
-      "link": "https://comparic.pl/zdominowal-gpw-i-sp-500-od-poczatku-konfliktu-usa-iran-to-nie-zloto/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/03/HOSSA-W-CIENIU.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/HOSSA-W-CIENIU-324x235.webp\" style=\"float: left; margin: ",
-      "published": "Sat, 14 Mar 2026 10:33:34 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Nowy konkurent Energylandii rośnie na Śląsku. Inwestor odkrywa karty ws. parku rozrywki",
       "link": "https://www.bankier.pl/wiadomosc/Nowy-konkurent-Energylandii-rosnie-na-Slasku-Inwestor-odkrywa-karty-ws-parku-rozrywki-9098405.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/7/06b696f2c48bad-948-568-0-0-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W Gliwicach rośnie nowa potęga na mapie polskiej rozrywki. Inwestycja, która od miesięcy budziła emocje wśród mieszkańców i analityków branży turystycznej, wchodzi w decydującą f",
@@ -591,14 +599,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/5ec3134e-750b-4a51-af04-16a77a3203b8.png\" width=\"308\" /> Dr Irena Eris zbudowała firmę wycenianą na 600 mln zł. Od ponad 40 lat tworzy markę, która podbiła 50 rynków na całym świecie. W najnowszym odcinku \"Biznes Klasy\" opowiada m.in. o tym, jak prowadzi ogromną firmę bez telefonu komórkowego, jak wyglądały początki i jak rozwijać markę \"M",
       "published": "Sat, 14 Mar 2026 08:23:00 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Akcje idą w górę! Rynek reaguje na decyzję o dywidendzie",
-      "link": "https://comparic.pl/akcje-ida-w-gore-rynek-reaguje-na-decyzje-o-dywidendzie/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"754\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-buy-or-sell-kupno-zakup-long-sprzedaz-wzrosty-spadki-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/05/freepik-bu",
-      "published": "Sat, 14 Mar 2026 08:22:48 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
