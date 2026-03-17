@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:49:55.139559",
+  "generated_at": "2026-03-17T02:47:03.170268",
   "articles": [
     {
       "title": "Food prices could rise as Iran conflict disrupts fertilizer supply chain",
@@ -15,6 +15,14 @@
       "summary": "JPMorgan's move shows that the biggest U.S. bank by assets wants to get ahead of potential turbulence involving private credit loans to software companies.",
       "published": "Wed, 11 Mar 2026 12:57:44 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "This biotech is working on a GLP-1 pill that could be better than the Wegovy version",
+      "link": "https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c?mod=mw_rss_topstories",
+      "summary": "This experimental pill helped people lose about 16% of their body weight after about a year of treatment",
+      "published": "Tue, 17 Mar 2026 00:31:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -74,9 +82,25 @@
       "category": "us"
     },
     {
+      "title": "Nvidia adds Hyundai, BYD and other automakers to self-driving tech business",
+      "link": "https://www.cnbc.com/2026/03/16/nvidia-hyundai-byd-nissan-self-driving-tech.html",
+      "summary": "AVs are important to Nvidia as self-driving cars remain one of the primary areas where the company can show growth outside of artificial intelligence.",
+      "published": "Mon, 16 Mar 2026 22:06:38 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
+      "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
+      "summary": "The outlook for the U.S. economy will continue to darken as long as the Strait of Hormuz remains effectively closed to oil-tanker traffic, even though the U.S. now produces about as much oil and natural gas as it consumes.",
+      "published": "Mon, 16 Mar 2026 22:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Ceny ropy spadają, giełda w USA rośnie. W centrum uwagi cieśnina Ormuz",
       "link": "https://businessinsider.com.pl/gielda/wiadomosci/ropa-tanieje-indeksy-w-gore-donald-trump-stawia-warunki/2f3sv3x",
-      "summary": "Spadek cen ropy naftowej w poniedziałek przyczynił się do wzrostu głównych indeksów na amerykańskiej giełdzie.",
+      "summary": "Spadek cen ropy w poniedziałek przyczynił się do wzrostu głównych indeksów na amerykańskiej giełdzie. To najlepszy dzień na Wall Street od początku wojny na Bliskim Wschodzie.",
       "published": "Mon, 16 Mar 2026 21:31:42 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -154,14 +178,6 @@
       "category": "us"
     },
     {
-      "title": "Nvidia adds Hyundai, BYD and other automakers to self-driving tech business",
-      "link": "https://www.cnbc.com/2026/03/16/nvidia-hyundai-byd-nissan-self-driving-tech.html",
-      "summary": "AVs are important to Nvidia as self-driving cars remain one of the primary areas where the company can show growth outside of artificial intelligence.",
-      "published": "Mon, 16 Mar 2026 20:38:54 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Dollar is benefiting from Iran conflict as investors worry about inflation",
       "link": "https://www.marketwatch.com/story/the-u-s-dollar-and-crypto-are-both-benefiting-from-the-iran-crisis-in-an-unusual-move-85873834?mod=mw_rss_topstories",
       "summary": "One of the biggest beneficiaries of the Iran conflict has been the battered U.S. dollar, which traded near one of its strongest levels in months on Monday.",
@@ -184,22 +200,6 @@
       "published": "Mon, 16 Mar 2026 20:22:16 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Record Oscar haul for Warner Bros. caps off a topsy-turvy year for the legendary studio",
-      "link": "https://www.marketwatch.com/story/record-oscar-haul-for-warner-bros-caps-off-a-topsy-turvy-year-for-the-legendary-studio-0f81f0d9?mod=mw_rss_topstories",
-      "summary": "The studio’s films took home 11 Oscars after a banner year at the box office and a tumultuous and politically charged sales process for its parent company.",
-      "published": "Mon, 16 Mar 2026 20:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Tesla’s stock rises as investors embrace ambitious foray into making AI chips",
-      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-investors-embrace-ambitious-foray-into-ai-chip-making-18ebb4f3?mod=mw_rss_topstories",
-      "summary": "Elon Musk’s planned chip fab could cost hundreds of billions of dollars, according to analysts.",
-      "published": "Mon, 16 Mar 2026 20:08:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "InPost testuje wersję beta aplikacji z asystentem zakupowym AI",
