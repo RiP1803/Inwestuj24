@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-04-01T19:17:19.169615",
+  "generated_at": "2026-04-01T21:51:55.655030",
   "articles": [
+    {
+      "title": "Rosną nadzieje na pokój z Iranem. Wall Street kontynuuje odbicie",
+      "link": "https://www.bankier.pl/wiadomosc/Rosna-nadzieje-na-pokoj-z-Iranem-Wall-Street-kontynuuje-odbicie-9108257.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/d/9012fd9b514e1e-948-568-7-0-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Środa była drugim dniem odbicia na wcześniej wyprzedanym rynku. Pomagały także całkiem niezłe dane z amerykańskiej gospodarki.</p>",
+      "published": "Wed, 1 Apr 2026 22:07:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
     {
       "title": "Prezydent Czech ostro o żądaniach Trumpa. \"Sprzeczne z misją NATO\"",
       "link": "https://www.bankier.pl/wiadomosc/Prezydent-Czech-ostro-o-zadaniach-Trumpa-Sprzeczne-z-misja-NATO-9108223.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -70,14 +78,6 @@
       "link": "https://www.bankier.pl/wiadomosc/6-w-Credit-Agricole-na-lokacie-Bank-przedluza-oferte-dla-nowych-klientow-9107806.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/3/f038a361fa4385-948-568-20-0-4011-2407.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Osoby, które nie zdążyły otworzyć Lokaty Powitalnej w Credit Agricole w marcu, mają cały miesiąc na skorzystanie z jej kolejnej odsłony. Nowa promocja wprowadziła jednak nieco n",
       "published": "Wed, 1 Apr 2026 15:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zaskakujący sojusz w sprawie SAFE. Morawiecki deklaruje poparcie dla projektu PSL",
-      "link": "https://www.bankier.pl/wiadomosc/Zaskakujacy-sojusz-w-sprawie-SAFE-Morawiecki-deklaruje-poparcie-dla-projektu-PSL-9107951.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/6/fefc992422572b-948-568-6-15-1194-716.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wiceprezes PiS Mateusz Morawiecki zadeklarował w środę poparcie dla projektu PSL ws. „SAFE 0 proc.”. Zdaniem lidera ludowców, szefa MON Władysława Kosiniaka-Kamysza deklaracja ta",
-      "published": "Wed, 1 Apr 2026 14:15:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -162,12 +162,172 @@
       "category": "pl"
     },
     {
-      "title": "My husband is giving me 75% of his trust — and allocating 25% to his sister. Is that fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-giving-me-75-of-his-trust-and-allocating-25-to-his-sister-is-that-fair-3b0fec2a?mod=mw_rss_topstories",
-      "summary": "“Everything, including his IRAs, was placed in the trust’s name.”",
-      "published": "Wed, 01 Apr 2026 19:14:00 GMT",
+      "title": "How TV’s ‘Love Story’ helped Calvin Klein parent ease investor anxieties about consumer demand",
+      "link": "https://www.marketwatch.com/story/how-tvs-love-story-helped-calvin-klein-parent-ease-investor-anxieties-about-consumer-demand-3fe67090?mod=mw_rss_topstories",
+      "summary": "Shares of PVH Corp., the parent of Calvin Klein and Tommy Hilfiger, finished nearly 10% higher on Wednesday, as the TV miniseries “Love Story: John F. Kennedy Jr. & Carolyn Bessette” and 1990s nostalgia help buoy consumer demand and the company’s outlook through this year.",
+      "published": "Wed, 01 Apr 2026 21:40:00 GMT",
       "source": "MarketWatch",
       "category": "us"
+    },
+    {
+      "title": "\"Licytacja na obniżki\". Rada Fiskalna oceniła rządowy pakiet CPN",
+      "link": "https://www.money.pl/podatki/licytacja-na-obnizki-rada-fiskalna-ocenila-rzadowy-pakiet-cpn-7270687566125248a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7e1c28ef-4566-4cbc-a467-ef3e85a80064\" width=\"308\" /> Rada Fiskalna oceniła skutki rządowego pakietu \"CPN\" (Ceny Paliw Niżej) po obniżkach VAT i akcyzy oraz wprowadzeniu cen maksymalnych. \"Rządowe i opozycyjne propozycje zmierzają w kierunku dalszego luzowania polityki budżetowej – taka 'licytacja na obniżki' osłabia przewid",
+      "published": "Wed, 01 Apr 2026 21:33:55 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Intel’s stock pops as its latest move signals a ‘turnaround’ is afoot",
+      "link": "https://www.marketwatch.com/story/intels-stock-pops-as-its-latest-move-signals-a-turnaround-is-afoot-527ea529?mod=mw_rss_topstories",
+      "summary": "The chip maker’s repurchasing of equity interest in the joint venture related to its Ireland fab supports its manufacturing abilities, an analyst says",
+      "published": "Wed, 01 Apr 2026 21:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tiger Woods won't captain 2027 Ryder Cup team as golf future remains uncertain",
+      "link": "https://www.cnbc.com/2026/04/01/tiger-woods-golf-future-uncertain-recovery-crash.html",
+      "summary": "The latest developments leave Woods at least temporarily at the fringes of the sport that made him a household name.",
+      "published": "Wed, 01 Apr 2026 21:21:24 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Złoto szybko odrabia straty! Czy to początek nowego trendu?",
+      "link": "https://comparic.pl/zloto-szybko-odrabia-straty-czy-to-poczatek-nowego-trendu/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Wed, 01 Apr 2026 20:54:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘Liberation day’ one year later: What Trump’s tariffs are costing America",
+      "link": "https://www.marketwatch.com/story/liberation-day-one-year-later-what-trumps-tariffs-are-costing-america-d8aacc13?mod=mw_rss_topstories",
+      "summary": "U.S. home builders and car manufacturers are taking a hit. Tariffs haven’t slashed the federal debt as promised.",
+      "published": "Wed, 01 Apr 2026 20:53:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Walmart-owned Sam's Club raises its annual membership fee to $60",
+      "link": "https://www.cnbc.com/2026/04/01/sam.html",
+      "summary": "Sam's Club is hiking membership fees as its annual sales and membership grow and as high gas prices call attention to one of its key perks.",
+      "published": "Wed, 01 Apr 2026 20:46:37 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Just in time for Easter: Egg prices tumbled 70%, and here’s how people responded",
+      "link": "https://www.marketwatch.com/story/just-in-time-for-easter-egg-prices-tumbled-70-and-heres-how-people-responded-18d5c1d0?mod=mw_rss_topstories",
+      "summary": "Cal-Maine’s stock jumped after a big earnings beat, despite a 70% drop in the price of conventional white eggs.",
+      "published": "Wed, 01 Apr 2026 20:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "A falling stock market may hurt the U.S. economy more than high prices at the pump",
+      "link": "https://www.marketwatch.com/story/a-falling-stock-market-may-hurt-the-u-s-economy-more-than-high-prices-at-the-pump-131f33ba?mod=mw_rss_topstories",
+      "summary": "The wealth effect may have a greater effect on consumer spending than high gas prices.",
+      "published": "Wed, 01 Apr 2026 20:33:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Wall Street loses patience with Nike as turnaround drags, China weakness deepens",
+      "link": "https://www.cnbc.com/2026/04/01/nike-q3-2026-turnaround-drags-china-sales-slump.html",
+      "summary": "Nike warned that its turnaround is taking longer than it expected, leading three Wall Street banks to downgrade the stock as investors lose patience.",
+      "published": "Wed, 01 Apr 2026 20:32:47 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Why $4-a-gallon gas prices feel a lot worse in 2026 vs. 2022",
+      "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
+      "summary": "Amid fears of stagflation, persistently high interest rates and a weakening labor market, our mood changes almost on a daily basis.",
+      "published": "Wed, 01 Apr 2026 20:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Czy Bitcoin osiągnął już dno? Ekspert wskazuje pięć faz końca bessy",
+      "link": "https://comparic.pl/czy-bitcoin-osiagnal-juz-dno-ekspert-wskazuje-piec-faz-konca-bessy/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-4.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-4-324x235.jpg\" style=\"float: le",
+      "published": "Wed, 01 Apr 2026 20:15:31 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Here’s one reason investors shouldn’t get too excited about this week’s stock-market rebound",
+      "link": "https://www.marketwatch.com/story/heres-one-reason-investors-shouldnt-get-too-excited-about-this-weeks-stock-market-rebound-d394affd?mod=mw_rss_topstories",
+      "summary": "This week’s sharp rebound in U.S. stocks is offering some welcome respite from the relentless selling that has rocked global markets over the past month.",
+      "published": "Wed, 01 Apr 2026 20:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Eksperci zaskoczeni odpowiedzią ministerstwa. Chodzi o Czyste powietrze",
+      "link": "https://businessinsider.com.pl/gospodarka/ministerstwo-bez-danych-o-kosztach-ogrzewania-domow-eksperci-zaskoczeni/s37y1mn",
+      "summary": "Ministerstwo Klimatu i Środowiska przyznało, że nie posiada analiz dotyczących kosztów ogrzewania domów jednorodzinnych w Polsce. Brak takich danych budzi zdziwienie wśród ekspertów, którzy podkreślają, że są one kluczowe dla skutecznego rozdzielania dotacji i rozwoju programu Czyste powietrze.",
+      "published": "Wed, 01 Apr 2026 20:02:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Czy złoto i srebro osiągnęły pokoleniowe szczyty? Prognozy analityków",
+      "link": "https://comparic.pl/czy-zloto-i-srebro-osiagnely-pokoleniowe-szczyty-prognozy-analitykow/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"750\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-silver-XAG-3.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-",
+      "published": "Wed, 01 Apr 2026 19:50:01 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Donald Trump groził wstrzymaniem dostaw dla Ukrainy? \"Warunek w sprawie Ormuz\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-naciska-na-nato-w-sprawie-ormuz-ukraina-karta-przetargowa/9ef53be",
+      "summary": "Donald Trump zagroził, że wstrzyma dostawy broni dla Ukrainy, jeśli Europa nie podejmie działań w sprawie cieśniny Ormuz — pisze \"Financial Times\".",
+      "published": "Wed, 01 Apr 2026 19:46:41 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Here’s what’s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more",
+      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-april-2026-on-netflix-hulu-hbo-max-and-more-e6e085e7?mod=mw_rss_topstories",
+      "summary": "Prices are rising at Netflix and Amazon, while Hulu revives ‘Malcolm in the Middle’ and HBO Max has new seasons of ‘Hacks’ and ‘Euphoria’",
+      "published": "Wed, 01 Apr 2026 19:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Is there a bargain to be had with Disney stock? This analyst thinks so.",
+      "link": "https://www.marketwatch.com/story/is-there-a-bargain-to-be-had-with-disney-stock-this-analyst-thinks-so-f135b00d?mod=mw_rss_topstories",
+      "summary": "With Disney’s stock hovering just above an 11-month low, one previous naysayer analyst turned bullish, saying it’s ‘historically cheap.’",
+      "published": "Wed, 01 Apr 2026 19:42:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nowe ceny paliw od 2 kwietnia 2026! Sprawdź, ile zapłacisz na stacji",
+      "link": "https://comparic.pl/nowe-ceny-paliw-od-2-kwietnia-2026-sprawdz-ile-zaplacisz-na-stacji/",
+      "summary": "<img alt=\"Notowania ropy naftowej stabilizują się po wtorkowej przecenie. Wątpliwości dotyczące popytu\" class=\"attachment-full size-full wp-post-image\" height=\"531\" src=\"https://comparic.pl/wp-content/uploads/2019/03/Oil-Crude-WTI-Brent-ropa-naftowa-petrol-cc3.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"Notowania ropy naftowej stabilizują się po wtorkowej przecenie. W",
+      "published": "Wed, 01 Apr 2026 19:33:51 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "These 2 chip stocks were added to Deutsche Bank’s list of top tech picks",
+      "link": "https://www.marketwatch.com/story/these-2-chip-stocks-were-added-to-deutsche-banks-list-of-top-tech-picks-6a243333?mod=mw_rss_topstories",
+      "summary": "Applied Materials shares look set to continue to benefit from recent chip-sector strength, while Broadcom’s stock should rebound as AI-chip revenue grows.",
+      "published": "Wed, 01 Apr 2026 19:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Poparcie dla Donalda Trumpa najniższe w historii. Zmiana wśród republikanów",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-traci-poparcie-w-usa-sondaz-pokazuje-zwrot-wsrod-repubikanow/rn8cg7n",
+      "summary": "Poparcie dla Donalda Trumpa w zakresie zarządzania gospodarką spadło do najniższego poziomu w historii, wynoszącego 31 proc. — według najnowszego sondażu CNN.",
+      "published": "Wed, 01 Apr 2026 19:14:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Płacimy coraz więcej za wywóz śmieci. Podwyżki w wielu miastach Polski",
@@ -178,28 +338,12 @@
       "category": "other"
     },
     {
-      "title": "Wall Street loses patience with Nike as turnaround drags, China weakness deepens",
-      "link": "https://www.cnbc.com/2026/04/01/nike-q3-2026-turnaround-drags-china-sales-slump.html",
-      "summary": "Nike warned that its turnaround is taking longer than it expected, leading three Wall Street banks to downgrade the stock as investors lose patience.",
-      "published": "Wed, 01 Apr 2026 19:00:08 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Ten surowiec może podrożeć o blisko 150%! Eksperci wyjaśniają, co musi się wydarzyć",
       "link": "https://comparic.pl/ten-surowiec-moze-podrozec-o-blisko-150-eksperci-wyjasniaja-co-musi-sie-wydarzyc-01-04-2026/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"820\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-wzrost-growth-hossa-up-bull-market-stock-chart.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-wzrost-gro",
       "published": "Wed, 01 Apr 2026 18:58:32 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Walmart-owned Sam's Club raises its annual membership fee to $60",
-      "link": "https://www.cnbc.com/2026/04/01/sam.html",
-      "summary": "Sam's Club is hiking membership fees as its annual sales and membership grow and as high gas prices call attention to one of its key perks.",
-      "published": "Wed, 01 Apr 2026 18:55:22 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Niemiecka gospodarka o krok od recesji. Prognozy mocno w dół",
@@ -210,28 +354,20 @@
       "category": "other"
     },
     {
-      "title": "Here’s one reason investors shouldn’t get too excited about this week’s stock-market rebound",
-      "link": "https://www.marketwatch.com/story/heres-one-reason-investors-shouldnt-get-too-excited-about-this-weeks-stock-market-rebound-d394affd?mod=mw_rss_topstories",
-      "summary": "This week’s sharp rebound in U.S. stocks is offering some welcome respite from the relentless selling that has rocked global markets over the past month.",
-      "published": "Wed, 01 Apr 2026 18:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Tiger Woods’ future in golf is uncertain as he faces recovery after Florida crash",
-      "link": "https://www.cnbc.com/2026/04/01/tiger-woods-golf-future-uncertain-recovery-crash.html",
-      "summary": "The latest developments leave Woods at least temporarily at the fringes of the sport that made him a household name.",
-      "published": "Wed, 01 Apr 2026 18:48:43 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "To jeden z największych darczyńców Ukrainy. Kolejne miliardy dolarów trafiły do Kijowa",
       "link": "https://businessinsider.com.pl/gospodarka/potezne-wsparcie-dla-ukrainy-od-japonii-to-jeden-z-najwiekszych-darczyncow/ceq4z7l",
       "summary": "Ukraina otrzymała prawie 1,3 mld dol. od rządu Japonii w ramach projektu realizowanego przez Bank Światowy. To tylko część wsparcia tego państwa, które należy do największych darczyńców Kijowa od początku rosyjskiej inwazji.",
       "published": "Wed, 01 Apr 2026 18:34:35 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
+    },
+    {
+      "title": "Ceny mieszkań znów w górę? Warszawa i Poznań wyraźnie podrożały w marcu – a inne miasta?",
+      "link": "https://comparic.pl/ceny-mieszkan-znow-w-gore-warszawa-i-poznan-wyraznie-podrozaly-w-marcu-a-inne-miasta/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-klucze-mieszkanie.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp",
+      "published": "Wed, 01 Apr 2026 18:26:15 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "Eli Lilly opposes push to pass Trump's drug pricing deals into law, CEO says",
@@ -250,28 +386,12 @@
       "category": "other"
     },
     {
-      "title": "I’m 39, single with no kids — and Instagram is serving me at least 4 ads a day for indexed universal life insurance. Do I need it?",
-      "link": "https://www.marketwatch.com/story/im-39-single-with-no-kids-and-instagram-is-serving-me-at-least-4-ads-a-day-for-indexed-universal-life-insurance-do-i-need-it-48c77055?mod=mw_rss_topstories",
-      "summary": "Don’t think about indexed universal life insurance as a “stock alternative” as IULs are a type of life-insurance policy. Think about what kind of life insurance you’d want, if any.",
-      "published": "Wed, 01 Apr 2026 18:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ripple integruje XRP i stablecoiny z tradycyjnym systemem walut fiducjarnych",
       "link": "https://comparic.pl/ripple-integruje-xrp-i-stablecoiny-z-tradycyjnym-systemem-walut-fiducjarnych/",
       "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"466\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-2-324x235.jpg\" style=\"float:",
       "published": "Wed, 01 Apr 2026 18:13:06 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories",
-      "summary": "“We have no experience with Treasurys .”",
-      "published": "Wed, 01 Apr 2026 18:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 01.04.2026",
@@ -306,14 +426,6 @@
       "category": "pl"
     },
     {
-      "title": "Tesla’s delivery update is on deck. Why investors shouldn’t abandon an ‘unwavering belief’ in EVs.",
-      "link": "https://www.marketwatch.com/story/teslas-delivery-update-is-on-deck-why-investors-shouldnt-abandon-an-unwavering-belief-in-evs-e8f33979?mod=mw_rss_topstories",
-      "summary": "Investors have become less interested in Tesla’s car business lately, but some analysts see that as shortsighted.",
-      "published": "Wed, 01 Apr 2026 18:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 01.04.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-01-04-2026-7270642158995648a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 01.04.2026. W środę po południu za jedno euro (EUR) trzeba zapłacić 4.28073 zł.",
@@ -338,36 +450,12 @@
       "category": "other"
     },
     {
-      "title": "My CPA mixed up my tax-return info with another client’s. Is this a warning signal I shouldn’t ignore?",
-      "link": "https://www.marketwatch.com/story/my-cpa-mixed-up-my-tax-return-info-with-another-clients-is-this-a-warning-signal-i-shouldnt-ignore-f40babf2?mod=mw_rss_topstories",
-      "summary": "“I assumed that uploading documents to a secure vault meant they would be handled safely.”",
-      "published": "Wed, 01 Apr 2026 17:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "977 milionów dolarów na spadek cen ropy! Inwestorzy ruszyli po lewarowane ETF-y",
       "link": "https://comparic.pl/977-milionow-dolarow-na-spadek-cen-ropy-inwestorzy-ruszyli-po-lewarowane-etf-y/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"600\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-oil-wti-brent-crude-ropa-naftowa-barylka-ropy-naftowej-6.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-",
       "published": "Wed, 01 Apr 2026 17:52:18 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Tech stocks essentially haven’t been this cheap versus the S&P 500 in six years",
-      "link": "https://www.marketwatch.com/story/tech-stocks-essentially-havent-been-this-cheap-versus-the-s-p-500-in-six-years-677d2779?mod=mw_rss_topstories",
-      "summary": "Worries over AI spending and the sustainability of demand have been weighing on the tech sector.",
-      "published": "Wed, 01 Apr 2026 17:40:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "RH’s stock plunge shows even the ultrarich are worried about spending on their homes",
-      "link": "https://www.marketwatch.com/story/rhs-stock-plunge-shows-even-the-ultrarich-are-worried-about-spending-on-their-homes-464294ba?mod=mw_rss_topstories",
-      "summary": "Shares of RH plummeted toward a six-year low Wednesday, after the high-end furniture retailer’s latest earnings report and outlook suggested that even the super-rich have cut back spending on their homes.",
-      "published": "Wed, 01 Apr 2026 17:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Trump decyduje tej nocy: Inwazja w Iranie czy odwrót? Ropa może podrożeć do 120 USD",
@@ -386,52 +474,12 @@
       "category": "pl"
     },
     {
-      "title": "Dolar szybko traci na wartości i wycenia te 2 scenariusze! Rynek czeka na orędzie Trumpa",
-      "link": "https://comparic.pl/dolar-szybko-traci-na-wartosci-i-wycenia-te-2-scenariusze-rynek-czeka-na-oredzie-trumpa-01-04-2026/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-usd-dolar-dollar-8.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-usd-dolar-dollar-8-324x235.jpg\" style=",
-      "published": "Wed, 01 Apr 2026 17:28:05 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Frustrated with Nike’s failing turnaround? Give this stock a try instead, analyst says.",
-      "link": "https://www.marketwatch.com/story/frustrated-with-nikes-failing-turnaround-give-this-stock-a-try-instead-analyst-says-51c0715f?mod=mw_rss_topstories",
-      "summary": "Oppenheimer analysts still believe in Nike’s turnaround but concede they are becoming “at least somewhat frustrated.” So they think sporting-goods retailer Dick’s is worth a look.",
-      "published": "Wed, 01 Apr 2026 17:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "BTCS S.A. awansuje na 88 miejsce w rankingu Top 100 Public Bitcoin Treasury Companies",
-      "link": "https://comparic.pl/btcs-s-a-awansuje-na-88-miejsce-w-rankingu-top-100-public-bitcoin-treasury-companies/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"900\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-10.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-10-324x235.jpg\" style=\"float: ",
-      "published": "Wed, 01 Apr 2026 17:20:14 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Zamiast spadków są wzrosty. Norweski rząd przegrał z cenami paliw",
       "link": "https://businessinsider.com.pl/gospodarka/ceny-paliw-w-norwegii-wzrosly-zamiast-spasc-rzad-pod-presja/7fx4dxv",
       "summary": "Decyzja norweskiego rządu o zniesieniu podatku drogowego na paliwa, która miała przynieść kierowcom ulgę w postaci niższych cen, przyniosła zaskakujący efekt. Zamiast spodziewanych obniżek, ceny na stacjach benzynowych wzrosły, wywołując falę krytyki i zapowiedzi protestów.",
       "published": "Wed, 01 Apr 2026 17:17:24 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Micron’s stock is seeing its biggest gain in a year, en route to a record market-cap boost",
-      "link": "https://www.marketwatch.com/story/microns-stock-is-seeing-its-biggest-gain-in-a-year-en-route-to-a-record-market-cap-boost-1ca33504?mod=mw_rss_topstories",
-      "summary": "Micron has added $43.8 billion to its market value so far on Wednesday.",
-      "published": "Wed, 01 Apr 2026 17:10:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Allegro: Rewelacyjne zyski, a kurs spada. Ekspert wyjaśnia paradoks i podaje datę zwrotną",
-      "link": "https://comparic.pl/allegro-rewelacyjne-zyski-a-kurs-spada-ekspert-wyjasnia-paradoks-i-podaje-date-zwrotna/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk-red-wzrost-spadek-stock-market.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk-red-wzr",
-      "published": "Wed, 01 Apr 2026 17:07:38 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Od 2 kwietnia ruszają dopłaty do mieszkań. Ile można dostać?",
@@ -447,22 +495,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8ae20a98-031d-4bd3-9c10-5234f512da32\" width=\"308\" /> W środę wieczorem usługa Twój e-PIT przestanie działać na ok. 2,5 godziny. Ministerstwo Finansów zapowiedziało planowe prace techniczne i przeprosiło użytkowników za utrudnienia.",
       "published": "Wed, 01 Apr 2026 16:45:51 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ten sygnał na XRP nigdy wcześniej nie zawiódł! Historia sugeruje wzrost o 635%?",
-      "link": "https://comparic.pl/ten-sygnal-na-xrp-nigdy-wczesniej-nie-zawiodl-historia-sugeruje-wzrost-o-635/",
-      "summary": "<img alt=\"XRP\" class=\"attachment-full size-full wp-post-image\" height=\"393\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/freepik-XRP-Ripple-1-324x235.jpg\" style=\"float:",
-      "published": "Wed, 01 Apr 2026 16:45:24 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wysokie dywidendy i ponad 60% przecena! Kurs od 10 lat odbija w tym samym miejscu – czy to gigantyczna okazja?",
-      "link": "https://comparic.pl/wysokie-dywidendy-i-ponad-60-przecena-kurs-od-10-lat-odbija-w-tym-samym-miejscu-czy-to-gigantyczna-okazja/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"768\" src=\"https://comparic.pl/wp-content/uploads/2026/04/ims-graf.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1408\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/ims-graf-324x235.webp\" style=\"float: left; margin: 0 15px 15px ",
-      "published": "Wed, 01 Apr 2026 16:42:38 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -554,36 +586,12 @@
       "category": "other"
     },
     {
-      "title": "Miliony Polaków będą musiały to zrobić. Kary za zwłokę mogą być bolesne",
-      "link": "https://businessinsider.com.pl/prawo/ogromna-liczba-polakow-musi-wymienic-dowody-osobiste-kary-moga-byc-bolesne/whc4dfd",
-      "summary": "Ogromna część Polaków będzie musiała wymienić dowód osobisty w tym roku — wynika z danych Ministerstwa Cyfryzacji. Skala jest na tyle duża, że w urzędach mogą tworzyć się długie kolejki. Nie warto zwlekać z wymianą, ponieważ spóźnialscy mogą zapłacić nawet 5 tys. zł kary.",
-      "published": "Wed, 01 Apr 2026 13:55:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Polska musi zapłacić Pfizerowi 5,6 mld zł. Sąd w Brukseli zdecydował",
-      "link": "https://businessinsider.com.pl/prawo/sad-nakazal-polsce-zaplate-za-szczepionki-pfizer-chodzi-o-miliardy-zlotych/mmnbz4x",
-      "summary": "Sąd w Brukseli nakazał Polsce wykonanie umowy z Pfizerem i zapłatę ok. 5,6 mld zł za nieodebrane szczepionki przeciw COVID-19.",
-      "published": "Wed, 01 Apr 2026 13:49:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Nike shares fall 9% on weak outlook, expected 20% sales decline in China",
       "link": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
       "summary": "Nike has shown some gains in North America, its largest market, amid its turnaround, but the strength was offset by weakness in China.",
       "published": "Wed, 01 Apr 2026 13:46:49 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Legendarna fabryka szuka nowego właściciela",
-      "link": "https://businessinsider.com.pl/gospodarka/legendarna-fabryka-w-szczecinie-na-sprzedaz-ogromny-potencjal-wzrostu/x989te1",
-      "summary": "Zdaniem eksperta wycena fabryki to tylko ułamek jej rzeczywistej wartości. Kompleks produkcyjno-magazynowy i potężne zapasy — to m.in. wchodzi w skład oferty sprzedaży.",
-      "published": "Wed, 01 Apr 2026 13:38:34 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "\"Silniejsze relacje z Europą\". Starmer zwraca się do Brytyjczyków",
@@ -646,14 +654,6 @@
       "link": "https://www.money.pl/mobility/niemcy-tankuja-w-polsce-przestanmy-na-to-patrzec-jak-na-problem-opinia-7270526700222688a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c8dedfb4-36ae-451a-8e69-51e6eadaf022\" width=\"308\" /> Po pierwszych dniach obowiązywania nowych regulacji można stwierdzić, że mechanizm CPN zadziałał – ceny paliw na stacjach spadły. Warto jednak jasno zaznaczyć: głównym czynnikiem tego spadku są obniżki podatkowe, a nie sama regulacja marż. Sprzyja temu też sytuacja na ryn",
       "published": "Wed, 01 Apr 2026 11:57:03 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Niemcy wprowadzają nowe zasady na stacjach benzynowych",
-      "link": "https://www.money.pl/gospodarka/niemcy-wprowadzaja-nowe-zasady-na-stacjach-benzynowych-7270530965174496a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/d09b4f6c-dcd0-4a53-a9c9-55ecc8d84485\" width=\"308\" /> W Niemczech od środy stacje benzynowe mogą podnosić ceny paliw tylko raz dziennie, w południe. Obniżki cen możliwe są natomiast w każdej chwili. Za naruszenie nowych zasad grożą kary do 100 tys. euro.",
-      "published": "Wed, 01 Apr 2026 11:05:11 +0200",
       "source": "Money.pl",
       "category": "pl"
     },
