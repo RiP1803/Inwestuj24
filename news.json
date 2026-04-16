@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T19:26:39.678247",
+  "generated_at": "2026-04-16T21:52:17.992785",
   "articles": [
     {
       "title": "For cruise lines, Iran conflict and oil prices threaten to dent profits",
@@ -98,10 +98,74 @@
       "category": "us"
     },
     {
-      "title": "JPMorgan tops estimates on Wall Street results, Dimon flags 'increasingly complex' economic risks",
-      "link": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html",
-      "summary": "JPMorgan CEO Jamie Dimon called the economy resilient, but pointed to an \"increasingly complex set of risks\" across global markets.",
-      "published": "Tue, 14 Apr 2026 13:14:08 GMT",
+      "title": "Netflix posts massive earnings beat thanks to WBD breakup, announces Reed Hastings to exit board",
+      "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
+      "summary": "Netflix beat expectations for Q1 revenue and reported a big jump in earnings per share thanks in part to a termination fee related to its proposed WBD deal.",
+      "published": "Thu, 16 Apr 2026 21:44:00 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Tesla, IBM and Intel report earnings next week — here’s the best way to play a volatile market",
+      "link": "https://www.marketwatch.com/story/the-s-p-500s-record-high-may-be-an-illusion-and-this-rally-is-a-warning-893b81e5?mod=mw_rss_topstories",
+      "summary": "The stock market isn’t out of the woods yet — despite the rally.",
+      "published": "Thu, 16 Apr 2026 21:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Netflix co-founder Reed Hastings to exit company, saying it’s so strong it doesn’t need him anymore",
+      "link": "https://www.marketwatch.com/story/netflix-shatters-profit-expectations-thanks-to-price-increase-and-2-8-billion-breakup-fee-from-warner-bros-ea3a80f8?mod=mw_rss_topstories",
+      "summary": "The announcement came as Netflix reported first-quarter profits that shattered expectations, which it attributed in large part to faster-than-forecast subscriber growth, a recent price increase and the $2.8 billion breakup fee it received when its deal to acquire Warner Bros. Discovery collapsed.",
+      "published": "Thu, 16 Apr 2026 20:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rekord za rekordem na Wall Street",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/doniesienia-z-bliskiego-wschodu-rozpedzily-gieldy-kolejne-rekordy/4revdt7",
+      "summary": "Indeksy S&amp;P 500 i Nasdaq Composite osiągnęły w czwartek nowe historyczne maksima, co pogłębiło ich silne wzrosty w tym tygodniu. Na giełdzie widać optymizm w kwestii końca wojny z Iranem.",
+      "published": "Thu, 16 Apr 2026 20:47:21 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next",
+      "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
+      "summary": "Investors are betting on peace — but they’re not looking at the whole picture.",
+      "published": "Thu, 16 Apr 2026 20:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses",
+      "link": "https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories",
+      "summary": "Former Treasury Secretary Henry Paulson on Thursday urged U.S. policymakers to prepare an emergency plan in case demand for Treasurys breaks down — warning that a crisis in the government bond market could trigger severe consequences across the economy.",
+      "published": "Thu, 16 Apr 2026 20:39:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump nominates Erica Schwartz as CDC director amid turmoil around leadership, vaccine policy",
+      "link": "https://www.cnbc.com/2026/04/16/trump-nominates-erica-schwartz-as-cdc-director.html",
+      "summary": "The CDC has been going through turmoil and several leadership shakeups under HHS Secretary Robert F. Kennedy Jr.",
+      "published": "Thu, 16 Apr 2026 20:23:12 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Dostawy broni z USA pod znakiem zapytania. Kilka krajów szczególnie narażonych",
+      "link": "https://businessinsider.com.pl/wiadomosci/dostawy-broni-z-usa-prawdopodobnie-opoznione-ucierpia-kraje-nad-baltykiem/ebctb1c",
+      "summary": "Opóźnienia w dostawach uzbrojenia z USA dotkną kilku państw europejskich, w tym krajów regionu bałtyckiego i Skandynawii — ustalił Reuters.",
+      "published": "Thu, 16 Apr 2026 20:19:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "RFK Jr.'s peptide policy could boost Hims & Hers as its GLP-1 business evolves",
+      "link": "https://www.cnbc.com/2026/04/16/rfk-jr-peptides-hims-hers-glp-1.html",
+      "summary": "Hims may have a chance to grow peptides business as a potential revenue driver, with FDA review in 2026 shaping the opportunity.",
+      "published": "Thu, 16 Apr 2026 20:19:19 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -112,6 +176,30 @@
       "published": "Thu, 16 Apr 2026 20:05:48 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Stocks usually take the escalator up and the elevator down. In this latest rebound, it is happening in reverse.",
+      "link": "https://www.marketwatch.com/story/stocks-usually-take-the-escalator-up-and-the-elevator-down-in-this-latest-rebound-it-is-happening-in-reverse-bb4369ca?mod=mw_rss_topstories",
+      "summary": "What had been a slow grind lower since the S&amp;P 500’s January peak was completely erased in the span of just a couple of weeks.",
+      "published": "Thu, 16 Apr 2026 20:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Analityk ostrzega! Złoto zachowuje się dokładnie tak jak przed wielkim krachem w latach 80.",
+      "link": "https://comparic.pl/analityk-ostrzega-zloto-zachowuje-sie-dokladnie-tak-jak-przed-wielkim-krachem-w-latach-80/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Thu, 16 Apr 2026 19:57:14 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Gigantyczna samowola budowlana w Szczecinie. \"Zależało nam na czasie\"",
+      "link": "https://businessinsider.com.pl/gospodarka/buduja-gigantyczne-zbiorniki-na-paliwo-samowola-budowlana-w-szczecinie/p3xchj9",
+      "summary": "Pod koniec ubiegłego roku w jednej z dzielnic Szczecina pojawił się plac budowy, na którym zaczęły rosnąć gigantyczne konstrukcje. Inwestycja zaniepokoiła mieszkańców. Kontrola wykazała, że powstające tu zbiorniki na paliwo to samowola budowlana.",
+      "published": "Thu, 16 Apr 2026 19:47:58 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Zondacrypto ma 4500 bitcoinów. \"Klucze do nich ma zaginiony Sylwester Suszek\"",
@@ -128,6 +216,14 @@
       "published": "Thu, 16 Apr 2026 19:39:47 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Donald Trump tłumaczy, dlaczego wciągnął Polskę do G20. Wspomniał o Karolu Nawrockim",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-dostal-pytanie-o-polske-w-g20-wspomnial-o-karolu-nawrockim/t2v0ecx",
+      "summary": "Polska zajęła miejsce Republiki Południowej Afryki podczas czwartkowego spotkania ministrów finansów i szefów banków centralnych G20 w Waszyngtonie. Prezydent USA Donald Trump wyjaśnił, że zaprosił Warszawę, bo USA są \"przyjaciółmi Polski\". Mówił też o prezydencie RP Karolu Nawrockim.",
+      "published": "Thu, 16 Apr 2026 19:37:45 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.04.2026",
@@ -154,6 +250,14 @@
       "category": "pl"
     },
     {
+      "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say",
+      "link": "https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories",
+      "summary": "Some analysts say the most likely outcome for Live Nation would be more damages and penalties. Shares of the concert-ticketing giant rose on Thursday after falling a day earlier.",
+      "published": "Thu, 16 Apr 2026 19:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Samowola budowlana w Szczecinie. Gigantyczna baza paliw powstała bez pozwoleń",
       "link": "https://www.bankier.pl/wiadomosc/Samowola-budowlana-na-brzegu-Odry-Gigantyczna-baza-paliw-powstala-bez-pozwolen-9115278.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/5/498bac6e930def-948-568-0-326-4500-2699.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Baza paliwowa budowana od kilku miesięcy w szczecińskiej dzielnicy Podjuchy, nad brzegiem Odry, okazała się samowolą budowlaną. Powiatowy Inspektor Nadzoru Budowlanego wydał de",
@@ -172,7 +276,7 @@
     {
       "title": "Rosja zamyka kluczowy obszar tuż przy granicy NATO. Ostrzega statki i samoloty",
       "link": "https://businessinsider.com.pl/gospodarka/rosja-zamyka-kluczowy-obszar-tuz-przy-granicy-nato-taki-jest-powod/w8efp8r",
-      "summary": "Rosyjskie władze wydały pilne ostrzeżenia dla statków oraz samolotów, by te omijały rozległe obszary Morza Barentsa w Arktyce — donosi The Barents Observer. Rosjanie nazywają je \"obszarami uderzenia rosyjskich rakiet\". Ma to związek z planowanym startem misji kosmicznej.",
+      "summary": "Rosyjskie władze wydały pilne ostrzeżenia dla statków oraz samolotów, by te omijały rozległe obszary Morza Barentsa w Arktyce — donosi The Barents Observer. Rosjanie nazywają je \"obszarami uderzenia rosyjskich rakiet\". Zachodnie media mają przypuszczenie, co jest powodem wydania alertu przez Moskwę.",
       "published": "Thu, 16 Apr 2026 19:10:03 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -234,14 +338,6 @@
       "category": "pl"
     },
     {
-      "title": "This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next",
-      "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
-      "summary": "Investors are betting on peace — but they’re not looking at the whole picture.",
-      "published": "Thu, 16 Apr 2026 18:17:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Prezes Zondy przemówił. Szymon Jadczak: Nie wierzę w ani jedno jego słowo",
       "link": "https://www.money.pl/gielda/prezes-zondy-przemowil-szymon-jadczak-nie-wierze-w-ani-jedno-jego-slowo-7275942743935328a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/eb6af148-5887-4711-956d-12a2c1c2e6ed\" width=\"308\" /> Przemysław Kral opublikował w czwartek filmik. Siedemnaście minut tłumaczeń, oskarżeń pod adresem dziennikarzy, rządu, ABW, KNF, firmy analitycznej Recoveris i zapewne jeszcze kilku innych podmiotów, które spiskują przeciwko jego firmie. Obejrzałem go kilka razy. I im wię",
@@ -287,14 +383,6 @@
       "summary": "“We call them ‘King Tut’ subjects — they’re buried with their gold.”",
       "published": "Thu, 16 Apr 2026 17:45:00 GMT",
       "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "RFK Jr.'s peptide policy could boost Hims & Hers as its GLP-1 business evolves",
-      "link": "https://www.cnbc.com/2026/04/16/rfk-jr-peptides-hims-hers-glp-1.html",
-      "summary": "Hims may have an chance to grow peptides business as a potential revenue driver, with FDA review in 2026 shaping the opportunity.",
-      "published": "Thu, 16 Apr 2026 17:44:50 GMT",
-      "source": "CNBC",
       "category": "us"
     },
     {
@@ -362,36 +450,12 @@
       "category": "other"
     },
     {
-      "title": "CoreWeave upsizes bond deal for an additional $1 billion. AI debt is in vogue.",
-      "link": "https://www.marketwatch.com/story/coreweave-upsizes-bond-deal-for-additional-1-billion-ai-debt-is-in-vogue-c4bafa5c?mod=mw_rss_topstories",
-      "summary": "CoreWeave expanded its high-yield bond offering to $2.75 billion on Thursday after outsized investor and customer demand.",
-      "published": "Thu, 16 Apr 2026 17:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Koniec taniego srebra? Zapasy znikają w oczach, a świat chce go coraz więcej!",
       "link": "https://comparic.pl/koniec-taniego-srebra-zapasy-znikaja-w-oczach-a-swiat-chce-go-coraz-wiecej/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"755\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1-324x235.jpg\" styl",
       "published": "Thu, 16 Apr 2026 17:01:10 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "AMD has ‘indispensable assets’ — powering the stock toward its best run in two decades",
-      "link": "https://www.marketwatch.com/story/amd-has-indispensable-assets-powering-the-stock-toward-its-best-run-in-two-decades-aa44c469?mod=mw_rss_topstories",
-      "summary": "AMD’s business of selling server CPUs has renewed shine in the eyes of investors.",
-      "published": "Thu, 16 Apr 2026 17:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘We keep our finances separate’: My boyfriend is in his 50s with no retirement savings — how worried should I be?",
-      "link": "https://www.marketwatch.com/story/we-keep-our-finances-separate-my-boyfriend-is-in-his-50s-with-no-retirement-savings-how-worried-should-i-be-65983086?mod=mw_rss_topstories",
-      "summary": "“He built our home over the last three years. We are both on the title and carry no mortgage.”",
-      "published": "Thu, 16 Apr 2026 16:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "TSUE: sąd może uwzględnić przedawnione roszczenie banku o zwrot kapitału z kredytu",
@@ -410,27 +474,11 @@
       "category": "pl"
     },
     {
-      "title": "Where to find the cheapest gas in America right now — up to 34 cents a gallon below the national average",
-      "link": "https://www.marketwatch.com/story/heres-where-to-find-the-cheapest-gas-in-america-right-now-up-to-34-cents-a-gallon-below-the-national-average-47feef1e?mod=mw_rss_topstories",
-      "summary": "Americans are already biking to work, pooling trips and adjusting travel plans, MarketWatch has reported. Those who can are looking for cheaper gas prices in their area.",
-      "published": "Thu, 16 Apr 2026 16:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers",
       "link": "https://www.cnbc.com/2026/04/16/pepsico-pep-q1-2026-earnings.html",
       "summary": "PepsiCo's quarterly earnings and revenue topped Wall Street's expectations.",
       "published": "Thu, 16 Apr 2026 16:28:43 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Mutual insurance companies are paying record-breaking dividends to their customers this year. Is using one right for you?",
-      "link": "https://www.marketwatch.com/story/mutual-insurance-companies-are-paying-record-breaking-dividends-to-their-customers-this-year-is-using-one-right-for-you-cb6717e8?mod=mw_rss_topstories",
-      "summary": "While most carriers pocket your premiums, mutual-insurance companies are owned by their customers.",
-      "published": "Thu, 16 Apr 2026 16:24:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -472,14 +520,6 @@
       "published": "Thu, 16 Apr 2026 16:01:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Netflix reports earnings after the bell. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
-      "summary": "Netflix's latest earnings report comes months after the streaming giant dropped its pursuit of WBD's assets.",
-      "published": "Thu, 16 Apr 2026 16:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Sprzedaż mieszkań rośnie, ale podaż się kurczy. Ceny stabilne tylko z pozoru",
@@ -544,14 +584,6 @@
       "published": "Thu, 16 Apr 2026 14:50:01 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Prywatność, strategia Web3 i nowoczesne inwestycje. Cashifam zawita do Rzeszowa już 23 kwietnia",
-      "link": "https://comparic.pl/prywatnosc-strategia-web3-i-nowoczesne-inwestycje-cashifam-zawita-do-rzeszowa-juz-23-kwietnia/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/04/prelegenci_rzeszow_1920x1080.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/prelegenci_rzeszow_1920x1080-324x235.webp\" ",
-      "published": "Thu, 16 Apr 2026 14:44:59 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "PPK z kolejnym rekordem. Chodzi o wzrost wartości aktywów netto",
@@ -622,38 +654,6 @@
       "link": "https://businessinsider.com.pl/praca/tak-bedzie-wygladal-rynek-pracy-w-2026-r-pesymistyczne-nastroje-w-jednej-branzy/5ebhz2n",
       "summary": "Pozostałe miesiące 2026 r. na rynku pracy zapowiadają się w miarę stabilnie, ale nastroje pracodawców nie są zbyt optymistyczne. 16 proc. firm planuje obniżenie zatrudnienia. Z raportu \"Barometr polskiego rynku pracy\" wynika, że co trzecia firma obawia się pogorszenia sytuacji.",
       "published": "Thu, 16 Apr 2026 12:56:50 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Europie kurczą się zapasy gazu. Polska jest jednym z wyjątków",
-      "link": "https://businessinsider.com.pl/gospodarka/niemcy-i-francja-z-niskimi-zapasami-gazu-polska-wypada-lepiej/cc997t8",
-      "summary": "Zapas gazu ziemnego w magazynach państw Unii Europejskiej pozostaje wyraźnie poniżej wieloletniej normy. Na tle sytuacji w UE Polska wypada jednak stabilnie, pomimo niższych zapasów surowca.",
-      "published": "Thu, 16 Apr 2026 12:55:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ten zasiłek może uratować domowy budżet. Wystarczy spełnić jeden warunek",
-      "link": "https://businessinsider.com.pl/finanse/zasilek-celowy-z-mops-dla-kogo-ile-wynosi-i-na-jak-dlugo/drbzcnc",
-      "summary": "Zasiłek celowy może pomóc w trudnych sytuacjach życiowych. Środki z MOPS można wydać na pokrycie najważniejszych potrzeb, takich jak zakup żywności, leków czy opału. W szczególnych przypadkach można go otrzymać także na remont mieszkania, pogrzeb lub leczenie. Wyjaśniamy, ile wynosi zasiłek celowy oraz komu przysługuje.",
-      "published": "Thu, 16 Apr 2026 12:50:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Trybunał Konstytucyjny wydał wyrok. To może mieć duży wpływ na wybór sędziów do KRS",
-      "link": "https://businessinsider.com.pl/prawo/orzeczenia/trybunal-konstytucyjny-wydal-wyrok-to-moze-wplynac-na-wybor-sedziow-do-krs/rmcwg04",
-      "summary": "Trybunał Konstytucyjny orzekł w czwartek, że uchwalona za czasów rządów PiS procedura zgłaszania i weryfikacji kandydatur na sędziów Krajowej Rady Sądownictwa jest niezgodna z konstytucją. A to może mieć wpływ na trwające wybory nowego składu Rady.",
-      "published": "Thu, 16 Apr 2026 12:47:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Znany syndyk przesłuchiwany. Chodzi o aferę Hreit",
-      "link": "https://businessinsider.com.pl/prawo/marcin-kubiczek-w-prokuraturze-zeznaje-w-sprawie-hreit/yhylzvd",
-      "summary": "W mediach pojawiła się informacja o zatrzymaniu znanego i budzącego kontrowersje syndyka Marcina Kubiczka. Jak ustalił Business Insider, syndyk nie został zatrzymany, a tylko doprowadzony na przesłuchanie.",
-      "published": "Thu, 16 Apr 2026 12:30:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
