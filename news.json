@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T21:54:51.932593",
+  "generated_at": "2026-04-21T03:33:58.965030",
   "articles": [
     {
       "title": "For cruise lines, Iran conflict and oil prices threaten to dent profits",
@@ -31,6 +31,46 @@
       "summary": "Starbucks is trying to find ways to entice U.S. customers back to its cafes.",
       "published": "Wed, 15 Apr 2026 17:17:08 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Do I earn too much to contribute to an IRA?",
+      "link": "https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories",
+      "summary": "You may not be eligible — here are your options.",
+      "published": "Tue, 21 Apr 2026 02:36:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
+      "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
+      "summary": "Record bond-fund inflows are a warning sign that lower returns are ahead.",
+      "published": "Tue, 21 Apr 2026 01:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Okta’s stock is surging. Here’s why identity security has become the next hot thing.",
+      "link": "https://www.marketwatch.com/story/oktas-stock-is-surging-heres-why-identity-security-has-become-the-next-hot-thing-d547fc03?mod=mw_rss_topstories",
+      "summary": "Barclays turned bullish on Okta just days after Raymond James did, as customers are reinvigorating investment into identity security for the first time in years.",
+      "published": "Tue, 21 Apr 2026 01:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.",
+      "link": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories",
+      "summary": "John Ternus is expected to usher in a renewed focus on hardware as Apple positions itself for the age of AI.",
+      "published": "Tue, 21 Apr 2026 00:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support",
+      "link": "https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories",
+      "summary": "Amazon is investing another $5 billion in the maker of Claude.",
+      "published": "Tue, 21 Apr 2026 00:43:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -90,18 +130,18 @@
       "category": "us"
     },
     {
-      "title": "This AI power company ousted its CEO. Why that could help it sign up its first customer.",
-      "link": "https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories",
-      "summary": "Shares of Fermi, which was co-founded by Rick Perry, a former U.S. secretary of energy, were tumbling Monday after the surprise disclosure that its CEO was giving up that role. Some analysts say that could actually be good news.",
-      "published": "Mon, 20 Apr 2026 21:49:00 GMT",
+      "title": "‘I hope to retire at 59’: I have $950,000 in my 401(k)s. When do I do a Roth conversion?",
+      "link": "https://www.marketwatch.com/story/i-hope-to-retire-at-59-i-have-950-000-in-my-401-k-s-when-do-i-do-a-roth-conversion-07bf2c58?mod=mw_rss_topstories",
+      "summary": "Roth conversions are permanent. Once done, they cannot be undone.",
+      "published": "Mon, 20 Apr 2026 23:00:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
     {
-      "title": "Do I earn too much to contribute to an IRA?",
-      "link": "https://www.marketwatch.com/story/do-i-earn-to-much-to-have-an-ira-8d3a305d?mod=mw_rss_topstories",
-      "summary": "You may not be eligible — here are your options.",
-      "published": "Mon, 20 Apr 2026 21:47:00 GMT",
+      "title": "This AI power company ousted its CEO. Why that could help it sign up its first customer.",
+      "link": "https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab?mod=mw_rss_topstories",
+      "summary": "Shares of Fermi, which was co-founded by Rick Perry, a former U.S. secretary of energy, were tumbling Monday after the surprise disclosure that its CEO was giving up that role. Some analysts say that could actually be good news.",
+      "published": "Mon, 20 Apr 2026 21:49:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -122,42 +162,10 @@
       "category": "us"
     },
     {
-      "title": "Apple CEO Tim Cook is stepping down after a 15-year run that saw the stock return 1,900%",
-      "link": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories",
-      "summary": "John Ternus, Apple’s senior vice president of hardware engineering, will assume the CEO role in September.",
-      "published": "Mon, 20 Apr 2026 21:37:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
       "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
       "summary": "“Renting improves cash flow by about $1,300 a month.”",
       "published": "Mon, 20 Apr 2026 21:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "McDonald’s $3 menu is about to kick off. Here’s why Wall Street is already a fan.",
-      "link": "https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories",
-      "summary": "UBS analysts say the new more affordable menu options further support McDonald’s value strength.",
-      "published": "Mon, 20 Apr 2026 21:06:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Psychedelic stocks surge after Trump supports using drugs like LSD for mental health",
-      "link": "https://www.marketwatch.com/story/psychedelic-stocks-rally-with-trumps-support-addafa78?mod=mw_rss_topstories",
-      "summary": "An executive order aims to speed up how quickly psychedelic drugs for mental illness can move through the regulatory process.",
-      "published": "Mon, 20 Apr 2026 20:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The stock market’s record rally now faces these two big risks",
-      "link": "https://www.marketwatch.com/story/stock-markets-rally-to-record-highs-faces-these-two-looming-risks-fe8d17ed?mod=mw_rss_topstories",
-      "summary": "A touch-and-go situation in the Strait of Hormuz isn’t the only risk facing investors this week.",
-      "published": "Mon, 20 Apr 2026 20:46:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -167,14 +175,6 @@
       "summary": "The White House psychedelics executive order accelerates research, clinical trials and \"Right to Try\" access for drugs like psilocybin, MDMA and ibogaine.",
       "published": "Mon, 20 Apr 2026 20:44:56 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Businesses trying to claim tariff refunds are already running into problems",
-      "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories",
-      "summary": "It wasn’t all smooth sailing on Monday as the federal government started the process of accepting claims for massive amounts of tariff refunds.",
-      "published": "Mon, 20 Apr 2026 20:33:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
