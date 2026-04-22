@@ -1,6 +1,142 @@
 {
-  "generated_at": "2026-04-22T19:24:45.229564",
+  "generated_at": "2026-04-22T21:57:08.301403",
   "articles": [
+    {
+      "title": "Southwest Airlines forecasts quarterly earnings below estimates on higher fuel",
+      "link": "https://www.cnbc.com/2026/04/22/southwest-airlines-luv-q1-2026-earnings.html",
+      "summary": "The airline reported that revenue in its first-quarter period rose nearly 13% to $7.25 billion.",
+      "published": "Wed, 22 Apr 2026 21:56:14 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, sources say",
+      "link": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
+      "summary": "The Trump administration is preparing to rescue ailing budget carrier Spirit Airlines.",
+      "published": "Wed, 22 Apr 2026 21:49:31 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis",
+      "link": "https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories",
+      "summary": "The move, which could open up medical research on cannabis as well as banking services for growers, follows an executive order to reclassify the substance in December.",
+      "published": "Wed, 22 Apr 2026 21:42:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Convenience store owner Yesway is stealing customers from fast-food chains, CEO says",
+      "link": "https://www.cnbc.com/2026/04/22/yesway-ipo-yswy-starts-trading-on-the-nasdaq.html",
+      "summary": "Yesway made its public market debut on Wednesday, trading on the Nasdaq Stock Exchange under \"YSWY.\"",
+      "published": "Wed, 22 Apr 2026 21:37:43 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "The Iran cease-fire has boosted investors’ appetite for bitcoin. Here’s why it could break past $80,000 soon.",
+      "link": "https://www.marketwatch.com/story/the-iran-cease-fire-has-boosted-investors-appetite-for-bitcoin-heres-why-it-could-break-past-80-000-soon-29c08c3e?mod=mw_rss_topstories",
+      "summary": "Capital has flowed into bitcoin through multiple channels, which makes it less likely that bitcoin sees a sharp reversal like in previous months, and more likely that the rally builds momentum.",
+      "published": "Wed, 22 Apr 2026 21:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Capital One increases provision for bad-debt expenses as earnings miss Wall Street consensus",
+      "link": "https://www.marketwatch.com/story/capital-one-increases-provision-for-bad-debt-expenses-as-earnings-miss-wall-street-consensus-842d3c98?mod=mw_rss_topstories",
+      "summary": "The Virginia-headquartered bank reported a 72% jump in provisions for credit losses compared to last year",
+      "published": "Wed, 22 Apr 2026 21:27:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ile gwiazdy płacą za wywiad? Prezes UOKiK ujawnia i zapowiada kontrole",
+      "link": "https://www.money.pl/pieniadze/ile-gwiazdy-placa-za-wywiad-prezes-uokik-ujawnia-i-zapowiada-kontrole-7277654790345793v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/d14cea29-f1d8-4716-be37-d2cf9373bc25.jpg\" width=\"308\" /> – Pół miliona złotych to kary nałożone bezpośrednio na influencerów – ujawnił w \"Biznes Klasie\" Tomasz Chróstny. Teraz prezes UOKiK zapowiada walkę z nieoznaczonymi reklamami przy wywiadach, za które niektóre gwiazdy potrafią zapłacić nawet kilkadziesiąt tysięcy złotych.",
+      "published": "Wed, 22 Apr 2026 21:25:20 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Boeing’s defense business is booming at a time when airplanes are disappointing",
+      "link": "https://www.marketwatch.com/story/boeings-defense-business-is-booming-at-a-time-when-airplanes-are-disappointing-1a5ff1ac?mod=mw_rss_topstories",
+      "summary": "Boeing’s stock jumped Wednesday, as a partnership with the Trump administration on PAC-3 interceptor missiles provided a boost to the company’s defense business, which saw revenue rise well above expectations.",
+      "published": "Wed, 22 Apr 2026 21:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Market chaos gives money managers a chance to beat index funds — just like they’re supposed to do",
+      "link": "https://www.marketwatch.com/story/market-chaos-gives-skilled-managers-a-chance-to-beat-index-funds-just-like-theyre-supposed-to-do-b85cfd52?mod=mw_rss_topstories",
+      "summary": "The “set it and forget it” strategy is at risk in volatile markets. Savvy managers can dodge sectors your index fund is forced to own.",
+      "published": "Wed, 22 Apr 2026 21:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Broadcom just became the sixth company in U.S. history to achieve this feat",
+      "link": "https://www.marketwatch.com/story/broadcom-just-became-the-sixth-company-in-u-s-history-to-achieve-this-feat-beb7b10d?mod=mw_rss_topstories",
+      "summary": "Google’s announcement of new TPUs helped drive Broadcom’s stock into record territory.",
+      "published": "Wed, 22 Apr 2026 21:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Avis’s stock has its worst day in 28 years, and what that means for its parabolic rally",
+      "link": "https://www.marketwatch.com/story/aviss-stock-has-its-worst-day-in-28-years-and-what-that-means-for-its-parabolic-rally-e19ad2de?mod=mw_rss_topstories",
+      "summary": "Avis Budget’s stock chart just sent some bearish signals to suggest a hard landing is in the works.",
+      "published": "Wed, 22 Apr 2026 21:14:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "IBM’s stock falls as software revenue underwhelms",
+      "link": "https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories",
+      "summary": "Investors have been concerned about AI’s impact on IBM’s software and consulting businesses.",
+      "published": "Wed, 22 Apr 2026 21:11:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why ServiceNow’s stock is sliding in the wake of earnings",
+      "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories",
+      "summary": "Investors may be taking issue with various elements of the software company’s margin forecast.",
+      "published": "Wed, 22 Apr 2026 21:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Sports-betting apps and prediction markets have turbocharged teen gambling — and parents often have no idea",
+      "link": "https://www.marketwatch.com/story/its-ridiculously-easy-for-kids-to-get-hooked-on-online-gambling-heres-how-parents-can-help-a242ac1b?mod=mw_rss_topstories",
+      "summary": "It’s ridiculously easy for kids to get hooked on gambling. Here’s how parents can help.",
+      "published": "Wed, 22 Apr 2026 20:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Lululemon names former Nike exec Heidi O'Neill as new CEO",
+      "link": "https://www.cnbc.com/2026/04/22/lululemon-names-former-nike-exec-heidi-oneill-as-new-ceo.html",
+      "summary": "Lululemon announced on Wednesday that it has chosen former Nike executive Heidi O'Neill as its new CEO, effective in September.",
+      "published": "Wed, 22 Apr 2026 20:47:59 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "BMW says it has no intention of dropping sedans, even as some rivals cut back",
+      "link": "https://www.cnbc.com/2026/04/22/bmw-sedan-7-series.html",
+      "summary": "The BMW 7-Series gets one of the most extensive updates any model has received in company history, according to BMW. It will be the first to spearhead",
+      "published": "Wed, 22 Apr 2026 20:39:46 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "RFK Jr. says he would support a potential ban on junk food TV ads",
+      "link": "https://www.cnbc.com/2026/04/22/rfk-jr-says-he-would-support-a-potential-ban-on-junk-food-tv-ads.html",
+      "summary": "A ban on TV junk food ads would likely draw fierce backlash from major food manufacturers.",
+      "published": "Wed, 22 Apr 2026 20:16:06 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
     {
       "title": "Trump ogłasza dyplomatyczny sukces, ale... fakty przeczą wersji Białego Domu",
       "link": "https://www.bankier.pl/wiadomosc/Trump-oglasza-dyplomatyczny-sukces-ale-fakty-przecza-wersji-Bialego-Domu-9121314.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -16,6 +152,54 @@
       "published": "Wed, 22 Apr 2026 20:08:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Biały Dom o przejęciu dwóch statków przez Iran. \"Banda piratów\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/iran-przejal-dwa-statki-w-ciesninie-ormuz-co-na-to-donald-trump/jgcld6p",
+      "summary": "Donald Trump nie uważa przejęcia dwóch statków w cieśninie Ormuz za naruszenie rozejmu — przekazała rzeczniczka Białego Domu, dodając, że Iran zachowuje się jak \"banda piratów\".",
+      "published": "Wed, 22 Apr 2026 20:04:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Nowe fakty w sprawie cieśniny Ormuz. Świat poczeka dłużej na jej pełne odblokowanie",
+      "link": "https://businessinsider.com.pl/gospodarka/nielatwa-sytuacja-w-ciesninie-ormuz-jej-odblokowanie-moze-zajac-miesiace/pk7b5wx",
+      "summary": "Według tajnych analiz Pentagonu, do których dotarł \"Washington Post\", całkowite oczyszczenie cieśniny Ormuz z irańskich min po zakończeniu działań wojennych może potrwać nawet pół roku.",
+      "published": "Wed, 22 Apr 2026 19:55:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs S&P 500 eksplodował! Rynek ignoruje wojnę i ustanawia rekordy!",
+      "link": "https://comparic.pl/kurs-sp-500-eksplodowal-rynek-ignoruje-wojne-i-ustanawia-rekordy/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"656\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar-5-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar-5-1-324x235.jpg\" st",
+      "published": "Wed, 22 Apr 2026 19:51:13 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "UE musiała zapłacić dodatkowo 24 mld euro",
+      "link": "https://businessinsider.com.pl/gospodarka/kryzys-energetyczny-w-europie-rachunek-rosnie/dls9r83",
+      "summary": "24 mld euro i wciąż rośnie. Oto rachunek dla Europy za kolejny kryzys energetyczny.",
+      "published": "Wed, 22 Apr 2026 19:37:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Warren Buffett jest gotowy na krach giełdowy! Największa rezerwa gotówki w historii Berkshire Hathaway",
+      "link": "https://comparic.pl/warren-buffett-jest-gotowy-na-krach-gieldowy-najwieksza-rezerwa-gotowki-w-historii-berkshire-hathaway/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Wed, 22 Apr 2026 19:33:53 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Takie są ceny paliw przed weekendem. Oto najdroższe i najtańsze regiony",
+      "link": "https://businessinsider.com.pl/gospodarka/takie-sa-teraz-ceny-paliw-na-stacjach-polnoc-i-poludnie-polski-najtansze/f0pdclz",
+      "summary": "Mimo zawirowań na globalnych rynkach polscy kierowcy mogą liczyć na względną stabilizację cen u progu majówki. Najnowsze dane portalu e-petrol.pl wskazują na spore zróżnicowanie regionalne, przy czym najniższe kwoty na pylonach zobaczą mieszkańcy północy i południa kraju.",
+      "published": "Wed, 22 Apr 2026 19:31:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Kijów w cieniu Bliskiego Wschodu. Wojna z Iranem rykoszetem uderza w Ukrainę i dostawy",
@@ -34,22 +218,6 @@
       "category": "pl"
     },
     {
-      "title": "‘Some stocks have risen, but others have flopped’: I will soon inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?",
-      "link": "https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories",
-      "summary": "“This broker does not achieve returns better than the S&amp;P 500.”",
-      "published": "Wed, 22 Apr 2026 18:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Tilray and other cannabis stocks soar as Trump is reportedly ready to reclassify the substance",
-      "link": "https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories",
-      "summary": "The move, which could open up medical research on cannabis as well as banking services for growers, follows an executive order to reclassify the substance in December.",
-      "published": "Wed, 22 Apr 2026 18:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rivian hits production milestone for R2 EV ahead of customer deliveries",
       "link": "https://www.cnbc.com/2026/04/22/rivian-r2-ev.html",
       "summary": "Rivian Automotive on Wednesday said it has started production of its new R2 all-electric vehicle for customers at its plant in Normal, Illinois.",
@@ -64,22 +232,6 @@
       "published": "Wed, 22 Apr 2026 18:44:22 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "I’m planning to retire at 60. Should I sell my house, rent and invest the $500,000?",
-      "link": "https://www.marketwatch.com/story/im-planning-to-retire-at-60-should-i-sell-my-house-and-invest-the-500-000-2b504dd9?mod=mw_rss_topstories",
-      "summary": "“Renting improves cash flow by about $1,300 a month.”",
-      "published": "Wed, 22 Apr 2026 18:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The next time your health insurance denies a medication or procedure, here’s how to appeal it. You’ll probably win.",
-      "link": "https://www.marketwatch.com/story/the-next-time-your-health-insurance-denies-a-medication-or-procedure-heres-how-to-appeal-it-youll-probably-win-02eb97eb?mod=mw_rss_topstories",
-      "summary": "Your insurer is betting you won’t appeal — but research shows 1 million denials could have been overturned if patients pushed back.",
-      "published": "Wed, 22 Apr 2026 18:40:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 22.04.2026",
@@ -114,14 +266,6 @@
       "category": "pl"
     },
     {
-      "title": "Spirit Airlines may get a bailout. What’s in it for U.S. taxpayers?",
-      "link": "https://www.marketwatch.com/story/spirit-airlines-may-get-a-bailout-whats-in-it-for-u-s-taxpayers-39099d91?mod=mw_rss_topstories",
-      "summary": "Ailing Spirit Airlines was hoping to emerge from bankruptcy in the next few months. The government may lend it a helping hand sooner.",
-      "published": "Wed, 22 Apr 2026 18:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Wyścig o polski atom. Francuzi, Amerykanie czy Kanadyjczycy? Decyzje w 2027",
       "link": "https://www.bankier.pl/wiadomosc/Wyscig-o-polski-atom-Francuzi-Amerykanie-czy-Kanadyjczycy-Decyzje-w-2027-9121259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/a/f40be4d7fb61ff-948-568-0-168-2500-1499.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska chce zakończyć dialog z potencjalnymi dostawcami technologii dla II elektrowni jądrowej w 2027 r.; na razie jest trzech potencjalnych dostawców: Kanadyjczycy, Amerykanie",
@@ -136,46 +280,6 @@
       "published": "Wed, 22 Apr 2026 18:31:21 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Best Buy picks Jason Bonfig as its new CEO — and he’s getting a big raise",
-      "link": "https://www.marketwatch.com/story/best-buy-picks-jason-bonfig-as-its-new-ceo-and-hes-getting-a-big-raise-75e5f689?mod=mw_rss_topstories",
-      "summary": "Best Buy shares fell as the new CEO faces big challenges, with some believing the retailer has lost some of its relevance with customers.",
-      "published": "Wed, 22 Apr 2026 18:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Businesses trying to claim tariff refunds run into problems, as government officials briefly pause access to portal",
-      "link": "https://www.marketwatch.com/story/businesses-trying-to-claim-tariff-refunds-are-already-running-into-problems-74637ecf?mod=mw_rss_topstories",
-      "summary": "It wasn’t all smooth sailing this week as the federal government started the process of accepting claims for massive amounts of tariff refunds.",
-      "published": "Wed, 22 Apr 2026 18:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Iran attacks oil tankers in Hormuz, sending oil back above $101 a barrel",
-      "link": "https://www.marketwatch.com/story/global-oil-climbs-back-to-100-a-barrel-after-iran-flexes-its-power-over-oil-tankers-in-hormuz-9de1dd30?mod=mw_rss_topstories",
-      "summary": "Oil-supply disruptions are starting to take hold, beyond $4-a-gallon gas.",
-      "published": "Wed, 22 Apr 2026 18:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, sources say",
-      "link": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
-      "summary": "The Trump administration is preparing to rescue ailing budget carrier Spirit Airlines.",
-      "published": "Wed, 22 Apr 2026 18:08:19 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Intel’s stock has soared ahead of earnings. Are expectations now too high?",
-      "link": "https://www.marketwatch.com/story/intels-stock-has-soared-ahead-of-earnings-are-expectations-now-too-high-1b9d9b9b?mod=mw_rss_topstories",
-      "summary": "Intel shares have benefited from foundry and CPU optimism — but the excitement may be out of step with reality, analysts say.",
-      "published": "Wed, 22 Apr 2026 18:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Polacy dostają pisma w sprawie butli gazowych. W tych budynkach nie można ich mieć",
@@ -208,14 +312,6 @@
       "published": "Wed, 22 Apr 2026 17:35:43 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "POET Technologies’ stock is rocketing. What’s behind the company’s controversial AI-powered rise.",
-      "link": "https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories",
-      "summary": "The photonics company’s stock has run up more than 70% this week on speculation of a major hyperscaler partner, even as short sellers warn of a “tax nightmare.”",
-      "published": "Wed, 22 Apr 2026 17:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zawieszenie broni przedłużone, ale zegar tyka. Trump daje Iranowi zaledwie kilka dni",
@@ -264,14 +360,6 @@
       "published": "Wed, 22 Apr 2026 17:06:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Convenience store owner Yesway is stealing customers from fast-food chains, CEO says",
-      "link": "https://www.cnbc.com/2026/04/22/yesway-ipo-yswy-starts-trading-on-the-nasdaq.html",
-      "summary": "Yesway made its public market debut on Wednesday, trading on the Nasdaq Stock Exchange under \"YSWY.\"",
-      "published": "Wed, 22 Apr 2026 16:37:39 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Gigantyczna pożyczka dla Ukrainy. Radosław Sikorski nie ma wątpliwości",
@@ -418,14 +506,6 @@
       "category": "us"
     },
     {
-      "title": "Rynek nieruchomości w Polsce wchodzi w nową fazę. Dane GUS pokazują obraz sektora budowlanego",
-      "link": "https://comparic.pl/rynek-nieruchomosci-w-polsce-wchodzi-w-nowa-faze-dane-gus-pokazuja-obraz-sektora-budowlanego/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"799\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-klucze-mieszkanie-3.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl",
-      "published": "Wed, 22 Apr 2026 14:02:41 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Deficyt fiskalny Polski drugi najwyższy w historii. Gorzej było tylko w 2020",
       "link": "https://www.bankier.pl/wiadomosc/Deficyt-fiskalny-Polski-drugi-najwyzszy-w-historii-Gorzej-bylo-tylko-w-2020-9121012.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/a/8983302723f53d-948-568-0-278-1545-927.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zeszłoroczny deficyt sektora instytucji rządowych i samorządowych oficjalnie sięgnął 7,3% produktu krajowego brutto. To drugi najwyższy wynik w historii III Rzeczypospolitej.</p",
@@ -447,14 +527,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0c33d787-1a95-4861-93af-36f30265847c\" width=\"308\" /> Dariusz Lubera, prezes PGE, ostrzega o realnym ryzyku wystąpienia blackoutów w Polsce. W rozmowie z wnp.pl wskazuje, że nadal kluczowy w bezpieczeństwie energetycznym jest węgiel. Natomiast sama transformacja energetyczna idzie w parze z niepewnością regulacyjną i brakiem",
       "published": "Wed, 22 Apr 2026 13:48:13 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polski, państwowy gigant zmienia strategię! Nowy kierunek szokuje rynek i ekspertów!",
-      "link": "https://comparic.pl/polski-panstwowy-gigant-zmienia-strategie-nowy-kierunek-szokuje-rynek-i-ekspertow/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"801\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-dom-home-housa-nieruchomosci-mieszkanie-wynajem.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-dom-home-",
-      "published": "Wed, 22 Apr 2026 13:43:50 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -494,38 +566,6 @@
       "link": "https://businessinsider.com.pl/gielda/cena-ropy-naftowej-po-atakach-na-kontenerowce-alert-na-rynkach/fkh1snk",
       "summary": "Cena ropy naftowej zmieniła kierunek i wzrosła o kilka dolarów za baryłkę. Brytyjski dziennik ostrzega, że \"globalne rynki energii stoją na skraju katastrofy\".",
       "published": "Wed, 22 Apr 2026 13:09:07 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Fundacja Billa Gatesa zapowiada zwolnienia. W tle powiązania z Epsteinem",
-      "link": "https://businessinsider.com.pl/firmy/fundacja-billa-gatesa-oglasza-zwolnienia-i-przeglad-kontaktow-z-epsteinem/txc3qd1",
-      "summary": "Fundacja Billa Gatesa, jedna z największych organizacji filantropijnych na świecie, ogłosiła plany redukcji zatrudnienia o około 20 proc., co oznacza zwolnienie blisko 500 osób do 2030 r. — poinformował \"Wall Street Journal\". Władze fundacji zapowiedziały również ponowną analizę swoich powiązań z Jeffreyem Epsteinem.",
-      "published": "Wed, 22 Apr 2026 12:58:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Europa na energetycznym zakręcie. KE ogłosiła pakiet ratunkowy",
-      "link": "https://businessinsider.com.pl/gospodarka/bruksela-reaguje-na-kryzys-w-iranie-oglosila-pakiet-ratunkowy/g14ls60",
-      "summary": "Kluczowym elementem pakietu zaprezentowanego w środę przez szefową KE, Ursulę von der Leyen, jest lepsza koordynacja pracy unijnych rafinerii. Zmiany mają też dotyczyć zasad udzielania wsparcia dla poszczególnych grup przez państwa członkowskie.",
-      "published": "Wed, 22 Apr 2026 12:41:04 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Polska fabryka broni odpiera zarzuty o zwolnienia. Odpowiedź na tezy Przemysława Czarnka",
-      "link": "https://businessinsider.com.pl/firmy/fabryka-broni-lucznik-odpiera-zarzuty-o-zwolnienia-reakcja-na-tezy-czarnka/6992t74",
-      "summary": "Zarząd Fabryki Broni \"Łucznik\" w Radomiu zdecydowanie zaprzecza doniesieniom o planowanych zwolnieniach. W specjalnym komunikacie odniósł się do wypowiedzi posła PiS Przemysława Czarnka, który alarmował o groźbie utraty pracy przez 140 osób w związku z brakiem zamówień rządowych.",
-      "published": "Wed, 22 Apr 2026 12:22:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Budownictwo mieszkaniowe na fali wzrostu. Marcowe statystyki GUS zaskakują",
-      "link": "https://businessinsider.com.pl/nieruchomosci/pozwolenia-na-budowe-rosna-sektor-mieszkaniowy-odzyskuje-optymizm/qt00qbx",
-      "summary": "Marcowe dane Głównego Urzędu Statystycznego (GUS) pokazują wyraźne ożywienie w sektorze budownictwa mieszkaniowego. Po słabym początku roku liczba rozpoczynanych budów wzrosła zarówno w ujęciu miesięcznym, jak i rocznym. Katarzyna Kuniewicz z Otodom podkreśla, że głównym motorem tego wzrostu są inwestorzy indywidualni, których aktywność zauważalnie się zwiększyła.",
-      "published": "Wed, 22 Apr 2026 12:06:37 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
@@ -634,14 +674,6 @@
       "category": "pl"
     },
     {
-      "title": "'It's just scale': Local mom-and-pop car dealerships are growing or dying amid industry consolidation, rise of mega-retailers",
-      "link": "https://www.cnbc.com/2026/04/18/car-dealerships-auto-retail.html",
-      "summary": "Multibillion-dollar dealerships have been on the rise amid a decadeslong consolidation that has led to a grow-or-die mentality for many U.S. auto retailers.",
-      "published": "Sat, 18 Apr 2026 12:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "How Trump's psychedelics executive order could unlock stalled cannabis reform",
       "link": "https://www.cnbc.com/2026/04/20/trump-psychedelics-executive-order-cannabis-reform.html",
       "summary": "The White House psychedelics executive order accelerates research, clinical trials and \"Right to Try\" access for drugs like psilocybin, MDMA and ibogaine.",
@@ -678,30 +710,6 @@
       "link": "https://www.cnbc.com/2026/04/20/eli-lilly-to-acquire-cancer-drug-maker-kelonia.html",
       "summary": "Kelonia is developing technology to reprogram patients' T-cells inside the body so those cells can attack cancer, called in vivo CAR-T.",
       "published": "Mon, 20 Apr 2026 14:41:17 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
-      "link": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
-      "summary": "Netflix co-CEO Ted Sarandos said during an investor call that the company built its \"M&amp;A muscle\" during its pursuit of WBD's assets.",
-      "published": "Fri, 17 Apr 2026 15:39:55 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Some grocers are using AI to cut food waste and boost profit margins",
-      "link": "https://www.cnbc.com/2026/04/17/some-grocers-are-using-ai-to-cut-food-waste-and-boost-profit-margins.html",
-      "summary": "Grocers turn to AI pricing to cut waste, protect margins and compete for deal-seeking shoppers—targeting dynamic pricing discounts.",
-      "published": "Fri, 17 Apr 2026 14:24:07 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Netflix stock sinks after streamer reiterates guidance, says Reed Hastings to exit board",
-      "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
-      "summary": "Netflix beat expectations for Q1 revenue and reported a big jump in earnings per share thanks in part to a termination fee related to its proposed WBD deal.",
-      "published": "Fri, 17 Apr 2026 02:22:51 GMT",
       "source": "CNBC",
       "category": "us"
     }
