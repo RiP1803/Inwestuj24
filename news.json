@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T16:25:24.449825",
+  "generated_at": "2026-04-30T19:43:42.881025",
   "articles": [
     {
       "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
@@ -50,14 +50,6 @@
       "category": "us"
     },
     {
-      "title": "ABC faces renewed Trump backlash as Kimmel says comments 'not, by any stretch' call for violence",
-      "link": "https://www.cnbc.com/2026/04/28/trump-jimmy-kimmel-monologue-disney-abc.html",
-      "summary": "While it's not the first time Kimmel has faced backlash over a show monologue, the renewed challenges now fall under freshly installed Disney CEO Josh D'Amaro.",
-      "published": "Wed, 29 Apr 2026 14:15:17 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Starbucks raises full-year outlook as turnaround takes hold — despite higher gas prices",
       "link": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
       "summary": "Starbucks' global same-store sales, which only includes cafes open at least a year, increased 6.2%, fueled by more visits to its locations.",
@@ -98,14 +90,6 @@
       "category": "us"
     },
     {
-      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
-      "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
-      "summary": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways.",
-      "published": "Tue, 28 Apr 2026 18:44:41 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "GM: Iran war causing cost increases, but pricey vehicles continue to sell",
       "link": "https://www.cnbc.com/2026/04/28/gm-iran-war-vehicle-sales.html",
       "summary": "GM CEO Mary Barra said the Detroit automaker continues to monitor any change in customer spending, but so far, the company's vehicle mix has remained healthy.",
@@ -119,6 +103,190 @@
       "summary": "JetBlue, United, Frontier and others added service to airports Spirit services after the carrier filed for bankruptcy for the second time in less than a year.",
       "published": "Tue, 28 Apr 2026 17:30:53 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Ile kosztuje ropa Brent? Co się działo z notowaniami surowca 30 kwietnia 2026?",
+      "link": "https://www.money.pl/gospodarka/ile-kosztuje-ropa-brent-co-sie-dzialo-z-notowaniami-surowca-30-kwietnia-2026-7280955136337952a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0e8f09d8-58cc-421b-9ab6-b292c1dde190\" width=\"308\" /> Notowania ropy naftowej Brent zakończyły piątek 30 kwietnia na poziomie 110,52 dol. Przez chwilę notowania surowca przekroczyły jednak poziom 126 dol., czyli najwyższy od czterech lat.",
+      "published": "Thu, 30 Apr 2026 21:38:42 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Polska regionalnym hubem LNG? MSZ: USA wyraziły poparcie dla aspiracji",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-regionalnym-hubem-LNG-MSZ-USA-wyrazily-poparcie-dla-aspiracji-9126343.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/8/bfd13a64e656f3-948-568-320-80-3680-2207.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Stany Zjednoczone wyraziły poparcie dla aspiracji Polski, aby stać się regionalnym hubem LNG – poinformowało Ministerstwo Spraw Zagranicznych (MSZ) w oświadczeniu opublikowany",
+      "published": "Thu, 30 Apr 2026 20:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Leyen: Przedsiębiorcy muszą odczuć korzyści z umowy UE-Mercosur",
+      "link": "https://www.bankier.pl/wiadomosc/Leyen-Przedsiebiorcy-musza-odczuc-korzysci-z-umowy-UE-Mercosur-9126344.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/3/ec9e1b1fa69bb2-948-568-60-70-3940-2363.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przedsiębiorcy muszą natychmiast odczuć korzyści z umowy handlowej z Mercosurem - oceniła w czwartek przewodnicząca KE Ursula von der Leyen. Porozumienie wchodzi w życie 1 maja",
+      "published": "Thu, 30 Apr 2026 20:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rekordowo długi shutdown dobiega końca. Resort bezpieczeństwa dostanie pieniądze",
+      "link": "https://www.bankier.pl/wiadomosc/Rekordowo-dlugi-shutdown-dobiega-konca-Resort-bezpieczenstwa-dostanie-pieniadze-9126321.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/6/57550602bd9579-948-568-44-97-3498-2099.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Izba Reprezentantów USA uchwaliła w czwartek ustawę o finansowaniu większości działań ministerstwa bezpieczeństwa krajowego. Po podpisaniu aktu prawnego przez prezydenta Donald",
+      "published": "Thu, 30 Apr 2026 19:42:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX",
+      "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
+      "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
+      "published": "Thu, 30 Apr 2026 19:36:55 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Czy rząd powinien pomóc klientom zondacrypto? Sondaż IBRiS nie pozostawia złudzeń",
+      "link": "https://comparic.pl/czy-rzad-powinien-pomoc-klientom-zondacrypto-sondaz-ibris-nie-pozostawia-zludzen/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Thu, 30 Apr 2026 19:22:54 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Niemcy oddają elektrownię Ukrainie. Stała tuż przy granicy z Polską",
+      "link": "https://businessinsider.com.pl/gospodarka/niemiecka-elektrownia-trafi-w-rece-ukrainy-w-ramach-pomocy/09lpbh1",
+      "summary": "Nieczynna elektrownia atomowa w niemieckim Lubminie ma zostać przekazana ukraińskiej firmie — informuje regionalny portal NDR. Koszty przejęcia miałaby ponieść strona ukraińska.",
+      "published": "Thu, 30 Apr 2026 19:00:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ile naprawdę dostaliśmy z Unii? Resort funduszy ujawnia rachunki",
+      "link": "https://www.bankier.pl/wiadomosc/Ile-naprawde-dostalismy-z-Unii-Resort-funduszy-ujawnia-rachunki-9126141.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/d/47ee2eed230d39-948-568-0-432-3264-1958.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Od wejścia do Unii Europejskiej Polska otrzymała ponad 273 mld euro, a po uwzględnieniu wpłat do budżetu UE, do końca lutego tego roku Polska zyskała ponad 171 mld euro - podał",
+      "published": "Thu, 30 Apr 2026 19:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "O. Rydzyk tak apeluje o podatek. \"Nie popełniajmy grzechu\"",
+      "link": "https://www.money.pl/podatki/o-rydzyk-tak-apeluje-o-podatek-nie-popelniajmy-grzechu-7280918738839584a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ecab3057-9500-4cdb-b235-bb9ed22dc012\" width=\"308\" /> Pod koniec kwietnia, gdy mija termin rozliczenia PIT, na antenie Radia Maryja pojawił się apel o. Tadeusza Rydzyka o przekazanie 1,5 proc. podatku na Fundację \"Nasza Przyszłość\". Dominikanin o. Paweł Gużyński skrytykował ten przekaz w rozmowie z \"Faktem\".",
+      "published": "Thu, 30 Apr 2026 18:59:58 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ważne zmiany w Kodeksie pracy od maja. Polacy rzucili się z wnioskami do ZUS",
+      "link": "https://businessinsider.com.pl/praca/wazne-zmiany-w-kodeksie-pracy-od-maja-polacy-rzucili-sie-z-wnioskami-do-zus/1lw0b9m",
+      "summary": "1 maja wchodzą w życie zmiany w Kodeksie pracy dla pracowników firm prywatnych. Chodzi o nowy sposób obliczania stażu pracy. Aby z niego skorzystać, trzeba dostać odpowiednie zaświadczenie. Już setki tysięcy Polaków zwróciły się o nie do Zakładu Ubezpieczeń Społecznych (ZUS).",
+      "published": "Thu, 30 Apr 2026 18:59:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Can one bad week ruin your retirement savings? How about three bad years?",
+      "link": "https://www.marketwatch.com/story/is-one-bad-week-enough-to-ruin-your-retirement-savings-how-about-3-years-fbc36486?mod=mw_rss_topstories",
+      "summary": "It’s not so much what’s happening in the market as what you do about it.",
+      "published": "Thu, 30 Apr 2026 18:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kolejne lotnisko regionalne chce się rozwijać. Będzie rozbudowa terminala",
+      "link": "https://businessinsider.com.pl/gospodarka/modernizacja-lotniska-w-szczecinie-terminal-dla-rosnacej-liczby-pasazerow/edelspg",
+      "summary": "Port Lotniczy Szczecin-Goleniów zostanie rozbudowany — wojewoda zachodniopomorski wydał zgodę na przebudowę terminala pasażerskiego. Modernizacja, której koszt wynosi 190,2 mln zł, ma zakończyć się już niedługo, a prace mają nie zakłócić bieżącej działalności lotniska. Remont i rozbudowa bardzo się zresztą lotnisku przyda.",
+      "published": "Thu, 30 Apr 2026 18:51:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?",
+      "link": "https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories",
+      "summary": "“The only thing holding me back is worrying about medical costs.”",
+      "published": "Thu, 30 Apr 2026 18:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Inside Wealth: Markets are underpricing the risk of Middle East pullback in AI, says tech investor Jack Selby",
+      "link": "https://www.cnbc.com/2026/04/30/investor-jack-selby-markets-underpricing-middle-east-ai-pullback-risk.html",
+      "summary": "Middle East investors account for roughly a quarter of global AI investments over the next 5 years, said Jack Selby, managing director of Thiel Capital.",
+      "published": "Thu, 30 Apr 2026 18:44:31 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Obligacje skarbowe nokautują rynek. \"Korporacyjne mają coraz mniej do zaoferowania\"",
+      "link": "https://www.bankier.pl/wiadomosc/Obligacje-skarbowe-nokautuja-rynek-Korporacyjne-maja-coraz-mniej-do-zaoferowania-9126288.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/0/cbb6d5d6f24e21-948-568-0-195-2000-1199.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />3,2 proc. inflacji w kwietniu oznacza, że czerwcowe serie obligacji oszczędnościowych indeksowanych CPI wejdą w nowe okresy odsetkowe z oprocentowaniem 4,7 proc. i 5,2 proc. (o",
+      "published": "Thu, 30 Apr 2026 18:44:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Koniec testów niezawisłości sędziego? KRS idzie do Trybunału Konstytucyjnego",
+      "link": "https://www.bankier.pl/wiadomosc/Koniec-testow-niezawislosci-sedziego-KRS-idzie-do-Trybunalu-Konstytucyjnego-9126283.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/5/8b85eaa5c2f765-948-568-371-686-3093-1856.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Krajowa Rada Sądownictwa zdecydowała o zaskarżeniu do Trybunału Konstytucyjnego przepisy ustawowe z 2022 r. określające zakres oraz sposób badania kwestii spełniania przez sę",
+      "published": "Thu, 30 Apr 2026 18:33:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Prezydent mianował 12 oficerów na stopnie generalskie i admiralski",
+      "link": "https://www.bankier.pl/wiadomosc/Prezydent-mianowal-12-oficerow-na-stopnie-generalskie-i-admiralski-9126273.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/8/8fa8588e0d181d-948-568-976-153-1981-1188.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki mianował 12 oficerów Wojska Polskiego na stopnie generalskie i admiralski - poinformowało w czwartek Biuro Bezpieczeństwa Narodowego. Akty mianowania",
+      "published": "Thu, 30 Apr 2026 18:26:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Social Security credit for being a mom? It’s a new idea before Congress.",
+      "link": "https://www.marketwatch.com/story/social-security-credit-for-being-a-mom-its-a-new-idea-before-congress-f83fec66?mod=mw_rss_topstories",
+      "summary": "A new bill would give you Social Security credit for looking after your children or your aging parents.",
+      "published": "Thu, 30 Apr 2026 18:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kredyt indeksowany czy denominowany? Jedna różnica ma ogromne znaczenie",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/kredyty/co-to-jest-kredyt-indeksowany-i-denominowany-proste-wyjasnienie/ftpzn2w",
+      "summary": "Wielu Polaków nadal spłaca kredyty walutowe. Nie wszyscy widzą różnicę między kredytem indeksowanym a denominowanym. Choć są do siebie bardzo podobne, to subtelne różnice mogą mieć poważne konsekwencje finansowe i prawne.",
+      "published": "Thu, 30 Apr 2026 18:15:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
+      "link": "https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories",
+      "summary": "“I do not have any inheritance from anyone coming my way as I lost most of my immediate family when young.”",
+      "published": "Thu, 30 Apr 2026 18:13:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
+      "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
+      "summary": "“I do better than many citizens because I’ve contributed at the highest level.”",
+      "published": "Thu, 30 Apr 2026 18:11:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "S&P 500 pushes to new highs. Here is the ‘line in the sand’ for this bull run.",
+      "link": "https://www.marketwatch.com/story/s-p-500-pushes-to-new-highs-here-is-the-line-in-the-sand-for-this-bull-run-6d0176ee?mod=mw_rss_topstories",
+      "summary": "Why 7,000 is the ‘make-or-break’ level for the current rally.",
+      "published": "Thu, 30 Apr 2026 18:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These 3 companies are keeping the lights on for AI’s energy needs — and they’re cashing in",
+      "link": "https://www.marketwatch.com/story/big-techs-ai-build-out-needs-these-3-companies-to-keep-the-lights-on-and-theyre-cashing-in-e46bcba2?mod=mw_rss_topstories",
+      "summary": "The headlines focus on apps, but the big money is flowing to agentic AI’s boring industrial backbone.",
+      "published": "Thu, 30 Apr 2026 17:53:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -138,6 +306,14 @@
       "category": "pl"
     },
     {
+      "title": "Cyfrowe dowody rejestracyjne i nowe usługi online. Szykują rewolucję dla kierowców",
+      "link": "https://businessinsider.com.pl/firmy/przepisy/elektroniczny-dowod-rejestracyjny-coraz-blizej-mozliwe-duze-zmiany/tpskv7r",
+      "summary": "Ministerstwo Cyfryzacji zaprezentowało projekt nowelizacji Prawa o ruchu drogowym, który zakłada wprowadzenie elektronicznych dowodów rejestracyjnych oraz szeregu nowych usług dostępnych online. Zmiany mają wejść w życie w czerwcu 2028 r.",
+      "published": "Thu, 30 Apr 2026 17:50:22 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 30.04.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-30-04-2026-7280902304585792a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 30.04.2026. W czwartek późnym popołudniem za jednego franka (CHF) trzeba zapłacić 4.6433 zł.",
@@ -154,12 +330,36 @@
       "category": "pl"
     },
     {
+      "title": "Target-date funds are ‘a flawed tool.’ Here’s how you can do better.",
+      "link": "https://www.marketwatch.com/story/target-date-retirement-funds-are-more-popular-than-ever-critics-say-you-can-do-better-533adf46?mod=mw_rss_topstories",
+      "summary": "Your 401(k) is probably in a target-date fund. This simple hack may help you earn more.",
+      "published": "Thu, 30 Apr 2026 17:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Medaliści olimpijscy bez kasy od Zondacrypto. PKOl: dziś nie stać nas na wypłatę",
       "link": "https://www.bankier.pl/wiadomosc/Medalisci-olimpijscy-bez-kasy-od-Zondacrypto-PKOl-dzis-nie-stac-nas-na-wyplate-9126238.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/df9bd8d7baa669-948-568-62-72-4082-2449.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Według informacji PAP wciąż nierozliczone zostały nagrody PKOl w tokenach w wysokości 950 tys. zł dla trójki medalistów zimowych igrzysk w Mediolanie. Dotyczy to skoczków narci",
       "published": "Thu, 30 Apr 2026 17:45:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Czy grozi nam powtórka z kryzysu lat 70.? Lagarde i Powell zabrali głos",
+      "link": "https://comparic.pl/czy-grozi-nam-powtorka-z-kryzysu-lat-70-lagarde-i-powell-zabrali-glos/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"672\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-wall-street-stock-market-krach-crash-panic-stres-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-wall-s",
+      "published": "Thu, 30 Apr 2026 17:44:23 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Americans are embracing this terrible car-buying habit. It’s costing them thousands of dollars.",
+      "link": "https://www.marketwatch.com/story/americans-are-embracing-this-terrible-car-buying-habit-its-costing-them-thousands-of-dollars-126f4ffd?mod=mw_rss_topstories",
+      "summary": "This mistake is easy to make, but hard to dig your way out of.",
+      "published": "Thu, 30 Apr 2026 17:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Szef irańskiego parlamentu: kontrolowanie cieśniny Ormuz zapewni wolność od USA",
@@ -170,12 +370,52 @@
       "category": "pl"
     },
     {
+      "title": "Palantir’s stock could rise from this ‘underpenetrated’ sector core to its DNA",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-could-rise-from-this-underpenetrated-sector-core-to-its-dna-0f10bc13?mod=mw_rss_topstories",
+      "summary": "The company could benefit from rising government spending on software, according to Oppenheimer.",
+      "published": "Thu, 30 Apr 2026 17:35:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Pricey NFL, NBA ownership stakes are pushing investors to smaller leagues and driving valuations higher",
+      "link": "https://www.cnbc.com/2026/04/30/pricey-nfl-nba-ownership-stakes-investors-leagues-valuations.html",
+      "summary": "Priced out of the NBA and NFL, investors are asking bankers about opportunities to buy minority stakes in teams with lower valuations.",
+      "published": "Thu, 30 Apr 2026 17:31:30 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Podwyżki cen, ale \"w małych dawkach\". Kryzys uderza w giganta branży",
+      "link": "https://businessinsider.com.pl/firmy/podwyzki-cen-w-unilever-konflikt-na-bliskim-wschodzie-uderza-w-konsumentow/0dy2p8v",
+      "summary": "Rosnące koszty wywołane konfliktem na Bliskim Wschodzie zmuszają kolejne firmy do reakcji. Unilever zapowiada podwyżki cen \"w małych dawkach\", a jednocześnie stara się nie stracić klientów i utrzymać wzrost sprzedaży.",
+      "published": "Thu, 30 Apr 2026 17:30:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Dalsze grillowanie polskiej giełdy. Banki raportują, LPP płaci zaliczkę, indeksy spadają",
       "link": "https://www.bankier.pl/wiadomosc/Dalsze-grillowanie-polskiej-gieldy-Banki-raportuja-LPP-placi-zaliczke-indeksy-spadaja-9126100.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/8/f61bd0a57b32dd-945-560-85-0-2202-1321.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ostatnia sesja kwietnia przyniosła warszawskiej giełdzie kontynuację złej passy, która zawitała na GPW po rekordach z połowy miesiąca. Czwartkowa sesja zakończyła się spadkami g",
       "published": "Thu, 30 Apr 2026 17:30:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Oszust kryptowalutowy ukrywa się w Rosji. Zaskakujące ustalenia dziennikarzy śledczych",
+      "link": "https://businessinsider.com.pl/biznes/oszust-kryptowalutowy-uciekl-do-rosji-wczesniej-kupil-wille-w-dubaju/h0yvgnf",
+      "summary": "Twórca giełdy kryptowalutowej SafeMoon, oskarżany przez władze USA o gigantyczne oszustwa, został zlokalizowany w Rosji — ustalił rosyjskojęzyczny portal śledczy Sistema. W ucieczce miał mu pomagać rosyjski biznesmen.",
+      "published": "Thu, 30 Apr 2026 17:25:24 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "crypto"
+    },
+    {
+      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
+      "link": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
+      "summary": "Lilly hiked its full-year sales outlook by $2 billion, and also raised its adjusted profit guidance.",
+      "published": "Thu, 30 Apr 2026 17:22:52 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
       "title": "Tak blokada cieśniny Ormuz wpływa na ceny ropy. Podali konkretne kwoty",
@@ -186,20 +426,12 @@
       "category": "pl"
     },
     {
-      "title": "Pokojowa Nagroda Nobla 2026. Donald Trump znów na liście kandydatów",
-      "link": "https://www.bankier.pl/wiadomosc/Pokojowa-Nagroda-Nobla-2026-Donald-Trump-znow-na-liscie-kandydatow-9126206.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/5/3a0a277a704ac6-948-568-0-116-1730-1038.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do tegorocznej nagrody zgłoszono 287 kandydatów, w tym 208 osób i 79 organizacji - poinformował w czwartek Norweski Komitet Noblowski, który ocenił, że w „w świecie coraz bardz",
-      "published": "Thu, 30 Apr 2026 17:19:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Klub parlamentarny PiS się sypie. Janusz Kowalski złożył rezygnację",
-      "link": "https://www.bankier.pl/wiadomosc/Klub-parlamentarny-PiS-sie-sypie-Janusz-Kowalski-zlozyl-rezygnacje-9126205.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/7/fbdb080ac90a26-948-568-343-144-3914-2348.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Poseł Janusz Kowalski poinformował w czwartek, że zrezygnował z członkostwa w klubie parlamentarnym Prawa i Sprawiedliwości. Zapowiedział, że pozostanie posłem niezrzeszonym.",
-      "published": "Thu, 30 Apr 2026 17:19:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Twój telefon wysyła te sygnały? To znak, że czas go wymienić",
+      "link": "https://businessinsider.com.pl/technologie/kiedy-wymienic-telefon-5-sygnalow-ze-smartfon-jest-juz-do-zmiany/98lswex",
+      "summary": "Twój telefon komórkowy nie działa prawidłowo, ale nie chcesz go wymieniać. Sprawny telefon to dziś nie tylko wygoda, ale i bezpieczeństwo. Lepiej zapobiegać niż leczyć i znać objawy, które świadczą, że nadszedł czas, aby pożegnać się ze starym telefonem komórkowym.",
+      "published": "Thu, 30 Apr 2026 17:15:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Prestiżowy laur dla NBP. Wdrożona przez bank strategia najlepsza na świecie",
@@ -207,6 +439,14 @@
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/f/2945032741fe3f-948-568-3-177-1412-847.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Międzynarodowe Stowarzyszenie ds. Pieniądza (IACA) wyróżniło Narodową Strategię Bezpieczeństwa Obrotu Gotówkowego jako najlepszą inicjatywę na świecie.</p>",
       "published": "Thu, 30 Apr 2026 17:02:00 +0100",
       "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Eksperci alarmują: BTC może spaść do 56 000 USD jeszcze w maju. Oto sygnały, których nie możesz zignorować",
+      "link": "https://comparic.pl/eksperci-alarmuja-btc-moze-spasc-do-56-000-usd-jeszcze-w-maju-oto-sygnaly-ktorych-nie-mozesz-zignorowac/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-full size-full wp-post-image\" height=\"533\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-17.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"800\" /><img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-BTC-Bitcoin-17-324x235.jpg\" s",
+      "published": "Thu, 30 Apr 2026 16:58:49 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -226,20 +466,20 @@
       "category": "pl"
     },
     {
-      "title": "Amerykańska gospodarka w pierwszym kwartale wzrosła o 2 proc.",
-      "link": "https://www.bankier.pl/wiadomosc/Amerykanska-gospodarka-w-pierwszym-kwartale-wzrosla-o-2-proc-9126165.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/5/6dbb63fd484663-948-568-0-14-2800-1679.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wzrost gospodarczy w pierwszym kwartale 2026 r. w USA wyniósł 2 proc. i był niższy nieco niż oczekiwali eksperci - wynika z przedstawionych w czwartek danych rządowych. Gospodar",
-      "published": "Thu, 30 Apr 2026 16:47:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Afera Zondacrypto. PKOI zabiera głos w sprawie nagród dla olimpijczyków",
+      "link": "https://businessinsider.com.pl/firmy/jest-glos-z-pkoi-o-aferze-zondacrypto-nie-stac-nas-na-wyplate-premii/drknwtg",
+      "summary": "Trzech polskich medalistów zimowych igrzysk olimpijskich w Mediolanie wciąż nie otrzymało obiecanych nagród finansowych. Chodzi o premie w tokenach o łącznej wartości 950 tys. zł, które miała wypłacić firma Zondacrypto, będąca sponsorem generalnym Polskiego Komitetu Olimpijskiego.",
+      "published": "Thu, 30 Apr 2026 16:47:14 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "crypto"
     },
     {
-      "title": "Ropa blisko rekordów. Mieszane sygnały na rynkach surowców",
-      "link": "https://www.bankier.pl/wiadomosc/Ropa-blisko-rekordow-Mieszane-sygnaly-na-rynkach-surowcow-9126159.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/6/00fb288bd0acd7-948-568-170-1090-2483-1490.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ceny ropy po wznowieniu wzrostów sięgnęły najwyższych poziomów od 2022 r., co zwiększa presję inflacyjną. Na rynku miedzi rosną oczekiwania nadwyżki podaży, a złoto pozostaj",
-      "published": "Thu, 30 Apr 2026 16:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Ministra kultury ogłasza. Chodzi o głośną opłatę",
+      "link": "https://businessinsider.com.pl/prawo/marta-cienkowska-reformuje-oplate-reprograficzna-nowe-prawo-dla-tworcow/79vnvbn",
+      "summary": "Po latach sporów i debat rząd wprowadza zmiany w opłacie reprograficznej. Nowe przepisy mają w założeniu dostosować system do realiów cyfrowych i zwiększyć wsparcie dla twórców.",
+      "published": "Thu, 30 Apr 2026 16:25:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "\"Żeby nie być biednym\". Twórca giganta tłumaczy, dlaczego wybrał karierę w biznesie",
@@ -248,30 +488,6 @@
       "published": "Thu, 30 Apr 2026 16:23:36 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Blue Owl shares surge after private credit firm cites 10X gains from SpaceX loan",
-      "link": "https://www.cnbc.com/2026/04/30/blue-owl-shares-private-credit-spacex-gains.html",
-      "summary": "Blue Owl said it's made 10 times its investment in SpaceX, which is headed for a record IPO later this year.",
-      "published": "Thu, 30 Apr 2026 16:20:26 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Is one bad week enough to ruin your retirement savings? How about 3 years?",
-      "link": "https://www.marketwatch.com/story/is-one-bad-week-enough-to-ruin-your-retirement-savings-how-about-3-years-fbc36486?mod=mw_rss_topstories",
-      "summary": "Models show it’s not so much what’s happening in the market as what you do about it.",
-      "published": "Thu, 30 Apr 2026 16:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Mortgage rates increase to 6.3%, but that’s not stopping home buyers",
-      "link": "https://www.marketwatch.com/story/mortgage-rates-increase-to-6-3-but-thats-not-stopping-home-buyers-8f24ecbb?mod=mw_rss_topstories",
-      "summary": "The average rate on a 30-year mortgage is still lower than it was a year ago.",
-      "published": "Thu, 30 Apr 2026 16:11:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ucieczka z miasta – mit czy szansa? Co mówią dane za Q1 2026?",
@@ -284,7 +500,7 @@
     {
       "title": "Wizerunek polskiego sportowca na butelkach alkoholu. Rodzina zgłosiła sprawę do sądu",
       "link": "https://businessinsider.com.pl/prawo/wizerunek-polskiego-sportowca-na-butelkach-bimbru-rodzina-poszla-do-sadu/yl901mj",
-      "summary": "Jest finał sądowej batalii o naruszenie wizerunku Stanisława Marusarza — nieżyjącego już polskiego skoczka narciarskiego i olimpijczyka. Jego wizerunek trafił na etykiety butelek z alkoholami, po czym wybuchł sądowy spór między rodziną sportowca a przedsiębiorcą. Okazało się, że wszystko zaczęło się od nazwiska.",
+      "summary": "Jest finał sądowej batalii między rodziną Stanisława Marusarza — nieżyjącego już polskiego skoczka narciarskiego — a przedsiębiorcą z Podhala. Wizerunek sportowca trafił na etykiety butelek z alkoholami. Okazało się, że wszystko zaczęło się od nazwiska.",
       "published": "Thu, 30 Apr 2026 15:55:28 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -306,14 +522,6 @@
       "category": "us"
     },
     {
-      "title": "Rysuje się restrukturyzacja JSW. Spółka rozważa m.in. zbycie kolejnych aktywów",
-      "link": "https://www.bankier.pl/wiadomosc/Rysuje-sie-restrukturyzacja-JSW-Spolka-rozwaza-m-in-zbycie-kolejnych-aktywow-9126109.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/1752529878b87d-945-560-210-344-2550-1529.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jastrzębska Spółka Węglowa, wśród kilku obszarów restrukturyzacji rozważa zbycie kolejnych aktywów z grupy kapitałowej, nie tyle z powodu sytuacji finansowej, co zbędnych wob",
-      "published": "Thu, 30 Apr 2026 15:48:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Rekordowe kary dla przedsiębiorców. UOKiK podaje szczegóły",
       "link": "https://businessinsider.com.pl/rekordowe-kary-uokik-dla-przedsiebiorcow-w-2025-r-ogromna-kwota/nerdv3w",
       "summary": "W 2025 r. prezes Urzędu Ochrony Konkurencji i Konsumentów wydał aż 900 decyzji, nakładając na przedsiębiorców kary o łącznej wartości 1,15 mld zł — wynika z najnowszego komunikatu UOKIK.",
@@ -322,36 +530,12 @@
       "category": "other"
     },
     {
-      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket",
-      "link": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
-      "summary": "Lilly hiked its full-year sales outlook by $2 billion, and also raised its adjusted profit guidance.",
-      "published": "Thu, 30 Apr 2026 15:43:59 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Meta embodies everything Wall Street hates about AI right now",
-      "link": "https://www.marketwatch.com/story/meta-embodies-everything-wall-street-hates-about-ai-right-now-35cd1c2e?mod=mw_rss_topstories",
-      "summary": "Meta is increasing spending faster than revenue, and some on Wall Street aren’t sure that the company’s investments will pay off.",
-      "published": "Thu, 30 Apr 2026 15:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Zdecydowany lider w walce o chmurę. Rekordowe wyniki",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/google-cloud-z-rekordowym-wzrostem-alphabet-wygrywa-wyscig-o-ai/dt9xe1n",
       "summary": "Wyścig o dominację w sztucznej inteligencji nabiera tempa, a stawki rosną do rekordowych poziomów. Najnowsze wyniki finansowe pokazują, że nie wszyscy gracze radzą sobie równie dobrze z przekuwaniem ogromnych inwestycji w realne zyski.",
       "published": "Thu, 30 Apr 2026 15:27:44 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Target-date retirement funds are more popular than ever. Critics say you can do better.",
-      "link": "https://www.marketwatch.com/story/target-date-retirement-funds-are-more-popular-than-ever-critics-say-you-can-do-better-533adf46?mod=mw_rss_topstories",
-      "summary": "Your 401(k) is probably in a target-date fund. This simple hack may help you earn more.",
-      "published": "Thu, 30 Apr 2026 15:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Dlaczego ETF-y pobiły rekord popularności w pierwszym kwartale 2026? Odpowiada CEO Amundi",
@@ -370,28 +554,12 @@
       "category": "other"
     },
     {
-      "title": "‘We are old school’: I’ve been married for 40 years. Should I have kept my money separate?",
-      "link": "https://www.marketwatch.com/story/we-are-old-school-ive-been-married-for-40-years-should-i-have-kept-my-money-separate-d4bef3c2?mod=mw_rss_topstories",
-      "summary": "“We have all of our financial accounts joint except for our IRAs.”",
-      "published": "Thu, 30 Apr 2026 15:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nowe zasady kaucji w Biedronce. Możliwy podwójny zwrot środków",
       "link": "https://businessinsider.com.pl/gospodarka/biedronka-zwraca-podwojna-kaucje-rusza-nietypowa-promocja/gwg7dc0",
       "summary": "Sieć Biedronka przygotowała dla swoich klientów nietypową promocję na majówkę. Od 30 kwietnia do 2 maja osoby, które zdecydują się na zakup produktów w opakowaniach objętych kaucją, mogą liczyć na podwójny zwrot środków. To element nowej akcji, która ma zachęcić do oddawania butelek i puszek.",
       "published": "Thu, 30 Apr 2026 15:08:39 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Big Tech’s $700 billion spending on AI this year is called the ‘greatest capital misallocation in history’",
-      "link": "https://www.marketwatch.com/story/big-techs-700-billion-spending-on-ai-this-year-is-called-the-greatest-capital-misallocation-in-history-7d44aa4b?mod=mw_rss_topstories",
-      "summary": "Alphabet, Amazon, Meta and Microsoft are depleting their cash reserves and raising debt as AI spending moves even higher.",
-      "published": "Thu, 30 Apr 2026 15:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "FDA proposes excluding Novo, Lilly weight loss drugs from bulk compounding list in win for the companies",
@@ -416,14 +584,6 @@
       "published": "Thu, 30 Apr 2026 14:44:55 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Caterpillar handily beat Wall Street estimates — not for the first time",
-      "link": "https://www.marketwatch.com/story/caterpillar-handily-beat-wall-street-estimates-not-for-the-first-time-2d144758?mod=mw_rss_topstories",
-      "summary": "The construction manufacturer reported a 38% rise in sales in its construction industries arm.",
-      "published": "Thu, 30 Apr 2026 14:44:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Sześć tuneli na 13 km trasy. Rusza przetarg na kluczowy odcinek potężnej inwestycji",
@@ -456,38 +616,6 @@
       "published": "Thu, 30 Apr 2026 14:27:41 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "These stocks have been the biggest winners during the S&P 500’s best month since 2020",
-      "link": "https://www.marketwatch.com/story/these-stocks-have-been-the-biggest-winners-during-the-s-p-500s-best-month-since-2020-36ae706d?mod=mw_rss_topstories",
-      "summary": "The S&amp;P 500 was up 9.6% for April, led by a gain of nearly 18% for the information technology sector.",
-      "published": "Thu, 30 Apr 2026 14:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Decyzja EBC nie wstrząsnęła rynkiem. Ale stopy mogą wzrosnąć już w czerwcu",
-      "link": "https://www.bankier.pl/wiadomosc/Decyzja-EBC-w-kwietniu-2026-nie-wstrzasnela-rynkiem-Stopy-moga-wzrosnac-juz-w-czerwcu-9125833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/e/6fd4f3c6a67702-945-560-0-9-3840-2303.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Europejski Bank Centralny nie zmienił poziomu stóp procentowych. Spekuluje się jednak, że już na czerwcowym posiedzeniu Rady Prezesów może zapaść decyzja o podwyżce stóp EBC.</p>",
-      "published": "Thu, 30 Apr 2026 14:15:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Oil prices retreat after touching four-year high as traders focus on Iran developments",
-      "link": "https://www.marketwatch.com/story/oil-prices-climb-to-four-year-high-above-120-after-report-that-trump-is-considering-further-military-action-in-iran-9785eb43?mod=mw_rss_topstories",
-      "summary": "Oil futures fall Thursday, reversing direction after reaching a four-year high on a report that President Donald Trump is considering escalating the war in Iran.",
-      "published": "Thu, 30 Apr 2026 14:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "U.S. jobless claims sink to a 57-year low. Jobs aren’t easy to find — or lose.",
-      "link": "https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories",
-      "summary": "The U.S. jobs market is showing surprising staying power.",
-      "published": "Thu, 30 Apr 2026 14:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Sam zarobił miliardy. Mówi, jak wynagradza pracowników",
@@ -530,14 +658,6 @@
       "category": "other"
     },
     {
-      "title": "Ważna wiadomość dla spłacających kredyt w euro. Jest decyzja o stopach procentowych",
-      "link": "https://businessinsider.com.pl/gospodarka/stopy-procentowe-ebc-podjeto-decyzje-wazna-dla-kredytujacych-sie-w-euro/6besy8r",
-      "summary": "Większość kredytów indywidualnych w Polsce oprocentowana jest według polskiej stawki WIBOR. Część kredytobiorców wciąż ma jednak kredyty walutowe. Ich zainteresuje z pewnością, że EBC pozostawił stopy procentowe bez zmian. Niepokojąca jest dalsza część komunikatu.",
-      "published": "Thu, 30 Apr 2026 13:18:24 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Nowelizacja ustawy o zaopatrzeniu w wodę. Jest decyzja prezydenta",
       "link": "https://www.money.pl/gospodarka/nowelizacja-ustawy-o-zaopatrzeniu-w-wode-jest-decyzja-prezydenta-7280832920684576a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/fe3a7bee-8df0-4b29-b80b-b2515f53b227\" width=\"308\" /> Prezydent Karol Nawrocki podpisał nowelizację ustawy o zaopatrzeniu w wodę, nakładającą na dostawców obowiązek badania jakości, co stanowi wdrożenie dyrektywy UE - poinformowała w czwartek kancelaria prezydenta. Poprzednia ustawa, która miała implementować te przepisy, zo",
@@ -562,44 +682,12 @@
       "category": "pl"
     },
     {
-      "title": "Blokada morska Iranu. Z pomocą przychodzi sojusznik",
-      "link": "https://businessinsider.com.pl/gospodarka/tak-iran-obchodzi-amerykanska-blokade-z-pomoca-przyszedl-sojusznik/8wepehy",
-      "summary": "USA blokują irańskie porty. Tymczasem Pakistan otworzył korytarze lądowe, przez które mają być transportowane towary do Iranu.",
-      "published": "Thu, 30 Apr 2026 13:09:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Dwa weta prezydenta przed majówką. Rozwody i Kodeks wyborczy bez podpisu",
-      "link": "https://www.bankier.pl/wiadomosc/Dwa-weta-prezydenta-przed-majowka-Rozwody-i-Kodeks-wyborczy-bez-podpisu-9125906.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/e/3ff0c3d7d87147-948-568-0-220-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki zawetował dwie ustawy. Pierwsza to nowelizacja Kodeksu wyborczego wprowadzającą m.in. instytucję sekretarzy obwodowych komisji wyborczych. Druga to now",
-      "published": "Thu, 30 Apr 2026 13:05:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Unieważniony aneks. Co dalej z kredytem? Jest orzeczenie TSUE",
       "link": "https://www.money.pl/banki/uniewazniony-aneks-co-dalej-z-kredytem-jest-orzeczenie-tsue-7280823425353760a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e30fc4d3-ada5-486c-8df1-d387a428b7d8\" width=\"308\" /> Trybunał Sprawiedliwości UE orzekł w czwartek, że powrót do pierwotnych warunków umowy kredytu po unieważnieniu aneksu zawierającego nieuczciwe postanowienia jest dopuszczalny, o ile prowadzi do przywrócenia rzeczywistej równowagi praw i obowiązków stron oraz zapewnia sku",
       "published": "Thu, 30 Apr 2026 13:00:11 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "90 tys. poszkodowanych i ponad 116 mln zł strat. Pięć osób zatrzymanych w aferze kryptowalutowej",
-      "link": "https://businessinsider.com.pl/prawo/90-tys-poszkodowanych-i-ponad-116-mln-zl-strat-kolejna-afera-kryptowalutowa/wfb1pk0",
-      "summary": "Centralne Biuro Śledcze Policji (CBŚP) zatrzymało pięć osób w związku ze śledztwem przeciwko grupie przestępczej działającej w sieci. W sprawie afery platformy AdBlast poszkodowanych jest łącznie aż 90 tys. osób, a straty wynoszą nie mniej niż 32 mln dol. (ponad 116 mln zł). Śledczy ustalili, jak działała skomplikowana piramida finansowa.",
-      "published": "Thu, 30 Apr 2026 12:57:33 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "crypto"
-    },
-    {
-      "title": "Orlen może stracić zyski. Litwa rozważa nowy podatek",
-      "link": "https://businessinsider.com.pl/finanse/orlen-moze-stracic-zyski-litwa-rozwaza-wprowadzenie-nowego-podatku/bsspfb2",
-      "summary": "Litewski minister energetyki Žygimantas Vaičiūnas zapowiedział, że Wilno jest gotowe wprowadzić nowy podatek dla rafinerii Orlen Lietuva.",
-      "published": "Thu, 30 Apr 2026 12:57:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Zegar tyka, termin mija o północy. Wszystko, co musisz wiedzieć o PIT",
@@ -618,14 +706,6 @@
       "category": "pl"
     },
     {
-      "title": "Wielka umowa z Unią Europejską. Do Polski trafią miliardy złotych",
-      "link": "https://businessinsider.com.pl/gospodarka/jest-zapowiedz-podpisania-umowy-safe-polska-otrzyma-miliardy/sgtrdwr",
-      "summary": "Jak dowiedziała się Polska Agencja Prasowa, zaraz po długim weekendzie majowym Polska podpisze z Komisją Europejską umowę w ramach programu SAFE.",
-      "published": "Thu, 30 Apr 2026 12:40:13 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Lawyers to the wealthy warn that AI legal advice comes with serious risks",
       "link": "https://www.cnbc.com/2026/04/30/ai-legal-advice-lawyers-risks.html",
       "summary": "Asking ChatGPT how to divide your fortune or design a prenup can be used against you in court, lawyers say.",
@@ -634,76 +714,12 @@
       "category": "us"
     },
     {
-      "title": "Ważny wyrok TSUE. Chodzi o kredyty i franki szwajcarskie",
-      "link": "https://businessinsider.com.pl/finanse/kredyt-we-frankach-uniewazniony-wazny-wyrok-tsue-w-sprawie-aneksu/wwj963c",
-      "summary": "Trybunał Sprawiedliwości Unii Europejskiej orzekł w czwartek, że powrót do pierwotnych warunków umowy kredytu po unieważnieniu aneksu zawierającego nieuczciwe postanowienia jest dopuszczalny. Muszą być jednak spełnione pewne warunki.",
-      "published": "Thu, 30 Apr 2026 12:36:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kapitał instytucji płynie do BTC, lecz Adam Back ostrzega: to powolny proces",
-      "link": "https://comparic.pl/kapital-instytucji-plynie-do-btc-lecz-adam-back-ostrzega-to-powolny-proces/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/04/Institutional-money-is-coming-for-bitcoin-but-Adam-Back-says-it-moves-slower-than-you-think.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-conte",
-      "published": "Thu, 30 Apr 2026 12:33:52 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Założyciel Cardano twierdzi, że XRP DeFi wciąż nadchodzi",
-      "link": "https://comparic.pl/zalozyciel-cardano-twierdzi-ze-xrp-defi-wciaz-nadchodzi/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/04/Cardano-Founder-Says-XRP-DeFi-Is-Still-Coming.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/Cardano-Founder-Says-XRP-De",
-      "published": "Thu, 30 Apr 2026 12:32:53 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "More than 20,000 people are taking Eli Lilly's weight loss pill Foundayo, CEO says",
       "link": "https://www.cnbc.com/2026/04/30/eli-lilly-foundayo-prescriptions-20000-people-taking-drug-ricks-says.html",
       "summary": "Eli Lilly's weight loss pill launch has been closely watched after the successful start of Novo Nordisk's Wegovy pill.",
       "published": "Thu, 30 Apr 2026 12:30:27 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Rusza nowa strona rządowa. Firmy muszą pilnować terminu rejestracji",
-      "link": "https://businessinsider.com.pl/gospodarka/nowe-przepisy-o-cyberbezpieczenstwie-w-polsce-kary-do-10-mln-euro/m1k9vwl",
-      "summary": "Już 7 maja 2026 r. rusza specjalna aplikacja, w której tysiące podmiotów będzie musiało zarejestrować się w wykazie Krajowego Systemu Cyberbezpieczeństwa (KSC).",
-      "published": "Thu, 30 Apr 2026 12:25:02 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Prawdziwe bezrobocie w Polsce. Tylko w ośmiu krajach Unii rośnie szybciej",
-      "link": "https://businessinsider.com.pl/gospodarka/prawdziwe-bezrobocie-w-polsce-tylko-w-osmiu-krajach-unii-rosnie-szybciej/fse40jz",
-      "summary": "Eurostat podał nowe statystyki bezrobocia dla krajów Unii. Wcale nie jest tak, że wszędzie widać pogorszenie na rynku pracy, ale tak się złożyło, że u wszystkich naszych sąsiadów był negatywny trend i to bardziej negatywny niż w Polsce.",
-      "published": "Thu, 30 Apr 2026 12:20:16 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "XRP celuje w 13 USD, ponieważ napływy do ETF-ów i aktywność wielorybów rosną",
-      "link": "https://comparic.pl/xrp-celuje-w-13-usd-poniewaz-naplywy-do-etf-ow-i-aktywnosc-wielorybow-rosna/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/04/XRP-Eyes-13-As-ETF-Inflows-And-Whale-Activity-Strengthens.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/XRP-Eyes-13-As-",
-      "published": "Thu, 30 Apr 2026 12:11:55 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zdecydowany ruch ministra finansów. Odchodzi prezes ważnej agencji",
-      "link": "https://businessinsider.com.pl/gospodarka/andrzej-dycha-traci-stanowisko-w-paih-znamy-powod/fxv18c8",
-      "summary": "Wymiana kadr w Polskiej Agencji Inwestycji i Handlu — jak ustalił Business Insider Polska, ze stanowiskiem żegna się prezes oraz cały zarząd. Według naszych informacji nadzorujący agencję minister finansów oczekuje radykalnego przyspieszenia działań w obszarze, za który odpowiada ta instytucja. Wiemy też, kto ma go zastąpić.",
-      "published": "Thu, 30 Apr 2026 12:05:54 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nowe przepisy o wodzie już podpisane. Gminy wskażą osoby bez dostępu do wody",
-      "link": "https://businessinsider.com.pl/prawo/prezydent-karol-nawrocki-wprowadza-zmiany-w-przepisach-o-wodzie-pitnej/8tgzzrd",
-      "summary": "Prezydent Karol Nawrocki podpisał nowelizację ustawy o zbiorowym zaopatrzeniu w wodę, która wdraża unijną dyrektywę. Polska miała na to czas do stycznia 2023 r.",
-      "published": "Thu, 30 Apr 2026 12:04:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "7% na koncie oszczędnościowym utrzymane. To najwyższa stawka na rynku",
