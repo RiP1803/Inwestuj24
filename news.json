@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T21:58:20.462098",
+  "generated_at": "2026-05-02T03:37:01.175910",
   "articles": [
     {
       "title": "Ford raises 2026 guidance as $1.3 billion tariff refund assists in offsetting higher costs",
@@ -38,14 +38,6 @@
       "link": "https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html",
       "summary": "PayPal is betting that a new corporate structure can reignite growth at a company that has lost ground to Apple, Google and Stripe in the e-commerce battle.",
       "published": "Wed, 29 Apr 2026 19:13:31 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Yum Brands earnings top estimates, fueled by Taco Bell's 8% same-store sales growth",
-      "link": "https://www.cnbc.com/2026/04/29/yum-brands-yum-q1-2026-earnings.html",
-      "summary": "Taco Bell's same-store sales increased 8% in the quarter, fueling the company's outperformance.",
-      "published": "Wed, 29 Apr 2026 15:19:54 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -118,6 +110,30 @@
       "link": "https://www.cnbc.com/2026/04/30/eli-lilly-foundayo-prescriptions-20000-people-taking-drug-ricks-says.html",
       "summary": "Eli Lilly's weight loss pill launch has been closely watched after the successful start of Novo Nordisk's Wegovy pill.",
       "published": "Thu, 30 Apr 2026 12:30:27 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+      "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
+      "summary": "With Apple officially retiring its net-cash-neutral target, some suspect the company will look to conduct more transformative M&amp;A, beyond the smaller deals it made in the past.",
+      "published": "Sat, 02 May 2026 02:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "GameStop is hungry for relevance. Is buying eBay the answer?",
+      "link": "https://www.marketwatch.com/story/gamestop-is-hungry-for-relevance-is-buying-ebay-the-answer-de7004a0?mod=mw_rss_topstories",
+      "summary": "GameStop is reportedly interesting in buying eBay, which has done a better job of adapting to changing consumer preferences.",
+      "published": "Sat, 02 May 2026 01:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Spirit Airlines could shut down overnight. Here's what travelers need to know",
+      "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-flights-shut-down.html",
+      "summary": "What travelers who are ticketed on Spirit Airlines need to know if the carrier shuts down.",
+      "published": "Sat, 02 May 2026 00:26:40 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -282,6 +298,38 @@
       "category": "pl"
     },
     {
+      "title": "Spirit Airlines prepares to shut down after failing to reach deal for bailout lifeline",
+      "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
+      "summary": "Talks with bondholders for a government bailout this week failed to yield a deal.",
+      "published": "Fri, 01 May 2026 23:42:19 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘I’m very late to the game’: I’m 48, earn $65,000, have $48,000 in debt and no retirement. Am I doomed?",
+      "link": "https://www.marketwatch.com/story/im-very-late-to-the-game-im-48-earn-65-000-have-48-000-in-debt-and-no-retirement-am-i-doomed-36206d6c?mod=mw_rss_topstories",
+      "summary": "“I do not have any inheritance from anyone coming my way as I lost most of my immediate family when young.”",
+      "published": "Fri, 01 May 2026 23:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
+      "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
+      "summary": "“I do better than many citizens because I’ve contributed at the highest level.”",
+      "published": "Fri, 01 May 2026 23:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Thinking of raiding your 401(k) for a hardship withdrawal? Ask these questions first.",
+      "link": "https://www.marketwatch.com/story/3-questions-to-ask-before-raiding-your-401-k-for-a-hardship-withdrawal-d514e9b2?mod=mw_rss_topstories",
+      "summary": "Money coaches tell you how to move past the stigma and decide if tapping your retirement fund is rational or reactive.",
+      "published": "Fri, 01 May 2026 22:06:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Social Security screwed up — and it cost widows and widowers over $50 million",
       "link": "https://www.marketwatch.com/story/how-a-screw-up-by-social-security-cost-widows-and-widowers-over-50-million-77651ba7?mod=mw_rss_topstories",
       "summary": "Thousands have been short-changed of their Social Security payments as a result of blunders by the Social Security Administration",
@@ -306,14 +354,6 @@
       "category": "us"
     },
     {
-      "title": "Spirit Airlines prepares to shut down after failing to reach lifeline bailout deal",
-      "link": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
-      "summary": "Talks with bondholders for a government bailout this week failed to yield a deal.",
-      "published": "Fri, 01 May 2026 21:36:00 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "It now costs $160 to fill up America’s top-selling vehicle as the Iran war nears its 10th week",
       "link": "https://www.marketwatch.com/story/it-now-costs-160-to-fill-up-americas-top-selling-vehicle-as-the-iran-war-nears-its-10th-week-803077d2?mod=mw_rss_topstories",
       "summary": "Regular unleaded gas is up almost 50% since the start of the Iran war, to $4.42 a gallon late Friday morning, according to GasBuddy.",
@@ -322,26 +362,10 @@
       "category": "us"
     },
     {
-      "title": "Apple just gave a clue that an AI acquisition may be in the cards",
-      "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
-      "summary": "Apple is officially retiring its net-cash-neutral target, and some suspect the iPhone maker is preparing for a major acquisition to close the gap in the AI race.",
-      "published": "Fri, 01 May 2026 19:35:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "‘Why do Americans think we can do socialism?’ asks hedge-fund manager Ken Griffin",
       "link": "https://www.marketwatch.com/story/why-do-americans-think-we-can-do-socialism-says-hedge-fund-manager-ken-griffin-4aa05a61?mod=mw_rss_topstories",
       "summary": "The hedge-fund manager’s recent comments came after New York City Mayor Zohran Mamdani, a democratic socialist, singled out Griffin’s ownership of a $238 million penthouse.",
       "published": "Fri, 01 May 2026 19:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
-      "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
-      "summary": "“I do better than many citizens because I’ve contributed at the highest level.”",
-      "published": "Fri, 01 May 2026 19:12:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -378,14 +402,6 @@
       "category": "us"
     },
     {
-      "title": "‘We are old school’: I’ve been married for 40 years. Should I have kept my money separate?",
-      "link": "https://www.marketwatch.com/story/we-are-old-school-ive-been-married-for-40-years-should-i-have-kept-my-money-separate-d4bef3c2?mod=mw_rss_topstories",
-      "summary": "“We have all of our financial accounts joint except for our IRAs.”",
-      "published": "Fri, 01 May 2026 18:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Zmiana w Otodom wywołuje burzę. UOKiK analizuje skargi pośredników",
       "link": "https://businessinsider.com.pl/nieruchomosci/nowy-model-otodom-podnosi-koszty-posrednikom-czy-rynek-to-wytrzyma/2jy5dzk",
       "summary": "Pośrednicy nieruchomości alarmują: nowy model Otodom przerzuca ryzyko na agentów i może podnieść koszty działalności nawet o 300 proc.",
@@ -400,22 +416,6 @@
       "published": "Fri, 01 May 2026 18:00:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "If Spirit ends up shutting down, these airlines stand to benefit",
-      "link": "https://www.marketwatch.com/story/spirits-days-of-offering-no-frills-flights-may-be-numbered-as-shutdown-looms-de1ef648?mod=mw_rss_topstories",
-      "summary": "A shuttered airline would open up precious airport slots, gates and routes, and could create opportunities for other carriers to expand.",
-      "published": "Fri, 01 May 2026 17:59:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Wall Street is finding a new use for the latest retail-trading obsession",
-      "link": "https://www.marketwatch.com/story/wall-street-is-finding-a-new-use-for-the-latest-retail-trading-obsession-07378fbe?mod=mw_rss_topstories",
-      "summary": "As more people start using prediction markets, Wall Street is finding ways to derive value from them.",
-      "published": "Fri, 01 May 2026 17:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Cena ropy spadła. Wystarczyła jedna informacja z Iranu",
