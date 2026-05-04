@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T19:50:16.310630",
+  "generated_at": "2026-05-04T22:09:41.871741",
   "articles": [
     {
       "title": "Rivian renegotiates DOE loan down to $4.5 billion, adjusts capacity plans for Georgia plant",
@@ -30,22 +30,6 @@
       "link": "https://www.cnbc.com/2026/04/30/eli-lilly-lly-earnings-q1-2026.html",
       "summary": "Lilly hiked its full-year sales outlook by $2 billion, and also raised its adjusted profit guidance.",
       "published": "Thu, 30 Apr 2026 17:22:52 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "FDA proposes excluding Novo, Lilly weight loss drugs from bulk compounding list in win for the companies",
-      "link": "https://www.cnbc.com/2026/04/30/fda-novo-lilly-glp-1s-compounding.html",
-      "summary": "If that proposal is finalized, the exclusion would likely limit the mass compounding of those medicines ​unless they appear on the FDA's ⁠drug shortage ⁠list.",
-      "published": "Thu, 30 Apr 2026 15:02:15 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "More than 20,000 people are taking Eli Lilly's weight loss pill Foundayo, CEO says",
-      "link": "https://www.cnbc.com/2026/04/30/eli-lilly-foundayo-prescriptions-20000-people-taking-drug-ricks-says.html",
-      "summary": "Eli Lilly's weight loss pill launch has been closely watched after the successful start of Novo Nordisk's Wegovy pill.",
-      "published": "Thu, 30 Apr 2026 12:30:27 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -234,12 +218,148 @@
       "category": "pl"
     },
     {
+      "title": "The silent crisis taxing your grocery bill could get a lot louder",
+      "link": "https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories",
+      "summary": "As fertilizer costs hit 2026 highs and U.S. farmers cut planting, investors are looking to these stocks to hedge against food scarcity.",
+      "published": "Mon, 04 May 2026 22:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
+      "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
+      "summary": "“She blames me for her poor relationship with her son and grandchildren.”",
+      "published": "Mon, 04 May 2026 22:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Palantir posts its fastest revenue growth ever while calling out ‘AI slop’",
+      "link": "https://www.marketwatch.com/story/palantir-posts-its-fastest-revenue-growth-ever-while-calling-out-ai-slop-03108298?mod=mw_rss_topstories",
+      "summary": "Palantir earnings beat expectations on the heels of explosive demand in the company’s core U.S. market.",
+      "published": "Mon, 04 May 2026 21:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Here’s what the growing gap between Americans with good and bad credit says about the economy",
+      "link": "https://www.marketwatch.com/story/heres-what-the-growing-gap-between-americans-with-good-and-bad-credit-says-about-the-economy-3fa60ff7?mod=mw_rss_topstories",
+      "summary": "The gap in overall financial well-being between super prime and subprime has now “surpassed” 2019 levels.",
+      "published": "Mon, 04 May 2026 21:53:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why this bullish stock-market timer is about to flip to bearish",
+      "link": "https://www.marketwatch.com/story/why-this-bullish-stock-market-timer-is-about-to-flip-to-bearish-4577a535?mod=mw_rss_topstories",
+      "summary": "There were enough net decliners on the NYSE for Tom McClellan, editor of the McClellan Market Report, to flip to bearish from bullish.",
+      "published": "Mon, 04 May 2026 21:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Elon Musk gets just a slap on the wrist as he settles Twitter lawsuit",
+      "link": "https://www.marketwatch.com/story/elon-musk-gets-just-a-slap-on-the-wrist-as-he-settles-twitter-lawsuit-77952e76?mod=mw_rss_topstories",
+      "summary": "A proposed settlement with U.S. regulators would have Musk pay just $1.5 million. He was accused of cheating investors out of $150 million.",
+      "published": "Mon, 04 May 2026 21:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway'",
+      "link": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
+      "summary": "Spirit Airlines shut down before dawn on Saturday ending its run as the most famous U.S. discount airline.",
+      "published": "Mon, 04 May 2026 21:28:34 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Circle leads crypto stocks higher as stablecoin deal puts critical bill back in play",
+      "link": "https://www.marketwatch.com/story/bitcoin-busted-through-80-000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now-038c252f?mod=mw_rss_topstories",
+      "summary": "Progress on the long-stalled Clarity Act is helping to put some spring back in crypto’s step",
+      "published": "Mon, 04 May 2026 21:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "MKiŚ odpowiedziało na sugestie, że system kaucyjny jest jak \"karuzela VAT-owska\"",
       "link": "https://www.money.pl/finanse/mkis-odpowiedzialo-na-sugestie-ze-system-kaucyjny-jest-jak-karuzela-vat-owska-7282367685982240a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9ce0f2a4-8731-4f92-9368-87a58268d278\" width=\"308\" /> Ministerstwo Klimatu i Środowiska przekonuje w komunikacie, że w systemie kaucyjnym wartość kaucji przez cały łańcuch dostaw „podąża” razem z opakowaniem, a po jego zwrocie jest wypłacana klientowi. Resort podkreśla też, że przepisy nie przewidują mechanizmu zwrotu wstecz",
       "published": "Mon, 04 May 2026 21:25:25 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Novo Nordisk’s head start on GLP-1 pills forces investors to rethink Eli Lilly's dominance",
+      "link": "https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html",
+      "summary": "Early signs from the launch of Novo Nordisk's Wegovy pill and Eli Lilly & Co.'s Foundayo are making investors rethink the opportunity for GLP-1 pills.",
+      "published": "Mon, 04 May 2026 21:13:28 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "AMD’s stock has surged ahead of earnings, but this analyst sees a problem ahead",
+      "link": "https://www.marketwatch.com/story/amds-stock-has-surged-ahead-of-earnings-but-this-analyst-sees-a-problem-ahead-2876dc39?mod=mw_rss_topstories",
+      "summary": "AMD may not be able to sufficiently capture CPU upside because it doesn’t manufacture its own chips, an analyst says.",
+      "published": "Mon, 04 May 2026 21:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Spirit Airlines is no more, but discount plane tickets are here to stay",
+      "link": "https://www.marketwatch.com/story/spirit-airlines-is-no-more-but-discount-plane-tickets-are-here-to-stay-57a97ffc?mod=mw_rss_topstories",
+      "summary": "There’s still a place for low-cost carriers, even if it’s getting tougher for them to compete.",
+      "published": "Mon, 04 May 2026 21:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘There is an imbalance of power’: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?",
+      "link": "https://www.marketwatch.com/story/there-is-an-imbalance-of-power-my-husband-has-cancer-why-must-we-wait-two-hours-for-a-10-minute-ct-scan-143816e9?mod=mw_rss_topstories",
+      "summary": "“This letter is in memory of all the patients who died waiting for their medical appointments to begin.”",
+      "published": "Mon, 04 May 2026 20:59:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Paramount earnings, revenue beat expectations as streaming business offers a boost",
+      "link": "https://www.cnbc.com/2026/05/04/paramount-skydance-psky-earnings-q1-2026.html",
+      "summary": "Paramount Skydance said it added streaming subscribers during the first quarter even as it instituted its first price hike since 2024.",
+      "published": "Mon, 04 May 2026 20:48:58 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Dolar przerywa spadki! Kurs USD/PLN wraca w rejon 3,64 zł. Niedługo może być znacznie droższy",
+      "link": "https://comparic.pl/dolar-przerywa-spadki-kurs-usd-pln-wraca-w-rejon-364-zl-niedlugo-moze-byc-znacznie-drozszy-04-05-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"656\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar-5-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar-5-1-324x235.jpg\" st",
+      "published": "Mon, 04 May 2026 20:29:39 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Cena ropy mocno rośnie po atakach Iranu. Impas w cieśninie Ormuz",
+      "link": "https://businessinsider.com.pl/gospodarka/cena-ropy-rosnie-po-atakach-iranu-na-zjednoczone-emiraty-arabskie/rgytp2h",
+      "summary": "Cena ropy mocno rośnie w poniedziałek wieczorem, przekraczając 114 dol. za baryłkę, po tym, jak doszło do największej eskalacji konfliktu na Bliskim Wschodzie od czasu zawieszenia broni, a Iran zaatakował Zjednoczone Emiraty Arabskie.",
+      "published": "Mon, 04 May 2026 20:19:10 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Czy XRP powtórzy wzrost z 2017 roku? Analiza możliwego scenariusza",
+      "link": "https://comparic.pl/czy-xrp-powtorzy-wzrost-z-2017-roku-analiza-mozliwego-scenariusza/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Mon, 04 May 2026 20:05:45 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
+      "link": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
+      "summary": "UPS and FedEx stocks sank Monday after Amazon announced it was opening up its supply chain network to outside companies.",
+      "published": "Mon, 04 May 2026 20:03:20 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
       "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 04.05.2026",
@@ -274,52 +394,12 @@
       "category": "pl"
     },
     {
-      "title": "Beef prices are near record levels. The DOJ wants to know if something shady is afoot.",
-      "link": "https://www.marketwatch.com/story/beef-prices-are-near-record-levels-the-doj-wants-to-know-if-something-shady-is-afoot-964a74d5?mod=mw_rss_topstories",
-      "summary": "The summer grilling season, smaller cattle herds, droughts, wildfires, processing-plant closures and other supply disruptions have helped push meat prices to record highs this year. Now, the U.S. government is investigating whether corporate consolidation is also at play.",
-      "published": "Mon, 04 May 2026 19:44:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Global oil prices top $114 and settle at 4-year high after Iranian attacks on U.A.E. revive worries of further supply disruptions",
-      "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
-      "summary": "Global oil prices surpassed $114 per barrel on Monday after Iran ramped up attacks on energy facilities and ships in the Middle East.",
-      "published": "Mon, 04 May 2026 19:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Amazon is taking on FedEx and UPS. That may not be so simple.",
-      "link": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories",
-      "summary": "FedEx and UPS shares are falling, but one analyst isn’t sure that Amazon’s new service will have a significantly disruptive effect.",
-      "published": "Mon, 04 May 2026 19:41:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "GameStop launches a $56 billion bid for eBay — but the math isn’t working out",
-      "link": "https://www.marketwatch.com/story/gamestop-launches-a-56-billion-bid-for-ebay-but-the-math-isnt-working-out-66da416e?mod=mw_rss_topstories",
-      "summary": "While eBay shares are rising, Wall Street is questioning the financial engineering that would be required for GameStop to acquire a company nearly three times its size.",
-      "published": "Mon, 04 May 2026 19:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nowe cła Trumpa uderzają w Niemcy! Czy to początek nowej wojny handlowej?",
       "link": "https://comparic.pl/nowe-cla-trumpa-uderzaja-w-niemcy-czy-to-poczatek-nowej-wojny-handlowej/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"686\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-cla-Niemcy-motoryzacja-samochody-taryfy-wojna-handlowa-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-cla-Niemc",
       "published": "Mon, 04 May 2026 19:30:19 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
-      "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
-      "summary": "“I do better than many citizens because I’ve contributed at the highest level.”",
-      "published": "Mon, 04 May 2026 19:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "How Chinese carmaker Geely put roots in the U.S.",
@@ -330,44 +410,12 @@
       "category": "us"
     },
     {
-      "title": "Your Spirit loyalty points are probably worthless now — but these other airlines may match your rewards",
-      "link": "https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories",
-      "summary": "Loyal customers who amassed thousands of points through flight purchases and credit-card swipes might not see a penny in compensation for their accumulated rewards.",
-      "published": "Mon, 04 May 2026 19:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ukraiński gigant żegna się z Polską. Wytrzymał tylko trzy lata",
       "link": "https://businessinsider.com.pl/finanse/ukrainski-gigant-vovk-zegna-sie-z-polska-jeden-z-powodow-jest-zaskakujacy/6k6x1lm",
       "summary": "Ukraińska sieć Vovk, lider segmentu fast fashion u naszych sąsiadów, po blisko trzech latach zamyka działalność w Polsce. Na porażkę złożyła się m.in. strategia oparta głównie na ukraińskich konsumentach.",
       "published": "Mon, 04 May 2026 19:08:16 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘He is constantly criticizing her’: My son-in-law told my daughter to give up her job. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/he-is-constantly-criticizing-her-my-son-in-law-told-my-daughter-to-give-up-her-job-do-i-intervene-eaef801a?mod=mw_rss_topstories",
-      "summary": "“In 2025, she made $35,000-$40,000 working as a physical therapist.”",
-      "published": "Mon, 04 May 2026 19:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘We’re worried the honey pot will run dry’: Does the government borrow from my Social Security to fund federal programs?",
-      "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
-      "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
-      "published": "Mon, 04 May 2026 18:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "This chart is a flashing warning sign that the Fed might yet rattle the markets with rate hikes by year-end",
-      "link": "https://www.marketwatch.com/story/this-chart-is-a-flashing-warning-sign-that-the-fed-might-yet-rattle-the-markets-with-rate-hikes-by-year-end-94c25b10?mod=mw_rss_topstories",
-      "summary": "The U.S. bond market is increasingly concerned that accelerating inflation could pressure the Federal Reserve to raise interest rates to try and tamp down price pressures — even as U.S. stocks continued to trade near record highs on Monday.",
-      "published": "Mon, 04 May 2026 18:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Bitcoin do 140 000 USD? Tak, ale najpierw bolesna korekta. Oto scenariusz na najbliższe kwartały",
@@ -394,28 +442,12 @@
       "category": "other"
     },
     {
-      "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
-      "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
-      "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
-      "published": "Mon, 04 May 2026 18:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Tether kupił tylko 6 ton złota zamiast 27! Co się stało z największym emitentem stablecoina?",
       "link": "https://comparic.pl/tether-kupil-tylko-6-ton-zlota-zamiast-27-co-sie-stalo-z-najwiekszym-emitentem-stablecoina/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"686\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Tether-zloto-gold-usdt-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Tether-zloto-gold-usdt-1-324x235.webp\" st",
       "published": "Mon, 04 May 2026 18:34:44 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Novo Nordisk’s Wegovy head start on pills forces investors to rethink Eli Lilly's GLP-1 dominance",
-      "link": "https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html",
-      "summary": "Early signs from the launch of Novo Nordisk's Wegovy pill and Eli Lilly & Co.'s Foundayo are making investors rethink the opportunity for GLP-1 pills.",
-      "published": "Mon, 04 May 2026 18:31:22 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Emmanuel Macron ostrzega wielkie firmy. Chodzi o ceny paliw",
@@ -432,14 +464,6 @@
       "published": "Mon, 04 May 2026 18:17:33 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
-      "link": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
-      "summary": "UPS and FedEx stocks sank Monday after Amazon announced it was opening up its supply chain network to outside companies.",
-      "published": "Mon, 04 May 2026 18:04:46 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Przełomowy ETF na Wall Street wstrzymany! Dlaczego SEC opóźnia debiut funduszy opartych na rynkach prognostycznych?",
@@ -570,14 +594,6 @@
       "category": "other"
     },
     {
-      "title": "Cena złota ostro w dół – odbicie już wymazane! Analitycy ostrzegają przed spadkiem o blisko 10%",
-      "link": "https://comparic.pl/cena-zlota-ostro-w-dol-odbicie-juz-wymazane-analitycy-ostrzegaja-przed-spadkiem-o-blisko-10/",
-      "summary": "<img alt=\"złoto\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/zloto-chatgpt.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"złoto\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/zloto-chatgpt-324x235.jpg\" style=\"float: left; m",
-      "published": "Mon, 04 May 2026 14:29:13 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Oto jak różnią się ceny OC między miastami. W rankingu jest \"duże zaskoczenie\"",
       "link": "https://www.money.pl/mobility/oto-jak-roznia-sie-ceny-oc-miedzy-miastami-w-rankingu-jest-duze-zaskoczenie-7282264746588192a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/883e112f-bcb2-4cd9-bfb5-d2a4ea9c72df\" width=\"308\" /> W czołówce miast z najdroższymi stawkami ubezpieczenia OC pozostają Wrocław i Gdańsk. Kierowcy płacą tam o ponad 200 zł więcej niż wynosi mediana dla całego kraju. Do ścisłej czołówki awansował też Poznań. Jak piszą autorzy raportu firmy Rankomat.pl, \"dużym zaskoczeniem\" ",
@@ -592,14 +608,6 @@
       "published": "Mon, 04 May 2026 14:16:39 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "JSW akcje prognozy na najbliższe dni: JSW rośnie o 10%, ale strefa 30 zł wciąż blokuje dalsze wzrosty! Czy będzie kolejna fala euforii?",
-      "link": "https://comparic.pl/jsw-akcje-prognozy-na-najblizsze-dni-jsw-rosnie-o-10-ale-strefa-30-zl-wciaz-blokuje-dalsze-wzrosty-czy-bedzie-kolejna-fala-euforii/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"683\" src=\"https://comparic.pl/wp-content/uploads/2026/03/jsw-cc-zielono.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1362\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/jsw-cc-zielono-324x235.jpg\" style=\"float: left; margin: 0 ",
-      "published": "Mon, 04 May 2026 14:07:31 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Wskaźnik dla strefy euro osiągnął najwyższy poziom od prawie czterech lat",
@@ -672,14 +680,6 @@
       "published": "Mon, 04 May 2026 12:46:47 GMT",
       "source": "BusinessInsider.pl",
       "category": "crypto"
-    },
-    {
-      "title": "Przed Elonem Muskiem stoi poważne wyzwanie. Może otrzymać miliardy dol.",
-      "link": "https://businessinsider.com.pl/finanse/tesla-moze-przekazac-elonowi-muskowi-158-mld-dol-wszystko-pod-jednym-warunkiem/3lm5s7g",
-      "summary": "Elon Musk może otrzymać od Tesli pakiet wynagrodzeń wynoszący 158 mld dol. Aby otrzymać tę kwotę od swojej firmy, miliarder musi jednak wywiązać się z kilku poważnych zobowiązań.",
-      "published": "Mon, 04 May 2026 12:43:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
