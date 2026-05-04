@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T16:54:34.154790",
+  "generated_at": "2026-05-04T19:50:16.310630",
   "articles": [
     {
       "title": "Rivian renegotiates DOE loan down to $4.5 billion, adjusts capacity plans for Georgia plant",
@@ -34,26 +34,10 @@
       "category": "us"
     },
     {
-      "title": "Hershey says GLP-1s are driving higher gum and mint sales",
-      "link": "https://www.cnbc.com/2026/04/30/hershey-gum-mints-ozempic-breath.html",
-      "summary": "Sales of Hershey's Ice Breakers rose 8% in the first quarter, thanks to the trend.",
-      "published": "Thu, 30 Apr 2026 15:49:09 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "FDA proposes excluding Novo, Lilly weight loss drugs from bulk compounding list in win for the companies",
       "link": "https://www.cnbc.com/2026/04/30/fda-novo-lilly-glp-1s-compounding.html",
       "summary": "If that proposal is finalized, the exclusion would likely limit the mass compounding of those medicines ​unless they appear on the FDA's ⁠drug shortage ⁠list.",
       "published": "Thu, 30 Apr 2026 15:02:15 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Lawyers to the wealthy warn that AI legal advice comes with serious risks",
-      "link": "https://www.cnbc.com/2026/04/30/ai-legal-advice-lawyers-risks.html",
-      "summary": "Asking ChatGPT how to divide your fortune or design a prenup can be used against you in court, lawyers say.",
-      "published": "Thu, 30 Apr 2026 12:37:13 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -90,10 +74,42 @@
       "category": "us"
     },
     {
-      "title": "Premier Kanady deklaruje 270 mln dolarów wsparcia dla ukraińskiej armii",
-      "link": "https://www.bankier.pl/wiadomosc/Premier-Kanady-deklaruje-270-mln-dolarow-wsparcia-dla-ukrainskiej-armii-9127539.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/f/b38ffce7507133-948-568-0-90-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kanada przekaże 270 mln dolarów kanadyjskich (ok. 200 mln USD) pomocy dla ukraińskiej armii – poinformował premier Mark Carney, który w poniedziałek spotkał się w Erywaniu z ukr",
-      "published": "Mon, 4 May 2026 18:39:00 +0100",
+      "title": "Putin ogłasza rozejm na 8 i 9 maja. Pułapka czy gest pod presją Trumpa?",
+      "link": "https://www.bankier.pl/wiadomosc/Putin-oglasza-rozejm-na-8-i-9-maja-Pulapka-czy-gest-pod-presja-Trumpa-9127560.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/e/0444ac905e6cd1-948-568-180-254-2687-1612.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rosyjski przywódca Władimir Putin zdecydował o wprowadzeniu dwudniowego zawieszenia broni w wojnie z Ukrainą, obowiązującego 8 i 9 maja – poinformowała w poniedziałek agencja",
+      "published": "Mon, 4 May 2026 19:57:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Samochód wjechał w tłum w Lipsku. Jedna osoba nie żyje, 25 jest rannych",
+      "link": "https://www.bankier.pl/wiadomosc/Samochod-wjechal-w-tlum-w-Lipsku-Jedna-osoba-nie-zyje-25-jest-rannych-9127557.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/e/78713e757393a7-948-568-0-0-3890-2333.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jedna osoba zginęła, a 25 zostało rannych w centrum Lipska we wschodnich Niemczech, gdzie w poniedziałek samochód wjechał w grupę ludzi. Sprawca został zatrzymany. Według mediów ",
+      "published": "Mon, 4 May 2026 19:39:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kryptoskandal w Pradze. Były minister Pavel Blažek z zarzutami za bitcoiny od dilera",
+      "link": "https://www.bankier.pl/wiadomosc/Kryptoskandal-w-Pradze-Byly-minister-Pavel-Blazek-z-zarzutami-za-bitcoiny-od-dilera-9127555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/d/d4c5a4986849ac-945-560-75-75-2072-1243.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Policja postawiła zarzuty trzem osobom w związku ze sprawą przyjęcia przez państwo jako darowiznę bitcoinów najprawdopodobniej pochodzących z działalności przestępczej. Według ",
+      "published": "Mon, 4 May 2026 19:34:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump: Iran zostanie zmieciony z powierzchni Ziemi, jeśli zaatakuje USA",
+      "link": "https://www.bankier.pl/wiadomosc/Trump-Iran-zostanie-zmieciony-z-powierzchni-Ziemi-jesli-zaatakuje-USA-9127554.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/b1d765f6d9ae41-948-568-0-0-3920-2351.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump zagroził w rozmowie z Fox News, że Iran „zostanie zmieciony z powierzchni Ziemi”, jeśli zaatakuje siły USA pomagające w żegludze przez cieśninę Ormuz. ",
+      "published": "Mon, 4 May 2026 19:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Chaos w Cieśninie Ormuz. Amerykanie zatopili sześć irańskich jednostek",
+      "link": "https://www.bankier.pl/wiadomosc/Chaos-w-Ciesninie-Ormuz-Amerykanie-zatopili-szesc-iranskich-jednostek-9127551.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/8/914caf70b11b55-948-569-67-19-1146-688.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef Dowództwa Centralnego USA (CENTCOM) adm. Brad Cooper powiedział w poniedziałek, że Iran zaatakował amerykańskie okręty oraz statki handlowe, a w odpowiedzi siły USA zatopił",
+      "published": "Mon, 4 May 2026 19:09:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -114,42 +130,10 @@
       "category": "pl"
     },
     {
-      "title": "RN Grupy Azoty powołuje Jacka Podgórskiego na wiceprezesa spółki",
-      "link": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powolania-Jacka-Podgorskiego-na-wiceprezesa-spolki-9127513.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/2/669d66ca1f1bd8-904-542-40-20-904-542.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rada nadzorcza Grupy Azoty powołuje Jacka Podgórskiego w skład zarządu spółki, powierzając mu funkcję wiceprezesa - poinformowała spółka w komunikacie.</p>",
-      "published": "Mon, 4 May 2026 18:02:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szachy na wodzie: USA eskortują statki, a Niemcy wysyłają trałowiec pod nos Iranu",
-      "link": "https://www.bankier.pl/wiadomosc/Szachy-na-wodzie-USA-eskortuja-statki-a-Niemcy-wysylaja-tralowiec-pod-nos-Iranu-9127506.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/3/7d0d697b518d3c-948-568-1065-528-2080-1247.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Niemiecki trałowiec Fulda wypłynął w poniedziałek z portu w Kilonii na Morze Śródziemne. Okręt może zostać użyty przy zabezpieczaniu cieśniny Ormuz, jeśli rząd w Berlinie zd",
-      "published": "Mon, 4 May 2026 17:56:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Podatek od nadzwyczajnych zysków? Europa patrzy na ręce producentom ropy",
-      "link": "https://www.bankier.pl/wiadomosc/Podatek-od-nadzwyczajnych-zyskow-Europa-patrzy-na-rece-producentom-ropy-9127504.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/6/00fc15d24d88bb-948-568-450-90-3550-2129.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Francji Emmanuel Macron powiedział w poniedziałek w Armenii, że kraje europejskie będą musiały zareagować w przypadku „nadmiernych” zysków z ropy naftowej lub zachow",
-      "published": "Mon, 4 May 2026 17:53:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Alarm przeciwlotniczy nad Dubajem i Abu Zabi. Pierwszy taki atak od 8 kwietnia",
       "link": "https://www.bankier.pl/wiadomosc/Alarm-przeciwlotniczy-nad-Dubajem-i-Abu-Zabi-Pierwszy-taki-atak-od-8-kwietnia-9127494.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/3/27994ca32028a8-948-568-20-140-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo obrony Zjednoczonych Emiratów Arabskich poinformowało o przechwyceniu w poniedziałek trzech rakiet wystrzelonych z Iranu. Czwarta spadła do morza. W ZEA ogłoszono",
       "published": "Mon, 4 May 2026 17:41:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "WP rośnie na reklamach, ale traci na wakacjach. Wojna na Bliskim Wschodzie uderzyła w wyniki",
-      "link": "https://www.bankier.pl/wiadomosc/Grupa-Wirtualna-Polska-Holding-szacuje-ze-w-I-kw-skoryg-EBITDA-wyniosla-97-8-mln-zl-9127492.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/6/f5dbf2af1c09ad-945-560-19-118-3927-2356.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grupa Wirtualna Polska Holding szacuje, że w I kwartale 2026 r. osiągnęła przychody gotówkowe ze sprzedaży na poziomie 543,3 mln zł, co oznacza wzrost o 48 proc. rdr, a skoryg",
-      "published": "Mon, 4 May 2026 17:40:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -174,14 +158,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Koniec-bezclowej-stali-z-Ukrainy-Polska-przeforsowala-twarde-limity-w-Brukseli-9127453.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/1/68a6c822273726-948-568-0-118-1900-1139.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja Europejska uwzględniła polski postulat objęcia Ukrainy pełnym zakresem nowych regulacji ochronnych dla unijnego rynku stali, który ma obowiązywać od lipca - podało Mini",
       "published": "Mon, 4 May 2026 16:47:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Biejat w Kopenhadze: Wykluczmy platformy z Europy, jeśli sieją kłamstwa i chaos",
-      "link": "https://www.bankier.pl/wiadomosc/Biejat-w-Kopenhadze-Wykluczmy-platformy-z-Europy-jesli-sieja-klamstwa-i-chaos-9127443.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/b/dcdf712b7f5de5-945-560-0-60-1737-1042.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicemarszałkini Senatu Magdalena Biejat podczas Konferencji Przewodniczących Parlamentów UE w Kopenhadze wezwała do wprowadzenia solidnych regulacji działalności platform cyfrow",
-      "published": "Mon, 4 May 2026 16:28:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -234,6 +210,14 @@
       "category": "pl"
     },
     {
+      "title": "Benzyna w górę, diesel bez zmian. Nowe limity na stacjach paliw na 5 maja",
+      "link": "https://www.bankier.pl/wiadomosc/Benzyna-w-gore-diesel-bez-zmian-Nowe-limity-na-stacjach-paliw-9127287.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/0/181b83bdff5ba3-948-568-0-129-1995-1196.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Maksymalna cena dla benzyny Pb95 wynosi 6,49 zł/l, dla benzyny Pb98 6,99 zł/l, a dla oleju napędowego 7,31 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monit",
+      "published": "Mon, 4 May 2026 12:46:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "Apple Watch lub 1200 zł w promocjach Citi Handlowego. Ale musisz się pospieszyć",
       "link": "https://www.bankier.pl/wiadomosc/Apple-Watch-lub-1200-zl-w-promocjach-Citi-Handlowego-Ale-musisz-sie-pospieszyc-9125671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/c/7f6518361ccf91-948-568-0-0-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bank Citi Handlowy przygotował imponującą ofertę \"na pożegnanie\" przed zbliżającym się przejęciem przez VeloBank. W ramach ostatnich promocji na karty kredytowe Citi Simplicity o",
@@ -250,6 +234,198 @@
       "category": "pl"
     },
     {
+      "title": "MKiŚ odpowiedziało na sugestie, że system kaucyjny jest jak \"karuzela VAT-owska\"",
+      "link": "https://www.money.pl/finanse/mkis-odpowiedzialo-na-sugestie-ze-system-kaucyjny-jest-jak-karuzela-vat-owska-7282367685982240a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9ce0f2a4-8731-4f92-9368-87a58268d278\" width=\"308\" /> Ministerstwo Klimatu i Środowiska przekonuje w komunikacie, że w systemie kaucyjnym wartość kaucji przez cały łańcuch dostaw „podąża” razem z opakowaniem, a po jego zwrocie jest wypłacana klientowi. Resort podkreśla też, że przepisy nie przewidują mechanizmu zwrotu wstecz",
+      "published": "Mon, 04 May 2026 21:25:25 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 04.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-04-05-2026-7282346659596352a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 04.05.2026. W poniedziałek wieczorem za jednego franka (CHF) trzeba zapłacić 4.64639 zł.",
+      "published": "Mon, 04 May 2026 19:53:00 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 04.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-04-05-2026-7282346646911040a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 04.05.2026. W poniedziałek wieczorem za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.92720 zł.",
+      "published": "Mon, 04 May 2026 19:50:49 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 04.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-04-05-2026-7282346634508352a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 04.05.2026. W poniedziałek wieczorem za jedno euro (EUR) trzeba zapłacić 4.25717 zł.",
+      "published": "Mon, 04 May 2026 19:49:20 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 04.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-04-05-2026-7282346622048320a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 04.05.2026. W poniedziałek wieczorem za jednego dolara (USD) trzeba zapłacić 3.64064 zł.",
+      "published": "Mon, 04 May 2026 19:45:10 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Beef prices are near record levels. The DOJ wants to know if something shady is afoot.",
+      "link": "https://www.marketwatch.com/story/beef-prices-are-near-record-levels-the-doj-wants-to-know-if-something-shady-is-afoot-964a74d5?mod=mw_rss_topstories",
+      "summary": "The summer grilling season, smaller cattle herds, droughts, wildfires, processing-plant closures and other supply disruptions have helped push meat prices to record highs this year. Now, the U.S. government is investigating whether corporate consolidation is also at play.",
+      "published": "Mon, 04 May 2026 19:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Global oil prices top $114 and settle at 4-year high after Iranian attacks on U.A.E. revive worries of further supply disruptions",
+      "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
+      "summary": "Global oil prices surpassed $114 per barrel on Monday after Iran ramped up attacks on energy facilities and ships in the Middle East.",
+      "published": "Mon, 04 May 2026 19:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Amazon is taking on FedEx and UPS. That may not be so simple.",
+      "link": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories",
+      "summary": "FedEx and UPS shares are falling, but one analyst isn’t sure that Amazon’s new service will have a significantly disruptive effect.",
+      "published": "Mon, 04 May 2026 19:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "GameStop launches a $56 billion bid for eBay — but the math isn’t working out",
+      "link": "https://www.marketwatch.com/story/gamestop-launches-a-56-billion-bid-for-ebay-but-the-math-isnt-working-out-66da416e?mod=mw_rss_topstories",
+      "summary": "While eBay shares are rising, Wall Street is questioning the financial engineering that would be required for GameStop to acquire a company nearly three times its size.",
+      "published": "Mon, 04 May 2026 19:32:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nowe cła Trumpa uderzają w Niemcy! Czy to początek nowej wojny handlowej?",
+      "link": "https://comparic.pl/nowe-cla-trumpa-uderzaja-w-niemcy-czy-to-poczatek-nowej-wojny-handlowej/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"686\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-cla-Niemcy-motoryzacja-samochody-taryfy-wojna-handlowa-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-cla-Niemc",
+      "published": "Mon, 04 May 2026 19:30:19 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
+      "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
+      "summary": "“I do better than many citizens because I’ve contributed at the highest level.”",
+      "published": "Mon, 04 May 2026 19:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "How Chinese carmaker Geely put roots in the U.S.",
+      "link": "https://www.cnbc.com/2026/05/04/chinese-carmaker-geely.html",
+      "summary": "Chinese company Zhejiang Geely Holding Group has big investments in three automakers already doing business in the U.S.",
+      "published": "Mon, 04 May 2026 19:22:49 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Your Spirit loyalty points are probably worthless now — but these other airlines may match your rewards",
+      "link": "https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories",
+      "summary": "Loyal customers who amassed thousands of points through flight purchases and credit-card swipes might not see a penny in compensation for their accumulated rewards.",
+      "published": "Mon, 04 May 2026 19:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ukraiński gigant żegna się z Polską. Wytrzymał tylko trzy lata",
+      "link": "https://businessinsider.com.pl/finanse/ukrainski-gigant-vovk-zegna-sie-z-polska-jeden-z-powodow-jest-zaskakujacy/6k6x1lm",
+      "summary": "Ukraińska sieć Vovk, lider segmentu fast fashion u naszych sąsiadów, po blisko trzech latach zamyka działalność w Polsce. Na porażkę złożyła się m.in. strategia oparta głównie na ukraińskich konsumentach.",
+      "published": "Mon, 04 May 2026 19:08:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘He is constantly criticizing her’: My son-in-law told my daughter to give up her job. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/he-is-constantly-criticizing-her-my-son-in-law-told-my-daughter-to-give-up-her-job-do-i-intervene-eaef801a?mod=mw_rss_topstories",
+      "summary": "“In 2025, she made $35,000-$40,000 working as a physical therapist.”",
+      "published": "Mon, 04 May 2026 19:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘We’re worried the honey pot will run dry’: Does the government borrow from my Social Security to fund federal programs?",
+      "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+      "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
+      "published": "Mon, 04 May 2026 18:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "This chart is a flashing warning sign that the Fed might yet rattle the markets with rate hikes by year-end",
+      "link": "https://www.marketwatch.com/story/this-chart-is-a-flashing-warning-sign-that-the-fed-might-yet-rattle-the-markets-with-rate-hikes-by-year-end-94c25b10?mod=mw_rss_topstories",
+      "summary": "The U.S. bond market is increasingly concerned that accelerating inflation could pressure the Federal Reserve to raise interest rates to try and tamp down price pressures — even as U.S. stocks continued to trade near record highs on Monday.",
+      "published": "Mon, 04 May 2026 18:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Bitcoin do 140 000 USD? Tak, ale najpierw bolesna korekta. Oto scenariusz na najbliższe kwartały",
+      "link": "https://comparic.pl/bitcoin-do-140-000-usd-tak-ale-najpierw-bolesna-korekta-oto-scenariusz-na-najblizsze-kwartaly/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"686\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Bitcoin-Ethereum-BTC-ETH-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Bitcoin-Ethereum-BTC-ETH-1-324x235.webp",
+      "published": "Mon, 04 May 2026 18:56:24 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+      "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+      "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
+      "published": "Mon, 04 May 2026 18:55:20 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Spotkanie Trump-Xi coraz bliżej. USA apelują do Chin w sprawie Ormuz",
+      "link": "https://businessinsider.com.pl/wiadomosci/ciesnina-ormuz-zamknieta-bessent-wzywa-chiny-do-nacisku-na-iran/5pb882h",
+      "summary": "Sekretarz Skarbu USA Scott Bessent wezwał w poniedziałek Chiny do zintensyfikowania działań dyplomatycznych, aby przekonać Iran do otwarcia cieśniny Ormuz.",
+      "published": "Mon, 04 May 2026 18:45:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The market is riding high on an AI spending boom — but what could crack this rally?",
+      "link": "https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories",
+      "summary": "Earnings have dazzled in Q1, but continued upward revisions to 2026 outlooks have been highly concentrated.",
+      "published": "Mon, 04 May 2026 18:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tether kupił tylko 6 ton złota zamiast 27! Co się stało z największym emitentem stablecoina?",
+      "link": "https://comparic.pl/tether-kupil-tylko-6-ton-zlota-zamiast-27-co-sie-stalo-z-najwiekszym-emitentem-stablecoina/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"686\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Tether-zloto-gold-usdt-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Tether-zloto-gold-usdt-1-324x235.webp\" st",
+      "published": "Mon, 04 May 2026 18:34:44 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Novo Nordisk’s Wegovy head start on pills forces investors to rethink Eli Lilly's GLP-1 dominance",
+      "link": "https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html",
+      "summary": "Early signs from the launch of Novo Nordisk's Wegovy pill and Eli Lilly & Co.'s Foundayo are making investors rethink the opportunity for GLP-1 pills.",
+      "published": "Mon, 04 May 2026 18:31:22 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Emmanuel Macron ostrzega wielkie firmy. Chodzi o ceny paliw",
+      "link": "https://businessinsider.com.pl/gospodarka/nadmierne-zyski-koncernow-paliwowych-emmanuel-macron-ostrzega/74g7xq2",
+      "summary": "Choć na razie Europa powstrzymuje się od drastycznych kroków, prezydent Francji Emmanuel Macron zapowiada, że będzie musiała zareagować, jeśli zyski producentów staną się \"nadmierne\".",
+      "published": "Mon, 04 May 2026 18:23:49 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "\"Drapieżny\" zysk z ropy naftowej. Macron zabiera głos",
       "link": "https://www.money.pl/gospodarka/drapiezny-zysk-z-ropy-naftowej-macron-zabiera-glos-7282321397585952a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/f4848dc4-dc2a-468d-98f4-ae9b221927cb\" width=\"308\" /> Prezydent Francji Emmanuel Macron powiedział, że kraje europejskie będą musiały zareagować w przypadku \"nadmiernych\" zysków z ropy naftowej lub zachowań, które określił jako \"nieco drapieżne\". Podkreślił jednak, że na razie producenci nie podnoszą cen w sposób celowy.",
@@ -258,20 +434,52 @@
       "category": "pl"
     },
     {
-      "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
-      "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
-      "summary": "The move marks Anthropic's latest effort to deepen its lead in the market for enterprise AI as competition intensifies with rivals including OpenAI",
-      "published": "Mon, 04 May 2026 16:46:31 GMT",
+      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
+      "link": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
+      "summary": "UPS and FedEx stocks sank Monday after Amazon announced it was opening up its supply chain network to outside companies.",
+      "published": "Mon, 04 May 2026 18:04:46 GMT",
       "source": "CNBC",
       "category": "us"
     },
     {
-      "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
-      "link": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
-      "summary": "UPS and FedEx stocks sank Monday after Amazon announced it was opening up its supply chain network to outside companies.",
-      "published": "Mon, 04 May 2026 16:39:36 GMT",
-      "source": "CNBC",
-      "category": "us"
+      "title": "Przełomowy ETF na Wall Street wstrzymany! Dlaczego SEC opóźnia debiut funduszy opartych na rynkach prognostycznych?",
+      "link": "https://comparic.pl/przelomowy-etf-na-wall-street-wstrzymany-dlaczego-sec-opoznia-debiut-funduszy-opartych-na-rynkach-prognostycznych/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"799\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-7.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-",
+      "published": "Mon, 04 May 2026 17:54:33 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rafamet gwiazdą GPW! Akcje wystrzeliły dziś o 27% po ujawnieniu przez ARP planów rządu wobec spółki",
+      "link": "https://comparic.pl/rafamet-gwiazda-gpw-akcje-wystrzelily-dzis-o-27-po-ujawnieniu-przez-arp-planow-rzadu-wobec-spolki/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-rafamet.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-rafamet-324x235.webp\" style=\"float: left; margin: 0 15px 1",
+      "published": "Mon, 04 May 2026 17:28:59 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Nie ma innego wyjścia\". Amerykańska linia kończy działalność",
+      "link": "https://businessinsider.com.pl/gospodarka/koniec-amerykanskiej-linii-lotniczej-spirit-airlines-dobila-wojna-w-iranie/y2nh6ft",
+      "summary": "Po miesiącach walki o przetrwanie i fiasku negocjacji z administracją rządową linie lotnicze Spirit Airlines oficjalnie znikają z nieba.",
+      "published": "Mon, 04 May 2026 17:09:31 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Władimir Putin coraz bardziej izolowany. Rosja wzmacnia ochronę",
+      "link": "https://businessinsider.com.pl/wiadomosci/wladimir-putin-boi-sie-zamachu-atak-dronow-wywolal-niepokoj/18m43nq",
+      "summary": "Władimir Putin coraz bardziej obawia się zamachu. Rosja zaostrzyła środki bezpieczeństwa — ustalił \"Financial Times\".",
+      "published": "Mon, 04 May 2026 17:08:17 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Co dalej z ceną srebra? Bank of America prognozuje wzrost o 17% do 85,93 USD za uncję",
+      "link": "https://comparic.pl/co-dalej-z-cena-srebra-bank-of-america-prognozuje-wzrost-o-17-do-8593-usd-za-uncje/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"755\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-srebro-silver-xag-1-324x235.jpg\" styl",
+      "published": "Mon, 04 May 2026 16:55:30 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "How Spirit Airlines' demise will benefit rivals — and raise airfares even more",
@@ -290,14 +498,6 @@
       "category": "other"
     },
     {
-      "title": "Anthropic and OpenAI are following Palantir’s playbook as they seek to grow AI usage",
-      "link": "https://www.marketwatch.com/story/anthropic-and-openai-are-following-palantirs-playbook-as-they-seek-to-grow-ai-usage-c37ca6f2?mod=mw_rss_topstories",
-      "summary": "The artificial-intelligence labs have both finalized new joint ventures that aim to broaden their reach by embedding engineers with customers to offer refined, customized AI solutions.",
-      "published": "Mon, 04 May 2026 16:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ponad 35 mld złotych straty. Jest sprawozdanie NBP",
       "link": "https://www.money.pl/finanse/rekordowa-strata-nbp-jest-sprawozdanie-nbp-za-2025-r-7282295100450848a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b7288164-5afe-453f-957c-fffd8e9258bd\" width=\"308\" /> Strata NBP w 2025 r. wyniosła 35,740 mld zł wobec 13,347 mld zł w 2024 r. - poinformował NBP w sprawozdaniu za ubiegły rok.",
@@ -306,44 +506,12 @@
       "category": "pl"
     },
     {
-      "title": "Hospitals are still relying on fax machines and photocopies — and it’s costing you",
-      "link": "https://www.marketwatch.com/story/hospitals-are-still-relying-on-fax-machines-and-photocopies-and-its-costing-you-3331a7b1?mod=mw_rss_topstories",
-      "summary": "In the age of AI, there’s no reason the U.S. health system should be stuck in the analog era.",
-      "published": "Mon, 04 May 2026 16:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Here’s just how quickly Micron has risen up the ranks of the top U.S companies",
-      "link": "https://www.marketwatch.com/story/heres-just-how-quickly-micron-has-risen-up-the-ranks-of-the-top-u-s-companies-fd95ae8d?mod=mw_rss_topstories",
-      "summary": "At the start of last year, Micron wasn’t even among the top 100 U.S. companies. Its fortunes have changed dramatically since then.",
-      "published": "Mon, 04 May 2026 16:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Emerytura po 15 latach? Rząd chce zmian dla służb mundurowych",
       "link": "https://www.money.pl/finanse/15-lat-i-koniec-pracy-rzad-szykuje-zmiany-ktore-moga-zaskoczyc-7282287869483072a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8db74323-57d3-4ec1-b191-7f1f80971ca9\" width=\"308\" /> Ministerstwo Obrony Narodowej przygotowuje zmiany w systemie emerytur mundurowych – według \"Super Expressu\" możliwe będzie przejście na emeryturę już po 15 latach służby. Reforma ma objąć żołnierzy powołanych po 2012 r. i ujednolicić przepisy dla różnych służb mundurowych",
       "published": "Mon, 04 May 2026 16:10:59 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Global oil prices top $114 a barrel on worries over supply disruptions due to renewed Middle East tensions",
-      "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
-      "summary": "Global oil prices were surging back above $114 per barrel on Monday, with renewed tensions in the Middle East again at the forefront despite the U.S.-Iranian cease-fire agreed to about a month ago.",
-      "published": "Mon, 04 May 2026 16:10:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Here’s how much EV drivers say they’re saving on fuel as gas tops $4 a gallon",
-      "link": "https://www.marketwatch.com/story/ev-drivers-are-taking-a-victory-lap-right-past-the-gas-stations-selling-4-a-gallon-fuel-6931f634?mod=mw_rss_topstories",
-      "summary": "Electric-vehicle drivers are taking a victory lap as the war in Iran has slowed global oil supplies and pushed up the cost of gasoline.",
-      "published": "Mon, 04 May 2026 16:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Wieloryb ruszył na zakupy. Ta spółka chce przejąć 5% całego Ethereum!",
@@ -378,14 +546,6 @@
       "category": "pl"
     },
     {
-      "title": "‘He is constantly criticizing her’: My son-in-law told my daughter to give up her job. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/he-is-constantly-criticizing-her-my-son-in-law-told-my-daughter-to-give-up-her-job-do-i-intervene-eaef801a?mod=mw_rss_topstories",
-      "summary": "“In 2025, she made $35,000-$40,000 working as a physical therapist.”",
-      "published": "Mon, 04 May 2026 15:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Mało kto wie o tym świadczeniu ZUS. Zobacz, komu przysługuje",
       "link": "https://businessinsider.com.pl/finanse/co-to-jest-renta-szkoleniowa-od-zus-zobacz-komu-przysluguje-to-swiadczenie/0dnvmr5",
       "summary": "Zakład Ubezpieczeń Społecznych dysponuje narzędziem, które ma ułatwić powrót do aktywności zawodowej. Mowa o rencie szkoleniowej — wsparciu, o którym wciąż wie zbyt mało potrzebujących.",
@@ -400,14 +560,6 @@
       "published": "Mon, 04 May 2026 14:58:25 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Tesla just hit a ‘symbolic’ self-driving milestone. Real-world success will be tougher.",
-      "link": "https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories",
-      "summary": "Tesla has reached the threshold Musk once said would be required to achieve “safe unsupervised self-driving,” but the company still faces various hurdles.",
-      "published": "Mon, 04 May 2026 14:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Polacy chwalą transport publiczny. Nowy raport Jakdojade 2026",
@@ -434,30 +586,6 @@
       "category": "pl"
     },
     {
-      "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
-      "link": "https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories",
-      "summary": "The S&amp;P 500 just banked its best month since 2020 — but to keep those gains, stop celebrating and focus long-term.",
-      "published": "Mon, 04 May 2026 14:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Meet the unsinkable U.S. economy — oil prices are surging, Iran tensions are rising, but it won’t crack",
-      "link": "https://www.marketwatch.com/story/meet-the-unsinkable-u-s-economy-oil-prices-are-surging-iran-tensions-are-rising-but-it-wont-crack-ee27477f?mod=mw_rss_topstories",
-      "summary": "High tariffs, stubborn inflation, government shutdowns, war with Iran, rising oil prices — nothing in the turbulent past year has poked a hole in a seemingly unsinkable U.S. economy.",
-      "published": "Mon, 04 May 2026 14:21:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
-      "link": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
-      "summary": "With Apple officially retiring its net-cash-neutral target, some suspect the company will look to conduct more transformative M&amp;A, beyond the smaller deals it made in the past.",
-      "published": "Mon, 04 May 2026 14:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Państwowy gigant ograniczy zadłużenie. Z optymizmem patrzy na dwa sektory",
       "link": "https://businessinsider.com.pl/gielda/wiadomosci/grupa-azoty-wyjdzie-na-prosta-jest-szansa-na-znaczace-ograniczenie-zadluzenia/bj2t1mb",
       "summary": "Sprzedaż kłopotliwego biznesu pozwoli zdjąć z Grupy Azoty 4,7 mld zł zadłużenia. To duża część zobowiązań ciążących na państwowej spółce.",
@@ -470,14 +598,6 @@
       "link": "https://comparic.pl/jsw-akcje-prognozy-na-najblizsze-dni-jsw-rosnie-o-10-ale-strefa-30-zl-wciaz-blokuje-dalsze-wzrosty-czy-bedzie-kolejna-fala-euforii/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"683\" src=\"https://comparic.pl/wp-content/uploads/2026/03/jsw-cc-zielono.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1362\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/jsw-cc-zielono-324x235.jpg\" style=\"float: left; margin: 0 ",
       "published": "Mon, 04 May 2026 14:07:31 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Orlen akcje prognozy na najbliższe dni: Orlen bije rekordy! Nowe ATH i najwyższa dywidenda w historii napędzają euforię!",
-      "link": "https://comparic.pl/orlen-akcje-prognozy-na-najblizsze-dni-orlen-bije-rekordy-nowe-ath-i-najwyzsza-dywidenda-w-historii-napedzaja-euforie/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/03/orlen-cc-grafika.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/03/orlen-cc-grafika-324x235.webp\" style=\"float: left; mar",
-      "published": "Mon, 04 May 2026 14:06:13 +0000",
       "source": "Comparic.pl",
       "category": "pl"
     },
@@ -504,14 +624,6 @@
       "published": "Mon, 04 May 2026 13:40:01 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Oto największy wygrany na GPW w 2026 roku! Czy kolejna korekta to doskonała okazja?",
-      "link": "https://comparic.pl/oto-najwiekszy-wygrany-na-gpw-w-2026-roku-czy-kolejna-korekta-to-doskonala-okazja/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/05/medinice-graf.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/medinice-graf-324x235.webp\" style=\"float: left; margin: 0",
-      "published": "Mon, 04 May 2026 13:30:37 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Miliardy dla Polski z SAFE. Tusk: w piątek będziemy gotowi",
@@ -546,60 +658,12 @@
       "category": "other"
     },
     {
-      "title": "Czy wzrost cen mieszkań w 2026 roku przyspiesza? Sprawdzamy, gdzie wciąż jest tanio",
-      "link": "https://comparic.pl/czy-wzrost-cen-mieszkan-w-2026-roku-przyspiesza-sprawdzamy-gdzie-wciaz-jest-tanio/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"391\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-2.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"700\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads",
-      "published": "Mon, 04 May 2026 13:11:32 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 04.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-04-05-2026-7282247559141440a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 04.05.2026. W poniedziałek za jednego franka (CHF) trzeba zapłacić 4.64049 zł.",
-      "published": "Mon, 04 May 2026 13:01:41 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 04.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-04-05-2026-7282247144040512a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 04.05.2026. W poniedziałek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.92746 zł.",
-      "published": "Mon, 04 May 2026 13:00:33 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 04.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-04-05-2026-7282246711756864a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 04.05.2026. W poniedziałek za jedno euro (EUR) trzeba zapłacić 4.25797 zł.",
-      "published": "Mon, 04 May 2026 12:59:00 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 04.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-04-05-2026-7282246365435968a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 04.05.2026. W poniedziałek za jednego dolara (USD) trzeba zapłacić 3.6202 zł.",
-      "published": "Mon, 04 May 2026 12:57:00 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Hitowy produkt Apple wycofany ze sprzedaży. Nieoczywisty powód decyzji",
       "link": "https://businessinsider.com.pl/technologie/mac-mini-znika-z-oferty-apple-najtanszy-komputer-staje-sie-luksusem/pbgctdw",
       "summary": "Jeszcze niedawno był to jeden z najlepszych sposobów, by wejść w świat komputerów Apple. Teraz ta furtka została przymknięta, bo z oferty Apple zniknął jeden z najbardziej opłacalnych produktów.",
       "published": "Mon, 04 May 2026 12:51:58 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Bitcoin nie potrzebuje nowej narracji, by odzyskać 100 tys. dolarów",
-      "link": "https://comparic.pl/bitcoin-nie-potrzebuje-nowej-narracji-by-odzyskac-100-tys-dolarow/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/05/MINO-2.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/MINO-2-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" ",
-      "published": "Mon, 04 May 2026 12:49:55 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Kurs bitcoina zaliczył duże wahnięcie. Kryptowaluty pod wpływem doniesień z Iranu",
@@ -618,108 +682,12 @@
       "category": "other"
     },
     {
-      "title": "Zachód odmówił Ukrainie kluczowej broni. Kijów znalazł tańszą opcję na rażenie celów w Rosji",
-      "link": "https://businessinsider.com.pl/technologie/fala-wybuchow-w-rosji-ukraina-ma-sposob-na-razenie-moskwy-skuteczna-i-tania-bron/rwqkqle",
-      "summary": "Świat obiegły zdjęcia trafionego przez Ukraińców wieżowca Mosfilm Tower w Moskwie, a regularne uderzenia w kluczowe obiekty naftowo-gazowego sektora Rosji skutecznie destabilizują gospodarkę Kremla. Ukraina od dłuższego czasu wyznaje zasadę \"umiesz liczyć, licz na siebie\", przekuwając ograniczenia w kwestii dostaw kluczowego uzbrojenia z Zachodu w sukcesy. Kijów tworzy coraz lepsze i coraz tańsze ",
-      "published": "Mon, 04 May 2026 12:35:16 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines",
       "link": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
       "summary": "Spirit Airlines ceased operations overnight after a failed government bailout.",
       "published": "Mon, 04 May 2026 12:31:35 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "XRP nie może osiągnąć 10 000 USD, uważa tak nawet emerytowany dyrektor techniczny Ripple, David Schwartz",
-      "link": "https://comparic.pl/xrp-nie-moze-osiagnac-10-000-usd-uwaza-tak-nawet-emerytowany-dyrektor-techniczny-ripple-david-schwartz/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2026/05/MINO-1.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/MINO-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" ",
-      "published": "Mon, 04 May 2026 12:26:57 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kryptowalutowy rekord grozy! 24 ataki hakerskie w 30 dni",
-      "link": "https://comparic.pl/kryptowalutowy-rekord-grozy-24-ataki-hakerskie-w-30-dni/",
-      "summary": "<img alt=\"hacker\" class=\"attachment-full size-full wp-post-image\" height=\"675\" src=\"https://comparic.pl/wp-content/uploads/2025/02/freepik-hacker-atack-cyber-attack-dangerous-scam-allert-niebezpieczenstwo-oszustwo-kradziez.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"hacker\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic",
-      "published": "Mon, 04 May 2026 12:18:04 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rywal Allegro otrzymał ofertę za miliardy. Może zmienić właściciela",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/gamestop-zlozyl-sensacyjna-oferte-chce-przejac-ebaya-za-56-mld-dol/t96wxd6",
-      "summary": "Spółka GameStop chce przejąć internetową platformę aukcyjną eBay za 56 mld dol. Prezes sieci sklepów z grami nie kryje ambicji i zapowiada, że jest gotów nawet na tzw. wrogie przejęcie.",
-      "published": "Mon, 04 May 2026 12:17:07 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Opłata reprograficzna. PiS atakuje: niezgodna z konstytucją",
-      "link": "https://www.money.pl/gospodarka/oplata-reprograficzna-pis-atakuje-niezgodna-z-konstytucja-7282231943551040a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cbffb7d3-4536-4aa0-93c9-2d99ffb2a6b0\" width=\"308\" /> Posłowie PiS ocenili w poniedziałek, że podpisana przez szefową MKiDN Martę Cienkowską nowelizacja rozporządzenia o opłatach reprograficznych jest niezgodna z konstytucją. PiS rozważa skierowanie skargi do RPO, aby ten zwrócił się do TK o zbadanie tej kwestii - przekazał ",
-      "published": "Mon, 04 May 2026 12:15:29 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ważne zmiany dla Ukraińców w Polsce. Chodzi o kartę pobytu",
-      "link": "https://businessinsider.com.pl/gospodarka/karta-pobytu-cukr-duze-zmiany-dla-obywateli-ukrainy/dvq2mv2",
-      "summary": "Od poniedziałku 4 maja obywatele Ukrainy mający PESEL UKR mogą składać wnioski o wydanie karty pobytu ważnej przez trzy lata, tzw. karty pobytu CUKR — poinformował Urząd do Spraw Cudzoziemców. Składanie wniosków o jej wydanie będzie możliwe wyłącznie za pomocą portalu Moduł Obsługi Spraw (MOS).",
-      "published": "Mon, 04 May 2026 12:08:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "NBP 35 miliardów \"na minusie\". Jest sprawozdanie",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/waluty-w-nbp-ujawnil-co-ma-w-portfelu/nk70fwv",
-      "summary": "NBP odnotował 35,7 mld zł straty w 2025 r. — wynika z opublikowanego w poniedziałek sprawozdania finansowego. Ponadto bank centralny wyzerował inwestycje w dwóch walutach.",
-      "published": "Mon, 04 May 2026 12:04:34 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bankrutująca mleczarnia znalazła ratunek tam, gdzie inni widzieli tylko problem",
-      "link": "https://businessinsider.com.pl/biznes/od-twarogu-do-kosmetykow-tak-osm-rawicz-wyszla-z-kryzysu/k3yy5vd",
-      "summary": "Gdy kilka lat temu Okręgowa Spółdzielnia Mleczarska w Rawiczu znalazła się na krawędzi bankructwa, musiała radykalnie zmienić kurs. Dziś wchodzi na rynek, z którym dotąd nie miała nic wspólnego. Zaczęła produkować… surowiec do kosmetyków. To pierwsze tego typu przedsięwzięcie w Polsce.",
-      "published": "Mon, 04 May 2026 11:49:18 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Zmiany w kredytach. NBP mówi, co nas czeka w bankach",
-      "link": "https://www.money.pl/banki/zmiany-w-kredytach-nbp-mowi-co-nas-czeka-w-bankach-7282212519835712a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/061cd707-1f0d-44e4-9583-156cb4d6e69d\" width=\"308\" /> W II kwartale 2026 r. banki zamierzają złagodzić kryteria udzielania kredytów mieszkaniowych, a także planują złagodzenie kryteriów udzielania kredytów konsumpcyjnych - wynika z opublikowanego w poniedziałek raportu NBP na temat sytuacji na rynku kredytowym.",
-      "published": "Mon, 04 May 2026 11:10:00 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Doszedł do miliardów. \"Zacznij od słowa przepraszam\"",
-      "link": "https://www.money.pl/pieniadze/doszedl-do-miliardow-zacznij-od-slowa-przepraszam-7280800644469825v.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/8d2e5711-e91c-4d72-aa4e-bafef0a7a67f.png\" width=\"308\" /> - Zacznij od słowa przepraszam. Bo słowo przepraszam, nawet jak to nie jest nasza wina, powoduje, że zaczynamy siebie słyszeć. Zaczynamy być ludźmi, zaczynamy rozumieć, przestajemy siebie prowokować. I teraz, krytyk to jest mój największy przyjaciel, bo krytyk to jest ten, co ma racj",
-      "published": "Mon, 04 May 2026 11:03:11 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szefowa KE wskazuje trzy priorytety. \"Musimy zmniejszyć nasze  uzależnienie\"",
-      "link": "https://www.money.pl/gospodarka/szefowa-ke-wskazuje-trzy-priorytety-musimy-zmniejszyc-nasze-uzaleznienie-7282179837278240a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1b724a45-82e5-4024-bcb2-53f6be5e4650\" width=\"308\" /> Przewodnicząca Komisji Europejskiej Ursula von der Leyen powiedziała w poniedziałek przed szczytem Europejskiej Wspólnoty Politycznej (EWP) w Erywaniu, że Europa musi się uniezależnić w trzech obszarach: energii, obronności i bezpieczeństwa oraz handlu.",
-      "published": "Mon, 04 May 2026 09:37:05 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Afera z KPO. Sprawdzili projekty. Oto efekty kontroli",
-      "link": "https://www.money.pl/biznes/afera-z-kpo-sprawdzili-projekty-oto-efekty-kontroli-7282161582528576a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/74b836f8-cf04-4694-a857-7f9e07837d0c\" width=\"308\" /> Kontrowersje wokół dotacji z KPO dla branży HoReCa, o których było głośno w 2025 roku, zakończyły się szeroką kontrolą projektów. Zweryfikowano 3206 projektów, w części przypadków wykryto nieprawidłowości, a ponad 20 umów rozwiązano - informuje \"Fakt\".",
-      "published": "Mon, 04 May 2026 07:34:17 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Trump says he's raising EU auto tariffs to 25%",
