@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-05-06T19:56:10.091486",
+  "generated_at": "2026-05-06T22:03:38.491012",
   "articles": [
+    {
+      "title": "S&P500 i Nasdaq biją historyczne rekordy. Kurs AMD odleciał po wynikach",
+      "link": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/d/169b58f5c57319-948-568-22-134-2977-1786.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Boom w branży półprzewodników wyniósł nowojorskie giełdy na nowe rekordy wszech czasów. Gwiazdą dnia były akcje AMD, które zdrożały o prawie 20%.</p>",
+      "published": "Wed, 6 May 2026 22:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
     {
       "title": "Znów gorąco w cieśninie Ormuz. USA ostrzelały irański tankowiec",
       "link": "https://www.bankier.pl/wiadomosc/Znow-goraco-w-ciesninie-Ormuz-USA-ostrzelaly-iranski-tankowiec-9128869.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -70,14 +78,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Trump-wycofuje-zolnierzy-z-Niemiec-Nawrocki-Jestesmy-gotowi-ich-przyjac-9128756.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/b/0ea5f2e10e9dbe-948-568-319-349-3533-2120.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska jest gotowa przyjąć żołnierzy amerykańskich, jeżeli prezydent USA Donald Trump zdecyduje się zmniejszyć ich obecność w Niemczech - zadeklarował w środę prezydent Karol",
       "published": "Wed, 6 May 2026 17:10:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "„Lista życzeń” zamiast porozumienia. Teheran krytykuje amerykańskie warunki zakończenia wojny",
-      "link": "https://www.bankier.pl/wiadomosc/Lista-zyczen-zamiast-porozumienia-Teheran-krytykuje-amerykanskie-warunki-zakonczenia-wojny-9128732.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/e/fac5822ce40aa5-948-568-24-338-4812-2887.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Teheran nie odpowiedział jeszcze na najnowszą propozycję Waszyngtonu w sprawie zakończenia wojny USA i Izraela z Iranem - podała w środę irańska agencja prasowa Tasnim. Zdanie",
-      "published": "Wed, 6 May 2026 16:36:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -162,12 +162,148 @@
       "category": "pl"
     },
     {
-      "title": "‘He is constantly criticizing her’: My son-in-law told my daughter to give up her job. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/he-is-constantly-criticizing-her-my-son-in-law-told-my-daughter-to-give-up-her-job-do-i-intervene-eaef801a?mod=mw_rss_topstories",
-      "summary": "“In 2025, she made $35,000-$40,000 working as a physical therapist.”",
-      "published": "Wed, 06 May 2026 19:48:00 GMT",
+      "title": "Restaurants really don’t want to sell fake meat — and Beyond Meat is suffering",
+      "link": "https://www.marketwatch.com/story/restaurants-really-dont-want-to-sell-fake-meat-and-beyond-meat-is-suffering-030b5592?mod=mw_rss_topstories",
+      "summary": "Beyond Meat’s stock fell further on Wednesday after the maker of meat alternatives offered a weak forecast.",
+      "published": "Wed, 06 May 2026 21:47:00 GMT",
       "source": "MarketWatch",
       "category": "us"
+    },
+    {
+      "title": "Disney pops 7% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro",
+      "link": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
+      "summary": "Disney revenue topped analyst expectations when the media giant reported its fiscal second-quarter earnings on Wednesday.",
+      "published": "Wed, 06 May 2026 21:27:30 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
+      "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
+      "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
+      "published": "Wed, 06 May 2026 21:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Arm’s stock soars as the company puts a big number on its newest venture",
+      "link": "https://www.marketwatch.com/story/arms-stock-soars-as-the-company-puts-a-big-number-on-its-newest-venture-21bce404?mod=mw_rss_topstories",
+      "summary": "The chip designer said it has more than $2 billion in customer demand for its first-ever data-center CPU",
+      "published": "Wed, 06 May 2026 21:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Warner Bros. Discovery books $2.9 billion net loss tied to Paramount deal, restructuring costs",
+      "link": "https://www.cnbc.com/2026/05/06/warner-bros-discovery-net-loss-paramount-deal.html",
+      "summary": "Paramount agreed to pay a Netflix termination fee, but the cost lives on WBD's books until the close of the deal.",
+      "published": "Wed, 06 May 2026 20:50:16 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook",
+      "link": "https://www.cnbc.com/2026/05/06/fanduel-ceo-amy-howe-out.html",
+      "summary": "Howe has overseen FanDuel during a time of dramatic expansion in sports gambling and as prediction markets have exploded in popularity.",
+      "published": "Wed, 06 May 2026 20:49:41 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "This gold-timing indicator just hit a bottom — and history says a strong rally is next",
+      "link": "https://www.marketwatch.com/story/this-gold-timing-indicator-just-hit-a-bottom-and-history-says-a-strong-rally-is-next-f39c8768?mod=mw_rss_topstories",
+      "summary": "Gold and gold miners perform best right after investors give up. This “extreme pessimism” is the contrarian tailwind the market has been waiting for.",
+      "published": "Wed, 06 May 2026 20:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Fortinet’s stock rockets higher as earnings help dispel fears of AI disruption",
+      "link": "https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories",
+      "summary": "An “increasingly complex threat environment” is boosting demand for Fortinet’s cybersecurity offerings",
+      "published": "Wed, 06 May 2026 20:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Cena ropy spada po sygnałach z USA i Iranu. Na Wall Street padł rekord",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/usa-i-iran-blisko-porozumienia-cena-ropy-w-dol-akcje-w-gore/pl7sze3",
+      "summary": "Cena ropy spadła w środę, światowe giełdy wzrosły, a na Wall Street padł rekord. Rosną nadzieje inwestorów na przełom dyplomatyczny między USA a Iranem.",
+      "published": "Wed, 06 May 2026 20:37:05 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Here’s how far the Trump administration’s ‘startling turn’ on AI regulation might go",
+      "link": "https://www.marketwatch.com/story/heres-how-far-the-trump-administrations-startling-turn-on-ai-regulation-might-go-15ce46be?mod=mw_rss_topstories",
+      "summary": "The Trump administration is reportedly weighing taking a more aggressive approach to regulating AI, which could include an executive order to increase oversight over artificial-intelligence models before their public release.",
+      "published": "Wed, 06 May 2026 20:35:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers",
+      "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+      "summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
+      "published": "Wed, 06 May 2026 20:33:58 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Concerts are increasingly going global as cracks emerge in the U.S. market",
+      "link": "https://www.marketwatch.com/story/concerts-are-increasingly-going-global-as-cracks-emerge-in-the-u-s-market-175996e9?mod=mw_rss_topstories",
+      "summary": "Live Nation has seen international fan count exceed domestic attendance recently, and Vivid Seats recently called out some pressure on the Las Vegas market.",
+      "published": "Wed, 06 May 2026 20:18:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Stuck in ‘survival spending’? 5 ways to build wealth even when the odds seem stacked against you.",
+      "link": "https://www.marketwatch.com/story/stuck-in-survival-spending-5-ways-to-build-wealth-even-when-the-odds-seem-stacked-against-you-83cf0ca3?mod=mw_rss_topstories",
+      "summary": "Solve problems, concentrate wealth and manage risk to get ahead.",
+      "published": "Wed, 06 May 2026 20:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: +151% w 5 lat! Dlaczego złoto miażdży S&P 500?",
+      "link": "https://comparic.pl/151-w-5-lat-dlaczego-zloto-miazdzy-sp-500/",
+      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" styl",
+      "published": "Wed, 06 May 2026 20:09:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "S&P 500 record profits are a double-edged sword — and it could slash your returns",
+      "link": "https://www.marketwatch.com/story/s-p-500-record-profits-are-a-double-edged-sword-and-it-could-slash-your-returns-9f61bcd3?mod=mw_rss_topstories",
+      "summary": "With profit margins now twice their historical average, big U.S. stocks are priced for perfection.",
+      "published": "Wed, 06 May 2026 20:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘We’re worried the honey pot will run dry’: Does the government borrow from my Social Security to fund federal programs?",
+      "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+      "summary": "There are many suggestions floating around Washington D.C. on how to fix the program’s imminent funding issues.",
+      "published": "Wed, 06 May 2026 20:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Dubaj traci turystów i miejsca pracy. Nowe dane z lotnisk",
+      "link": "https://businessinsider.com.pl/lifestyle/podroze/wojna-na-bliskim-wschodzie-uderza-w-dubaj-hotele-zamykaja-sie-firmy-uciekaja/kn6yyb0",
+      "summary": "Ruch pasażerski w Dubaju spadł w pierwszym kwartale o co najmniej 2,5 mln rok do roku — podał operator lotnisk. \"Potrzebujemy, żeby ludzie wrócili\" — mówi pracownica hotelu.",
+      "published": "Wed, 06 May 2026 19:59:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Donald Trump broni budowy sali balowej. \"To była konieczna zmiana\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-broni-budowy-sali-balowej-to-byla-konieczna-zmiana/elq0cfy",
+      "summary": "Donald Trump broni kosztów budowanej przy Białym Domu sali balowej, odpowiadając na zarzuty o przekroczenie zakładanych wydatków. Sprawa się skomplikowała po tym, jak republikańscy kongresmeni zapisali na tę inwestycję kwotę znacznie wyższą niż deklarowana przez prezydenta.",
+      "published": "Wed, 06 May 2026 19:56:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Prezydencki projekt ustawy w sprawie kryptowalut. \"Jest gorszy\"",
@@ -176,22 +312,6 @@
       "published": "Wed, 06 May 2026 19:26:54 GMT",
       "source": "BusinessInsider.pl",
       "category": "crypto"
-    },
-    {
-      "title": "Here’s what’s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more",
-      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-may-2026-on-netflix-hulu-hbo-max-and-more-a891be59?mod=mw_rss_topstories",
-      "summary": "Netflix’s ‘Lord of the Flies,’ Apple’s ‘Star City’ and a surprise episode of Hulu’s ‘The Bear’ are among the highlights of the month",
-      "published": "Wed, 06 May 2026 19:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Hantavirus outbreaks rarely happen. This Andes strain is ‘a complicated public-health situation.’",
-      "link": "https://www.marketwatch.com/story/hantavirus-outbreaks-rarely-happen-this-andes-strain-is-a-complicated-public-health-situation-b0c7dbb4?mod=mw_rss_topstories",
-      "summary": "At least two people departed the MV Hondius cruise ship in late April and one has tested positive for the Andes strain, a type of hantavirus.",
-      "published": "Wed, 06 May 2026 19:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 06.05.2026",
@@ -234,28 +354,12 @@
       "category": "pl"
     },
     {
-      "title": "A major union warns regulators that Elon Musk’s SpaceX IPO ‘defies financial logic’",
-      "link": "https://www.marketwatch.com/story/a-major-union-warns-members-and-regulators-that-elon-musks-spacex-ipo-defies-financial-logic-c7c6a334?mod=mw_rss_topstories",
-      "summary": "SpaceX is pursuing a valuation of up to $2 trillion, in what could be the biggest public offering in history.",
-      "published": "Wed, 06 May 2026 19:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Właściciel Biedronki pokazał wyniki. \"Konsumenci pozostali ostrożni\"",
       "link": "https://businessinsider.com.pl/biznes/wlasciciel-biedronki-o-inflacji-zywnosci-w-polsce-tendencja-spadkowa/mgzn5pf",
       "summary": "Właściciel Biedronki, portugalska firma Jeronimo Martins, pokazał wyniki kwartalne. Sprzedaż w popularnej w Polsce sieci dyskontów wzrosła o 3,6 proc. do 6,2 mld euro. \"Popyt w handlu detalicznym żywnością był ograniczony\" — czytamy w raporcie.",
       "published": "Wed, 06 May 2026 19:00:57 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Amazon’s stock has come alive, setting the company up to join an exclusive club",
-      "link": "https://www.marketwatch.com/story/amazons-stock-has-come-alive-setting-the-company-up-to-join-an-exclusive-club-cb9e35b9?mod=mw_rss_topstories",
-      "summary": "Amazon’s stock needs to rise less than 2% for the company’s market cap to top $3 trillion — something only four other companies have ever achieved.",
-      "published": "Wed, 06 May 2026 18:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Fala zwolnień w Nike. Amerykański gigant likwiduje biuro technologiczne w Polsce",
@@ -266,52 +370,12 @@
       "category": "other"
     },
     {
-      "title": "Disney pops 7% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro",
-      "link": "https://www.cnbc.com/2026/05/06/disney-dis-earnings-q2-2026.html",
-      "summary": "Disney revenue topped analyst expectations when the media giant reported its fiscal second-quarter earnings on Wednesday.",
-      "published": "Wed, 06 May 2026 18:37:42 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "FanDuel CEO Amy Howe is out after five years at the sportsbook",
-      "link": "https://www.cnbc.com/2026/05/06/fanduel-ceo-amy-howe-out.html",
-      "summary": "Howe has overseen FanDuel during a time of dramatic expansion in sports gambling and as prediction markets have exploded in popularity.",
-      "published": "Wed, 06 May 2026 18:28:56 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
-      "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
-      "summary": "Replacing authentic leadership with a digital doppelgänger isn’t innovation — it’s a high-tech retreat from accountability.",
-      "published": "Wed, 06 May 2026 18:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "There are plenty of reasons the dollar should be rallying right now — but it isn’t. That’s not a good sign.",
-      "link": "https://www.marketwatch.com/story/there-are-plenty-of-reasons-the-dollar-should-be-rallying-right-now-but-it-isnt-thats-not-a-good-sign-b8366156?mod=mw_rss_topstories",
-      "summary": "Although the dollar is back to where it was before the Iran war, a few things have changed under the surface.",
-      "published": "Wed, 06 May 2026 18:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Twoje CV na pudełku po pizzy? Bitget świętuje 3. rocznicę Blockchain4Youth i szuka talentów Web3",
       "link": "https://comparic.pl/twoje-cv-na-pudelku-po-pizzy-bitget-swietuje-3-rocznice-blockchain4youth-i-szuka-talentow-web3/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"720\" src=\"https://comparic.pl/wp-content/uploads/2026/05/Bitget-3.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/Bitget-3-324x235.webp\" style=\"float: left; margin: 0 15px 15px ",
       "published": "Wed, 06 May 2026 18:25:25 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Anthropic strikes SpaceX deal to fuel Claude Code growth — and for data centers in space",
-      "link": "https://www.marketwatch.com/story/anthropic-strikes-spacex-deal-to-fuel-claude-code-growth-and-for-data-centers-in-space-e11819e4?mod=mw_rss_topstories",
-      "summary": "Anthropic looks to expand its compute capacity with a SpaceX partnership that will lift rate limits on Claude Code.",
-      "published": "Wed, 06 May 2026 18:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Śledztwo w sprawie Zondacrypto. Minister o nowej liczbie zawiadomień",
@@ -322,28 +386,12 @@
       "category": "crypto"
     },
     {
-      "title": "Here’s how I turned my kids into ‘thousandaires’ managing their own money by their 18th birthdays",
-      "link": "https://www.marketwatch.com/story/heres-how-i-turned-my-kids-into-thousandaires-managing-their-own-money-by-their-18th-birthdays-f0b2ae5f?mod=mw_rss_topstories",
-      "summary": "At some point, you have to hand over financial control to your newly minted adult.",
-      "published": "Wed, 06 May 2026 18:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Cena złota wystrzelił o 3% w jeden dzień! Analitycy mówią wprost: to jeszcze nie koniec ruchu",
-      "link": "https://comparic.pl/cena-zlota-wystrzelil-o-3-w-jeden-dzien-analitycy-mowia-wprost-to-jeszcze-nie-koniec-ruchu/",
+      "title": "Cena złota wystrzeliła o 3% w jeden dzień! Analitycy mówią wprost: to jeszcze nie koniec ruchu",
+      "link": "https://comparic.pl/cena-zlota-wystrzelila-o-3-w-jeden-dzien-analitycy-mowia-wprost-to-jeszcze-nie-koniec-ruchu/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"723\" src=\"https://comparic.pl/wp-content/uploads/2025/09/freepik-zloto-GOLD-XAUUSD.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1088\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/09/freepik-zloto-GOLD-XAUUSD-324x235.jpg\" style=\"f",
       "published": "Wed, 06 May 2026 18:11:06 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Want to tax the rich? Encourage them to keep spending ridiculous amounts of money on designer clothes.",
-      "link": "https://www.marketwatch.com/story/want-to-tax-the-rich-encourage-them-to-keep-spending-ridiculous-amounts-of-money-on-designer-clothes-e6ff58e1?mod=mw_rss_topstories",
-      "summary": "Many of the world’s most famous designer brands are traded on the stock market and are yours to buy a piece of.",
-      "published": "Wed, 06 May 2026 18:10:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Bitcoin może zamknąć maj na minusie! Analityk wskazuje na formację techniczną i opór przy 200-dniowej średniej",
@@ -382,14 +430,6 @@
       "link": "https://www.cnbc.com/2026/05/06/former-yankee-mariano-rivera-mlb-salary-cap.html",
       "summary": "Former New York Yankee Mariano Rivera says he supports MLB salary cap as long as small-market teams are also spending.",
       "published": "Wed, 06 May 2026 16:52:37 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Apollo CEO Rowan warns of market correction, slams ‘egregious’ practices at rival insurers",
-      "link": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-      "summary": "Apollo CEO Marc Rowan warned that markets face an elevated risk of unexpected shocks, saying he is positioning the firm defensively for an expected correction.",
-      "published": "Wed, 06 May 2026 16:18:19 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -562,14 +602,6 @@
       "category": "pl"
     },
     {
-      "title": "Gold Flow: Zapowiedź solidnego ruchu się wypełnia. Czas na dłuższy rajd na złocie?",
-      "link": "https://comparic.pl/gold-flow-zapowiedz-solidnego-ruchu-sie-wypelnia-czas-na-dluzszy-rajd-na-zlocie/",
-      "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD.jpg\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD-324x235.jpg\" style=\"",
-      "published": "Wed, 06 May 2026 13:07:25 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Stopy procentowe w Polsce. Rada podjęła decyzję",
       "link": "https://businessinsider.com.pl/gospodarka/stopy-procentowe-w-polsce-rpp-podjela-decyzje/w2wecb1",
       "summary": "Rada Polityki Pieniężnej ma twardy orzech do zgryzienia. Podniesie stopy, a tu konflikt irański się zakończy i tendencje inflacyjne zatrzymają. Nie podniesie, a konflikt będzie trwał, a wraz z nim rozlewanie na inne ceny poza paliwami przyśpieszy i wtedy wyjdzie, że \"trzeba było podwyższać\". W środę RPP podjęła decyzję optymalną.",
@@ -618,36 +650,12 @@
       "category": "other"
     },
     {
-      "title": "Proces Muska przeciwko OpenAI nabiera tempa. Stawką są miliardy i przyszłość AI",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/elon-musk-chcial-przejac-openai-spor-o-kontrole-i-marsjanskie-ambicje/s2lp0kj",
-      "summary": "Spór o przyszłość OpenAI wszedł w decydującą fazę. Jeden z szefów spółki zeznał, że Elon Musk chciał pełnej kontroli nad firmą — m.in. po to, by sfinansować projekt kolonizacji Marsa.",
-      "published": "Wed, 06 May 2026 12:25:50 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Chcą ukrócić \"proceder włoski\" w Polsce. Wiemy, co planuje ministerstwo",
       "link": "https://www.money.pl/mobility/chca-ukrocic-proceder-wloski-w-polsce-wiemy-co-planuje-ministerstwo-7282889905330208a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ce33eaff-910a-44eb-b4ec-444050170ca8\" width=\"308\" /> Włosi przez zagranicznych pośredników rejestrują auta i skutery w Polsce, aby oszczędzić na ubezpieczeniu. Ministerstwo Infrastruktury chce zmian, które uniemożliwią \"podbijanie\" dowodu rejestracyjnego bez przeprowadzenia badania technicznego. Ma to być element walki z \"p",
       "published": "Wed, 06 May 2026 12:23:30 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Administracja Trumpa blokuje OZE. Płaci miliard dol. za rezygnację z farm wiatrowych",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/donald-trump-turbiny-wiatrowe-sa-brzydkie-usa-placa-miliard-dol-za-rezygnacje-z-oze/ryjslm8",
-      "summary": "Administracja Trumpa wstrzymała rozwój farm wiatrowych w USA, powołując się na obawy dotyczące bezpieczeństwa narodowego. To eskalacja krucjaty Trumpa przeciwko energii odnawialnej. Powód jest kuriozalny — kłótnia Trumpa sprzed 15 lat o jego pole golfowe w Szkocji. Teraz USA zwraca firmom miliardy dolarów w zamian za inwestycje w paliwa kopalne.",
-      "published": "Wed, 06 May 2026 12:19:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "5 zasad gry w świecie AI: dlaczego największym wyzwaniem nie jest technologia, lecz kontrola nad nią",
-      "link": "https://businessinsider.com.pl/biznes/5-zasad-gry-w-swiecie-ai-dlaczego-najwiekszym-wyzwaniem-nie-jest-technologia-lecz/vl2ln8g",
-      "summary": "AI zmienia sposób działania firm, szybciej niż organizacje są w stanie nad tym zapanować. Dziś o sukcesie nie decyduje już dostęp do technologii, lecz umiejętność jej kontrolowania, skalowania i odpowiedzialnego wykorzystania. To właśnie o nowych zasadach gry w świecie sztucznej inteligencji będzie mowa podczas konferencji SAS Innovate on Tour 19 maja w Warszawie.",
-      "published": "Wed, 06 May 2026 12:17:58 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Huśtawka na rynku gazu. Zapłacimy więcej. \"To oczywiste\"",
@@ -726,14 +734,6 @@
       "link": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
       "summary": "Spirit Airlines shut down before dawn on Saturday ending its run as the most famous U.S. discount airline.",
       "published": "Mon, 04 May 2026 21:28:34 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Paramount earnings, revenue beat expectations as streaming business offers a boost",
-      "link": "https://www.cnbc.com/2026/05/04/paramount-skydance-psky-earnings-q1-2026.html",
-      "summary": "Paramount Skydance said it added streaming subscribers during the first quarter even as it instituted its first price hike since 2024.",
-      "published": "Mon, 04 May 2026 20:48:58 GMT",
       "source": "CNBC",
       "category": "us"
     }
