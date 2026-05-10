@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T13:45:58.311053",
+  "generated_at": "2026-05-10T15:59:46.756431",
   "articles": [
     {
       "title": "Warner Bros. Discovery books $2.9 billion net loss tied to Paramount deal, restructuring costs",
@@ -106,12 +106,84 @@
       "category": "us"
     },
     {
+      "title": "\"Sprzedałem mieszkanie, by włożyć pieniądze w firmę\". Przejął szwalnię giganta",
+      "link": "https://www.money.pl/pieniadze/sprzedalem-mieszkanie-by-wlozyc-pieniadze-w-firme-przejal-szwalnie-giganta-7283599608711232a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wpcdn.pl/f783379f-f169-4692-aafe-3f3e0051d2e8.png\" width=\"308\" /> Jan Spekter to polska marka spodni założona przez Daniela Kurowskiego. Po zamknięciu fabryki Levi Strauss w Płocku przedsiębiorca przejął część zakładu, zatrudnił ponad 50 osób z dawnej załogi i chce zbudować ogólnokrajową markę szyjącą w Polsce.",
+      "published": "Sun, 10 May 2026 16:56:50 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jak jedna aplikacja rządzi krajem. \"Chiński BLIK\" jest wszędzie",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/chinska-rewolucja-platnicza-jak-alipay-i-wechat-pay-rzadza-codziennoscia/0dcs4rv",
+      "summary": "Spędziłem ponad tydzień w Chinach i ani razu nie wyciągnąłem portfela z gotówką. Nie użyłem żadnego banknotu ani żadnej monety. Karty płatnicze? Prawie ich nie widziałem. Zbliżeniowe \"machnięcie\" telefonem czy zegarkiem? To rzadkość granicząca z anomalią. Całe codzienne życie — od porannej kawy po wieczorny street food — kręci się wokół jednej dominującej aplikacji: Alipay. A właściwie dwóch, bo j",
+      "published": "Sun, 10 May 2026 15:25:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Trump Media notuje ogromne straty. Platforma Truth Social wciąż przynosi niewielkie przychody",
+      "link": "https://businessinsider.com.pl/firmy/spolka-donalda-trumpa-z-kolosalna-strata-truth-social-pod-presja-finansowa/3k37dyd",
+      "summary": "Spółka macierzysta platformy Truth Social, która należy do Donalda Trumpa, zanotowała w pierwszym kwartale 2026 r. stratę sięgającą niemal 406 mln dol., mimo wzrostu sprzedaży netto o 6 proc. w porównaniu z poprzednim rokiem. Przychody firmy wyniosły nieco ponad 870 tys. dol. — donosi \"The Guardian\".",
+      "published": "Sun, 10 May 2026 15:17:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘Fibermaxxing’ has spurred the launch of fiber sodas and gummies. Is the craze going too far?",
+      "link": "https://www.marketwatch.com/story/fibermaxxing-has-spurred-the-launch-of-fiber-sodas-and-gummies-is-the-craze-going-too-far-c424f7dc?mod=mw_rss_topstories",
+      "summary": "Companies are rushing to cash in on “functional snacking,” but experts warn that the health benefits of fiber treats might not be all they’re cracked up to be.",
+      "published": "Sun, 10 May 2026 15:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Miało być szybciej, wyszło jak zawsze? Pracodawcy o problemach z MOS2",
+      "link": "https://businessinsider.com.pl/praca/cyfryzacja-nie-zalatwi-wszystkiego-pracodawcy-o-zatrudnianiu-cudzoziemcow/t7y4c7g",
+      "summary": "System MOS2 miał przyspieszyć i uprościć legalizację pobytu oraz pracy cudzoziemców w Polsce. Eksperci rynku pracy i przedstawiciele organizacji pracodawców zgodnie oceniają jednak, że choć kierunek cyfryzacji jest słuszny, pierwsze tygodnie funkcjonowania platformy przyniosły liczne problemy techniczne i organizacyjne. Firmy skarżą się na błędy systemowe, ograniczoną funkcjonalność i ryzyko bloko",
+      "published": "Sun, 10 May 2026 14:49:51 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ekspert o możliwej ekstradycji Zbigniewa Ziobry. Wskazał na aspekt polityczny",
+      "link": "https://businessinsider.com.pl/prawo/ekstradycja-zbigniewa-ziobry-ekspert-wskazal-na-prezydenta-usa/kqvlrns",
+      "summary": "Ewentualna ekstradycja Zbigniewa Ziobry ze Stanów Zjednoczonych może okazać się procesem niezwykle skomplikowanym i długotrwałym. Mecenas Tymoteusz Paprocki zwrócił uwagę na osobiste zaangażowanie się w całą sprawę prezydenta USA Donalda Trumpa.",
+      "published": "Sun, 10 May 2026 14:25:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kto przejmie część imperium Armaniego? W grze inni giganci",
+      "link": "https://businessinsider.com.pl/firmy/dom-mody-giorgio-armani-z-planem-zmian-trzy-firmy-walcza-o-udzialy/dln13nw",
+      "summary": "Po śmierci legendarnego projektanta rozpoczyna się nowy rozdział dla jednej z najbardziej rozpoznawalnych marek świata. 15 proc. udziałów Armaniego może trafić na sprzedaż, a chętnych nie brakuje.",
+      "published": "Sun, 10 May 2026 14:03:36 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
+      "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
+      "summary": "Goldman Sachs expects S&amp;P 500 share buybacks to grow only 3% this year, as a shaky economic backdrop and AI cost pressures force spending reconsiderations.",
+      "published": "Sun, 10 May 2026 14:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Wielki boom na megainwestycje. CPK, atom i wiatrówki napompują rynek",
       "link": "https://www.bankier.pl/wiadomosc/Wielki-boom-na-megainwestycje-CPK-atom-i-wiatrowki-napompuja-rynek-9129119.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/6/be6ce6a05ba76a-948-568-920-580-2250-1350.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wartość rynku budowlanego w Polsce ma szanse przekroczyć 500 mld zł przed 2030 r. wobec 408 mld zł w 2025 r. - wynika z raportu firmy badawczej Spectis „Rynek budowlany w Pol",
       "published": "Sun, 10 May 2026 14:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "AI w biurze. Czy pracownik może powiedzieć \"nie\" nowym technologiom? Wyjaśniamy",
+      "link": "https://businessinsider.com.pl/praca/praca-ze-sztuczna-inteligencja-gdzie-konczy-sie-polecenie-pracodawcy/73hx4cm",
+      "summary": "Presja na używanie AI narasta. Narastają też wątpliwości etyczne — dotyczące m.in. danych użytych do trenowania modeli czy praw autorskich. Czy w takiej sytuacji pracownik ma prawo odmówić korzystania z narzędzi opartych na AI lub czy pracodawca może wyciągnąć konsekwencje wobec \"buntownika\"? Ekspertka tłumaczy, że sprawa nie jest zero-jedynkowa.",
+      "published": "Sun, 10 May 2026 13:45:56 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Na każde 3 euro tracimy 1 euro. Raport Deloitte ujawnia skalę marnotrawstwa",
@@ -450,14 +522,6 @@
       "category": "other"
     },
     {
-      "title": "Dodatkowe metry w dużych miastach stają się luksusem. Ceny mieszkań szokują",
-      "link": "https://businessinsider.com.pl/nieruchomosci/zamiana-mieszkania-w-duzym-miescie-trzeba-sporo-doplacac/xlhg3y4",
-      "summary": "Z najnowszego raportu Barometr Metrohouse i Credipass wynika, że w największych polskich miastach za dodatkowe 35 m kw. trzeba dopłacić nawet ponad pół miliona złotych. Najgorszej sytaucji należy spodziewać się w Warszawie oraz Krakowie.",
-      "published": "Sun, 10 May 2026 07:28:26 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Analitycy wskazali faworytów. Te akcje mają potencjał wzrost!",
       "link": "https://comparic.pl/analitycy-wskazali-faworytow-te-akcje-maja-potencjal-wzrost/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"800\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk-hossa-wzrost-growth-stock-market-chart.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1200\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk",
@@ -482,44 +546,12 @@
       "category": "pl"
     },
     {
-      "title": "Niezbędnik oszczędzających. Gdzie lokować pieniądze w maju? Sprawdziliśmy to",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/oszczedzanie/niezbednik-oszczedzajacych-jak-madrze-lokowac-pieniadze-w-maju-2026/etbgh2z",
-      "summary": "Oszczędzanie pieniędzy przestało być prostą decyzją polegającą na odkładaniu do skarpety tego, co zostało z wypłaty po opłacaniu wszelkich rachunków. Podpowiadamy, jak zadbać o pieniądze w najlepszy sposób. Wzięliśmy pod lupę ofertę banków, obligacji, funduszy inwestycyjnych i sytuację na giełdzie (w tym złota).",
-      "published": "Sun, 10 May 2026 07:02:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Ta spółka z GPW była skreślona – najnowsze wyniki mogą kompletnie odmienić sytuację! Czy po 78% krachu pojawia się okazja?",
       "link": "https://comparic.pl/ta-spolka-z-gpw-byla-skreslona-najnowsze-wyniki-moga-kompletnie-odmienic-sytuacje-czy-po-78-krachu-pojawia-sie-okazja/",
       "summary": "<img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1024\" src=\"https://comparic.pl/wp-content/uploads/2026/05/cdrl-graf.webp\" style=\"float: right; margin: 0 0 10px 10px;\" width=\"1536\" /><img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/cdrl-graf-324x235.webp\" style=\"float: left; margin: 0 15px 15",
       "published": "Sun, 10 May 2026 07:00:16 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Ma 45 lat i od roku jest emerytem. \"Mogę, to korzystam\"",
-      "link": "https://businessinsider.com.pl/praca/emerytury/przywileje-mundurowki-tak-wyglada-zycie-45-letniego-emeryta/yt3vwx1",
-      "summary": "— Jak ktoś ma ból czterech liter, że starzy funkcjonariusze mają wcześniejsze emerytury, to niech sam tak popracuje chociaż rok. Wtedy pogadamy — mówi nam 45-letni Tomek, który od roku jest emerytem, a wcześniej pracował w Służbie Więziennej. Jego świadczenie sięga blisko 8 tys. zł miesięcznie.",
-      "published": "Sun, 10 May 2026 07:00:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Niższy podatek od najmu? Wiemy, jak to zrobić, NSA potwierdził",
-      "link": "https://businessinsider.com.pl/prawo/podatki/jak-rozliczac-najem-w-2026-r-zapadl-wazny-wyrok-nsa-dla-wynajmujacych-mieszkania/e0z19ts",
-      "summary": "Podatek od najmu prywatnego mieszkania trzeba płacić co miesiąc, a po zakończeniu roku złożyć zeznanie PIT-28. Część właścicieli wciąż mierzy się problemem obliczenia podatku, a zwłaszcza uwzględnienia mediów. Sytuację rozjaśnił wyrok NSA.",
-      "published": "Sun, 10 May 2026 06:55:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bieguny polskiego bezrobocia. Dwa miasta w kryzysie [MAPA]",
-      "link": "https://businessinsider.com.pl/gospodarka/bieguny-polskiego-bezrobocia-gdzie-rosnie-najszybciej-mapa/516q9jx",
-      "summary": "Według najnowszych danych GUS bezrobocie w Polsce wzrosło w skali roku najbardziej od pięciu lat. Przyjrzeliśmy się, w których miejscach jest największym problemem i gdzie poszło w górę najbardziej. Są dwa powiaty w Polsce, gdzie przekracza nawet 20 proc.",
-      "published": "Sun, 10 May 2026 06:35:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Wielka nadzieja dla chorych. Dla inwestorów nawet 1500 procent zysku w ciągu roku",
@@ -562,36 +594,12 @@
       "category": "pl"
     },
     {
-      "title": "Tak zarabia lider zbiórki Łatwoganga na Fundację Cancer Fighters",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/xtb-z-rekordowymi-zyskami-firma-zablysnela-w-trakcie-zbiorki-latwoganga/723lt0k",
-      "summary": "Hojna wpłata w głośnej zbiórce stanowiła niewielką część rekordowych zysków kwartalnych spółki XTB. Pierwsza reakcja inwestorów na giełdzie była zaskakująca.",
-      "published": "Sun, 10 May 2026 05:53:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "The most prestigious role in AI has no job description",
-      "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
-      "summary": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
-      "published": "Sun, 10 May 2026 01:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Prosta promocja w Erste. Zgarnij nawet 700 zł premii na Koncie Smart",
       "link": "https://www.bankier.pl/wiadomosc/Prosta-promocja-w-Erste-Zgarnij-nawet-700-zl-premii-na-Koncie-Smart-9128496.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/9/1ec9fda60d9c9b-948-568-48-28-1872-1123.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jeśli szukasz sposobu na zastrzyk gotówki do domowego budżetu, nowa oferta Erste Bank Polska (następcy Santander Bank Polska) to obecnie jedna z najciekawszych propozycji na ry",
       "published": "Sat, 9 May 2026 06:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "These are the fastest-growing jobs for new college graduates — even in this low-hire market",
-      "link": "https://www.marketwatch.com/story/these-are-the-fastest-growing-jobs-for-new-college-graduates-even-in-this-low-hire-market-974bf612?mod=mw_rss_topstories",
-      "summary": "The post-inflation job market has been especially hard for new grads, but there are ways they can help themselves prepare for the search.",
-      "published": "Sat, 09 May 2026 19:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Polska marka bez kompleksów. \"Ten mit jest nieprawdziwy\"",
@@ -720,14 +728,6 @@
       "published": "Fri, 08 May 2026 12:33:10 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Polska dziś podpisze umowę SAFE. Te firmy skorzystają",
-      "link": "https://www.money.pl/gospodarka/polska-dzis-podpisze-umowe-safe-te-firmy-skorzystaja-7283569239808032a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1b0a79e8-3b9d-41d2-ac35-de238b4b158a\" width=\"308\" /> Umowę pożyczkową w programie SAFE, na mocy której Polska ma otrzymać nawet 43,7 mld euro w niskooprocentowanych pożyczkach, podpiszą w piątek w Warszawie - w obecności premiera Donalda Tuska - polscy ministrowie: obrony i finansów oraz unijni komisarze - ds. budżetu i obr",
-      "published": "Fri, 08 May 2026 07:20:06 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     }
   ]
 }
