@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T10:24:12.670002",
+  "generated_at": "2026-05-16T13:49:04.869195",
   "articles": [
     {
       "title": "Beer demand stumbles as gas prices surge, data shows",
@@ -42,6 +42,14 @@
       "category": "us"
     },
     {
+      "title": "PKO Bank Polski wypłaca nawet 600 zł za konto. Bonus może wzrosnąć do 900 zł",
+      "link": "https://www.bankier.pl/wiadomosc/Zakupy-z-premia-od-PKO-BP-Zaloz-konto-sobie-i-dziecku-zgarnij-do-900-zl-9131656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/21621ef6480b76-948-568-1370-887-2388-1433.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zainteresowani promocją PKO BP wciąż mają szansę na założenie konta osobistego w specjalnej promocji dla nowych klientów. Bank wypłaca 100 zł na zachętę za samo założenie ko",
+      "published": "Wed, 13 May 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "CitiKonto z premią do 700 zł. Ostatnia szansa, zanim marka Citi zniknie z polskiego rynku",
       "link": "https://www.bankier.pl/wiadomosc/CitiKonto-z-premia-do-700-zl-Ostatnia-szansa-zanim-marka-Citi-zniknie-z-polskiego-rynku-9127759.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/9/8b41447d3c9124-948-567-5-2-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Citi Handlowy sprzedaje detal VeloBankowi. Finalizacja przejęcia planowana jest na połowę 2026 r. Zanim marka Citi zniknie z polskiego rynku detalicznego, bank oferuje nowym klient",
@@ -70,14 +78,6 @@
       "link": "https://www.cnbc.com/2026/05/12/united-airlines-flight-attendants-contract.html",
       "summary": "United Airlines flight attendants ratify labor deal that would provide first raises in nearly six years.",
       "published": "Tue, 12 May 2026 18:45:35 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "The summer box office is off to a hot start as weekend ticket sales top $160 million",
-      "link": "https://www.cnbc.com/2026/05/12/summer-box-office-weekend-ticket-sales.html",
-      "summary": "The summer box office is off to a sizzling start, thanks in part to strong week-after-week performance from returning titles.",
-      "published": "Tue, 12 May 2026 18:10:10 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -130,11 +130,219 @@
       "category": "us"
     },
     {
-      "title": "Darmowe bankowanie w Polsce. Oto wyjątkowa oferta bez haczyków",
-      "link": "https://www.bankier.pl/wiadomosc/Przeswietlamy-UniCredit-darmowe-Konto-Osobiste-i-zyskowne-dodatki-9134302.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/f/fcdb942fbc92ee-948-568-40-0-1925-1155.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Banki często kuszą nas darmowymi kontami, jednak w tabelach opłat ukrywają kruczki. Nowa propozycja od UniCredit to wyjątek na rynku. Bank zaoferował w pełni darmowe Konto Osobi",
-      "published": "Sat, 16 May 2026 10:40:00 +0100",
+      "title": "Import surowców krytycznych. Eksperci wskazali, co Polska powinna zrobić",
+      "link": "https://www.money.pl/gospodarka/import-surowcow-krytycznych-eksperci-wskazali-co-polska-powinna-zrobic-7286519539976256a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ad4ef6ab-6d8c-4418-9191-1da29601ea77\" width=\"308\" /> Niska ekspozycja na ograniczenia eksportowe nie oznacza dla Polski niskiego ryzyka dostaw - zaznaczyli eksperci Polskiego Instytutu Ekonomicznego (PIE) w kontekście importu surowców krytycznych do naszego kraju. Wymienili, w jakich przypadkach uzależnienie jest największe",
+      "published": "Sat, 16 May 2026 15:08:31 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Koszyk zakupowy rodziny 2+2 idzie w górę. Sprawdź, co podrożało najmocniej",
+      "link": "https://www.bankier.pl/wiadomosc/Koszyk-zakupowy-rodziny-2-2-idzie-w-gore-Sprawdz-co-podrozalo-najmocniej-9131323.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/4/12a38c1dac1306-948-568-304-318-1512-907.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W kwietniu cena koszyka podstawowych artykułów niezbędnych do funkcjonowania czteroosobowej rodziny przez miesiąc wyniosła 2070 zł, czyli blisko 28 zł więcej w porównaniu do m",
+      "published": "Sat, 16 May 2026 14:00:00 +0100",
       "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Robert Lewandowski odchodzi z Barcelony. Skusi sią na 90 mln euro od Saudów?",
+      "link": "https://www.bankier.pl/wiadomosc/Robert-Lewandowski-odchodzi-z-Barcelony-Skusi-sia-na-90-mln-euro-od-Saudow-9134476.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/c/0ee32f2d965224-948-568-340-270-3050-1830.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po czterech latach występów Robert Lewandowski oficjalnie poinformował za pośrednictwem platformy Instagram o zakończeniu współpracy z klubem FC Barcelona. Z doniesień medial",
+      "published": "Sat, 16 May 2026 13:59:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "$668,603,360,342 — that’s how much people have legally bet on sports since the Supreme Court’s 2018 ruling",
+      "link": "https://www.marketwatch.com/story/668-603-360-342-thats-how-much-people-have-legally-bet-on-sports-since-the-supreme-courts-2018-ruling-550e0a08?mod=mw_rss_topstories",
+      "summary": "States have collected over $12 billion in tax revenue from sports betting since it was legalized in some states.",
+      "published": "Sat, 16 May 2026 13:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Polska firma zbrojeniowa traci „Obeliksa”. Bolesny wyrok Sądu UE w starciu z gigantem komiksowym",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-firma-zbrojeniowa-traci-Obeliksa-Bolesny-wyrok-Sadu-UE-w-starciu-z-gigantem-komiksowym-9132267.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/0d18f1fa1167d0-948-568-0-0-3150-1890.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sąd UE w środę unieważnił znak towarowy „Obelix” zarejestrowany na wniosek polskiej firmy zajmującej się uzbrojeniem Works 11. Według sądu przy rejestracji znaku unijny urząd nie",
+      "published": "Sat, 16 May 2026 13:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Cerebras rozbił bank na Wall Street. Rekordowy debiut i pytania o realną wartość",
+      "link": "https://businessinsider.com.pl/technologie/akcje-cerebras-szybuja-po-debiucie-analitycy-ostrzegaja-przed-powtorka-z-dotcomow/9xkbpsk",
+      "summary": "Producent akceleratorów AI Cerebras rozbił bank i stał się bohaterem największego tegorocznego debiutu na Wall Street. Analiza związanych z tym debiutem liczb i szczegółów produktów Cerebras wyciąga jednak na światło dzienne kilka niewygodnych faktów, które przywołują na pamięć czasy dotcomowej bańki.",
+      "published": "Sat, 16 May 2026 13:26:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Nauseda: Rozmowy z Kremlem nie mają sensu, dopóki Rosja nie okaże woli zakończenia wojny",
+      "link": "https://www.bankier.pl/wiadomosc/Nauseda-Rozmowy-z-Kremlem-nie-maja-sensu-dopoki-Rosja-nie-okaze-woli-zakonczenia-wojny-9133012.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/7/1bfbaa00843e79-948-568-0-0-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dopóki Rosja nie okaże woli zakończenia wojny przeciwko Ukrainie, rozmowy z reżimem na Kremlu nie mają sensu – oświadczył w czwartek prezydent Litwy Gitanas Nauseda na wspólnej k",
+      "published": "Sat, 16 May 2026 13:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Are you ‘doomjobbing’ while looking for work? Know the signs — and do this instead.",
+      "link": "https://www.marketwatch.com/story/are-you-doomjobbing-while-looking-for-work-know-the-signs-and-do-this-instead-5f44cec3?mod=mw_rss_topstories",
+      "summary": "“It was soul-crushing,” says one job hunter, who only found work once she stopped making this popular application mistake.",
+      "published": "Sat, 16 May 2026 13:17:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Irański plan na Cieśninę Ormuz. \"Zostanie wkrótce ogłoszony\"",
+      "link": "https://www.bankier.pl/wiadomosc/Iranski-plan-na-Ciesnine-Ormuz-Zostanie-wkrotce-ogloszony-9134467.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/d/8d1a7c996569ee-948-568-17-131-3482-2089.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Iran przygotował mechanizm zarządzania ruchem statków w cieśninie Ormuz wzdłuż wyznaczonej trasy, który zostanie wkrótce ogłoszony – poinformował w sobotę przewodniczący komis",
+      "published": "Sat, 16 May 2026 13:17:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zarobki rosną, satysfakcja także. Ale nie wszędzie jest różowo",
+      "link": "https://businessinsider.com.pl/praca/praca-w-polsce-rekordowe-zadowolenie-kontra-wzrost-przeciazenia/cgk6ehx",
+      "summary": "Polacy zadowoleni z pracy, ale coraz bardziej przeciążeni. Najnowszy \"Barometr rynku pracy 2026\"",
+      "published": "Sat, 16 May 2026 13:15:55 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "High gas prices and inflation are stressing people out — but the economy will be fine as long as they keep spending",
+      "link": "https://www.marketwatch.com/story/high-gas-prices-and-inflation-are-stressing-people-out-but-the-economy-will-be-fine-as-long-as-they-keep-spending-4f4b66e3?mod=mw_rss_topstories",
+      "summary": "Nearly three months into the Iran war, Americans are still spending plenty of money to keep the economy on the up and up.",
+      "published": "Sat, 16 May 2026 13:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I experienced many years of poverty’: I worked until 70. Why do wealthy retirees look down on those with less savings?",
+      "link": "https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories",
+      "summary": "“The majority of people are struggling to make ends meet.”",
+      "published": "Sat, 16 May 2026 13:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Toksyczna biżuteria. Szokujące wyniki kontroli UOKIK",
+      "link": "https://www.bankier.pl/wiadomosc/Toksyczna-bizuteria-Szokujace-wyniki-kontroli-UOKIK-9134437.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/9/72d8cf11640d61-948-568-0-0-2511-1506.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W 7 proc. skontrolowanych w 2025 r. partiach biżuterii, wyrobów skórzanych i obrusów UOKiK stwierdził przekroczenie dopuszczalnej zawartości substancji chemicznych, w tym kadmu i",
+      "published": "Sat, 16 May 2026 13:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Iran ma już plan zarządzaniem ruchem w cieśninie Ormuz. Zapowiada opłaty",
+      "link": "https://businessinsider.com.pl/gospodarka/iran-szykuje-nowy-mechanizm-ruchu-w-ciesninie-ormuz-beda-pobierane-oplaty/lkr2mx0",
+      "summary": "Iran zapowiedział, że wkrótce ogłosi mechanizm zarządzania ruchem statków w cieśninie Ormuz. Nowy plan został już opracowany, a ruch w cieśninie ma odbywać się wzdłuż wyznaczonej trasy.",
+      "published": "Sat, 16 May 2026 12:30:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Small caps are still riding high despite latest setback. But more trouble could lie ahead.",
+      "link": "https://www.marketwatch.com/story/small-caps-are-still-riding-high-despite-latest-setback-but-more-trouble-could-lie-ahead-19d778ea?mod=mw_rss_topstories",
+      "summary": "The small-cap Russell 2000 led U.S. stocks lower on Friday — yet it has outperformed all major indexes except the Nasdaq in 2026.",
+      "published": "Sat, 16 May 2026 12:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Co łączy brokat i bombę atomową? Niepozorna ozdoba masowo wykorzystywana przez wojsko",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/co-laczy-brokat-i-bombe-atomowa-niepozorna-ozdoba-to-wojskowy-sekret/mxprrcc",
+      "summary": "Weźmy zwykły brokat — te drobne, migoczące płatki, które wklejacie do kartek urodzinowych albo nakładacie wraz z lakierem na paznokcie. Wydaje się czymś absolutnie niewinnym, dziecięcym. A jednak ta sama substancja ma bezpośredni związek z jednym z najtajniejszych i najbardziej destrukcyjnych projektów w historii ludzkości — Projektem Manhattan, w ramach którego powstała pierwsza bomba atomowa. Co",
+      "published": "Sat, 16 May 2026 12:21:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Creator content made the main stage at TV's 'upfront' pitches — and not just for YouTube",
+      "link": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
+      "summary": "In media companies' annual pitch to advertisers this week, creator content played a bigger role as a new category for reaching younger audiences.",
+      "published": "Sat, 16 May 2026 12:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Meet the pilots flying Spirit Airlines' yellow jets to the desert",
+      "link": "https://www.cnbc.com/2026/05/16/spirit-airlines-airplanes.html",
+      "summary": "Special pilots have been moving Spirit's fleet of yellow jets to the desert.",
+      "published": "Sat, 16 May 2026 12:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Nastroje w budownictwie najgorsze od ponad trzech lat",
+      "link": "https://www.bankier.pl/wiadomosc/Nastroje-w-budownictwie-najgorsze-od-ponad-trzech-lat-9131436.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/8/4bd9b3010dd5f8-948-568-0-103-1967-1180.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Subindeks Barometru EFL dla budownictwa spadł w drugim kwartale 2026 r. do 47,1 pkt. z 51,4 pkt. kwartał wcześniej. To najniższy poziom od końca 2022 r. Firmy wyraźnie ogranicz",
+      "published": "Sat, 16 May 2026 12:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Uczestnicy konkursu Żubra zaatakowani przez oszustów. Browar ostrzega: to niebezpieczne",
+      "link": "https://businessinsider.com.pl/prawo/uczestnicy-konkursu-w-sieci-zaatakowani-przez-oszustow-organizator-ostrzega/fqp8qnk",
+      "summary": "Kompania Piwowarska, właściciel m.in. marki piwa Żubr, ostrzega uczestników swojego konkursu przed działaniami oszustów, podszywających się pod firmę. Organizatorzy poinformowali w sobotę o wstrzymaniu konkursu.",
+      "published": "Sat, 16 May 2026 11:58:18 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ataki hakerskie na stacjach benzynowych. USA podejrzewają Iran",
+      "link": "https://www.bankier.pl/wiadomosc/Ataki-hakerskie-na-stacjach-benzynowych-USA-podejrzewaja-Iran-9134452.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/3/4fe6e3b6a6eb20-945-560-0-98-1411-846.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Amerykańskie władze podejrzewają, że za serią włamań do systemów monitorujących poziom paliwa w zbiornikach zasilających stacje benzynowe w wielu stanach stoją irańscy hakerzy - ",
+      "published": "Sat, 16 May 2026 11:51:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ludowy Bank Chin kupuje złoto 18. miesiąc z rzędu. Raport WGC ujawnia zaskakujące dane",
+      "link": "https://comparic.pl/ludowy-bank-chin-kupuje-zloto-18-miesiac-z-rzedu-raport-wgc-ujawnia-zaskakujace-dane/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-zloto-GOLD-XAU-10-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Kwiecień 2026 roku przyniósł na chińskim rynku złota intrygujący paradoks – mimo że ceny kruszcu pozostały w praktyce niezmienione, zarówno Ludowy Bank Chin, jak i kr",
+      "published": "Sat, 16 May 2026 11:34:41 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Robert Lewandowski odchodzi z Barcelony. Wielkie pieniądze może zamienić na jeszcze większe",
+      "link": "https://businessinsider.com.pl/sport/robert-lewandowski-zegna-sie-z-barcelona-na-stole-wielkie-pieniadze/82s65yv",
+      "summary": "Robert Lewandowski po czterech latach żegna się z FC Barceloną. Informację tę piłkarz przekazał za pośrednictwem swojego konta na Instagramie. Według doniesień medialnych kolejnym przystankiem w jego karierze może być jeden z klubów w Arabii Saudyjskiej, gdzie miałby zarabiać rekordowe kwoty.",
+      "published": "Sat, 16 May 2026 11:27:33 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Szef NATO naciska na firmy zbrojeniowe w Europie. Chce spełnić żądania Donalda Trumpa",
+      "link": "https://businessinsider.com.pl/gospodarka/nato-naciska-na-firmy-zbrojeniowe-w-europie-w-planie-spotkanie-w-brukseli/ex8j5q3",
+      "summary": "NATO oczekuje od europejskich producentów z branży zbrojeniowej przyspieszenia inwestycji i zwiększenia produkcji. Sekretarz generalny sojuszu Mark Rutte ma spotkać się w Brukseli z przedstawicielami firm — informuje \"Financial Times\". Dziennik dodaje, że chodzi o \"spełnienie żądań Trumpa\".",
+      "published": "Sat, 16 May 2026 11:01:09 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ucieczka przed \"paragonami grozy\". Połowa Polaków wybiera maj zamiast sierpnia",
+      "link": "https://www.bankier.pl/wiadomosc/Ucieczka-przed-paragonami-grozy-Polowa-Polakow-wybiera-maj-zamiast-sierpnia-9132011.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/9/9f2b0f7c07d75f-948-568-0-69-1732-1039.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W tym roku 49 proc. Polaków wyjedzie na wakacje wiosną lub wczesnym latem, jeszcze przed rozpoczęciem sezonu - wynika z badania „Polaków portfel własny: Sezon na wydatki”. Najcz",
+      "published": "Sat, 16 May 2026 11:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Poważny błąd polskich przedsiębiorców. Boją się skarbówki i tracą fortunę",
+      "link": "https://www.bankier.pl/wiadomosc/Powazny-blad-polskich-przedsiebiorcow-Boja-sie-skarbowki-i-traca-fortune-9130757.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/b0d632be613530-948-568-0-159-3360-2015.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ulgi innowacyjne, w tym badawczo-rozwojowa, są w Polsce dostępne bez limitów i naborów, jednak korzysta z nich mniej niż 40 proc. uprawnionych firm - ocenia w rozmowie z PAP Bi",
+      "published": "Sat, 16 May 2026 11:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Koniec ery Buffetta? Berkshire wywraca portfel do góry nogami",
+      "link": "https://comparic.pl/koniec-ery-buffetta-berkshire-wywraca-portfel-do-gory-nogami/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/08/freepik-warren-buffett-3-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Greg Abel nie czekał nawet jednego kwartału, by pokazać, że Berkshire Hathaway wchodzi w zupełnie nową erę po odejściu Warren Buffett. Najnowszy raport ujawnił giganty",
+      "published": "Sat, 16 May 2026 10:24:37 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -186,14 +394,6 @@
       "category": "other"
     },
     {
-      "title": "Jachty-widma na Sardynii. Wykryto majątek wart 48 mln euro, właściciele mają wielki problem",
-      "link": "https://www.bankier.pl/wiadomosc/Jachty-widma-na-Sardynii-Wykryto-majatek-wart-48-mln-euro-wlasciciele-maja-wielki-problem-9134396.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/1/3a40cfc4d0e146-945-560-0-17-1732-1039.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />100 jachtów zacumowanych w portach na Sardynii i zupełnie nieznanych włoskiemu fiskusowi odkryła Gwardia Finansowa. Ich właściciele są zameldowani we Włoszech, ale jednostki te,",
-      "published": "Sat, 16 May 2026 09:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Czy da się zhakować Eurowizję? \"Jeden z najbardziej wymagających momentów dla infrastruktury cyfrowej\"",
       "link": "https://businessinsider.com.pl/gospodarka/czy-moze-dojsc-do-oszustw-na-eurowizje-pytamy-eksperta/2h8yjpk",
       "summary": "Eurowizja to jedno z największych wydarzeń medialnych świata. Szacuje się, że w trakcie show oddawanych jest nawet ok. 17 mln głosów, a konkurs generuje ponad 1,2 mld wyświetleń. Czy hakerzy mogą to wykorzystać? Eksperci mają ostrzeżenia.",
@@ -226,36 +426,12 @@
       "category": "pl"
     },
     {
-      "title": "Wyprowadzili 62 miliony złotych z bankrutujących firm",
-      "link": "https://www.bankier.pl/wiadomosc/Zorganizowany-uklad-z-syndykiem-Wyprowadzili-62-miliony-zlotych-z-bankrutujacych-firm-9134428.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/9/92e3fd17b8f46f-948-568-21-0-1655-993.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Radca prawny Daniel B. został oskarżony o kierowanie grupą przestępczą, która wyłudzała pieniądze i działała na szkodę firm będących w upadłości. Sieć spółek działała w porozumie",
-      "published": "Sat, 16 May 2026 09:10:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tajne posterunki Chin na całym świecie. FBI uderza w sieć agentów",
-      "link": "https://www.bankier.pl/wiadomosc/Tajne-posterunki-Chin-na-calym-swiecie-FBI-uderza-w-siec-agentow-9132847.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/f/19005636cee931-948-568-0-109-3984-2390.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Obywatel Stanów Zjednoczonych został uznany przez sąd w tym kraju za winnego współudziału w prowadzeniu placówki określonej jako pierwszy wykryty w USA tajny komisariat chiński",
-      "published": "Sat, 16 May 2026 09:08:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
       "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
       "summary": "“It’s remarkable — and discouraging — how many people are disengaged from their own financial lives.”",
       "published": "Sat, 16 May 2026 09:00:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Prezydent Estonii ostrzega Europę. \"Stoimy w obliczu egzystencjalnych zagrożeń\"",
-      "link": "https://www.bankier.pl/wiadomosc/Prezydent-Estonii-ostrzega-Europe-Stoimy-w-obliczu-egzystencjalnych-zagrozen-9134375.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/2/55c54786ab1f11-948-568-0-40-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Większość krajów europejskich nie znajduje się w stanie wojny, przynajmniej nie w tradycyjnym tego słowa znaczeniu, ale stoimy w obliczu egzystencjalnych zagrożeń i poważnych ry",
-      "published": "Sat, 16 May 2026 09:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Atak hakerski na stacje paliw w USA. Urzędnicy podejrzewają Iran. \"Próbują uderzyć wszędzie\"",
@@ -287,14 +463,6 @@
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/krypto-2026-05-08T054501.942-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Rynek kryptowalut wchodzi w weekend z trzema wyraźnymi kandydatami do wzrostów. Zcash, Hyperliquid oraz Flare prezentują na wykresach dziennych układy techniczne,",
       "published": "Sat, 16 May 2026 08:14:31 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Paraliż najpopularniejszej kolei w USA. Pracownicy żądają sporych podwyżek",
-      "link": "https://www.bankier.pl/wiadomosc/Paraliz-najpopularniejszej-kolei-w-USA-Pracownicy-zadaja-sporych-podwyzek-9134420.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/2/3dd49b8b76d9e4-948-568-32-256-4247-2548.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ponad 3,5 tys. pracowników Long Island Rail Road (LIRR), linii kolejowej łączącej wyspę Long Island z centrum Nowego Jorku, rozpoczęło w sobotę tuż po północy bezterminowy str",
-      "published": "Sat, 16 May 2026 08:05:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -394,14 +562,6 @@
       "category": "pl"
     },
     {
-      "title": "\"Wolał morderstwo od rozwodu\". Krwawy finał małżeństwa królów nowojorskiej sztuki",
-      "link": "https://www.bankier.pl/wiadomosc/Wolal-morderstwo-od-rozwodu-Krwawy-final-malzenstwa-krolow-nowojorskiej-sztuki-9131971.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/b/8b611f889d64e7-948-567-0-35-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nowojorski sąd federalny rozpoczął proces Daniela Sikkemy, oskarżonego o zlecenie zabójstwa męża, znanego marszanda Brenta Sikkemy. Ofiarę znaleziono w styczniu 2024 roku w rezyd",
-      "published": "Sat, 16 May 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Akcje tych spółek musisz posiadać w tym tygodniu (18-22.05.26), aby wziąć udział w dywidendzie!",
       "link": "https://comparic.pl/akcje-tych-spolek-musisz-posiadac-w-tym-tygodniu-18-22-05-26-aby-wziac-udzial-w-dywidendzie/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/02/dywidendy-freepik-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Za chwilę minie ostatnia szansa na zakup akcji spółek, aby załapać się na wypłatę dywidendy, czyli części zysku wypłacanego akcjonariuszom w formie gotówki albo dodatkowych a",
@@ -434,94 +594,6 @@
       "category": "other"
     },
     {
-      "title": "Miliarder mieszkał na sześciu kontynentach. Znalazł dwa miejsca, które nazywa domem",
-      "link": "https://businessinsider.com.pl/lifestyle/miliarder-o-dwoch-idealnych-miejscach-do-zycia-nie-do-pobicia/jkd9vk0",
-      "summary": "David von Rosen, niemiecki miliarder i założyciel Lottoland, mieszkał na sześciu kontynentach. Dziś dzieli życie między dwa państwa i nazywa to \"połączeniem nie do pobicia\". Nie ukrywa przy tym, że w obu płaci niskie podatki.",
-      "published": "Sat, 16 May 2026 05:41:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "20 najlepszych państw na świecie [RANKING]",
-      "link": "https://businessinsider.com.pl/lifestyle/nowy-ranking-najlepszych-panstw-rozczarowujaca-pozyzja-usa/nfxmwcd",
-      "summary": "Gdzie żyje się najlepiej na świecie? Wniosek z zestawienia magazynu US News &amp; World Report jest prosty: Europa rządzi. Ranking na 2026 r. porównał 100 państw pod względem takich czynników jak infrastruktura, zdrowie i turystyka.",
-      "published": "Sat, 16 May 2026 05:26:32 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kto naprawdę rządzi w świecie biznesu? Zestawiliśmy największe firmy z USA i Chin",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wizyta-donalda-trumpa-w-chinach-kto-dzis-rzadzi-swiatowym-biznesem/4m527g2",
-      "summary": "Wartość 10 największych amerykańskich firm przekracza 28 bln dol. i bije na głowę wyceny ich chińskich konkurentów. Są jednak branże, w których to Państwo Środka jest górą.",
-      "published": "Sat, 16 May 2026 04:23:58 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "AI nie może być powodem do zwolnienia? Chińskie wyroki rozgrzały debatę",
-      "link": "https://businessinsider.com.pl/praca/ai-zabiera-stanowiska-sad-w-chinach-to-problem-firmy-nie-pracownika/g354ywp",
-      "summary": "Sztuczna inteligencja coraz szybciej przejmuje zadania ludzi, ale chiński sąd postawił wyraźną granicę. W precedensowym wyroku uznał, że firma nie może zwolnić pracownika tylko dlatego, że zastąpiły go algorytmy.",
-      "published": "Sat, 16 May 2026 04:22:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "\"Gotowanie żaby\". Ekspert z Google wprost o tym, co robi Rosja [WYWIAD]",
-      "link": "https://businessinsider.com.pl/gospodarka/gru-i-fsb-gotuja-zabe-ekspert-google-o-atakach-na-polske/ph3hy3w",
-      "summary": "John Hultquist zajmuje się cyberbezpieczeństwem od lat. Kiedyś pracował dla U.S. Army i dla rządu USA, teraz jest kluczowym analitykiem firmy Google. W rozmowie z Business Insider Polska mówi wprost, że zagrożeniem jest już nie tylko GRU. — Idziemy w bardzo niebezpieczną stronę — przyznaje.",
-      "published": "Sat, 16 May 2026 04:10:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Sejm uchwalił ponad 20 ustaw. Sprawdź, jak się zmieni prawo",
-      "link": "https://businessinsider.com.pl/prawo/kryptoaktywa-podatki-zdrowie-sejm-wprowadza-rewolucje-w-polskim-prawie/vdcr0xz",
-      "summary": "Sejm zakończył pracę nad ponad 20 ustawami. Najgłośniejsza dotyczy rynku kryptoaktywów, ale wśród nowych przepisów jest jednak sporo takich, które odczuje większość Polaków. Prześledziliśmy wszystko, co się działo w minionych dniach przy ul. Wiejskiej i wybraliśmy dla naszych czytelników kluczowe informacje z ostatniego posiedzenia.",
-      "published": "Sat, 16 May 2026 04:00:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kuba szykuje się na atak USA. Wydano specjalny poradnik dla rodzin",
-      "link": "https://www.bankier.pl/wiadomosc/Kuba-szykuje-sie-na-atak-USA-Wydano-specjalny-poradnik-dla-rodzin-9134376.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/5/245e8400a50ccc-948-568-123-563-3621-2173.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd Kuby opracował poradnik dla rodzin na wypadek zaatakowania wyspy przez wojska USA. Dokument został opublikowany w internecie, gdzie spotkał się z krytyką ze strony użytk",
-      "published": "Sat, 16 May 2026 02:58:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Benzyna po 10 dolarów i puste zbiorniki. Kuba walczy z kryzysami",
-      "link": "https://www.bankier.pl/wiadomosc/Benzyna-po-10-dolarow-i-puste-zbiorniki-Kuba-walczy-z-kryzysami-9134374.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/cfba17130eba42-948-568-0-236-3500-2099.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na Kubie przywrócono w piątek dostawy energii elektrycznej po rozległej awarii, która dotknęla w czwartek siedem z piętnastu prowincji tego kraju. W piątek ogłoszono też znaczn",
-      "published": "Sat, 16 May 2026 01:46:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "GM cutting hundreds of salaried IT workers as it trims costs, evaluates needs",
-      "link": "https://www.cnbc.com/2026/05/11/gm-layoffs.html",
-      "summary": "General Motors is laying off hundreds of salaried employees in its information technology operations.",
-      "published": "Mon, 11 May 2026 23:32:38 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Are you ‘doomjobbing’ while looking for work? Know the signs — and do this instead.",
-      "link": "https://www.marketwatch.com/story/are-you-doomjobbing-while-looking-for-work-know-the-signs-and-do-this-instead-5f44cec3?mod=mw_rss_topstories",
-      "summary": "“It was soul-crushing,” says one job hunter, who only found work once she stopped making this popular application mistake.",
-      "published": "Fri, 15 May 2026 22:41:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Wall Street kończy tydzień spadkami po przecenie firm technologicznych",
-      "link": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-spadkami-po-przecenie-firm-technologicznych-9134352.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/8/25bcb36c6eb825-948-568-25-105-1975-1184.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W piątek indeksy na Wall Street spadły w ślad za zniżkami akcji spółek technologicznych i wzrostem rentowności obligacji skarbowych. Stało się tak po zakończeniu szczytu prezy",
-      "published": "Fri, 15 May 2026 22:22:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "This hedge fund just dumped the ‘big three’ airline stocks, as the industry faces soaring fuel costs",
       "link": "https://www.marketwatch.com/story/this-hedge-fund-just-dumped-the-big-three-airline-stocks-as-the-industry-faces-soaring-fuel-costs-4ae4f9ba?mod=mw_rss_topstories",
       "summary": "Appaloosa sold off its entire positions in Delta, American and United, while loading up on shares of Amazon and Uber.",
@@ -538,67 +610,11 @@
       "category": "us"
     },
     {
-      "title": "George Soros’s fund buys Berkshire Hathaway stock — now that Buffett is gone",
-      "link": "https://www.marketwatch.com/story/george-soross-fund-buys-berkshire-hathaway-stock-now-that-buffett-is-gone-48a247e3?mod=mw_rss_topstories",
-      "summary": "The value of Soros Fund Management’s equity holdings increased during the first quarter in a down market, as it boosted stakes in Nvidia and Apple.",
-      "published": "Fri, 15 May 2026 21:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "$668,603,360,342 — that’s how much people have legally bet on sports since the Supreme Court’s 2018 ruling",
-      "link": "https://www.marketwatch.com/story/668-603-360-342-thats-how-much-people-have-legally-bet-on-sports-since-the-supreme-courts-2018-ruling-550e0a08?mod=mw_rss_topstories",
-      "summary": "States have collected over $12 billion in tax revenue from sports betting since it was legalized in some states.",
-      "published": "Fri, 15 May 2026 21:08:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Trump inwestuje na Wall Street. Oto na jakie spółki postawił",
       "link": "https://www.money.pl/gielda/trump-inwestuje-na-wall-street-oto-na-jakie-spolki-postawil-7286251137218624a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c901206d-89a2-47fd-8d43-4fc652a4fb5e\" width=\"308\" /> Donald Trump w pierwszym kwartale 2026 r. przeprowadził na amerykańskiej giełdzie tysiące transakcji o łącznej wartości od 220 mln do 750 mln dol. - wynika z oświadczeń, które zobowiązany jest składać prezydent, i które opisał Reuters. Prezydent obracał m.in. akcjami taki",
       "published": "Fri, 15 May 2026 21:03:54 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz",
-      "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
-      "summary": "Fears of a 2022-style inflation problem are bubbling back up, but there’s also hope for a Trump pivot on the Iran conflict.",
-      "published": "Fri, 15 May 2026 20:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "This ‘safe haven’ bond is projected to pay 5.1% this year — with almost no risk",
-      "link": "https://www.marketwatch.com/story/this-safe-haven-bond-is-projected-to-pay-5-1-this-year-with-almost-no-risk-ae3fb8fe?mod=mw_rss_topstories",
-      "summary": "The April 2032 inflation-protected U.S. TIPS bond looks like a pretty good deal.",
-      "published": "Fri, 15 May 2026 20:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Niemcy ostrzegają przed wojną z Rosją. Sojusz musi być gotowy już w 2029 r.",
-      "link": "https://businessinsider.com.pl/wiadomosci/rosja-moze-zaatakowac-nato-w-2029-r-niemiecki-general-nie-ma-zludzen/001kzkv",
-      "summary": "Rosja może uderzyć na NATO już za kilka lat — ostrzega najwyższy rangą wojskowy w Niemczech. Carsten Breuer wskazuje konkretny horyzont czasowy, w którym Moskwa będzie gotowa do agresji na państwa Sojuszu Północnoatlantyckiego.",
-      "published": "Fri, 15 May 2026 20:04:07 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Inflacja w Polsce wraca do wzrostów! GUS potwierdził dane z kwiecień",
-      "link": "https://comparic.pl/inflacja-w-polsce-wraca-do-wzrostow-gus-potwierdzil-dane-z-kwiecien-15-05-2026/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/ChatGPT-Image-30-kwi-2026-11_40_33-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Według najnowszego raportu GUS w kwietniu 2026 r. inflacja CPI w Polsce wyniosła finalnie 3,2% r/r, co oznacza nieznaczne, ale jednak przyśpieszenie wzglę",
-      "published": "Fri, 15 May 2026 20:02:04 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Xi Jinping ogłasza „nową erę” w relacjach USA–Chiny. Co oznacza „konstruktywna stabilność strategiczna”?",
-      "link": "https://comparic.pl/xi-jinping-oglasza-nowa-ere-w-relacjach-usa-chiny-co-oznacza-konstruktywna-stabilnosc-strategiczna/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Chiny-USA-Xi-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Dwudniowy szczyt Donalda Trumpa i Xi Jinpinga w Pekinie nie przyniósł żadnych przełomowych umów handlowych ani spektakularnych deklaracji, jednak chiński przywódca już w jeg",
-      "published": "Fri, 15 May 2026 19:56:08 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -650,14 +666,6 @@
       "category": "pl"
     },
     {
-      "title": "Wielka dziura w budżecie. Ujemny PIT i prawie 90 miliardów złotych deficytu",
-      "link": "https://www.bankier.pl/wiadomosc/Wielka-dziura-w-budzecie-Ujemny-PIT-i-prawie-90-miliardow-zlotych-deficytu-9134121.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/4/3b3bc682c72215-945-560-7-78-1492-895.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Z szacunkowych danych resortu finansów za okres od stycznia do kwietnia br. wynika, że deficyt budżetu państwa wyniósł ok. 89,29 mld zł, co stanowi 32,9 proc. deficytu zaplanowan",
-      "published": "Fri, 15 May 2026 16:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "„Rynek wystawił politykom żółtą kartkę”. Czyli co nam mówią rentowności obligacji?",
       "link": "https://www.bankier.pl/wiadomosc/Rynek-wystawil-politykom-zolta-kartke-Czyli-co-nam-mowia-rentownosci-obligacji-9133702.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/e/983e5e0b490f7f-948-568-43-194-2464-1478.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />O szybujących cenach miedzi i coraz wyższych rentownościach długoterminowych obligacji skarbowych w programie „Bankier Weekly” opowiada Piotr Miliński, dyrektor ds. rynków zag",
@@ -704,14 +712,6 @@
       "published": "Fri, 15 May 2026 12:14:03 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Przedawnienie podatków. Jest decyzja. Oto co się zmieni",
-      "link": "https://www.money.pl/podatki/przedawnienie-podatkow-jest-decyzja-oto-co-sie-zmieni-7286116082309152a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/dc900942-cb8d-4a34-916f-e18baa249530\" width=\"308\" /> Sejm uchwalił w piątek nowelizację Ordynacji podatkowej, która dotyczy kwestii przedawnienia zobowiązania podatkowego. Wcześniej w głosowaniu większości nie zdobył wniosek PiS, aby odrzucić nowelę w całości.",
-      "published": "Fri, 15 May 2026 11:51:57 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Zonda, polityczny chaos i polskie zaprzepaszczone szanse. Misiura: Exodus już się dzieje",
