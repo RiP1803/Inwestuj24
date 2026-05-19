@@ -1,29 +1,549 @@
 {
-  "generated_at": "2026-05-19T09:59:52.102964",
+  "generated_at": "2026-05-19T15:41:37.961821",
   "articles": [
     {
-      "title": "Beer demand stumbles as gas prices surge, data shows",
-      "link": "https://www.cnbc.com/2026/05/13/beer-demand-stumbles-as-gas-prices-surge-data-show.html",
-      "summary": "U.S. beer sales slump as higher gas prices squeeze consumers, with convenience stores and high-fuel-cost states with higher-cost fuel seeing the sharpest declines.",
-      "published": "Wed, 13 May 2026 21:50:19 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Allegiant CEO makes case for low-cost airline model as Sun Country acquisition closes",
-      "link": "https://www.cnbc.com/2026/05/13/allegiant-sun-country-acquisition-ceo.html",
-      "summary": "Allegiant CEO Greg Anderson said leisure travel demand is still strong despite higher fuel prices.",
-      "published": "Wed, 13 May 2026 20:59:42 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Nowy plan na polskie ciepło. 50 proc. OZE albo brak dopłat",
-      "link": "https://www.bankier.pl/wiadomosc/Nowy-plan-na-polskie-cieplo-50-proc-OZE-albo-brak-doplat-9135472.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/d/1c20662269822f-948-568-20-0-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Projekt nowelizacji Prawa energetycznego. który dostosowuje polskie przepisy do dyrektywy EED, wprowadza kryteria efektywności dla systemów ciepłowniczych, a jednym z nich może ",
-      "published": "Tue, 19 May 2026 11:50:00 +0100",
+      "title": "Konto idealne do podróżowania. UniCredit zwalnia z opłat za bankomaty i przewalutowania",
+      "link": "https://www.bankier.pl/wiadomosc/Rewolucja-w-UniCredit-Darmowe-konto-i-6-na-lokacie-powitalnej-9128373.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/8/575f7161d536c3-948-568-0-89-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Darmowa bankowość bez gwiazdek i idealne konto na wyjazdy? UniCredit wprowadza Konto Osobiste z zerowymi opłatami za prowadzenie, kartę i bankomaty na całym świecie. Sprawdź, ja",
+      "published": "Wed, 6 May 2026 14:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Projekt, który uderzy w zyski Orlenu. Rząd podał termin, gdy chce go przyjąć",
+      "link": "https://www.money.pl/mobility/projekt-ktory-uderzy-w-zyski-orlenu-rzad-podal-termin-gdy-chce-go-przyjac-7287615226124448a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e48317d8-bd8d-42dd-9fc0-e9714e586f8f\" width=\"308\" /> Rząd planuje do końca czerwca przyjąć projekt ustawy wprowadzającej podatek od nadzwyczajnych zysków firm paliwowych osiągniętych w 2026 r. Jak wynika z wykazu prac legislacyjnych, wpływy z nowej daniny mają wesprzeć finansowanie działań osłonowych na rynku paliw, takich ",
+      "published": "Tue, 19 May 2026 17:30:20 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wartość Orlenu przebije 200 mld zł? Są ku temu sprzyjające warunki",
+      "link": "https://www.money.pl/gielda/wartosc-orlenu-przebije-200-mld-zl-sa-ku-temu-sprzyjajace-warunki-7287603555149920a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1cf30954-1f19-4abd-bd4b-830b561b3c1b\" width=\"308\" /> Analitycy DM BOŚ podnieśli cenę docelową akcji Orlenu do 175 zł, co oznaczałoby kapitalizację na poziomie ponad 200 mld zł. We wtorek 19 maja akcja kosztowała ok. 145 zł – pisze portal wnp.pl.",
+      "published": "Tue, 19 May 2026 16:23:12 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nawet 4200 zł od Banku Pekao. Tyle mogą zgarnąć przedsiębiorcy",
+      "link": "https://www.bankier.pl/wiadomosc/4200-zl-za-konto-firmowe-w-Pekao-Dochodzi-jeszcze-4-5-proc-na-oszczednosciach-9135392.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/b593ec1c603b33-948-568-0-244-3628-2176.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bank Pekao oferuje nawet 4200 zł premii za otwarcie Konta Biznes z Żubrem, płatności kartą, korzystanie z terminala płatniczego, kredytu w rachunku bieżącym oraz leasingu. Spra",
+      "published": "Tue, 19 May 2026 16:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5%",
+      "link": "https://www.cnbc.com/2026/05/19/home-depot-hd-q1-2026-earnings.html",
+      "summary": "Home Depot beat Wall Street's expectations on the top and bottom lines, even as some shoppers pulled back on larger projects.",
+      "published": "Tue, 19 May 2026 15:33:54 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Najpierw przelew, potem decyzja. Rząd zmienia zasady opłat dla KNF",
+      "link": "https://www.bankier.pl/wiadomosc/Najpierw-przelew-potem-decyzja-Rzad-zmienia-zasady-oplat-dla-KNF-9135671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/b/4c1ce1b7235374-948-568-0-258-4500-2699.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd przyjął projekt ustawy, który zmienia zasady uiszczania opłat na rzecz KNF przez podmioty działające na rynku finansowym - podano w komunikacie po posiedzeniu rządu. Opłat",
+      "published": "Tue, 19 May 2026 15:24:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘How much money do you make?’ Since you can’t ask your date that, ask this instead.",
+      "link": "https://www.marketwatch.com/story/how-much-money-do-you-make-since-you-cant-ask-your-date-that-ask-this-instead-e28997a3?mod=mw_rss_topstories",
+      "summary": "Intentionally discussing aspirations and values can help daters determine if they’re financially compatible",
+      "published": "Tue, 19 May 2026 15:14:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Potężny atak w świecie krypto. Z protokołu DeFi zniknęło 77 milionów dolarów",
+      "link": "https://comparic.pl/potezny-atak-w-swiecie-krypto-z-protokolu-defi-zniknelo-77-milionow-dolarow/",
+      "summary": "<img alt=\"hacker\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/02/freepik-hacker-atack-cyber-attack-dangerous-scam-allert-niebezpieczenstwo-oszustwo-kradziez-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Echo Protocol (protokół DeFi oparty na Bitcoinie) znalazł się w centrum kolejnego głośnego inc",
+      "published": "Tue, 19 May 2026 15:11:01 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Buy now, pay maybe? This new crypto card brings ‘the casino to the checkout line’",
+      "link": "https://www.marketwatch.com/story/buy-now-pay-maybe-this-new-crypto-card-brings-the-casino-to-the-checkout-line-093fbe57?mod=mw_rss_topstories",
+      "summary": "Financial products have been increasingly adding gamelike features that create competition or instant gratification to keep users hooked.",
+      "published": "Tue, 19 May 2026 15:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Oto szczegóły windfall tax. Rząd chce przyjąć projekt do końca czerwca",
+      "link": "https://businessinsider.com.pl/prawo/podatki/podatku-od-nadzwyczajnych-zyskow-oto-szczegoly-windfall-tax/rhz7k1b",
+      "summary": "W wykazie prac legislacyjnych rządu pojawiły się szczegóły tzw. windfall tax — podatku od zysków nadzwyczajnych firm paliwowych. Wpływy z nowej daniny mają sfinansować działania osłonowe na rynku paliw.",
+      "published": "Tue, 19 May 2026 15:08:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polityczne billboardy za 4,7 mln zł z Fundacji Orlen. Jest akt oskarżenia dla b. prezes",
+      "link": "https://www.bankier.pl/wiadomosc/Polityczne-billboardy-za-4-7-mln-zl-z-Fundacji-Orlen-Jest-akt-oskarzenia-dla-b-prezes-9135654.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/7/3636f232c01823-948-568-742-419-2257-1354.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prokuratura Regionalna w Warszawie skierowała we wtorek do warszawskiego Sądu Okręgowego akt oskarżenia przeciwko byłej prezes Fundacji Orlen Katarzynie R. - poinformował rze",
+      "published": "Tue, 19 May 2026 15:07:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Oil shocks have historically triggered major market selloffs. Deutsche Bank says the Iran war is missing 3 key ingredients.",
+      "link": "https://www.marketwatch.com/story/dont-worry-about-risk-assets-coming-under-pressure-just-yet-deutsche-bank-says-82bcc7d4?mod=mw_rss_topstories",
+      "summary": "The red flags warning of a bigger pullback for stocks and other assets that are perceived to be riskier have not yet appeared, Deutsche Bank analysts said.",
+      "published": "Tue, 19 May 2026 15:06:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Retirees are worried about the cost of healthcare — and who can blame them?",
+      "link": "https://www.marketwatch.com/story/retirees-are-worried-about-the-cost-of-healthcare-and-who-can-blame-them-ff3bb11b?mod=mw_rss_topstories",
+      "summary": "The increase in Medicare Part B premiums has sparked concerns about out-of-pocket healthcare costs.",
+      "published": "Tue, 19 May 2026 15:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m selling my $1 million Maui home. Will my agent charge me less than a 6% commission?",
+      "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+      "summary": "“Legislation introduced in 2024 was designed to finally upend the traditional 6% real-estate commission model.”",
+      "published": "Tue, 19 May 2026 15:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ściga się z Biedronką i Lidlem. Teraz zwiększa swoją niezależność na polskim rynku",
+      "link": "https://www.bankier.pl/wiadomosc/Sciga-sie-z-Biedronka-i-Lidlem-Stokrotka-zwieksza-swoja-niezaleznosc-na-polskim-rynku-9134871.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/9/e7cb334a7e85ea-948-568-735-105-3465-2078.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sieć dyskontów Stokrotka czeka rewolucja właścicielska. Maxima Grupe z Litwy sprzedała udziały w kontrolującej ją spółki w ramach restrukturyzacji. Co to oznacza dla Stokrotk",
+      "published": "Tue, 19 May 2026 15:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Insurance brokers are getting big commissions to keep retirees in Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-brokers-rake-in-10-billion-a-year-in-commissions-but-how-many-people-are-they-helping-88b45f89?mod=mw_rss_topstories",
+      "summary": "Medicare Advantage brokers raked in $10 billion a year in commissions — but how many people are they helping?",
+      "published": "Tue, 19 May 2026 14:59:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Gorszy scenariusz dla polskiej gospodarki. Ekonomiści zmieniają prognozy",
+      "link": "https://businessinsider.com.pl/gospodarka/gorszy-scenariusz-dla-polskiej-gospodarki-trzy-glowne-skutki-wojny-w-iranie-i-drogiej/91pfmbv",
+      "summary": "Impas w Zatoce Perskiej przesuwa prognozy w stronę wyższej inflacji i słabszego wzrostu PKB — wynika z najnowszego raportu Erste Banku Polska. Ocenili, czy RPP zareaguje na wzrost cen podniesieniem stóp procentowych.",
+      "published": "Tue, 19 May 2026 14:48:45 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Miasteczko pracownicze w Choczewie. Ważny krok w budowie elektrowni jądrowej",
+      "link": "https://www.bankier.pl/wiadomosc/Miasteczko-pracownicze-w-Choczewie-Wazny-krok-w-budowie-elektrowni-jadrowej-9135637.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/0/79ad73d3a34757-948-568-10-120-3990-2393.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bechtel Polska oraz polski producent budynków modułowych Unihouse podpisali umowę wartą ok. 259 mln zł netto w sprawie stworzenia bazy zakwaterowania na potrzeby budowy pierws",
+      "published": "Tue, 19 May 2026 14:46:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Absolutnie niesamowity\" system. Największa armia świata chce ukraińskich dronów",
+      "link": "https://www.bankier.pl/wiadomosc/Absolutnie-niesamowity-system-Najwieksza-armia-swiata-chce-ukrainskich-dronow-9135636.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/6/e2e7acccc2b24d-948-568-0-0-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kijów poinformował, że Stany Zjednoczone starają się o transfer ukraińskjiej technologii wojskowej i dostęp do praw własności intelektualnej - podała we wtorek agencja Bloomberg.",
+      "published": "Tue, 19 May 2026 14:41:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nie tylko Andrzej Domański ma problem. Premia za ryzyko w USA już najwyższa od niemal 20 lat",
+      "link": "https://businessinsider.com.pl/gospodarka/rentownosci-obligacji-skarbowych-rosna-nie-tylko-andrzej-domanski-ma-problem/bwynv1k",
+      "summary": "Rentowność amerykańskich obligacji skarbowych wzrosła do najwyższego poziomu od prawie dwóch dekad.",
+      "published": "Tue, 19 May 2026 14:35:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Czy rozwój AI wszedł w nową fazę? JPMorgan ogłasza koniec hype’u i początek realnej użyteczności",
+      "link": "https://comparic.pl/czy-rozwoj-ai-wszedl-w-nowa-faze-jpmorgan-oglasza-koniec-hypeu-i-poczatek-realnej-uzytecznosci/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-AI-sztuczna-inteligencja-robot-technologia-7-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Sztuczna inteligencja przekracza właśnie symboliczną granicę – ze świata spekulacji i rosnących obietnic wchodzi w erę konkretnych efektów ",
+      "published": "Tue, 19 May 2026 14:32:15 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Mała technologiczna spółka z państwowym kontraktem! Jej akcje podbijają GPW!",
+      "link": "https://comparic.pl/mala-technologiczna-spolka-z-panstwowym-kontraktem-jej-akcje-podbijaja-gpw/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/softblue-graf-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />SoftBlue podpisuje strategiczną umowę o wartości 23,6 mln zł z Centrum e-Zdrowia na wdrożenie systemu VoiceBot dla Centralnej e-Rejestracji. Projekt oparty o sztuczną inteligenc",
+      "published": "Tue, 19 May 2026 14:25:02 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zysk 150% w górę i mocne prognozy na 2026 rok! Czy blisko 50% spadek i wycena poniżej realnej wartości to doskonała okazja?",
+      "link": "https://comparic.pl/zysk-150-w-gore-i-mocne-prognozy-na-2026-rok-czy-blisko-50-spadek-i-wycena-ponizej-realnej-wartosci-to-doskonala-okazja/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/boryszew-graf-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Boryszew pokazuje w I kw. 2026 wyraźną poprawę wyników finansowych, co przyciąga uwagę inwestorów na rynku GPW. Zysk netto wzrósł do 14,42 mln zł wobec 5,88 mln zł rok wcześniej",
+      "published": "Tue, 19 May 2026 14:21:49 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I know end-of-life stuff can be expensive:’ How much money should I expect to spend on care for my senior bulldog?",
+      "link": "https://www.marketwatch.com/story/i-know-end-of-life-stuff-can-be-expensive-how-much-money-should-i-expect-to-spend-on-care-for-my-senior-bulldog-307a2cff?mod=mw_rss_topstories",
+      "summary": "“I have pet insurance. Is that enough?”",
+      "published": "Tue, 19 May 2026 14:14:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Iran ostrzega USA przed atakami: Jeśli wróg będzie na tyle głupi",
+      "link": "https://www.bankier.pl/wiadomosc/Iran-ostrzega-USA-przed-atakami-Jesli-wrog-bedzie-na-tyle-glupi-9135602.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/7/5a4fc6c0d9941f-948-568-22-59-2977-1786.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Armia irańska ostrzegła we wtorek w oświadczeniu, że otworzy „nowe fronty”, jeśli Stany Zjednoczone wznowią ataki na Iran - poinformowała agencja AFP. Walki zostały zawieszone ",
+      "published": "Tue, 19 May 2026 14:03:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowe informacje w sprawie Marcina Romanowskiego. Chodzi o biuro poselskie",
+      "link": "https://businessinsider.com.pl/gospodarka/marcin-romanowski-nie-wrocil-do-polski-jego-biuro-wciaz-wydaje/38lbwq8",
+      "summary": "Choć poseł Prawa i Sprawiedliwości Marcin Romanowski od grudnia 2024 r. przebywa poza granicami Polski, jego biuro poselskie w Biłgoraju nieprzerwanie pobiera i wydaje środki z budżetu państwa. Znane są dokładne kwoty.",
+      "published": "Tue, 19 May 2026 14:01:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-falls-as-new-google-cloud-venture-may-signal-more-competition-ahead-7bd7fb30?mod=mw_rss_topstories",
+      "summary": "A joint venture between Google and Blackstone isn’t “immediately problematic” for CoreWeave, but rather a sign that the market could get more crowded, according to a Bernstein analyst.",
+      "published": "Tue, 19 May 2026 14:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Iran stawia warunki pokoju. Wśród nich reparacje",
+      "link": "https://businessinsider.com.pl/wiadomosci/iran-przedstawia-nowe-warunki-pokoju-reparacje-i-wycofanie-wojsk-usa/cek7nw7",
+      "summary": "Najnowsza propozycja pokojowa Iranu obejmuje m.in. reparacje za zniszczenia wojenne i wycofanie wojsk USA.",
+      "published": "Tue, 19 May 2026 14:00:07 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The lifetime cost of care for someone with Alzheimer’s is over $400,000. Here’s how you can prepare for the expense.",
+      "link": "https://www.marketwatch.com/story/the-lifetime-cost-of-care-for-someone-with-alzheimers-is-over-400-000-heres-how-you-can-prepare-for-the-expense-42dffa5c?mod=mw_rss_topstories",
+      "summary": "“This will be a bigger and bigger concern as the population ages.”",
+      "published": "Tue, 19 May 2026 14:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Zmiany w przepisach dotyczących wody w kranie. Ruszą kontrole",
+      "link": "https://businessinsider.com.pl/gospodarka/duze-zmiany-dla-odbiorcow-wody-od-21-maja-rusza-kontrole/d74lbee",
+      "summary": "Od 21 maja w życie wejdą przepisy rozszerzające odpowiedzialność za bezpieczeństwo i jakość wody w naszych kranach. Nowe obowiązki otrzymają m.in. zarządcy nieruchomości, którzy będą zobligowani do sprawdzenia, czy instalacja wodno-kanalizacyjna w budynku nie stwarza zagrożenia dla korzystających z niej osób.",
+      "published": "Tue, 19 May 2026 13:58:38 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Niemiecki burmistrz gotowy do kariery w rezerwie – ale urzędowi przeszkadza jego ocena z matury z 2005 r.",
+      "link": "https://businessinsider.com.pl/polityka/rezerwa-bundeswehry-i-wyzwania-burmistrz-schleiden-kontra-sztywne-zasady/8k5w834",
+      "summary": "Ingo Pfennings jest burmistrzem i chce wnieść swoje doświadczenie jako menedżer kryzysowy do Bundeswehry. Jednak jego aplikacja na rezerwistę okazuje się wyjątkowo skomplikowana — wbrew stanowczym deklaracjom ministra obrony.",
+      "published": "Tue, 19 May 2026 13:54:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "CPK: Decyzja lokalizacyjna lotniska zatwierdzona. We wrześniu rusza budowa",
+      "link": "https://www.bankier.pl/wiadomosc/CPK-Decyzja-lokalizacyjna-lotniska-zatwierdzona-We-wrzesniu-rusza-budowa-9135593.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/4/ef3e8ac97bf742-948-568-170-160-3800-2280.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister Finansów i Gospodarki rozpatrzył odwołania od decyzji lokalizacyjnej dla lotniska w Baranowie; oznacza to, że decyzja ta jest ostateczna - przekazał we wtorek Centra",
+      "published": "Tue, 19 May 2026 13:51:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Mocne słowa Merkel. \"Zrobię wszystko, co jeszcze leży w mojej mocy, aby do tego nie doszło\"",
+      "link": "https://businessinsider.com.pl/polityka/angela-merkel-wraca-na-scene-jej-wystapienie-przyciaga-tlumy/1shyysr",
+      "summary": "Na konferencji cyfrowej \"re:publica\" ma zostać niejako cofnięty czas. Obok Luisy Neubauer i Heidi Reichinnek wśród gości jest także Angela Merkel. Szczególnie była kanclerz wie, jak zdobyć publiczność i przemycić swoje przekazy.",
+      "published": "Tue, 19 May 2026 13:50:32 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rewolucja w płatnościach? Stablecoiny wyprzedziły Visa i są 99% tańsze",
+      "link": "https://comparic.pl/rewolucja-w-platnosciach-stablecoiny-wyprzedzily-visa-i-sa-99-tansze/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/05/KryptoKoks_bitcoin_chain_blockchain_queue_of_bitcoin_transactio_10d7f4ca-b480-4043-bcdf-408537e34745-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Najnowszy raport Binance Research zatytułowany „Finance Without Frontiers&#8221; rzuca nowe",
+      "published": "Tue, 19 May 2026 13:46:04 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Here are the stocks to buy — and avoid — to protect your portfolio against oil and yield shocks",
+      "link": "https://www.marketwatch.com/story/investors-are-unprotected-against-oil-and-yield-shocks-here-are-the-stocks-to-buy-and-avoid-ffed03c2?mod=mw_rss_topstories",
+      "summary": "Evercore strategists say as risks build for stocks, less-protected investors need more of these “all-weather” outperforming stocks.",
+      "published": "Tue, 19 May 2026 13:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Niemieckie koncerny dostają rekordowe dotacje. \"Redukcja jest politycznie bardzo trudna\"",
+      "link": "https://www.money.pl/gospodarka/niemieckie-koncerny-na-garnuszku-panstwa-rekordowe-dotacje-budza-sprzeciw-7287564910479520a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e53c0958-3647-4900-a86b-236afcc3f15b\" width=\"308\" /> Państwowe subwencje w Niemczech wzrosły dwukrotnie w ciągu sześciu lat, osiągając ponad 117 mld euro. Z najnowszej analizy wynika BusinessInsider.de, że lwią część tych środków otrzymują m.in. największe koncerny. To budzi pytania o skuteczność i skutki uboczne tej polity",
+      "published": "Tue, 19 May 2026 13:44:00 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Droga ropa i paliwa już biją w gospodarkę. Te branże są najbardziej narażone",
+      "link": "https://businessinsider.com.pl/gospodarka/ceny-surowcow-rosna-przez-kryzys-w-regionie-blokada-ormuzu-uderza-w-gospodarke/d2wxp2h",
+      "summary": "Konflikt na Bliskim Wschodzie powoduje silne turbulencje na globalnych rynkach surowców. Zakłócenia w dostawach i zablokowanie Cieśniny Ormuz powodują, że rosną koszty w kolejnych ogniwach łańcucha dostaw.",
+      "published": "Tue, 19 May 2026 13:41:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tusk rozlicza się z Polakami. \"68 mld zł z KPO wypłacone\"",
+      "link": "https://www.money.pl/gospodarka/tusk-rozlicza-sie-z-polakami-68-mld-zl-z-kpo-wyplacone-7287555772979360a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/3d5c4798-a4eb-4e2e-9b96-1017e804fc03\" width=\"308\" /> - 68 mld zł już wypłaciliśmy tym, którzy zakończyli inwestycje - powiedział premier Donald Tusk, relacjonując, jak idzie wydawanie pieniędzy z unijnego Krajowego Planu Odbudowy.",
+      "published": "Tue, 19 May 2026 13:39:21 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Będzie więcej miejsc w żłobkach. Donald Tusk ujawnił szczegóły",
+      "link": "https://businessinsider.com.pl/gospodarka/rzad-chce-zwiekszenia-liczby-miejsc-w-zlobkach-donald-tusk-ujawnil-szczegoly/y05r39y",
+      "summary": "Premier Donald Tusk podkreślił, że sieć żłobków w Polsce rozwija się w rekordowym tempie, a celem jest całkowita likwidacja rejonów pozbawionych profesjonalnej opieki nad maluchami.",
+      "published": "Tue, 19 May 2026 13:35:37 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
+      "link": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
+      "summary": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&amp;T ramp up recruiting for skilled trade workers.",
+      "published": "Tue, 19 May 2026 13:29:40 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Wojska USA znikną z Polski? Tusk: Amerykanie muszą to zrozumieć",
+      "link": "https://www.bankier.pl/wiadomosc/Wojska-USA-znikna-z-Polski-Tusk-Amerykanie-musza-to-zrozumiec-9135571.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/0/e57f006d7e8d7a-948-568-0-545-1910-1145.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Amerykańscy sojusznicy muszą zrozumieć, jak ważne z punktu widzenia bezpieczeństwa Polski, Europy i USA jest ścisła i skoordynowana współpraca, w tym obecność wojsk amerykański",
+      "published": "Tue, 19 May 2026 13:24:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Dyplomatyczny pościg za Ziobrą. Tusk chce przekonać Amerykanów do ekstradycji",
+      "link": "https://www.bankier.pl/wiadomosc/Dyplomatyczny-poscig-za-Ziobra-Tusk-chce-przekonac-Amerykanow-do-ekstradycji-9135564.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/0/d57259618c0b15-948-568-0-97-2987-1792.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Premier Donald Tusk poinformował we wtorek, że zwrócił się do szefów resortów spraw zagranicznych i sprawiedliwości Radosława Sikorskiego i Waldemara Żurka, aby przedstawili ame",
+      "published": "Tue, 19 May 2026 13:18:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 19.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-19-05-2026-7287559735474336a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 19.05.2026. We wtorek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.89556 zł.",
+      "published": "Tue, 19 May 2026 13:17:09 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Dolar może spaść o kolejne 3%. Analitycy ING aktualizują prognozy dla euro i dolara",
+      "link": "https://comparic.pl/dolar-moze-spasc-o-kolejne-3-analitycy-ing-aktualizuja-prognozy-dla-euro-i-dolara-19-05-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-15-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Choć w ostatnich tygodniach kurs dolara zyskiwał na wartości, tak najnowsze analizy Banku ING sugerują nadchodzący przełom, który może doprowadzić do osłabienia",
+      "published": "Tue, 19 May 2026 13:16:09 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 19.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-19-05-2026-7287559525271712a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 19.05.2026. We wtorek za jednego franka (CHF) trzeba zapłacić 4.63853 zł.",
+      "published": "Tue, 19 May 2026 13:16:06 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 19.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-19-05-2026-7287559112194208a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 19.05.2026. We wtorek za jedno euro (EUR) trzeba zapłacić 4.24240 zł.",
+      "published": "Tue, 19 May 2026 13:15:11 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Apple chce rozwiązać największy problem składanych smartfonów. Chodzi o jeden element",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/iphone-fold-ma-rozwiazac-problem-zagiecia-ekranu-apple-pracuje-nad-zawiasem/8nssj8d",
+      "summary": "Apple ma problem z premierą składanego iPhone’a. Według najnowszych przecieków, firma napotkała trudności z wytrzymałością zawiasu, co może opóźnić debiut urządzenia na rynku. Co ciekawe, wcześniej firma miała uporać się z problemem, który nastręcza problemów największemu konkurentowi.",
+      "published": "Tue, 19 May 2026 13:12:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 19.05.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-19-05-2026-7287558450329696a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 19.05.2026. We wtorek za jednego dolara (USD) trzeba zapłacić 3.651 zł.",
+      "published": "Tue, 19 May 2026 13:11:52 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Były prezes JSW i trzy inne osoby oskarżone o działanie na szkodę spółki",
+      "link": "https://www.bankier.pl/wiadomosc/Byly-prezes-JSW-i-trzy-inne-osoby-oskarzone-o-dzialanie-na-szkode-spolki-9135556.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/a/7ae238fd29ef6a-948-568-0-0-1900-1139.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Były prezes Jastrzębskiej Spółki Węglowej i trzy inne osoby odpowiedzą przed sądem za działanie na jej szkodę. Chodzi o umowę na usługi doradcze zawartą z niewielką firmą z Kobie",
+      "published": "Tue, 19 May 2026 13:03:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tymbark wyjaśnia tajemnicę kapsli. Wciąga do współpracy influencerów",
+      "link": "https://businessinsider.com.pl/finanse/handel/kultowe-napisy-znikly-z-kapsli-tymbark-producent-rozwiewa-watpliwosci/jqeg0e6",
+      "summary": "Marka Tymbark zareagowała na internetową \"burzę\" po tajemniczym zniknięciu kultowych napisów z kapsli napojów. Zapowiedziała nową akcję, do której tym razem zamierza włączyć konsumentów.",
+      "published": "Tue, 19 May 2026 13:00:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "„Najbardziej luksusowy hotel w Polsce”. Znany polski miliarder wskrzesza perłę w górach",
+      "link": "https://www.bankier.pl/wiadomosc/Najbardziej-luksusowy-hotel-w-Polsce-Znany-polski-miliarder-wskrzesza-perle-Zakopanego-9134892.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/4/dd9029dda07ca4-948-568-61-5-1036-621.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />\"To będzie najbardziej luksusowy hotel w Polsce\" - zapowiedział Józef Wojciechowski, założyciel J.W. Construction. \"Imperial\" w Zakopanem lata świetności ma za sobą, ale już nieb",
+      "published": "Tue, 19 May 2026 13:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Leyen: Idą wielkie zmiany w ETS. Unia stawia na czyste technologie",
+      "link": "https://www.bankier.pl/wiadomosc/Leyen-Ida-wielkie-zmiany-w-ETS-Unia-stawia-na-czyste-technologie-9135528.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/30bcde70d2594c-948-568-580-290-3420-2051.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przewodnicząca Komisji Europejskiej Ursula von der Leyen ogłosiła we wtorek, że reforma systemu handlu emisjami ETS skupi się na przekierowaniu dochodów ze sprzedaży uprawnie",
+      "published": "Tue, 19 May 2026 13:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Azjatycki gigant rośnie nad Wisłą. Chce konkurować z popularnymi dyskontami",
+      "link": "https://businessinsider.com.pl/gospodarka/azjatycka-siec-podbija-polske-otwiera-nowe-sklepy-w-ekspresowym-tempie/wsfymwc",
+      "summary": "Malezyjska sieć MR.DIY, oferująca narzędzia, artykuły domowe i akcesoria, realizuje niezwykle dynamiczną strategię ekspansji na polskim rynku.",
+      "published": "Tue, 19 May 2026 12:58:55 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Gold Flow: Alarm na złocie. Dealerzy konsekwentnie re-pozycjonują się na metalu",
+      "link": "https://comparic.pl/gold-flow-alarm-na-zlocie-dealerzy-konsekwentnie-re-pozycjonuja-sie-na-metalu/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/psv-zloto-XAU-gold-XAUUSD-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Bardzo ciekawa sytuacja na złocie. Pod względem kontekstu &#8211; złoto znalazło się pod presją polityki Rezerwy Federalnej i agresywnego pozycjonowania największych ",
+      "published": "Tue, 19 May 2026 12:57:21 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rząd rozlicza 58 priorytetów. Premier pokazał, co udało się dowieźć",
+      "link": "https://www.bankier.pl/wiadomosc/Rzad-rozlicza-58-priorytetow-Premier-pokazal-co-udalo-sie-dowiezc-9135552.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/2/bb39349de4805c-948-568-121-0-1493-896.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd rozpoczął obrady. Na wtorkowym posiedzeniu zajmie się m.in. projektem dotyczącym zmian w opłatach, które wnoszą podmioty nadzorowane przez KNF. Ministrowie zapoznają się te",
+      "published": "Tue, 19 May 2026 12:57:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "CI Games zrywa z Epic Games! „Lords of the Fallen 2″ trafi do szerokiej dystrybucji na PC",
+      "link": "https://comparic.pl/ci-games-zrywa-z-epic-games-lords-of-the-fallen-2-trafi-do-szerokiej-dystrybucji-na-pc/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Ci-games-Lords-of-the-fallen-2-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />CI Games SE poinformowało o rozwiązaniu porozumienia z Epic Games dotyczącego współpracy wydawniczo-dystrybucyjnej przy premierze „Lords of the Fallen 2&#8",
+      "published": "Tue, 19 May 2026 12:51:36 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kiedy kupować Bitcoina według Phila Koniecznego? Kluczowe są trzy wskaźniki",
+      "link": "https://comparic.pl/kiedy-kupowac-bitcoina-wedlug-phila-koniecznego-kluczowe-sa-trzy-wskazniki/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/07/freepik-BTC-Bitcoin-wallet-portfel-platnosc-placic-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Bitcoin nie porusza się chaotycznie, a jego długoterminowe cykle mogą pozwalać na identyfikację momentów największego niedowartościowa",
+      "published": "Tue, 19 May 2026 12:50:26 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Powiedział, że politycy zarabiają za mało, dlatego rozumie, że chcą handlować akcjami, żeby dorobić",
+      "link": "https://www.bankier.pl/wiadomosc/Jest-w-kolejce-do-prezydentury-powiedzial-ze-politycy-zarabiaja-za-malo-Viralowy-filmik-Johnsona-robi-furore-9135524.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/6/0a368e0d23db23-948-568-20-70-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podczas gdy inwestycje prezydenta USA tylko w pierwszym kwartale 2026 r. obejmowały ponad 3,6 tys. transakcji giełdowych o łącznej wartości szacowanej na 220–750 mln dolarów, v",
+      "published": "Tue, 19 May 2026 12:50:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Schron w nowym bloku? Nadchodzą zmiany, które mogą wpłynąć na ceny mieszkań",
+      "link": "https://businessinsider.com.pl/nieruchomosci/budowa-mieszkan-po-nowemu-schrony-i-ochrona-ludnosci-zmienia-rynek/3bmgfgj",
+      "summary": "— Kondygnacja podziemna przestaje być wyłącznie miejscem na samochody i komórki lokatorskie — mówi ekspert rynku nieruchomości Jacek Piotr Kacprzyk. Nowe przepisy dotyczące ochrony ludności mogą zmienić sposób projektowania mieszkań, garaży i całych osiedli.",
+      "published": "Tue, 19 May 2026 12:40:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Elon Musk i kryptowaluta Bitcoin. SpaceX ujawnia gigantyczny majątek przed IPO na Nasdaq",
+      "link": "https://comparic.pl/elon-musk-i-kryptowaluta-bitcoin-spacex-ujawnia-gigantyczny-majatek-przed-ipo-na-nasdaq/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/krypto-2026-05-19T103928.654-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Firma SpaceX Elona Muska skrywa w swoich rezerwach Bitcoina o wartości niemal 637 milionów dolarów i robi to w ciszy, rzadko publicznie komentując swoją ekspozycj",
+      "published": "Tue, 19 May 2026 12:39:11 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Polki rodzą coraz później. A i tak wciąż są jednymi z młodszych matek w Europie",
+      "link": "https://www.bankier.pl/wiadomosc/Polki-rodza-coraz-pozniej-A-i-tak-wciaz-jednymi-z-mlodszych-matek-w-Europie-9135520.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/1/5c362026a42502-945-560-0-25-2587-1552.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Według statystyk kobieta, która po raz pierwszy została matką, ma ponad 31 lat - to o pięć lat więcej niż 25 lat temu. Polki są wciąż jednymi z młodszych matek w Europie - podał",
+      "published": "Tue, 19 May 2026 12:23:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ceny paliw w środę. Będzie zmiana na stacjach",
+      "link": "https://www.money.pl/finanse/kopia-ceny-paliw-we-wtorek-bedzie-drozej-7287544741877856a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c0ec7fec-1249-4773-aa12-18ec93620dfa\" width=\"308\" /> Maksymalna cena dla benzyny Pb95 wynosi 6,52 zł za litr, dla benzyny Pb98 – 7,07 zł, a dla oleju napędowego – 7 zł, jak wynika z obwieszczenia ministra energii. Ceny te będą obowiązywać na stacjach paliw 20 maja.",
+      "published": "Tue, 19 May 2026 12:20:12 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nie złożyłeś PIT? Urząd skarbowy może naliczyć wysoką karę",
+      "link": "https://businessinsider.com.pl/prawo/podatki/rozliczenie-pit-2025-po-terminie-co-grozi-spoznionym-podatnikom/s6lxw63",
+      "summary": "Czas na rozliczenie PIT za 2025 r. minął 30 kwietnia. Za brak zeznania grożą surowe kary, mandat może wynieść nawet 24 tys. zł. Można jednak go uniknąć, ale musisz działać, w tym złożyć czynny żal. Tłumaczymy, jak to zrobić.",
+      "published": "Tue, 19 May 2026 12:10:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Gigantyczny zastrzyk pieniędzy z KPO. Donald Tusk rozwiewa wątpliwości",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-tusk-oglasza-ogromne-srodki-z-kpo-polska-gospodarka-zyska-miliardy/kf3lvq0",
+      "summary": "Premier Donald Tusk ogłosił, że do końca bieżącego roku z Krajowego Planu Odbudowy (KPO) trafi do polskiej gospodarki dodatkowe 140 mld zł. Premier odpowiedział też na wątpliwości dotyczące tempa wydatkowania unijnych funduszy oraz ich rzeczywistego przeznaczenia.",
+      "published": "Tue, 19 May 2026 12:04:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Dostałem pracę w Google w ciągu 90 dni od zwolnienia z Amazona. Zacząłem przygotowywać się dużo wcześniej",
+      "link": "https://businessinsider.com.pl/finanse/znalazl-prace-w-ciagu-90-dni-od-zwolnienia-to-poleca/6br42ec",
+      "summary": "Charles Broomfield znalazł pracę w ciągu 90 dni od zwolnienia. Podczas poszukiwania pracy otrzymał polecenia na 26 stanowisk, a sześć z nich zakończyło się zaproszeniem na rozmowy kwalifikacyjne. Jak mówi, planowanie finansowe i budowanie sieci kontaktów pomogły mu zachować spokój po utracie pracy.",
+      "published": "Tue, 19 May 2026 12:03:50 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tak źle z polskimi obligacjami nie było od dawna. Zmartwienie dla rządu",
+      "link": "https://businessinsider.com.pl/finanse/wojna-w-iranie-winduje-rentownosc-polskich-obligacji-rzad-zaplaci-wiecej/n1gtdmy",
+      "summary": "Sytuacja na światowych rynkach, wywołana obawami o skutki wojny w Iranie, uderza w polskie obligacje skarbowe. Ich rentowność przekroczyła symboliczny próg 6 proc. i wspięła się na najwyższy poziom od prawie półtora roku.",
+      "published": "Tue, 19 May 2026 11:53:28 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Unieważnione przetargi po wecie Karola Nawrockiego. Procedura rusza od nowa",
+      "link": "https://businessinsider.com.pl/gospodarka/wazna-decyzja-w-sprawie-safe-uniewaznione-przetargi-po-wecie-karola-nawrockiego/4q9ydc3",
+      "summary": "Przetargi na dostawę sprzętu i wyposażenia dla służb podległych Ministerstwu Spraw Wewnętrznych i Administracji (MSWiA) zostaną unieważnione, a cała procedura będzie powtórzona — ustalił reporter RMF FM. Chodzi o zamówienia na sprzęt, które miały być finansowane z funduszu SAFE. Wszystko przez weto prezydenta Karola Nawrockiego.",
+      "published": "Tue, 19 May 2026 11:45:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Można dostać nawet 140 tys. zł na remont domu. Nie obowiązuje próg dochodowy",
+      "link": "https://businessinsider.com.pl/finanse/dofinansowanie-pfron-na-remont-domu-2026-nawet-140-tys-zl-wsparcia/14prz9c",
+      "summary": "Nawet 144 tys. zł na remont domu w 2026 r.? Takie dofinansowanie jest możliwe dzięki wsparciu PFRON, który pokryje nawet 95 proc. kosztów prac likwidujących bariery architektoniczne. Wystarczy spełnić kilka warunków i nie popełnić jednego kluczowego błędu",
+      "published": "Tue, 19 May 2026 11:34:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Najemca będzie mógł wypowiedzieć umowę w ciągu 30 dni od jej zawarcia? Nowy pomysł Partii Razem",
@@ -42,20 +562,12 @@
       "category": "pl"
     },
     {
-      "title": "Co dalej z JSW Koks? Sprzedaż wykluczona, ale w grupie szykują się wielkie zmiany",
-      "link": "https://www.bankier.pl/wiadomosc/JSW-pracuje-nad-roznymi-scenariuszami-dla-JSW-Koks-nie-rozwaza-sprzedazy-9135460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/8/321dced61358b9-948-568-0-84-1257-754.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grupa JSW pracuje nad różnymi scenariuszami dla JSW Koks, nie rozważa sprzedaży tej spółki - poinformowali przedstawiciele zarządu.</p>",
-      "published": "Tue, 19 May 2026 11:02:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Żyjemy i pracujemy, by opłacić mieszkanie? Jak czynsz zjada nasze pensje",
-      "link": "https://www.bankier.pl/wiadomosc/Zyjemy-i-pracujemy-by-oplacic-mieszkanie-Jak-czynsz-zjada-nasze-pensje-9135372.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/3/d2af24216bc7c1-948-568-30-50-3970-2381.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Koszty najmu nieruchomości w Europie stają się dla wielu mieszkańców barierą nie do pokonania. Z analizy portalu tradingpedia, opartej na majowych danych serwisu Numbeo z 2026 ",
-      "published": "Tue, 19 May 2026 10:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round",
+      "link": "https://www.cnbc.com/2026/05/19/radar-reaches-unicorn-status-in-series-b-funding-round.html",
+      "summary": "Radar, a hardware and software company that helps retailers better manage inventory and cut back on theft, is now valued at over $1 billion.",
+      "published": "Tue, 19 May 2026 11:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
       "title": "Ostatni dzwonek na rozliczenie przedsiębiorców z ZUS. Może być konieczna dopłata",
@@ -66,203 +578,11 @@
       "category": "pl"
     },
     {
-      "title": "Wielka gra mocarstw w Pekinie. Putin boi się układu Trump-Xi",
-      "link": "https://www.bankier.pl/wiadomosc/Wielka-gra-mocarstw-w-Pekinie-Putin-boi-sie-ukladu-Trump-Xi-9135419.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/1/5aa3a3cb0a4673-948-568-325-167-2977-1786.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Francuski dziennik „Le Figaro” ocenia we wtorek, że rozpoczynająca się tego dnia wizyta przywódcy Rosji Władimira Putina w Chinach ma pokazać trwałość partnerstwa Moskwy i Pe",
-      "published": "Tue, 19 May 2026 10:15:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Siła złotego. Droga ropa i mocny dolar nie zatrzymały kursu euro",
-      "link": "https://www.bankier.pl/wiadomosc/Sila-zlotego-Droga-ropa-i-mocny-dolar-nie-zatrzymaly-kursu-euro-9135432.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/f/2613619397d0da-948-568-140-50-3550-2130.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Początek tygodnia przyniósł umocnienie polskiego złotego pomimo wysokich notowań ropy naftowej i aprecjacji dolara względem euro.</p>",
-      "published": "Tue, 19 May 2026 10:11:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Pociągi AeroExpress na horyzoncie. CPK ujawnia plany",
-      "link": "https://www.bankier.pl/wiadomosc/Pociagi-AeroExpress-na-horyzoncie-CPK-ujawnia-plany-9135429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/4/76a076f5d569b9-948-568-0-27-1550-929.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Spółka Centralny Port Komunikacyjny planuje jeszcze w 2026 r. ogłoszenie przetargu na zakup pociągów AeroExpress (AEX), które mają obsługiwać trasę Warszawa – nowe lotnisko – Łód",
-      "published": "Tue, 19 May 2026 10:05:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Od czerwca nowe stawki zasiłku dla bezrobotnych. Tyle wpłynie na konto",
-      "link": "https://www.bankier.pl/wiadomosc/Nowy-zasilek-dla-bezrobotnych-Od-czerwca-dostana-wiecej-9135422.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/2/13c414e4474456-948-568-275-62-2062-1237.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zasiłek dla bezrobotnych podlega corocznej waloryzacji, która odbywa się 1 czerwca. Wysokość podwyżki zależy od poziomu inflacji. W związku z tym również w tym roku na konta o",
-      "published": "Tue, 19 May 2026 10:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Donald Trump odkłada atak mimo zapowiedzi. Rynek ropy reaguje natychmiast",
-      "link": "https://businessinsider.com.pl/gielda/surowce/mniej-napiecia-nizsze-ceny-ropa-reaguje-na-decyzje-usa/6fcl4ym",
-      "summary": "Rynki surowcowe zareagowały błyskawicznie na sygnały z Waszyngtonu. Decyzja o wstrzymaniu potencjalnego ataku na Iran chwilowo zmniejszyła napięcie i obniżyła ceny ropy.",
-      "published": "Tue, 19 May 2026 09:55:46 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "O tym rozmawiali Donald Trump i Xi Jinping. \"Konstruktywne\"",
-      "link": "https://businessinsider.com.pl/gospodarka/spotkanie-xi-jinpinga-z-donaldem-trumpem-ai-i-wielkie-kontrakty-na-agendzie/xylthyl",
-      "summary": "Przewodniczący Chińskiej Republiki Ludowej Xi Jinping oraz prezydent Stanów Zjednoczonych Donald Trump rozmawiali o sztucznej inteligencji podczas ubiegłotygodniowego spotkania w Pekinie. Jest już oficjalny komunikat Chin w sprawie spotkania obu liderów.",
-      "published": "Tue, 19 May 2026 09:55:42 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "25 miliardów dolarów na centra danych. Google przyspiesza wyścig AI",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/google-i-blackstone-inwestuja-miliardy-w-centra-danych-ai-nowy-etap-wyscigu/0vfqq41",
-      "summary": "Wyścig o dominację w sztucznej inteligencji wchodzi na kolejny poziom. Najwięksi gracze rynku, w tym Google, łączą siły i miliardy dolarów, by zaspokoić rosnący popyt na moc obliczeniową.",
-      "published": "Tue, 19 May 2026 09:55:33 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Trump dąży do wojny. Atak na Iran odłożony tylko o kilka dni?",
-      "link": "https://comparic.pl/trump-dazy-do-wojny-atak-na-iran-odlozony-tylko-o-kilka-dni/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/1kkrlkr-osm-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Poniedziałkowe spekulacje o bardziej &#8220;pojednawczej&#8221; postawie Iranu w możliwych negocjacjach z USA były tylko mydleniem oczu? Prezydent USA już zdecydował o ponownej ope",
-      "published": "Tue, 19 May 2026 09:52:00 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tak bogacze w Korei Północnej chronią swój majątek. Sprytny trik",
-      "link": "https://businessinsider.com.pl/finanse/tak-bogacze-w-korei-polnocnej-chronia-swoj-majatek-znalezli-sposob/q7jwnlx",
-      "summary": "W mieście Hyesan, stolicy północnokoreańskiej prowincji Ryanggang, zamożni przedsiębiorcy coraz częściej łączą sąsiednie mieszkania w prywatne dwupoziomowe apartamenty. W ten sposób chcą chronić swój majątek przed państwową konfiskatą.",
-      "published": "Tue, 19 May 2026 09:46:37 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "I’m selling my $1 million Maui home. Will my agent charge me less than a 6% commission?",
-      "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
-      "summary": "“Legislation introduced in 2024 was designed to finally upend the traditional 6% real-estate commission model.”",
-      "published": "Tue, 19 May 2026 09:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "\"Amatorzy otwierają rynek, profesjonaliści go zamykają\". Co to oznacza?",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/jak-dziala-gielda-amatorzy-otwieraja-rynek-profesjonalisci-go-zamykaja/lwp8m9j",
-      "summary": "Na giełdzie bardzo widoczna jest psychologia tłumu. Są powiedzenia, które w obrazowy sposób pokazują ważne zależności. Aktywność i zmienność na rynku w trakcie dnia często układają się w kształt litery U, co ma istotne konsekwencje.",
-      "published": "Tue, 19 May 2026 09:29:37 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "AI in focus as Standard Chartered Bank replaces ‘lower value human capital’, slashing back office workers by 15%",
-      "link": "https://www.marketwatch.com/story/ai-in-focus-as-standard-chartered-bank-replaces-lower-value-human-capital-slashing-back-office-workers-by-15-bd147174?mod=mw_rss_topstories",
-      "summary": "The announcement of stiff job cuts at Standard Chartered reignites fears of sweeping changes in th employment market caused by automation and widespread adoption of AI to perform tasks previously the responsibility of humans.",
-      "published": "Tue, 19 May 2026 09:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Szok na rynku mieszkań za rentę! Seniorzy dostają nawet o setki złotych mniej!",
-      "link": "https://comparic.pl/szok-na-rynku-mieszkan-za-rente-seniorzy-dostaja-nawet-o-setki-zlotych-mniej/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-nieruchomosci-mieszkanie-dom-home-house-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Jeszcze niedawno seniorzy mogli liczyć na znacznie wyższe świadczenia za przekazanie nieruchomości funduszowi hipotecznemu. Tymczasem średnia mi",
-      "published": "Tue, 19 May 2026 09:25:55 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "ETF-y spot na BTC w USA zanotowały 648 mln USD odpływu w jeden dzień. Kurs spada",
-      "link": "https://comparic.pl/etf-y-spot-na-btc-w-usa-zanotowaly-648-mln-usd-odplywu-w-jeden-dzien-kurs-spada/",
-      "summary": "<img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/07/freepik-BTC-Bitcoin-4-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Notowane w USA ETF-y spot na Bitcoina (BTC) odnotowały największy jednodniowy odpływ netto od 29 stycznia br. Presja na fundusze zbiegła się ze spadkiem kursu BTC ",
-      "published": "Tue, 19 May 2026 09:25:38 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wielki boom na AI trwa – oto jego zwycięzca na GPW! Kurs dywidendowego króla ciągle rośnie!",
-      "link": "https://comparic.pl/wielki-boom-na-ai-trwa-oto-jego-zwyciezca-na-gpw-kurs-dywidendowego-krola-ciagle-rosnie/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/hossa-3-freepik-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Asbis pokazuje jeden z najsilniejszych wzrostów wyników finansowych w sektorze IT i dystrybucji technologii. Zysk netto wzrósł o blisko 400%, a przychody przekroczyły 1,2 mld ",
-      "published": "Tue, 19 May 2026 09:22:50 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tak Niemcy oszukują na paliwach. Nawet co piąta stacja ignoruje zasady",
-      "link": "https://businessinsider.com.pl/gospodarka/tak-niemcy-oszukuja-na-paliwach-zasada-godziny-12-sie-nie-sprawdza/9z06wy4",
-      "summary": "Obowiązująca na stacjach paliw w Niemczech od początku kwietnia zasada \"godziny 12\", według serwisu konsumenckiego Mehr-Tanken okazała się \"całkowitą porażką\". Wprowadzona pod presją, często krytykowana i wyśmiewana, teraz jest ignorowana przez wielu operatorów stacji.",
-      "published": "Tue, 19 May 2026 09:16:53 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Angelina Jolie lists L.A. estate once owned by a famous filmmaker for $30 million",
-      "link": "https://www.marketwatch.com/story/angelina-jolie-lists-l-a-estate-once-owned-by-a-famous-filmmaker-for-30-million-bfe97b53?mod=mw_rss_topstories",
-      "summary": "Hollywood star Angelina Jolie has put her legendary Los Angeles estate on the market for $29.9 million—nearly two years after confessing that she wanted to leave the U.S. for good.",
-      "published": "Tue, 19 May 2026 09:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-      "link": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html",
-      "summary": "AI-driven hiring slowdowns are hitting some entry-level jobs for college graduates as companies like Ford and AT&amp;T ramp up recruiting for skilled trade workers.",
-      "published": "Tue, 19 May 2026 09:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Koniec ery parzenia kawy i \"klepania\" Excela. Jak AI odcina dół korporacyjnej piramidy",
       "link": "https://www.bankier.pl/wiadomosc/Koniec-ery-parzenia-kawy-i-klepania-Excela-Jak-AI-odcina-dol-korporacyjnej-piramidy-9135371.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/7/c5bd54b74d31f6-948-568-90-150-3910-2345.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Analiza ogłoszeń o pracę przeprowadzona przez \"Financial Times\" wskazuje na fundamentalną zmianę w strukturze zatrudnienia globalnych liderów doradztwa i finansów. W 2025 roku",
       "published": "Tue, 19 May 2026 09:00:00 +0100",
       "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kolejna fala zwolnień grupowych w Ikei. Gigant tnie koszty, by obniżyć ceny",
-      "link": "https://www.bankier.pl/wiadomosc/Kolejna-fala-zwolnien-grupowych-w-Ikei-Gigant-tnie-koszty-by-obnizyc-ceny-9135219.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/b/d350081258d2aa-948-568-11-1026-2246-1348.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ikea zwolni do końca tego roku nawet 850 osób. Jak zapewnia najbardziej znany koncern z branży meblarskiej, zbyt rozbudowana struktura nie pozwala płynnie reagować na realia ",
-      "published": "Tue, 19 May 2026 09:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "‘Family Feud’ host Steve Harvey cuts the price of his luxury Georgia home to $4.75 million",
-      "link": "https://www.marketwatch.com/story/family-feud-host-steve-harvey-cuts-the-price-of-his-luxury-georgia-home-to-4-75-million-1438a1b2?mod=mw_rss_topstories",
-      "summary": "Steve Harvey has cut the price of his longtime Georgia home—just four months after listing the enormous abode for $5.1 million.",
-      "published": "Tue, 19 May 2026 08:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Wall Street widzi nawet 38% wzrostu. Inwestorzy ruszają po akcje",
-      "link": "https://comparic.pl/wall-street-widzi-nawet-38-wzrostu-inwestorzy-ruszaja-po-akcje/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-stock-market-chart-wykres-wzrost-grow-growth-hossa-up-5-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Akcje Shell ponownie przyciągają uwagę inwestorów po ogłoszeniu programu skupu akcji o wartości 3 mld USD i podwyżce dywidendy d",
-      "published": "Tue, 19 May 2026 08:56:31 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Prawdziwa “perła” GPW na maj 2026. Dywidenda rośnie od 14 lat, kurs o 250%!",
-      "link": "https://comparic.pl/prawdziwa-perla-gpw-na-maj-2026-dywidenda-rosnie-od-14-lat-kurs-o-250/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/krypto-2026-05-19T093301.470-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Asseco Business Solutions (znana na GPW pod tickerem #ABS) to spółka, o której mówi się rzadziej niż o technologicznych gigantach, a której wyniki finansowe za pi",
-      "published": "Tue, 19 May 2026 08:55:21 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rząd chce zmienić 800 plus. Rodzice odetchną z ulgą",
-      "link": "https://businessinsider.com.pl/finanse/800-plus-od-2027-r-zus-bedzie-automatycznie-odnawial-swiadczenie/3wx3qd0",
-      "summary": "Rząd szykuje rewolucję w wypłacie świadczenia 800 plus. Od 2027 r. rodzice nie będą musieli co roku składać wniosków. Nowe przepisy mają uprościć formalności i zapewnić ciągłość wypłat.",
-      "published": "Tue, 19 May 2026 08:41:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Fala rezygnacji w Ethereum Foundation. Dlaczego fundację opuściło już 8 ekspertów?",
-      "link": "https://comparic.pl/fala-rezygnacji-w-ethereum-foundation-dlaczego-fundacje-opuscilo-juz-8-ekspertow/",
-      "summary": "<img alt=\"Ethereum\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/08/freepik-ETH-Ethereum-2-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Fundacja Ethereum poinformowała 18 maja 2026 r. o odejściu dwóch badaczy. Rezygnacje Juliana Ma i Carla Beeka zwiększyły liczbę znaczących odejść z organizacji d",
-      "published": "Tue, 19 May 2026 08:40:26 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -274,276 +594,12 @@
       "category": "pl"
     },
     {
-      "title": "Investors are piling into U.S. equity funds at the fastest pace in years. But now the pendulum may swing back, warns Barclays",
-      "link": "https://www.marketwatch.com/story/investors-are-piling-into-u-s-equity-funds-at-the-fastest-pace-in-years-but-now-the-pendulum-may-swing-back-warns-barclays-91f10215?mod=mw_rss_topstories",
-      "summary": "Funds are fully invested and so the risk of a pullback has increased",
-      "published": "Tue, 19 May 2026 08:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Ważna aktualizacja e-Urzędu Skarbowego. Zaległości podatkowe od razu na ekranie",
-      "link": "https://businessinsider.com.pl/gospodarka/podatki/wazna-aktualizacja-e-urzedu-skarbowego-zaleglosci-podatkowe-od-razu-na-ekranie/mvpvczg",
-      "summary": "Ministerstwo Finansów udostępniło nową wersję mobilnej aplikacji e-Urząd Skarbowy. W odświeżonej aplikacji poprawiono nawigację i ułatwiono dostęp do najistotniejszych danych.",
-      "published": "Tue, 19 May 2026 08:36:27 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Oszukują na kawie. Różnica jest trudna do rozpoznania",
-      "link": "https://businessinsider.com.pl/biznes/trudno-rozpoznac-podrobiona-kawe-tym-oszusci-zastepuja-prawdziwe-ziarna/ke46q7j",
-      "summary": "Wysokie ceny kawy sprawiają, że w sklepach coraz częściej pojawiają się podrabiane produkty znanych marek. Jednym ze sposobów oszukiwania jest wykorzystywanie soi.",
-      "published": "Tue, 19 May 2026 08:29:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Masowe zwolnienia ruszą w środę. Wyciekły tajne maile Mety",
-      "link": "https://www.bankier.pl/wiadomosc/Masowe-zwolnienia-rusza-w-srode-Wyciekly-tajne-maile-Mety-9135376.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/c/700a3daf7d492a-948-568-0-110-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Poufne dokumenty Mety odsłaniają kulisy nadchodzącej fali zwolnień, która ruszy już 20 maja. Właściciel Facebooka i Instagrama planuje zredukować zatrudnienie o około 10%, co o",
-      "published": "Tue, 19 May 2026 08:29:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "TSUE nie otwiera drogi do SKD. Konsumenci nie zyskają na najnowszym wyroku",
-      "link": "https://businessinsider.com.pl/prawo/opinie/sankcja-kredytu-darmowego-nie-dla-wszystkich-to-bylaby-kwota-symboliczna/sqlvgxd",
-      "summary": "Samo naliczenie odsetek od części kredytu przeznaczonej na zapłatę kosztów, nawet jeśli okazało się niezgodne z prawem unijnym, nie stanowi samo w sobie podstawy do zastosowania sankcji kredytu darmowego. Adwokat Wojciech Wandzel, reprezentujący banki, wyjaśnia, jak rozumie najnowszy wyrok TSUE ważny dla tysięcy kredytobiorców. To oni bowiem płacą za przegrane sprawy.",
-      "published": "Tue, 19 May 2026 08:28:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ten indeks pokazuje skalę szoku na rynku surowców. Najwyżej od 13 lat",
-      "link": "https://businessinsider.com.pl/gospodarka/wojna-w-iranie-wywolala-szok-na-rynku-surowcow-ceny-moga-rosnac/v2nwffx",
-      "summary": "Wojna w Iranie wywołała wielkie zamieszanie gospodarcze i na rynkach finansowych. Wywindowała największy od dekad szok na rynku surowców energetycznych, ale nie tylko tych. Wzrost indeksu Bloomberga pokazuje, że rosnąć mogą ceny konsumenckie.",
-      "published": "Tue, 19 May 2026 08:27:04 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Negatywne reakcje na decyzję USA w sprawie Rosji. \"Prezent dla Putina\"",
-      "link": "https://businessinsider.com.pl/gospodarka/negatywne-reakcje-na-decyzje-usa-w-sprawie-rosji-prezent-dla-putina/megqwdn",
-      "summary": "Decyzja USA o tymczasowym zniesieniu sankcji na rosyjską ropę wywołała negatywne reakcje amerykańskich Demokratów i sceptyczne podejście ekspertów, którzy uważają, że to nie jest odpowiedni moment, by ułatwiać życie reżimowi Władimira Putina.",
-      "published": "Tue, 19 May 2026 08:21:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Chińskie mięso zalewa Europę. Polski rynek może tego nie udźwignąć",
-      "link": "https://businessinsider.com.pl/gospodarka/coraz-wiecej-chinskiego-drobiu-trafia-do-europy-polska-ma-sie-czego-bac/mwffl0h",
-      "summary": "Zwiększenie produkcji mięsa drobiowego w Chinach o prawie 3 mln ton niepokoi polskich producentów drobiu. \"Polska ma się czego bać\" — informuje poniedziałkowy \"Puls Biznesu\", dodając, że \"europejski rynek może nie udźwignąć fali taniego mięsa\" z Państwa Środka.",
-      "published": "Tue, 19 May 2026 08:15:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
-      "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
-      "summary": "“We plan to sell it to another family member for the appraised value.”",
-      "published": "Tue, 19 May 2026 08:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Iran i ropa znów straszą rynki. Wall Street łapie zadyszkę",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/donald-trump-opoznil-atak-na-iran-ale-go-nie-zatrzymal-rynki-reaguja/zcj4jm1",
-      "summary": "Napięcie wokół Iranu ponownie elektryzuje rynki finansowe. Choć Donald Trump wstrzymał planowany atak po naciskach państw Zatoki Perskiej, inwestorzy obawiają się wzrostu cen ropy i powrotu presji inflacyjnej. Wall Street koryguje rekordy, złoty słabnie, a na GPW pojawiają się pierwsze techniczne sygnały ostrzegawcze — m.in. na akcjach Atalu.",
-      "published": "Tue, 19 May 2026 08:09:24 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Największy proces odszkodowawczy od lat. Mazowsze wycenia grunty pod Port Polska",
-      "link": "https://businessinsider.com.pl/gospodarka/mazowiecki-urzad-wojewodzki-rozpoczal-wyplaty-za-grunty-pod-port-polska/9vdvqkp",
-      "summary": "Ruszył kluczowy etap jednej z największych inwestycji infrastrukturalnych w Polsce. Właściciele nieruchomości przeznaczonych pod budowę Portu Polska otrzymali już wyceny swoich gruntów i domów.",
-      "published": "Tue, 19 May 2026 07:59:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Francuski gigant chce budować w Polsce atom. Póki co wchodzi na rynek magazynów energii",
-      "link": "https://businessinsider.com.pl/biznes/francuski-gigant-energetyczny-inwestuje-w-polsce-ruszyl-nowy-magazyn-energii/t096rhr",
-      "summary": "Francuski państwowy gigant energetyczny EDF uruchomił magazyn energii w Polsce. Jak zapowiada, to dopiero początek jego ekspansji nad Wisłą.",
-      "published": "Tue, 19 May 2026 07:58:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "XRP bije Bitcoina i Ethereum na giełdach. Ten wskaźnik ujawnia nagły zwrot akcji",
-      "link": "https://comparic.pl/xrp-bije-bitcoina-i-ethereum-na-gieldach-ten-wskaznik-ujawnia-nagly-zwrot-akcji/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/krypto-2026-05-19T084426.789-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />W maju 2026 roku XRP stało się najchętniej handlowaną kryptowalutą na Upbit &#8211; największej giełdzie w Korei Południowej &#8211; osiągając dzienny wolumen obr",
-      "published": "Tue, 19 May 2026 07:53:46 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Gigantyczne zwolnienia przez całą dobę u właściciela Facebooka",
-      "link": "https://businessinsider.com.pl/media/gigantyczne-zwolnienia-przez-cala-dobe-u-wlasciciela-facebooka/545d022",
-      "summary": "Meta, właściciel m.in. Facebooka, planuje w środę zwolnić do 10 proc. pracowników. Zwolnienia mają rozpocząć się jeszcze w nocy.",
-      "published": "Tue, 19 May 2026 07:32:21 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "SAFE dla polskich firm to ryzyko. Te błędy mogą kosztować miliony [OPINIA]",
-      "link": "https://businessinsider.com.pl/prawo/opinie/rzad-zapowiada-wiekszy-udzial-krajowych-firm-prawo-wyznacza-granice-local-content-w/wghnwhd",
-      "summary": "Bez precyzyjnego projektowania kryteriów i dokumentacji przetargowej, wdrożenie \"local content\" w SAFE może skończyć się fiaskiem. Granica między zakazaną preferencją geograficzną a dopuszczalnym kryterium związanym z bezpieczeństwem dostaw jest subtelna — ale prawnie fundamentalna. Jej przekroczenie grozi sporami. Jak działać mądrze wyjaśnia Aleksander Gałuszka, prawnik z DSK Kancelaria,",
-      "published": "Tue, 19 May 2026 07:30:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "70% wyprzedaż a teraz mocne odbicie! Gigant z GPW czeka na kluczowy raport",
-      "link": "https://comparic.pl/70-wyprzedaz-a-teraz-mocne-odbicie-gigant-z-gpw-czeka-na-kluczowy-raport-19-05-2026/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-19-maj-2026-00_25_46-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Wczorajsza sesja na GPW przyniosła dalsze odbicie akcji Modivo, które znalazły się w gronie najmocniej rosnących dużych spółek na GPW. Akcje firmy wzrosły",
-      "published": "Tue, 19 May 2026 07:23:19 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ten ETF nawet 45% wyżej: Boom na sektor napędza kursy",
-      "link": "https://comparic.pl/ten-etf-nawet-45-wyzej-boom-na-sektor-napedza-kursy/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-ETF-wzrost-kosmos-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />SpaceX jeszcze nie zadebiutował na giełdzie, a już napędza potężne wzrosty w sektorze kosmicznym i funduszach ETF związanych z technologią orbitalną. Inwestorzy grają pod",
-      "published": "Tue, 19 May 2026 07:11:37 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 19.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-19-05-2026-7287468313061408a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 19.05.2026. We wtorek za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.8875 zł.",
-      "published": "Tue, 19 May 2026 07:04:31 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 19.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-19-05-2026-7287468312844320a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 19.05.2026. We wtorek za jednego franka (CHF) trzeba zapłacić 4.6389 zł.",
-      "published": "Tue, 19 May 2026 07:04:31 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 19.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-19-05-2026-7287468235995168a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 19.05.2026. We wtorek za jedno euro (EUR) trzeba zapłacić 4.2422 zł.",
-      "published": "Tue, 19 May 2026 07:04:12 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 19.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-19-05-2026-7287468228474912a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 19.05.2026. We wtorek za jednego dolara (USD) trzeba zapłacić 3.6456 zł.",
-      "published": "Tue, 19 May 2026 07:04:10 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polska skarbówka bierze pod lupę estoński CIT. Tysiące spółek pod kontrolą",
-      "link": "https://businessinsider.com.pl/finanse/polska-skarbowka-kontroluje-estonski-cit-setki-spolek-z-bledami-formalnymi/h2nnlgt",
-      "summary": "Skarbówka zaczęła kontrolę spółek, rozliczających się z fiskusem na zasadzie tzw. estońskiego CIT — informuje wtorkowy \"Dziennik Gazeta Prawna\". Kontrole z ostatnich kilku lat wykazały liczne nieprawidłowości w stosowaniu tej formy opodatkowania.",
-      "published": "Tue, 19 May 2026 06:53:30 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kto w Polsce ma kryptowaluty? Są wyniki badania NBP",
-      "link": "https://www.bankier.pl/wiadomosc/Kto-w-Polsce-ma-kryptowaluty-Sa-wyniki-badania-NBP-9135314.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/f/a8f3b7d9c4f960-948-568-7-0-991-594.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />6,4 proc. Polaków zadeklarowało posiadanie kryptowalut, a relatywnie najczęściej kupują je młodzi mężczyźni, wynika z badania zleconego przez Narodowy Bank Polski - informuje we wt",
-      "published": "Tue, 19 May 2026 06:31:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kontrole estońskiego CIT. Firmy pod lupą skarbówki",
-      "link": "https://www.bankier.pl/wiadomosc/Kontrole-estonskiego-CIT-Firmy-pod-lupa-skarbowki-9135315.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/e/23ddf7e6e94698-862-517-137-2-862-517.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Skarbówka przygląda się spółkom stosującym estoński CIT. Na razie sprawdza głównie, czy spełniły one wymogi formalne i nie koncentruje się na rozliczeniu podatku - czytamy we wto",
-      "published": "Tue, 19 May 2026 06:31:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Marcin Kubiczek traci funkcję. Jest nowy syndyk Getin Noble Banku. Sąd zdecydował",
-      "link": "https://businessinsider.com.pl/prawo/getin-noble-bank-z-nowym-syndykiem-sad-reaguje-na-zawieszenie-licencji/03j8bm1",
-      "summary": "Sąd zdecydował o zmianie syndyka w jednej z najważniejszych spraw upadłościowych w kraju. Odsunął Marcina Kubiczka z tej funkcji, by zapewnić sprawność postępowania. Jego miejsce powołał spółkę należącą do dwóch prawników: adwokata oraz radcy prawnego i doradcy restrukturyzacyjnego.",
-      "published": "Tue, 19 May 2026 06:25:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Znalazłeś pieniądze? Nowe przepisy zmieniają limit, od którego musisz je oddać",
-      "link": "https://www.bankier.pl/wiadomosc/Znalazles-pieniadze-Nowe-przepisy-zmieniaja-limit-od-ktorego-musisz-je-oddac-9135316.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/b/294741407fbcc2-948-568-0-165-3679-2207.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />We wtorek weszła w życie nowela ustawy o rzeczach znalezionych oraz Kodeksu cywilnego. Nowe przepisy doprecyzowują procedury postępowania z rzeczami znalezionymi oraz zmieniają",
-      "published": "Tue, 19 May 2026 06:22:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kluczowa zmiana w USA. Będzie najbogatszą osobą w historii na tym stanowisku",
-      "link": "https://www.money.pl/gospodarka/kluczowa-zmiana-w-usa-bedzie-najbogatsza-osoba-w-historii-na-tym-stanowisku-7287453123741760a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/027e7e2b-41a5-4e25-bade-7db706fe7fbb\" width=\"308\" /> Prezydent Donald Trump przyjmie przysięgę od Kevina Warsha, wybranego przez siebie kandydata na stanowisko szefa Rezerwy Federalnej, podczas ceremonii w piątek - przekazał Biały Dom.",
-      "published": "Tue, 19 May 2026 06:13:55 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fakty i mity o przechowywaniu polskich rezerw. Kto i gdzie widział polskie złoto?",
-      "link": "https://www.bankier.pl/wiadomosc/Kto-i-gdzie-widzial-polskie-zloto-Czyli-rentgen-ultradzwieki-i-ciezar-wartosci-9135164.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/f/3932118aaad13f-948-568-0-102-2564-1538.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wzrost znaczenia złota w strukturze rezerw walutowych NBP, połączony z dynamicznymi zmianami jego wyceny na rynkach światowych, wywołał falę publicznych dyskusji, które nierzad",
-      "published": "Tue, 19 May 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Sieć kawiarni zwalnia setki pracowników. Trwa wielka restrukturyzacja",
       "link": "https://www.bankier.pl/wiadomosc/Starbucks-zwalnia-setki-pracownikow-W-sieci-kawiarni-trwa-wielka-restrukturyzacja-9134826.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/1/8a54fb42a83ea7-948-568-0-1080-2870-1721.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po 2 tys. osób zwolnionych kolejne 200 dostanie wypowiedzenia. Sieć kawiarni Starbucks próbuje się ratować, zaciskając pasa i zmniejszając zatrudnienie w ramach planu restrukt",
       "published": "Tue, 19 May 2026 06:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Nowy program z dotacjami. Dadzą nawet 8 tys. zł za zbieranie deszczówki",
-      "link": "https://www.bankier.pl/wiadomosc/Rusza-nowy-program-z-dotacjami-dla-wlascicieli-domow-Mozna-dostac-nawet-8-tys-zl-za-zbieranie-deszczowki-9134989.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/d/13d1b538ecd8fd-948-568-0-81-1191-714.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Startuje nowy program z dofinansowaniem dla właścicieli domów, który ma pomóc w walce z narastającą suszą. W naborze pod roboczą nazwą „Mirek” każdy z nich może zdobyć dotację na",
-      "published": "Tue, 19 May 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Santander zmienił się w Erste. Klienci mogą stracić pieniądze",
-      "link": "https://www.bankier.pl/wiadomosc/Santander-zmienil-sie-w-Erste-Oszusci-juz-to-wykorzystuja-9134749.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/9/1ec9fda60d9c9b-948-568-384-144-1400-840.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Santander Bank Polska działa już jako Erste Bank Polska. Bank ostrzegał, że przy takiej zmianie oszuści mogą próbować wyłudzać dane klientów. I właśnie ten scenariusz zaczął s",
-      "published": "Tue, 19 May 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "VeloBank oferuje kredyt konsolidacyjny z dodatkową gotówką. Sprawdzamy warunki promocji",
-      "link": "https://www.bankier.pl/wiadomosc/VeloBank-oferuje-kredyt-konsolidacyjny-z-dodatkowa-gotowka-Sprawdzamy-warunki-promocji-9134819.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/b/62b51f2ecc3dd0-948-568-0-337-4092-2455.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />VeloBank proponuje kredyt konsolidacyjny bez prowizji, w ramach którego można połączyć kilka zobowiązań w jedną ratę i dobrać dodatkowe środki na dowolny cel. Bank pozwala poży",
-      "published": "Tue, 19 May 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
-      "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
-      "summary": "Tough talk from the Federal Reserve about rate hikes may be needed to ease the Treasury market’s rout.",
-      "published": "Tue, 19 May 2026 02:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?",
-      "link": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
-      "summary": "“He lived very frugally and maxed out his 401(k)s.”",
-      "published": "Tue, 19 May 2026 00:31:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Versant stock jumps 10% after company's Q1 report shows bright spots in licensing, platforms",
@@ -594,30 +650,6 @@
       "category": "us"
     },
     {
-      "title": "Wiadomo już, kto zdecydował o wydaniu wizy dla Ziobry",
-      "link": "https://www.bankier.pl/wiadomosc/Wiadomo-juz-kto-zdecydowal-o-wydaniu-wizy-dla-Ziobry-9135298.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/c/0dcfdc728a2ee7-948-568-0-105-4208-2524.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zastępca sekretarza stanu USA Christopher Landau wydał polecenie, by umożliwić byłemu ministrowi sprawiedliwości Zbigniewowi Ziobrze wjazd do Stanów Zjednoczonych - podała w po",
-      "published": "Mon, 18 May 2026 23:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "What NextEra and Dominion’s giant utility merger means for your electric bill",
-      "link": "https://www.marketwatch.com/story/what-nextera-and-dominions-giant-utility-merger-means-for-your-electric-bill-94e0784d?mod=mw_rss_topstories",
-      "summary": "Three-quarters of Americans say their home energy costs have climbed in recent years",
-      "published": "Mon, 18 May 2026 23:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Lululemon hits back at its founder after months of attacks, saying he’s just jealous",
-      "link": "https://www.marketwatch.com/story/lululemon-hits-back-at-its-founder-after-months-of-attacks-saying-hes-just-jealous-e22522ec?mod=mw_rss_topstories",
-      "summary": "Lululemon says Chip Wilson has “coveted” the company since he left, and that his vision “appears to be frozen in time.”",
-      "published": "Mon, 18 May 2026 22:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "CDC says American tests positive for Ebola in Africa, risk in the U.S. remains low",
       "link": "https://www.cnbc.com/2026/05/18/ebola-outbreak-american-tests-positive-in-congo.html",
       "summary": "No cases tied to the Ebola outbreak have been confirmed in the U.S., and the overall risk to the American public and travelers remains low.",
@@ -626,60 +658,12 @@
       "category": "us"
     },
     {
-      "title": "Najwyższe emerytury na Podkarpaciu. Oto rekordziści",
-      "link": "https://www.money.pl/finanse/najwyzsze-emerytury-na-podkarpaciu-oto-rekordzisci-7287299797526592a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/d8c8a400-ac57-40b5-97ae-01a5ac328800\" width=\"308\" /> Powyżej 25 tys. zł emerytury dostają seniorzy-rekordziści z województwa podkarpackiego - wynika z danych regionalnego oddziału ZUS, przekazanych serwisowi Interia Biznes. Na takie świadczenie musieli pracować około 50 lat.",
-      "published": "Mon, 18 May 2026 20:10:21 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Lululemon takes battle with Chip Wilson public, calls founder 'misguided' and 'outdated'",
       "link": "https://www.cnbc.com/2026/05/18/lululemon-proxy-war-with-chip-wilson-goes-public-sets-annual-meeting.html",
       "summary": "Lululemon responded publicly to founder Chip Wilson's campaign in a letter to shareholders, where it urged them to vote in its favor at its annual meeting.",
       "published": "Mon, 18 May 2026 19:03:40 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 18.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-18-05-2026-7287277996226592a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 18.05.2026. W poniedziałek po południu za jednego franka (CHF) trzeba zapłacić 4.63789 zł.",
-      "published": "Mon, 18 May 2026 18:11:03 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 18.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-18-05-2026-7287277517297696a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 18.05.2026. W poniedziałek po południu za jedno euro (EUR) trzeba zapłacić 4.24408 zł.",
-      "published": "Mon, 18 May 2026 18:09:32 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 18.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-18-05-2026-7287276392097824a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 18.05.2026. W poniedziałek po południu za jednego funta brytyjskiego (GBP) trzeba zapłacić 4.89263 zł.",
-      "published": "Mon, 18 May 2026 18:07:23 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 18.05.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-18-05-2026-7287275314165792a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 18.05.2026. W poniedziałek po południu za jednego dolara (USD) trzeba zapłacić 3.64474 zł.",
-      "published": "Mon, 18 May 2026 18:03:09 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Realny koszt utrzymania auta w polskim gospodarstwie – trzy elementy, które rosną szybciej niż paliwo",
-      "link": "https://www.money.pl/ubezpieczenia/realny-koszt-utrzymania-auta-w-polskim-gospodarstwie-trzy-elementy-ktore-rosna-szybciej-niz-paliwo-7287260433094720a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c075c87f-5f30-4e55-991d-85378acdb3aa\" width=\"308\" /> Posiadanie własnego samochodu to dla wielu osób synonim swobody i wygody w przemieszczaniu się każdego dnia. Często zdarza się jednak, że podczas planowania domowego budżetu skupiamy się głównie na cenach widocznych na stacjach benzynowych, pomijając inne, równie istotne ",
-      "published": "Mon, 18 May 2026 17:02:00 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "JPMorgan's summer reading list for the wealthy includes books on AI, leadership and lemons",
@@ -696,14 +680,6 @@
       "published": "Mon, 18 May 2026 15:58:43 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Plan na gigafuzję do kosza? Niemiecki gigant bankowy odrzucił propozycję",
-      "link": "https://www.money.pl/banki/plan-na-gigafuzje-do-kosza-niemiecki-gigant-bankowy-odrzucil-propozycje-7287222595651648a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0f574b50-e7e4-4a16-a388-6d8b15bf7f8c\" width=\"308\" /> Commerzbank oficjalnie odrzucił ofertę przejęcia złożoną przez UniCredit, uznając ją za niewystarczającą i obciążoną ryzykiem. Decyzja niemieckiego banku sprawia, że trwająca od miesięcy rywalizacja o kontrolę nad instytucją wchodzi w kolejną fazę, a głos sprzeciwu zabrał",
-      "published": "Mon, 18 May 2026 14:46:11 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Creator content made the main stage at TV's 'upfront' pitches — and not just for YouTube",
