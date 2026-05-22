@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T19:58:50.209285",
+  "generated_at": "2026-05-22T22:20:19.257965",
   "articles": [
     {
       "title": "Sinkhole shuts runway at LaGuardia Airport, delaying flights, Port Authority warns",
@@ -30,14 +30,6 @@
       "link": "https://www.cnbc.com/2026/05/20/ram-rumble-bee-muscle-truck-pickup.html",
       "summary": "Stellantis plans to launch a new lineup of what it's calling \"muscle trucks\" for its Ram brand despite elevated U.S. gas prices due to the war in Iran.",
       "published": "Wed, 20 May 2026 19:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Authentic Brands Group expects IPO in next 12 months as new CEO steps in, founder tells CNBC",
-      "link": "https://www.cnbc.com/2026/05/20/reebok-owner-authentic-brands-group-inches-closer-to-ipo.html",
-      "summary": "Authentic Brands Group, the firm behind Reebok and Champion, is bringing in a public company veteran as its next CEO, signaling it's readying for an IPO.",
-      "published": "Wed, 20 May 2026 17:12:23 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -122,12 +114,84 @@
       "category": "us"
     },
     {
-      "title": "Donald Trump nie pojedzie na ślub syna. Podał zaskakujący powód",
-      "link": "https://www.bankier.pl/wiadomosc/Donald-Trump-nie-pojedzie-na-slub-syna-Podal-zaskakujacy-powod-9138270.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/a/c1c528dccfdfda-948-568-730-710-3266-1960.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump powiedział w piątek, że nie pojedzie na ślub swojego syna Donalda jr., który ma się odbyć wkrótce na Bahamach. Jako powód podał obowiązki służbowe ",
-      "published": "Fri, 22 May 2026 20:33:00 +0100",
+      "title": "Two top Walmart executives leave company under new CEO John Furner",
+      "link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
+      "summary": "Tom Ward, chief operating officer of Walmart's warehouse chain Sam's Club, is retiring, and Cedric Clark, Walmart's EVP of U.S. store operations, is leaving.",
+      "published": "Fri, 22 May 2026 22:19:27 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Trzecia z rzędu wzrostowa sesja na Wall Street. Dow Jones z nowym rekordem",
+      "link": "https://www.bankier.pl/wiadomosc/Trzecia-z-rzedu-wzrostowa-sesja-na-Wall-Street-Dow-Jones-z-nowym-rekordem-9138308.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/3561651816a673-948-567-5-60-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nasdaq oraz S&amp;P500 zakończyły na plusie trzecią sesję z rzędu, a Dow Jones wyznaczył nowy rekord wszech czasów.</p>",
+      "published": "Fri, 22 May 2026 22:08:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
+      "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+      "summary": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”",
+      "published": "Fri, 22 May 2026 21:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Worried about private credit? Stay away from this even riskier investment right now.",
+      "link": "https://www.marketwatch.com/story/worried-about-private-credit-stay-away-from-this-even-riskier-investment-right-now-bfb79b43?mod=mw_rss_topstories",
+      "summary": "Private equity funds own the same underperforming companies spooking the credit market — and their investors are in the crosshairs.",
+      "published": "Fri, 22 May 2026 20:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "IMAX has bucked the trend as the movie-theater business fades — here’s why it’s so attractive to would-be buyers",
+      "link": "https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories",
+      "summary": "The sale of the large-format movie chain could bring interest from tech firms, media companies and even sovereign wealth funds, analysts say",
+      "published": "Fri, 22 May 2026 20:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
+      "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+      "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
+      "published": "Fri, 22 May 2026 20:33:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+      "link": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
+      "summary": "From a grotesque 230% valuation gap to a ticking energy crisis, this unstoppable market is more fragile than it looks.",
+      "published": "Fri, 22 May 2026 20:32:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ford’s stock climbs to highest close in three years. Here’s what’s behind its run.",
+      "link": "https://www.marketwatch.com/story/fords-stock-climbs-to-highest-close-in-three-years-heres-whats-behind-its-run-9fa2e378?mod=mw_rss_topstories",
+      "summary": "Hopes for AI-related tie-ups and good news for its ailing European business are some of the elements boosting Ford’s stock recently.",
+      "published": "Fri, 22 May 2026 20:28:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+      "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+      "summary": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy — forcing him to be something other than the disruptor he hoped to be.",
+      "published": "Fri, 22 May 2026 20:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "IBM could be a big winner as quantum computing moves out of the science-fiction realm",
+      "link": "https://www.marketwatch.com/story/ibm-could-be-a-big-winner-as-quantum-computing-moves-out-of-the-science-fiction-realm-1eb74952?mod=mw_rss_topstories",
+      "summary": "The new era of quantum computing will happen, IBM says, as it sees nothing fundamentally to stop it.",
+      "published": "Fri, 22 May 2026 19:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Dolar może runąć o 30%! Nowy szef Fed szykuje rewolucję",
@@ -162,14 +226,6 @@
       "category": "us"
     },
     {
-      "title": "5 ways to stretch your Memorial Day BBQ budget as burgers cost 20% more this year",
-      "link": "https://www.marketwatch.com/story/5-ways-to-stretch-your-memorial-day-bbq-budget-as-burgers-cost-20-more-this-year-99e3a48f?mod=mw_rss_topstories",
-      "summary": "Hosting a Memorial Day weekend cookout? Prepare to spend more than you did last year.",
-      "published": "Fri, 22 May 2026 19:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Tankowanie powinno być tańsze. Analitycy prognozują spadki cen paliw w nadchodzącym tygodniu",
       "link": "https://comparic.pl/tankowanie-powinno-byc-tansze-analitycy-prognozuja-spadki-cen-paliw-w-nadchodzacym-tygodniu/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2019/03/Oil-Crude-WTI-Brent-ropa-naftowa-petrol-cc6-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Po tygodniu podwyżek cen na stacjach paliw kierowcy mogą wreszcie odetchnąć. Analitycy Reflex przewidują, że w tygodniu od 25 do 29 maja 2026 roku n",
@@ -192,22 +248,6 @@
       "published": "Fri, 22 May 2026 19:18:23 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-      "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
-      "summary": "“Others say she should start at full retirement age.”",
-      "published": "Fri, 22 May 2026 19:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Memorial Day sales mark down fridges and dishwashers. Too bad many Americans aren’t buying them right now.",
-      "link": "https://www.marketwatch.com/story/cant-afford-to-buy-a-new-fridge-or-dishwasher-over-memorial-day-a-better-holiday-sale-is-coming-up-2355cded?mod=mw_rss_topstories",
-      "summary": "Many consumers say they’re uncomfortable buying big-ticket appliances while gas prices are so high",
-      "published": "Fri, 22 May 2026 19:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Prezydent nie odpuszcza referendum ws. klimatu. \"Zmienimy pytanie\"",
@@ -256,14 +296,6 @@
       "published": "Fri, 22 May 2026 18:40:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Americans are paying $2 billion more for gas this Memorial Day weekend than they did last year",
-      "link": "https://www.marketwatch.com/story/americans-are-paying-2-billion-more-for-gas-this-memorial-day-weekend-than-they-did-last-year-632a7c56?mod=mw_rss_topstories",
-      "summary": "The unofficial start of the summer travel season marks a major test for consumers and the economy. And the pressures on consumers caused by higher gas prices are about to get worse, experts say.",
-      "published": "Fri, 22 May 2026 18:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 22.05.2026",
@@ -322,30 +354,6 @@
       "category": "pl"
     },
     {
-      "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
-      "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
-      "summary": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
-      "published": "Fri, 22 May 2026 17:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Nvidia’s on a new path, and if you own an S&P 500 index fund your money is riding on it",
-      "link": "https://www.marketwatch.com/story/nvidias-on-a-new-path-and-if-you-own-an-s-p-500-index-fund-your-money-is-riding-on-it-be0be5ec?mod=mw_rss_topstories",
-      "summary": "Also in Weekend Reads: reactions to the SpaceX IPO filing, how to make a Roth IRA conversion mistake and accurate advice from the Moneyist",
-      "published": "Fri, 22 May 2026 17:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "I almost fell for a scammer. This one rule saved me — and could help you, too.",
-      "link": "https://www.marketwatch.com/story/i-almost-fell-for-scammer-this-one-rule-saved-me-and-could-help-you-too-8c3bcf78?mod=mw_rss_topstories",
-      "summary": "Scams are sophisticated and come in many shapes and forms. It’s easy to be fooled.",
-      "published": "Fri, 22 May 2026 17:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Wynagrodzenia w Polsce rosną wolniej, etatów ubywa. Dane GUS zaskoczyły ekonomistów",
       "link": "https://comparic.pl/wynagrodzenia-w-polsce-rosna-wolniej-etatow-ubywa-dane-gus-zaskoczyly-ekonomistow/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/05/freepik-PLN-polski-zloty-2-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Dynamika wynagrodzeń w polskim sektorze przedsiębiorstw wyraźnie wyhamowała w kwietniu 2026 roku, a tempo wzrostu okazało się znacząco niższe od prognoz analityków. ",
@@ -376,14 +384,6 @@
       "published": "Fri, 22 May 2026 17:20:35 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "This bond strategy can protect your portfolio even if interest rates go up",
-      "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
-      "summary": "A little-known investing formula shows exactly how long to hold bonds to neutralize interest-rate hikes.",
-      "published": "Fri, 22 May 2026 17:11:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Koniec 8-tygodniowej serii. Z globalnych ETF na akcje odpłynęło ponad 6 mld dolarów w jeden tydzień",
