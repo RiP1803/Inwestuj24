@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-05-27T20:26:24.232912",
+  "generated_at": "2026-05-27T22:45:35.015513",
   "articles": [
+    {
+      "title": "Zscaler’s stock sees record drop after investors are blindsided by a disappointing outlook",
+      "link": "https://www.marketwatch.com/story/zscalers-stock-seeing-record-drop-after-investors-are-blindsided-by-a-disappointing-outlook-b010fa72?mod=mw_rss_topstories",
+      "summary": "Shares of Zscaler were headed for a record one-day decline of more than 31% after the cybersecurity company shocked investors with a downbeat revenue outlook.",
+      "published": "Wed, 27 May 2026 22:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Investors betting the Iran war is ending are buying up travel stocks",
+      "link": "https://www.marketwatch.com/story/investors-betting-the-iran-war-is-ending-are-buying-up-travel-stocks-a7921f97?mod=mw_rss_topstories",
+      "summary": "Shares of travel names Delta, United and MGM were among the S&amp;P 500’s biggest gainers on Wednesday. But one strategist called the market’s optimism misplaced.",
+      "published": "Wed, 27 May 2026 22:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Stocks just scored a trifecta of record closes for the first time in 2026. What to expect next.",
+      "link": "https://www.marketwatch.com/story/stocks-just-scored-a-trifecta-of-record-closes-for-the-first-time-in-2026-what-to-expect-next-cb625d40?mod=mw_rss_topstories",
+      "summary": "Equities had been prone to larger upswings when President Trump previously talked positively about the two sides getting closer to ending the Iran war",
+      "published": "Wed, 27 May 2026 22:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Marvell’s stock climbs as ‘exceptional’ AI demand drives a stronger growth outlook",
+      "link": "https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories",
+      "summary": "The custom-chip maker says revenue growth is expected “to continue accelerating each quarter” for the rest of the fiscal year.",
+      "published": "Wed, 27 May 2026 21:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "China’s next export shock walks on two legs — and costs less than a used car",
+      "link": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories",
+      "summary": "Beijing is funding humanoid robots to slash Chinese factory costs and build a competitive advantage.",
+      "published": "Wed, 27 May 2026 21:29:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "How utilities are sticking you with the bill for Big Tech’s AI dreams",
+      "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
+      "summary": "The AI data-center boom is quietly cannibalizing America’s power grid.",
+      "published": "Wed, 27 May 2026 21:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
     {
       "title": "\"Buźki\" dla pracowników, a potem premia. Kontrowersje w Biedronce",
       "link": "https://www.money.pl/biznes/buzki-dla-pracownikow-a-potem-premia-kontrowersje-w-biedronce-7290486409586912a.html",
@@ -8,6 +56,30 @@
       "published": "Wed, 27 May 2026 21:04:00 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "My golf buddy dropped me when I didn’t make him my financial adviser. Be careful who you trust.",
+      "link": "https://www.marketwatch.com/story/my-golf-buddy-dropped-me-when-i-didnt-make-him-my-financial-adviser-be-careful-who-you-trust-b5c00854?mod=mw_rss_topstories",
+      "summary": "“Friendliness alone is not a sufficient reason to trust someone with your finances.”",
+      "published": "Wed, 27 May 2026 21:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Salesforce shares sink on soft revenue outlook as AI disruption concerns linger",
+      "link": "https://www.marketwatch.com/story/salesforce-shares-sink-on-soft-revenue-outlook-as-ai-disruption-concerns-linger-45dcf0e5?mod=mw_rss_topstories",
+      "summary": "While the company’s Agentforce offering is picking up steam, Salesforce didn’t deliver the top-line growth investors wanted to see",
+      "published": "Wed, 27 May 2026 20:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The surge in chip stocks this year is putting the dot-com rally to shame",
+      "link": "https://www.marketwatch.com/story/the-surge-in-chip-stocks-this-year-is-putting-the-dot-com-rally-to-shame-18ab1d24?mod=mw_rss_topstories",
+      "summary": "All of the stocks in the PHLX Semiconductor Index are up more than 10% so far this year",
+      "published": "Wed, 27 May 2026 20:53:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "‘I’m unsure of the best approach’: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?",
@@ -66,14 +138,6 @@
       "category": "pl"
     },
     {
-      "title": "Sam Altman’s toxic ‘culture of silence’ is an overlooked risk for OpenAI’s investors",
-      "link": "https://www.marketwatch.com/story/openais-biggest-problem-isnt-ai-safety-its-sam-altman-068154aa?mod=mw_rss_topstories",
-      "summary": "‘Conflict-averse’ CEO’s management style encourages groupthink — and it’s a massive corporate liability.",
-      "published": "Wed, 27 May 2026 19:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Węgiel na zakręcie. Rząd szykuje pakiet wsparcia dla JSW i całego górnictwa",
       "link": "https://www.bankier.pl/wiadomosc/Wegiel-na-zakrecie-Rzad-szykuje-pakiet-wsparcia-dla-JSW-i-calego-gornictwa-9140745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/7c153b2de74a32-948-568-26-248-3513-2108.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Cały czas trwają prace nad finansowaniem dla branży węgla kamiennego; we wtorek odbyło się spotkanie w Ministerstwie Finansów ws. Jastrzębskiej Spółki Węglowej, w przyszłym ty",
@@ -90,30 +154,6 @@
       "category": "other"
     },
     {
-      "title": "More Americans are raiding their emergency savings just to fill up their gas tanks",
-      "link": "https://www.marketwatch.com/story/more-americans-are-raiding-their-emergency-savings-just-to-fill-up-their-gas-tanks-44a74e22?mod=mw_rss_topstories",
-      "summary": "Most people think of emergencies as job loss or a hospital bill. For many today, it’s soaring energy costs.",
-      "published": "Wed, 27 May 2026 19:31:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Investors are rushing to buy TIPS ETFs to beat inflation. They could end up losing.",
-      "link": "https://www.marketwatch.com/story/investors-are-rushing-to-buy-tips-etfs-to-beat-inflation-they-could-end-up-losing-7618d6e0?mod=mw_rss_topstories",
-      "summary": "Inflation-protected funds don’t always protect against inflation. As consumer-price inflation hits a three-year high due to the Iran war, the premise in their names is being tested.",
-      "published": "Wed, 27 May 2026 19:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Zscaler’s stock seeing record drop after investors are blindsided by a disappointing outlook",
-      "link": "https://www.marketwatch.com/story/zscalers-stock-seeing-record-drop-after-investors-are-blindsided-by-a-disappointing-outlook-b010fa72?mod=mw_rss_topstories",
-      "summary": "Shares of Zscaler were headed for a record one-day decline of more than 31% after the cybersecurity company shocked investors with a downbeat revenue outlook.",
-      "published": "Wed, 27 May 2026 19:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Przegląd dnia Comparic.pl: Dlaczego akcje CD Projekt spadły o ponad 7% po zapowiedzi dodatku do Wiedźmina 3?",
       "link": "https://comparic.pl/cd-projekt-traci-7-inwestorzy-w-szoku-po-zapowiedzi-dodatku-do-wiedzmina-3/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />CD Projekt oficjalnie potwierdził nowy dodatek do Wiedźmina 3: Dziki Gon pod nazwą Pieśni Przeszłości (Songs of the Past), ale reakcja rynku okazała się dramatyczna",
@@ -122,28 +162,12 @@
       "category": "pl"
     },
     {
-      "title": "America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
-      "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
-      "summary": "Big Tech’s structural mistakes are costing stock investors and fueling a massive talent crisis.",
-      "published": "Wed, 27 May 2026 19:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Branża filmowa może tylko pomarzyć o takich wynikach. Tak GTA 6 wpłynie na historyczne wyniki serii Rockstara",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wyniki-sprzedazowe-gta-6-tyle-ma-zarobic-nowa-odslona/b92y84c",
       "summary": "Premiera Grand Theft Auto 6, planowana na 19 listopada i potwierdzona ponownie na ostatnim spotkaniu dla inwestorów Take-Two, będzie najważniejszym wydarzeniem końcówki 2026 r. w świecie szeroko pojętych technologii i rozrywki. Jej wpływ na branżę już teraz jest ogromny... a będzie jeszcze większy.",
       "published": "Wed, 27 May 2026 19:00:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Why double-digit earnings growth won’t stop the next bear market",
-      "link": "https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories",
-      "summary": "Spiking S&amp;P 500 profits often signal the final innings of a bull market. History says stocks are on thin ice.",
-      "published": "Wed, 27 May 2026 18:56:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Koniec \"specjalnej operacji\", a czas na wojnę? Zełenski: Rosja przygotowuje mobilizację",
@@ -170,27 +194,11 @@
       "category": "other"
     },
     {
-      "title": "Micron investors are partying like it’s 1987. Analysts say the stock still looks pretty cheap.",
-      "link": "https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories",
-      "summary": "Shares of Micron were headed for their best monthly performance since 1987, but analysts still see them as a value play.",
-      "published": "Wed, 27 May 2026 18:32:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Boeing CEO says company met requirements to increase 737 Max production to 47 jets per month",
       "link": "https://www.cnbc.com/2026/05/27/boeing-ortberg-737-max-production.html",
       "summary": "Boeing CEO Kelly Ortberg said the company has met FAA requirements to ramp up its production of 737 Max aircraft to 47 per month.",
       "published": "Wed, 27 May 2026 18:31:11 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Big Tech gets the AI profits. You get the higher utility bills.",
-      "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
-      "summary": "The AI data-center boom is quietly cannibalizing America’s power grid.",
-      "published": "Wed, 27 May 2026 18:28:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -264,14 +272,6 @@
       "published": "Wed, 27 May 2026 17:55:04 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "China’s next export shock walks on two legs — and costs less than a used car",
-      "link": "https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories",
-      "summary": "Beijing is funding humanoid robots to slash Chinese factory costs and build a competitive advantage.",
-      "published": "Wed, 27 May 2026 17:50:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Rosyjski bank centralny sam będzie bronił się przed dronami. Nowe przepisy",
