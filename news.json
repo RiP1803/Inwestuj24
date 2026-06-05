@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T20:03:16.147876",
+  "generated_at": "2026-06-05T22:20:24.482777",
   "articles": [
     {
       "title": "mBank kończy promocję dla firm. Ostatnie dni, by zdobyć nawet 1200 zł",
@@ -136,6 +136,14 @@
       "published": "Mon, 01 Jun 2026 20:59:27 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Tąpnięcie na Wall Street. Dane z rynku pracy okazały się zbyt mocne dla inwestorów",
+      "link": "https://www.bankier.pl/wiadomosc/Tapniecie-na-Wall-Street-Dane-z-rynku-pracy-okazaly-sie-zbyt-mocne-dla-inwestorow-9146887.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/c/5aba6902bd9afb-948-568-0-202-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bardzo mocne dane z amerykańskiego rynku pracy wzbudziły lęk przed podwyżką (-ami?) stóp procentowych w Rezerwie Federalnej. A to doprowadziła do przebicia spekulacyjnego balon",
+      "published": "Fri, 5 Jun 2026 22:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "MAEA alarmuje. Poważny incydent w Zaporoskiej Elektrowni Atomowej",
@@ -282,42 +290,106 @@
       "category": "pl"
     },
     {
-      "title": "Bunt w partii Trumpa? Izba Reprezentantów przegłosowała potężne sankcje na Rosję",
-      "link": "https://www.bankier.pl/wiadomosc/Bunt-w-partii-Trumpa-Izba-Reprezentantow-przeglosowala-potezne-sankcje-na-Rosje-9146444.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/4/60aab13c377304-948-568-213-25-3204-1922.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Izba Reprezentantów przegłosowała w czwartek projekt ustawy nakazującej nowe sankcje na Rosję oraz 8 mld dol. wsparcia wojskowego dla Ukrainy i sojuszników w regionie. Do przy",
-      "published": "Fri, 5 Jun 2026 07:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+      "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+      "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
+      "published": "Fri, 05 Jun 2026 22:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+      "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+      "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
+      "published": "Fri, 05 Jun 2026 22:07:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Bitcoin is suffering from an ‘attention’ deficit, as momentum traders have moved on",
+      "link": "https://www.marketwatch.com/story/bitcoin-is-suffering-from-an-attention-deficit-as-momentum-traders-have-moved-on-17d2c140?mod=mw_rss_topstories",
+      "summary": "“The AI trade is sucking the blood out of crypto,” one analyst notes.",
+      "published": "Fri, 05 Jun 2026 21:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘No one wears bling’: What does it say about America if people are afraid to wear their jewelry?",
+      "link": "https://www.marketwatch.com/story/no-one-seems-to-wear-their-bling-is-it-safe-to-show-off-your-expensive-jewelry-a807bc55?mod=mw_rss_topstories",
+      "summary": "“I’ve been to many shows, operas, big parties and fundraisers.”",
+      "published": "Fri, 05 Jun 2026 21:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Marvell gets a spot in the S&P 500 — along with this data-center play",
+      "link": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories",
+      "summary": "The new additions beef up the IT sector’s presence within the benchmark index.",
+      "published": "Fri, 05 Jun 2026 21:27:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
+      "link": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
+      "summary": "The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.",
+      "published": "Fri, 05 Jun 2026 21:26:54 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "First Google, now Meta? Big Tech may increasingly sell stock to bankroll $820 billion AI boom.",
+      "link": "https://www.marketwatch.com/story/first-google-then-meta-big-tech-may-increasingly-sell-stock-to-bankroll-820-billion-ai-boom-83c69030?mod=mw_rss_topstories",
+      "summary": "Stock investors may not love it — but bond investors already heavily engaged in funding the AI buildout are pleased.",
+      "published": "Fri, 05 Jun 2026 21:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These stocks fell the most Friday as Big Tech took a dive",
+      "link": "https://www.marketwatch.com/story/these-stocks-fell-the-most-friday-as-big-tech-took-a-dive-bf692616?mod=mw_rss_topstories",
+      "summary": "Chip makers dominated the list of the day’s biggest losers among the S&amp;P 500.",
+      "published": "Fri, 05 Jun 2026 21:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Donald Trump stawia na węgiel. Inwestycja za 700 mln dol.",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-oglasza-inwestycje-za-700-mln-dol-czysty-piekny-wegiel/7czfxn6",
+      "summary": "Donald Trump ogłasił inwestycję w węgiel o wartości 700 mln dol. — Zbudujemy dwie nowe elektrownie węglowe, ochronimy 42 kopalnie — zapowiada prezydent USA.",
+      "published": "Fri, 05 Jun 2026 21:08:51 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years",
+      "link": "https://www.marketwatch.com/story/marvell-micron-shares-tumble-as-the-chip-sector-suffers-its-worst-day-in-6-years-a7c1701a?mod=mw_rss_topstories",
+      "summary": "Investors are cooling on momentum stocks and considering the implications of a strong jobs report.",
+      "published": "Fri, 05 Jun 2026 21:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The hiring recession is over — but landing a new job is much harder than it looks",
+      "link": "https://www.marketwatch.com/story/the-hiring-recession-is-over-but-landing-a-new-role-is-much-harder-than-it-looks-8f7d9608?mod=mw_rss_topstories",
+      "summary": "The May jobs report blew past forecasts. Why is it taking six months to find a new job?",
+      "published": "Fri, 05 Jun 2026 20:53:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Władimir Putin bagatelizuje problemy gospodarcze podczas rosyjskiego Davos",
+      "link": "https://businessinsider.com.pl/gospodarka/przemowienie-putina-na-forum-w-petersburgu-przywodztwo-brics-rosnie/cqgl64e",
+      "summary": "Władimir Putin podczas przemówienia w \"rosyjskim Davos\" mówił o wielobiegunowości i bagatelizował problemy gospodarcze Rosji.",
+      "published": "Fri, 05 Jun 2026 20:05:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "For the first time ever, an S&P 500 ETF has over $1 trillion in assets. Here’s why that should worry you.",
       "link": "https://www.marketwatch.com/story/for-the-first-time-ever-an-s-p-500-etf-has-over-1-trillion-in-assets-heres-why-that-should-worry-you-d3ee21ad?mod=mw_rss_topstories",
       "summary": "Welcome to the age of trillions.",
       "published": "Fri, 05 Jun 2026 19:59:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "This hot new financial product has Wall Street spooked. What you should know before trying it out.",
-      "link": "https://www.marketwatch.com/story/this-hot-new-financial-product-has-wall-street-spooked-what-you-should-know-before-trying-it-out-d73c6864?mod=mw_rss_topstories",
-      "summary": "Perpetual futures have finally arrived in the U.S. Not everyone is thrilled.",
-      "published": "Fri, 05 Jun 2026 19:40:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "How this traveler booked a $16,000 first-class Emirates flight for $400 — and you can, too",
-      "link": "https://www.marketwatch.com/story/this-credit-card-pointsmaxxer-booked-a-16-000-first-class-emirates-flight-for-400-and-you-can-too-46f99294?mod=mw_rss_topstories",
-      "summary": "It’s trickier to find good deals with airline miles, but it’s still possible to get “insane value.”",
-      "published": "Fri, 05 Jun 2026 19:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "An S&P 500 shake-up is moments away. These stocks could soon earn spots in the index.",
-      "link": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories",
-      "summary": "Marvell, Reddit and a mortgage “dark horse” could make the cut during the next quarterly rebalancing of the benchmark index.",
-      "published": "Fri, 05 Jun 2026 19:30:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -362,28 +434,12 @@
       "category": "pl"
     },
     {
-      "title": "Nearly half of workers 55 and older don’t plan on using AI in their jobs. How to make it work for you.",
-      "link": "https://www.marketwatch.com/story/nearly-half-of-workers-55-and-older-dont-plan-on-using-ai-in-their-jobs-how-to-make-it-work-for-you-07638c61?mod=mw_rss_topstories",
-      "summary": "Workers can learn more about applying AI to their jobs even on social-media platforms, such as YouTube and TikTok, one career coach said.",
-      "published": "Fri, 05 Jun 2026 18:41:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Will you be audited by Trump’s IRS? New data says there’s one group that can breathe a lot easier.",
-      "link": "https://www.marketwatch.com/story/will-you-be-audited-by-trumps-irs-new-data-says-theres-one-group-that-can-breathe-a-lot-easier-43b68411?mod=mw_rss_topstories",
-      "summary": "A new report out Friday reflects IRS audit activity and other operations at the start of the second Trump presidency.",
-      "published": "Fri, 05 Jun 2026 18:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The Fed may already be too late in hiking interest rates — which is bad news for these borrowers",
-      "link": "https://www.marketwatch.com/story/the-fed-may-already-be-too-late-in-hiking-interest-rates-which-is-bad-news-for-these-borrowers-a482641c?mod=mw_rss_topstories",
-      "summary": "Friday’s strong jobs report could soon feel like a double-edged sword for borrowers struggling to keep up with inflation and their bills.",
-      "published": "Fri, 05 Jun 2026 18:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Chcą zablokować przejęcie właściciela TVN. Władze kilku stanów szykują pozew",
+      "link": "https://businessinsider.com.pl/biznes/chca-zablokowac-przejecie-wlasciciela-tvn-szykuja-pozew/e1zxb37",
+      "summary": "Kilka stanów USA przygotowuje pozew, aby zablokować przejęcie Warner Bros. Discovery, właściciela m.in. TVN, przez Paramount — podaje Reuters.",
+      "published": "Fri, 05 Jun 2026 18:47:05 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ekonomiści się pomylili. Dane z USA zwiększają szanse na podwyżkę stóp",
@@ -394,36 +450,12 @@
       "category": "pl"
     },
     {
-      "title": "AI may be killing some high-tech jobs, but it’s also creating others. See who’s winning and losing.",
-      "link": "https://www.marketwatch.com/story/ai-may-be-killing-some-high-tech-jobs-but-its-also-creating-others-see-whos-winning-and-losing-9dc839e6?mod=mw_rss_topstories",
-      "summary": "Artificial intelligence might terminate lots of jobs one day, especially in high tech, but there’s little evidence AI is already causing widespread layoffs.",
-      "published": "Fri, 05 Jun 2026 18:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Elon Musk needs the cultish support of everyday investors to pull off the massive SpaceX IPO",
-      "link": "https://www.marketwatch.com/story/elon-musk-needs-the-cultish-support-of-everyday-investors-to-pull-off-the-massive-spacex-ipo-08e7ea49?mod=mw_rss_topstories",
-      "summary": "“They’re going to have to own it”: Elon Musk wants retail investors to buy some $23 billion of SpaceX shares next week.",
-      "published": "Fri, 05 Jun 2026 17:44:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Thorium Space rozpoczyna IPO. Kosmiczny deep-tech chce pozyskać 35 mln PLN na satelitarne technologie obronne",
       "link": "https://comparic.pl/thorium-space-rozpoczyna-ipo-kosmiczny-deep-tech-chce-pozyskac-35-mln-pln-na-satelitarne-technologie-obronne/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/Thorum-Space-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Thorium Space, polska spółka deep-tech rozwijająca technologie komunikacji satelitarnej dla sektora instytucjonalnego, obronnego i infrastruktury krytycznej, rozpoczyna proces pr",
       "published": "Fri, 05 Jun 2026 17:32:48 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘DOGE’ wanted to declare 2.7 million people ‘dead’ at Social Security: whistleblower",
-      "link": "https://www.marketwatch.com/story/doge-wanted-to-declare-2-7-million-people-dead-at-social-security-whistleblower-e195065b?mod=mw_rss_topstories",
-      "summary": "This is the third whistleblower to come forward about alleged illegal activity by Trump’s Department of Government Efficiency.",
-      "published": "Fri, 05 Jun 2026 17:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "As the largest World Cup ever kicks off, health officials are focused on more than Ebola",
@@ -442,20 +474,28 @@
       "category": "pl"
     },
     {
-      "title": "Boeing to start 737 Max production on new assembly line July 6, CEO says",
-      "link": "https://www.cnbc.com/2026/06/05/boeing-ceo-737-max-production-assembly-line.html",
-      "summary": "The new 737 Max final assembly line in Everett, Washington, will serve as a catalyst for increasing Max production to 52 jets per month.",
-      "published": "Fri, 05 Jun 2026 16:56:31 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Popyt na złoto w Chinach hamuje! Sygnały słabości widać w wielu wskaźnikach",
       "link": "https://comparic.pl/popyt-na-zloto-w-chinach-hamuje-sygnaly-slabosci-widac-w-wielu-wskaznikach/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/zloto-gold-cc-xauusd-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Chiński rynek złota, jeden z filarów wieloletniej hossy na kruszcu, wyraźnie wytraca impet. W ostatnich tygodniach pojawiły się jednoznaczne sygnały schłodzenia popytu. W",
       "published": "Fri, 05 Jun 2026 16:41:29 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Dziesiątki miliardów dolarów na służby migracyjne. Ta decyzja to wielki sukces Donalda Trumpa",
+      "link": "https://businessinsider.com.pl/finanse/70-mld-dol-na-sluzby-migracyjne-ta-decyzja-to-wielki-sukces-trumpa/s6v9h8r",
+      "summary": "Amerykański Senat opowiedział się za wynoszącym łącznie 70 mld dol. finansowaniem dla służb migracyjnych. Zgodnie z ustawą odpowiednie formacje mają otrzymywać fundusze regularnie do końca kadencji Donalda Trumpa.",
+      "published": "Fri, 05 Jun 2026 16:26:18 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Doradca najwyższego przywódcy Iranu o rozmowach z USA: 24 mld dolarów są testem zaufania",
+      "link": "https://businessinsider.com.pl/wiadomosci/usa-wejda-w-ciemny-korytarz-doradca-najwyzszego-przywodcy-iranu-ostrzega/q2knvh5",
+      "summary": "Potencjalne porozumienie pokojowe między Stanami Zjednoczonymi a Iranem zależy od zgody administracji Donalda Trumpa na uwolnienie zamrożonych irańskich aktywów o wartości 24 mld dol. — powiedział w piątek CNN doradca najwyższego przywódcy Iranu, ostrzegając, że USA \"wejdą w ciemny korytarz\", jeśli wznowią walki.",
+      "published": "Fri, 05 Jun 2026 16:17:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Inwestorzy uciekają z Bitcoina. Rekordowy odpływ z ETF-ów: wycofano 4,3 mld USD",
@@ -466,12 +506,28 @@
       "category": "pl"
     },
     {
+      "title": "Kreml ma problem po atakach Ukrainy. \"Sprzedaż benzyny zawieszona\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/kryzys-paliwowy-na-krymie-sprzedaz-benzyny-zawieszona/jgzlrp0",
+      "summary": "Władze anektowanego Krymu wstrzymały w czwartek sprzedaż benzyny i wydawanie bonów paliwowych.",
+      "published": "Fri, 05 Jun 2026 15:43:07 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Cena złota gwałtownie spadła po danych z USA. Analitycy: po przebiciu 4400 USD celem jest 4100 USD",
       "link": "https://comparic.pl/cena-zlota-gwaltownie-spadla-po-danych-z-usa-analitycy-po-przebiciu-4400-usd-celem-jest-4100-usd/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-wall-street-stock-market-krach-crash-panic-stres-2-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Cena złota w piątek po raz pierwszy od ponad miesiąca znalazła się poniżej psychologicznej bariery 4400 USD za uncję. Co stało za tą ",
       "published": "Fri, 05 Jun 2026 15:35:59 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Zupełnie odmienili dawny, zniszczony PGR. Gospodarstwo ma prawie 2 tys. ha",
+      "link": "https://businessinsider.com.pl/gospodarka/ze-zniszczonego-pgr-u-zrobili-wizytowke-innowacyjne-gospodarstwo-w-juchowie/c14r82q",
+      "summary": "W Juchowie (woj. zachodniopomorskie) na terenie dawnego PGR-u powstało biodynamiczne gospodarstwo, które może być traktowane jako wizytówka na skalę polską.",
+      "published": "Fri, 05 Jun 2026 15:09:55 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Bruksela rekomenduje Polsce reformę emerytur. Eksperci mówią, co trzeba zrobić",
@@ -482,12 +538,44 @@
       "category": "pl"
     },
     {
+      "title": "\"Irańska pułapka\" ciągle grozi konsekwencjami dla rynków finansowych",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/niedobory-ropy-przez-dluzszy-czas-oznaczaja-umiarkowana-recesje-w-europie/h6pn9rc",
+      "summary": "\"Rynek będzie boleśnie przeciskał się przez kolejne wąskie gardła światowych łańcuchów dostaw. Prawdopodobne jest, że inwestorzy powinni przygotować się na lawinę spadającą w zwolnionym tempie, a nie na widowiskowe załamanie czy kryzys\" — ostrzega analityk rynkowy Kamil Szczepański.",
+      "published": "Fri, 05 Jun 2026 14:50:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Przez 30 lat Polacy zaoszczędzili z Auchan 2,6 biliona. Licznik wciąż rośnie.",
+      "link": "https://businessinsider.com.pl/lifestyle/przez-30-lat-polacy-zaoszczedzili-z-auchan-26-biliona-licznik-wciaz-rosnie/bk35p61",
+      "summary": "Ponad 2,6 biliona złotych zostało w portfelach Polaków dzięki zakupom w Auchan przez 30 lat obecności sieci w Polsce. W oparciu o model gospodarstwa domowego powstał licznik oszczędności, który pokazuje, że to nie pojedyncze decyzje, lecz miliony codziennych wyborów – promocji, tańszych produktów i marek własnych – budują realne oszczędności.",
+      "published": "Fri, 05 Jun 2026 14:42:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "2 miliony nowych milionerów. Zarobili na giełdzie",
+      "link": "https://businessinsider.com.pl/finanse/w-co-inwestuja-milionerzy-rosnie-przepasc-miedzy-bogatymi/gl9mej9",
+      "summary": "Mocne wzrosty na giełdach stworzyły w zeszłym roku na całym świecie prawie 2 mln nowych milionerów.",
+      "published": "Fri, 05 Jun 2026 14:38:03 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Materiały budowlane drożeją najmocniej od trzech lat. Czy to zmieni trend na rynku nieruchomości?",
       "link": "https://comparic.pl/materialy-budowlane-drozeja-najmocniej-od-trzech-lat-czy-to-zmieni-trend-na-rynku-nieruchomosci/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2023/11/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-deweloper-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Po wielu miesiącach stagnacji ceny materiałów budowlanych znów wyraźnie poszły w górę. W kwietniu był",
       "published": "Fri, 05 Jun 2026 14:33:47 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Dlaczego stopy procentowe w Polsce nie spadają? NBP opublikował wnioski z posiedzenia",
+      "link": "https://businessinsider.com.pl/gospodarka/stopy-procentowe-w-polsce-spadna-rpp-wskazuje-najwazniejsze-kwestie/mwfv42f",
+      "summary": "\"Uwzględniając różne scenariusze co do poziomu cen ropy naftowej i działań osłonowych rządu w zakresie cen paliw – w najbliższych miesiącach możliwy jest dalszy wzrost inflacji\" - czytamy w protokole RPP, który ujrzał światło dzienne w piątek.",
+      "published": "Fri, 05 Jun 2026 14:17:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Family offices bet on sports, from pickleball leagues to smart soccer balls",
@@ -498,12 +586,44 @@
       "category": "us"
     },
     {
+      "title": "Ten start-up posprząta twoje mieszkanie za darmo — jeśli pozwolisz, by AI patrzyło",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-jork-przyciaga-darmowym-sprzataniem-firma-zbiera-dane-dla-ai/gbsrw3t",
+      "summary": "W Nowym Jorku, gdzie niemal nic nie jest za darmo, start-up o nazwie shift oferuje sprzątanie mieszkania za darmo.",
+      "published": "Fri, 05 Jun 2026 13:47:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Największe banki USA szykują rewolucję w płatnościach – tokenizowane depozyty zastąpią tradycyjne przelewy już w 2027 r.",
       "link": "https://comparic.pl/najwieksze-banki-usa-szykuja-rewolucje-w-platnosciach-tokenizowane-depozyty-zastapia-tradycyjne-przelewy-juz-w-2027-r/",
       "summary": "<img alt=\"blockchain\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-blockchain-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Największe amerykańskie instytucje finansowe przygotowują kolejny etap integracji technologii blockchain z tradycyjnym sektorem bankowym. Konsorcjum wspierane przez JP",
       "published": "Fri, 05 Jun 2026 13:37:31 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "W co inwestować? Raport z rynku akcji, obligacji i nieruchomości",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/w-co-inwestowac-w-2026-obligacje-nieruchomosci-czy-akcje/p6ydcry",
+      "summary": "Pierwsza połowa 2026 r. była pod znakiem wysokich wycen, napięć geopolitycznych, drogiej energii i niepewności co do stóp procentowych. Akcje zachowały potencjał, obligacje mogą być atrakcyjne, a w nieruchomościach można szukać stabilizacji.",
+      "published": "Fri, 05 Jun 2026 13:34:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Nie będziesz musiał oddawać butelek w sklepie. Na osiedlach pojawią się specjalne magazyny",
+      "link": "https://businessinsider.com.pl/finanse/handel/rewolucja-w-systemie-kaucyjnym-zwrotomaty-stana-na-osiedlach/n8jhdnd",
+      "summary": "W niektórych miejscach butelki objęte systemem kaucyjnym można już zwracać nie tylko w sklepach. Wszystko za sprawą nowoczesnych urządzeń montowanych przez operatora Polska Kaucja (PolKa). Środki zwracane są bezpośrednio na kartę płatniczą.",
+      "published": "Fri, 05 Jun 2026 13:18:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ważą się losy legendarnej fabryki w Szczecinie. W tle nazwisko polskiego miliardera",
+      "link": "https://businessinsider.com.pl/gospodarka/legendarna-fabryka-wodek-czeka-na-nowego-wlasciciela-wkrotce-rozstrzygniecie/vgk09q0",
+      "summary": "Minął już termin składania ofert na zakup legendarnej fabryki w Szczecinie. Wkrótce okaże się, czy jest na nią chętny. Wśród potencjalnych nabywców media wymieniały nazwisko jednego z najbogatszych Polaków — właściciela sieci Dino Tomasza Biernackiego.",
+      "published": "Fri, 05 Jun 2026 13:06:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Wielkie pieniądze dla Chwalińskiej. Tyle może zarobić na reklamach",
@@ -514,12 +634,28 @@
       "category": "pl"
     },
     {
+      "title": "Nowe dane z USA mocno przebiły prognozy",
+      "link": "https://businessinsider.com.pl/praca/rynek-pracy-w-usa-stabilny-nowe-dane-zaskoczyly-ekonomistow/6hf9t3g",
+      "summary": "Sytuacja na rynku pracy w USA, w przeciwieństwie do rosnącej inflacji, się stabilizuje. Tak przynajmniej sugerują piątkowe dane dotyczące zatrudnienia i bezrobocia. Nie zabrakło niespodzianek.",
+      "published": "Fri, 05 Jun 2026 13:05:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Ta spółka to ukryty monopolista GPW. Dywidenda 8% i aż 4000% w 10 lat",
       "link": "https://comparic.pl/ta-spolka-to-ukryty-monopolista-gpw-dywidenda-8-i-az-4000-w-10-lat/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/krypto-2026-06-05T095950.062-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Na Giełdzie Papierów Wartościowych w Warszawie funkcjonują spółki, które przez lata pozostają poza radarem globalnych funduszy i mediów finansowych, a mimo to bud",
       "published": "Fri, 05 Jun 2026 12:53:06 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Rekordowa fala zwolnień z USA. Jako powód firmy najczęściej wskazują AI",
+      "link": "https://businessinsider.com.pl/praca/firmy-zwalniaja-przez-ai-najnowszy-raport-z-usa/zw9dynb",
+      "summary": "Sztuczna inteligencja być może nie stanowi jeszcze totalnej katastrofy dla rynku pracy, ale — według nowego raportu Challenger, Gray &amp; Christmas — firmy wskazują ją częściej niż jakikolwiek inny powód przy ogłaszaniu zwolnień.",
+      "published": "Fri, 05 Jun 2026 12:31:10 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ceny paliw na weekend. Oto co czeka kierowców na stacjach",
@@ -530,6 +666,14 @@
       "category": "pl"
     },
     {
+      "title": "Rosyjskie Davos miało być elitarnym forum. Brakuje największych graczy",
+      "link": "https://businessinsider.com.pl/biznes/forum-w-petersburgu-rosyjskim-davos-lista-gosci-rozczarowuje/nk8phnz",
+      "summary": "Na początku roku Forum Ekonomiczne w Davos zgromadziło elitę biznesową całego świata. Coś podobnego w Rosji chciał stworzyć Władimir Putin, ale tegoroczna lista gości rozczarowuje.",
+      "published": "Fri, 05 Jun 2026 12:23:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Jaki podatek zapłaci Chwalińska? Francuski fiskus bezlitosny",
       "link": "https://www.money.pl/finanse/jaki-podatek-zaplaci-chwalinska-francuski-fiskus-bezlitosny-7293555985611200a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8bce793d-279d-451c-97fa-ecfa2713f707\" width=\"308\" /> Maja Chwalińska awansowała w czwartek do wielkiego finału tenisowego Roland Garos w Paryżu. Sukces sportowy przynosi także ogromne zarobki. Tenisistka już zarobiła na kortach w Paryżu 1,4 mln euro, czyli prawie 6 mln zł. Lwią część tej sumy będzie musiała oddać fiskusowi ",
@@ -538,12 +682,28 @@
       "category": "pl"
     },
     {
+      "title": "Ikea zwalnia w Polsce. Zapewnia: to nie zwolnienia grupowe",
+      "link": "https://businessinsider.com.pl/finanse/handel/redukcje-w-ikea-pod-warszawa-firma-komentuje-zwolnienia-w-jankach/tj37rpv",
+      "summary": "Po informacjach o redukcjach zatrudnienia w Ikei, przyszły kolejne informacje. Tym razem dotyczą Polski. Chodzi o główne biuro Ikea Retail w Jankach pod Warszawą. Obecnie trwa tam proces reorganizacji — część stanowisk zostanie zlikwidowana.",
+      "published": "Fri, 05 Jun 2026 12:05:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Broadway's $1.9 billion season is the latest sign of consumers splurging on experiences",
       "link": "https://www.cnbc.com/2026/06/05/broadway-record-ticket-sales.html",
       "summary": "Sunday's Tony Awards follow a record-breaking season on Broadway. The awards often lead to further ticket sales for winning shows.",
       "published": "Fri, 05 Jun 2026 12:00:01 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Topnieją rezerwy walutowe Ukrainy. Narodowy bank wyjaśnia",
+      "link": "https://businessinsider.com.pl/gospodarka/rezerwy-walutowe-ukrainy-stopnialy-narodowy-bank-zabiera-glos/zr3y2kk",
+      "summary": "Rezerwy walutowe Ukrainy zmniejszyły się w ubiegłym miesiącu o 5,2 proc. — wynika z informacji przekazanych przez Narodowy Bank Ukrainy (NBU). Regulator podkreśla jednak, że pomimo spadku wolumen rezerw jest wystarczający, by utrzymać stabilność rynku walutowego.",
+      "published": "Fri, 05 Jun 2026 11:53:49 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Zaskakujący efekt kryzysu na rynku pracy w Chinach",
