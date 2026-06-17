@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-17T20:24:38.533158",
+  "generated_at": "2026-06-17T22:50:45.920874",
   "articles": [
+    {
+      "title": "Technologie z Dolnego Śląska na Florydzie. Aplikacja podpowie choroby",
+      "link": "https://www.money.pl/gospodarka/technologie-z-dolnego-slaska-na-florydzie-aplikacja-podpowie-choroby-7297945248167968a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/db0f770b-d578-4905-9576-55ac0672cf97\" width=\"308\" /> Aplikację analizującą wyniki badań krwi, urządzenie medyczne do wspierania leczenia męskiej niepłodności, czy inne technologie oparte na sztucznej inteligencji pokazują dolnośląskie firmy na World Health Expo Miami. Dla przedsiębiorców to szansa na kontrakty, dla regionu ",
+      "published": "Wed, 17 Jun 2026 23:02:59 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Warren Buffett’s mentor said his wealth came down to luck. Is your life savings riding on a coin flip?",
+      "link": "https://www.marketwatch.com/story/warren-buffetts-mentor-said-his-wealth-came-down-to-luck-is-your-life-savings-riding-on-a-coin-flip-2498c60c?mod=mw_rss_topstories",
+      "summary": "The illusion of investing knowledge is powerful: Why you’re probably paying a financial adviser for pure chance.",
+      "published": "Wed, 17 Jun 2026 22:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Kevin Warsh launches his push to change how the Fed operates",
+      "link": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
+      "summary": "The new Federal Reserve chair rolls out five task forces that will focus on the central bank’s communications, inflation frameworks and more",
+      "published": "Wed, 17 Jun 2026 22:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
+      "link": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
+      "summary": "Tech giants are gobbling up memory chips for AI servers, leaving Apple with soaring component costs that Tim Cook says will inevitably be passed on to consumers.",
+      "published": "Wed, 17 Jun 2026 22:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up",
+      "link": "https://www.marketwatch.com/story/stock-market-pessimists-have-one-less-reason-to-worry-as-shares-of-banks-and-retailers-perk-up-12d749b8?mod=mw_rss_topstories",
+      "summary": "The rally is once again broadening beyond tech",
+      "published": "Wed, 17 Jun 2026 21:54:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The Fed just threw investors a curveball. Here’s how stocks, bonds, gold and the dollar reacted.",
+      "link": "https://www.marketwatch.com/story/the-fed-threw-investors-a-curve-ball-on-wednesday-heres-how-stocks-bonds-gold-and-the-dollar-reacted-d0e1e3c0?mod=mw_rss_topstories",
+      "summary": "In his first press conference as Fed chair, Kevin Warsh took a surprisingly aggressive stance on interest rates and inflation.",
+      "published": "Wed, 17 Jun 2026 21:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SpaceX adds a third ‘PayPal Mafia’ member to its board",
+      "link": "https://www.marketwatch.com/story/spacex-adds-a-third-paypal-mafia-member-to-its-board-f8e4d122?mod=mw_rss_topstories",
+      "summary": "Former PayPal CFO and venture capitalist Roelof Botha is joining SpaceX’s board and will serve on its audit committee.",
+      "published": "Wed, 17 Jun 2026 21:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Here’s how stocks performed under different Fed chairs — and how much influence Warsh really has",
+      "link": "https://www.marketwatch.com/story/heres-how-stocks-performed-under-different-fed-chairs-and-how-much-influence-warsh-really-has-e8a10d87?mod=mw_rss_topstories",
+      "summary": "A look at stock-market performance under Fed chairs going back to the 1930s.",
+      "published": "Wed, 17 Jun 2026 21:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
+      "link": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
+      "summary": "JetBlue is planning to cut some employee bases at Newark Liberty International Airport in New Jersey and tech bases at New York's LaGuardia Airport.",
+      "published": "Wed, 17 Jun 2026 21:20:34 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
     {
       "title": "Wystawił rachunek za \"plan Czarnka\". Minister ostrzega",
       "link": "https://www.money.pl/finanse/domanski-wystawil-rachunek-za-plan-czarnka-7297938673236000a.html",
@@ -10,12 +82,44 @@
       "category": "pl"
     },
     {
+      "title": "Want to renounce your U.S. citizenship? Here’s what it could cost you.",
+      "link": "https://www.marketwatch.com/story/renouncing-your-u-s-citizenship-costs-just-450-but-theres-a-world-of-hidden-costs-too-1315238f?mod=mw_rss_topstories",
+      "summary": "Before cutting legal ties to the country, consider the expenses.",
+      "published": "Wed, 17 Jun 2026 21:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Niemiecki rynek pracy u progu zapaści. Ponura prognoza",
       "link": "https://www.money.pl/emerytury/niemiecki-rynek-pracy-u-progu-zapasci-ponura-prognoza-7297873614567456a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/978ced00-2a69-4d44-b675-7a5de13ec314\" width=\"308\" /> Niemiecka gospodarka staje w obliczu demograficznego tąpnięcia - wynika z najnowszego raportu Instytutu Gospodarki Niemieckiej. Masowe odejścia na emeryturę pokolenia baby boomers drastycznie skurczą rynek pracy i nadwyrężą system opieki społecznej. W ciągu dekady zabrakn",
       "published": "Wed, 17 Jun 2026 20:57:45 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Kapitał ucieka z altcoinów. Dane pokazują, gdzie inwestorzy przenoszą miliardy w 2026 roku",
+      "link": "https://comparic.pl/kapital-ucieka-z-altcoinow-dane-pokazuja-gdzie-inwestorzy-przenosza-miliardy-w-2026-roku/",
+      "summary": "<img alt=\"Bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-BTC-Bitcoin-altcoiny-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Rynek altcoinów znalazł się pod silną presją sprzedażową. Dane wskazują, że skumulowana sprzedaż netto altcoinów przekroczyła już 266 mld USD, podczas gdy inwes",
+      "published": "Wed, 17 Jun 2026 20:43:56 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Inside the push to weaken Washington’s toughest financial watchdog",
+      "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
+      "summary": "The SEC used to intimidate corporate wrongdoers. Now its own commissioners are gutting its leverage.",
+      "published": "Wed, 17 Jun 2026 20:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "published": "Wed, 17 Jun 2026 20:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Kolejne 20 mld euro dla Ukrainy. Kijów szuka w kieszeniach sojuszników",
@@ -98,14 +202,6 @@
       "category": "pl"
     },
     {
-      "title": "The Knicks’ ticker-tape parade is conquering a modern-day reality: Offices barely use any paper",
-      "link": "https://www.marketwatch.com/story/the-knicks-ticker-tape-parade-is-conquering-a-modern-day-reality-offices-barely-use-any-paper-00a36e28?mod=mw_rss_topstories",
-      "summary": "Over 2,500 pounds of paper will rain on the Knicks as New York City overcomes windows that don’t open and the death of actual ticker tape.",
-      "published": "Wed, 17 Jun 2026 19:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Polskie embargo solą w oku Brukseli. Będzie otwarcie na ukraińskie produkty?",
       "link": "https://www.bankier.pl/wiadomosc/Polskie-embargo-sola-w-oku-Brukseli-Bedzie-otwarcie-na-ukrainskie-produkty-9153160.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/f/3844e6f12f46b7-948-567-5-35-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Unijny komisarz rolnictwa Christophe Hansen powiedział PAP, że w trakcie wizyty w Polsce w czwartek i piątek podejmie dialog z polskimi władzami na temat zniesienia zakazu importu",
@@ -114,28 +210,12 @@
       "category": "pl"
     },
     {
-      "title": "The one-page pledge that forces your financial adviser to put you first",
-      "link": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
-      "summary": "Most investors ignore this abstract legal rule — and it’s fueling a massive wave of fraud.",
-      "published": "Wed, 17 Jun 2026 19:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Dolar wraca do wzrostów! Szef Fed Kevin Warsh ucina spekulacje",
       "link": "https://comparic.pl/dolar-wraca-do-wzrostow-szef-fed-kevin-warsh-ucina-spekulacje-17-06-2026/",
       "summary": "<img alt=\"freepik usd dolar dollar 3\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-usd-dolar-dollar-3-1-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Dolar amerykański mocno zyskuje na wartości po tym, jak amerykańska Rezerwa Federalna utrzymała w czerwcu 2026 r. stopy procentowe na nie",
       "published": "Wed, 17 Jun 2026 19:09:56 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Warsh launches his push to change how the Fed operates",
-      "link": "https://www.marketwatch.com/story/warsh-launches-his-push-to-change-how-the-fed-operates-3ddd9b90?mod=mw_rss_topstories",
-      "summary": "Federal Reserve Chairman Kevin Warsh made waves on Wednesday while hosting his first press conference as head of the U.S. central bank.",
-      "published": "Wed, 17 Jun 2026 19:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Pracownicy Dino Polska zdesperowani. Zapowiadają interwencję prokuratury",
@@ -202,14 +282,6 @@
       "category": "pl"
     },
     {
-      "title": "I’m 20, and I’ll be watching Kevin Warsh and the Fed today. Here’s why you should, too.",
-      "link": "https://www.marketwatch.com/story/im-20-and-ill-be-watching-kevin-warsh-and-the-fed-this-week-heres-why-you-should-too-73c3e34d?mod=mw_rss_topstories",
-      "summary": "What the Fed’s interest-rate decision really means for your borrowing, savings and financial future",
-      "published": "Wed, 17 Jun 2026 18:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Pierwsze posiedzenie w banku USA z nowym prezesem. Fed ogłosił decyzję",
       "link": "https://businessinsider.com.pl/gospodarka/stopy-procentowe-w-usa-kevin-warsh-debiutuje-i-oglasza-decyzje/2q2mx94",
       "summary": "W tym roku stopy procentowe w USA się nie zmieniły i podobnie będzie przez kolejny miesiąc. Pod tym względem nie ma rewolucji, mimo zmiany na stanowisku prezesa amerykańskiego banku centralnego.",
@@ -242,36 +314,12 @@
       "category": "pl"
     },
     {
-      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-      "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
-      "published": "Wed, 17 Jun 2026 18:06:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Miliardy euro dla polskich rolników. Nowy unijny budżet przyniesie wyższe wypłaty",
       "link": "https://www.bankier.pl/wiadomosc/Miliardy-euro-dla-polskich-rolnikow-Nowy-unijny-budzet-przyniesie-wyzsze-wyplaty-9153098.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/2/3169731173ee73-948-568-0-111-3700-2219.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polscy rolnicy dostaną co najmniej 33,6 mld euro z nowego budżetu UE na lata 2028-2034, co oznacza wzrost w stosunku do obecnej wspólnej polityki rolnej dla Polski - powiedział",
       "published": "Wed, 17 Jun 2026 18:01:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "JetBlue to reduce Newark, LaGuardia footprint as it forges ahead in Fort Lauderdale",
-      "link": "https://www.cnbc.com/2026/06/17/jetblue-to-reduce-newark-laguardia-footprint-as-it-expands-in-florida.html",
-      "summary": "JetBlue is planning to cut some employee bases at Newark Liberty International Airport in New Jersey and tech bases at New York's LaGuardia Airport.",
-      "published": "Wed, 17 Jun 2026 18:00:36 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Inside the push to weaken Washington’s toughest financial watchdog",
-      "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
-      "summary": "The SEC used to intimidate corporate wrongdoers. Now its own commissioners are gutting its leverage.",
-      "published": "Wed, 17 Jun 2026 17:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Dlaczego Bitcoin nie rośnie? Analityk wskazuje na rynek papierowy",
@@ -298,14 +346,6 @@
       "category": "pl"
     },
     {
-      "title": "Snap breaks from the pack with heavy $2,195 smart glasses. Wall Street is panning the move.",
-      "link": "https://www.marketwatch.com/story/snap-breaks-from-the-pack-with-heavy-2-195-smart-glasses-wall-street-is-panning-the-move-99e77ae6?mod=mw_rss_topstories",
-      "summary": "Snap’s stock was extending its declines, as the weight of its new ultraexpensive augmented-reality glasses is seen as a potential “nonstarter for mass appeal.”",
-      "published": "Wed, 17 Jun 2026 17:06:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Amerykańskie firmy odbudowują zapasy. To dobry sygnał dla PKB",
       "link": "https://businessinsider.com.pl/biznes/zapasy-rosna-zgodnie-z-prognozami-wsparcie-dla-gospodarki-usa/8g70x1l",
       "summary": "Zapasy amerykańskich firm znów rosną, a to może przełożyć się na lepsze wyniki gospodarki w drugim kwartale. Po okresie ich ograniczania pojawiają się sygnały stabilizacji i odbicia aktywności.",
@@ -319,14 +359,6 @@
       "summary": "The announcement comes months after UniQure became embroiled in a public debate with FDA leaders over the clinical trial data supporting its application.",
       "published": "Wed, 17 Jun 2026 17:03:02 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Scared to spend your retirement money? Here’s one way to get over the fear of running out.",
-      "link": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
-      "summary": "This fear is probably going to cause you some regrets.",
-      "published": "Wed, 17 Jun 2026 16:57:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -354,28 +386,12 @@
       "category": "pl"
     },
     {
-      "title": "Historic NBA Finals ratings and Fox’s $22 billion Roku deal show live sports are key to winning the streaming wars",
-      "link": "https://www.marketwatch.com/story/record-world-cup-nba-finals-ratings-show-live-sports-are-tvs-most-valuable-asset-82c2a970?mod=mw_rss_topstories",
-      "summary": "“In this streaming-first world, live, shared moments are a rare thing. Sports is where that still exists.”",
-      "published": "Wed, 17 Jun 2026 16:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Trzęsienie ziemi w BBC. Legendarna stacja zwalnia setki osób",
       "link": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-BBC-Legendarna-stacja-zwalnia-setki-osob-9153003.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/d/a0c7df723ff4e5-945-560-19-139-3959-2375.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W ramach pierwszej fazy cięcia kosztów w brytyjskiej publicznej stacji BBC zwolnione będzie ok. 550 osób i nastąpi likwidacja niektórych programów nadawanych w radiu i telewiz",
       "published": "Wed, 17 Jun 2026 16:33:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Retail investors have been buying more SpaceX shares than all of the ‘Magnificent Seven’ combined",
-      "link": "https://www.marketwatch.com/story/retail-investors-have-been-buying-more-spacex-shares-than-all-of-the-magnificent-seven-combined-877f6667?mod=mw_rss_topstories",
-      "summary": "Retail investors net bought $369.8 million worth of SpaceX stock in the first three days of trading.",
-      "published": "Wed, 17 Jun 2026 16:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "To była gwiazda GPW! Akcje tej spółki wzrosły niegdyś o 9311%. Dziś szorują po dnie po spadku o 98%",
@@ -646,14 +662,6 @@
       "link": "https://comparic.pl/bitcoin-wyplaci-dywidende-bez-ryzyka-zmiennosci-btc-bedzie-o-wiele-drozszy/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/krypto-2026-06-17T094702.531-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Kiedy dyrektor inwestycyjny ds. globalnych instrumentów o stałym dochodzie w największym funduszu inwestycyjnym świata mówi o Bitcoinie, rynek słucha uważnie &#82",
       "published": "Wed, 17 Jun 2026 10:43:29 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fed pod nowym szefem: Warsh zlikwiduje dot-plot i zmieni cel inflacyjny? Rynki czekają na historyczną decyzję",
-      "link": "https://comparic.pl/fed-pod-nowym-szefem-warsh-zlikwiduje-dot-plot-i-zmieni-cel-inflacyjny-rynki-czekaja-na-historyczna-decyzje/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/AI-FED-Fed-Jevin-Warsh-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Nareszcie uwaga przesuwa nam się dość mocno z geopolityki na dane i decyzja banków centralnych. Oczywiście nadal mocno przysłoniętych innymi tematami (jak SpaceX czy wąt",
-      "published": "Wed, 17 Jun 2026 10:31:46 +0000",
       "source": "Comparic.pl",
       "category": "pl"
     },
