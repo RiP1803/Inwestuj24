@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T20:00:29.434013",
+  "generated_at": "2026-06-26T22:21:44.917260",
   "articles": [
     {
       "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
@@ -138,6 +138,110 @@
       "category": "us"
     },
     {
+      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
+      "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
+      "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
+      "published": "Fri, 26 Jun 2026 22:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading",
+      "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
+      "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
+      "published": "Fri, 26 Jun 2026 21:50:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
+      "link": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
+      "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
+      "published": "Fri, 26 Jun 2026 21:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
+      "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
+      "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
+      "published": "Fri, 26 Jun 2026 21:07:22 GMT",
+      "source": "CNBC",
+      "category": "eu"
+    },
+    {
+      "title": "USA uderzyły w Iran. \"Naruszenie zawieszenia broni\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/usa-uderzyly-w-cele-w-iranie/wnccw12",
+      "summary": "Stany Zjednoczone poinformowały o przeprowadzeniu nowych uderzeń wymierzonych w Iran. To odpowiedź na atak w cieśninie Ormuz, do jakiego doszło w czwartek.",
+      "published": "Fri, 26 Jun 2026 21:06:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
+      "link": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
+      "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
+      "published": "Fri, 26 Jun 2026 21:06:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
+      "link": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
+      "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
+      "published": "Fri, 26 Jun 2026 20:42:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
+      "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
+      "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
+      "published": "Fri, 26 Jun 2026 20:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
+      "link": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
+      "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
+      "published": "Fri, 26 Jun 2026 20:27:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rekordowe upały w Europie. To zagrożenie dla 12 mln nieruchomości we Francji",
+      "link": "https://businessinsider.com.pl/nieruchomosci/rekordowe-upaly-w-europie-temperatura-zagraza-domom-w-europejskim-kraju/4c2v1f0",
+      "summary": "W Europie padają rekordy gorąca. Tymczasem ponad połowie domów jednorodzinnych we Francji zagrażają rosnące temperatury. Zjawisko znane jako RGA generuje roczne koszty rzędu miliarda euro z tytułu odszkodowań.",
+      "published": "Fri, 26 Jun 2026 20:26:06 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Healthcare stocks have become a haven for investors ditching tech",
+      "link": "https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories",
+      "summary": "Shares of AbbVie, Eli Lilly and Johnson & Johnson were on track to hit all-time highs Friday, in the latest signal that investor appetite for the biopharmaceutical sector is back.",
+      "published": "Fri, 26 Jun 2026 20:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The housing bill’s back on track to becoming law. Here’s what it does for affordability.",
+      "link": "https://www.marketwatch.com/story/the-housing-bills-back-on-track-to-becoming-law-heres-what-it-does-for-affordability-14f4c7ba?mod=mw_rss_topstories",
+      "summary": "A bipartisan housing package appears once again close to becoming U.S. law, albeit with a delay after President Donald Trump canceled a signing ceremony for the legislation on Wednesday.",
+      "published": "Fri, 26 Jun 2026 20:14:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?",
+      "link": "https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories",
+      "summary": "“I raised my children there as a single mother, and it was the last home my son lived in before he passed away unexpectedly.”",
+      "published": "Fri, 26 Jun 2026 20:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Liban, Izrael i USA podpisali porozumienie. Rubio ogłasza sukces, ale ostrzega",
       "link": "https://www.bankier.pl/wiadomosc/Liban-Izrael-i-USA-podpisali-porozumienie-Rubio-oglasza-sukces-ale-ostrzega-9159063.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/9/36a79c3fdf29ae-948-568-0-0-4128-2476.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przedstawiciele Libanu, Izraela i USA podpisali w piątek w Waszyngtonie trójstronne porozumienie ramowe, które wyznacza drogę do przyszłego porozumienia pokojowego.</p>",
@@ -146,44 +250,12 @@
       "category": "pl"
     },
     {
-      "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million star",
-      "link": "https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories",
-      "summary": "As Cape Verde faces off against Saudi Arabia tonight, here’s a look at what could be next for the breakout World Cup star.",
-      "published": "Fri, 26 Jun 2026 19:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Can Qualcomm actually compete with Nvidia? Inside its bold data-center gamble.",
-      "link": "https://www.marketwatch.com/story/can-qualcomm-actually-compete-with-nvidia-inside-its-bold-data-center-gamble-38ac48b3?mod=mw_rss_topstories",
-      "summary": "Qualcomm is chasing a massive $40 billion transformation. Meta is already buying in.",
-      "published": "Fri, 26 Jun 2026 19:46:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Women started asking for raises decades ago — so why is the gender pay gap even wider?",
-      "link": "https://www.marketwatch.com/story/the-ambition-penalty-why-speaking-up-and-asking-for-more-at-work-is-still-weaponized-against-women-ad03dd8e?mod=mw_rss_topstories",
-      "summary": "New data show women negotiate just as much as men, but corporate systems keep pushing them down",
-      "published": "Fri, 26 Jun 2026 19:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Prezes ARP: Polska stanie się łącznikiem pomiędzy Europą Zachodnią a Ukrainą",
       "link": "https://www.bankier.pl/wiadomosc/Prezes-ARP-Polska-stanie-sie-lacznikiem-pomiedzy-Europa-Zachodnia-a-Ukraina-9159051.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/f/4f7ee8605aef5a-948-567-5-70-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ukraiński biznes potrzebuje miejsc bezpiecznych oraz stwarzających warunki do rozwoju i uczestniczenia w jednolitym europejskim rynku - ocenił w piątek w rozmowie z PAP prezes ARP",
       "published": "Fri, 26 Jun 2026 19:35:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
-      "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
-      "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and Samantha Walton are residents of Chicago.",
-      "published": "Fri, 26 Jun 2026 19:19:29 GMT",
-      "source": "CNBC",
-      "category": "eu"
     },
     {
       "title": "Czy piloci samolotu pasażerskiego są bogaci? Na takie zarobki mogą liczyć",
@@ -202,28 +274,12 @@
       "category": "pl"
     },
     {
-      "title": "A relative offered me a $25,000 loan, but wants a lien on my house. Are they taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-      "summary": "“He also wants me to downsize and move.”",
-      "published": "Fri, 26 Jun 2026 18:52:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Paraliż Jaguara i miliardowe straty. Śledczy wpadli na trop rosyjskich służb",
       "link": "https://www.bankier.pl/wiadomosc/Paraliz-Jaguara-i-miliardowe-straty-Sledczy-wpadli-na-trop-rosyjskich-sluzb-9159025.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/f/b920c48743594c-948-567-0-27-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Brytyjscy śledczy ustalili, że hakerzy potencjalnie związani z rosyjskimi służbami stały za ubiegłorocznym cyberatakiem na zakłady Jaguar Land Rover, który spowodował straty dla ",
       "published": "Fri, 26 Jun 2026 18:45:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Healthcare stocks have become a haven for investors ditching tech",
-      "link": "https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories",
-      "summary": "Shares of AbbVie, Eli Lilly and Johnson & Johnson were on track to hit all-time highs Friday, in the latest signal that investor appetite for the biopharmaceutical sector is back.",
-      "published": "Fri, 26 Jun 2026 18:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Wielka wojna o gigantów technologicznych. Trump znów grozi 100% cłami",
@@ -258,52 +314,12 @@
       "category": "pl"
     },
     {
-      "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
-      "link": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-      "summary": "Germany may gradually raise its retirement age to 70 by 2092 — but such a move would fix only part of Social Security’s funding gap.",
-      "published": "Fri, 26 Jun 2026 18:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Annuities are coming to more 401(k) plans. Should workers embrace them?",
-      "link": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
-      "summary": "The Trump administration wants more annuities in your 401(k). Here is why it might be a mixed bag.",
-      "published": "Fri, 26 Jun 2026 18:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Oil prices may have fallen ‘too far, too fast’ as Trump confirms Iran violated the cease-fire deal",
-      "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-      "summary": "Oil futures were on track to tally a third-straight weekly loss on Friday — but after President Trump confirmed Iran violated its cease-fire deal with the U.S. by attacking a ship in the Strait of Hormuz, some analysts believe prices have fallen “too far, too fast.”",
-      "published": "Fri, 26 Jun 2026 18:10:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nowe bazy i poligony na pograniczu z Ukrainą. Ale Białoruś koncentracji wojsk nie prowadzi",
       "link": "https://www.bankier.pl/wiadomosc/Nowe-bazy-i-poligony-na-pograniczu-z-Ukraina-Ale-Bialorus-koncentracji-wojsk-nie-prowadzi-9158992.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/0/f3c28b13b80887-948-568-0-101-1500-899.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pomimo rozbudowy infrastruktury wojskowej w pobliżu granicy z Ukrainą, białoruska armia nie prowadzi koncentracji sił w rejonach przygranicznych – poinformował w piątek portal U",
       "published": "Fri, 26 Jun 2026 18:05:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
-      "link": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
-      "summary": "“People should be alarmed. This is a health crisis. It’s also an economic crisis for families and government,”",
-      "published": "Fri, 26 Jun 2026 17:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "AI’s most explosive hardware trades are hitting a wall. Why optical and memory stocks are falling.",
-      "link": "https://www.marketwatch.com/story/ais-most-explosive-hardware-trades-are-hitting-a-wall-why-optical-and-memory-stocks-are-falling-d4e9eeaa?mod=mw_rss_topstories",
-      "summary": "AI spending has been a key engine for the market, and some investors now worry that it could stall out, one expert says.",
-      "published": "Fri, 26 Jun 2026 17:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Samolot uderzył w najwyższy wieżowiec w Pekinie. Kazali ludziom kasować nagrania",
@@ -566,22 +582,6 @@
       "link": "https://businessinsider.com.pl/biznes/zamiast-domu-postawili-sklep-biedronka-odpowiada/p8sgv6v",
       "summary": "Biedronka przekonuje, że jest jedynie najemcą budynku przy ul. Sportowej w Darłowie, a nie jego właścicielem czy budowniczym. Sklep powstał tam w szeregowcu.",
       "published": "Fri, 26 Jun 2026 12:59:16 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ile kosztuje obiad czy taksówka w Tokio? Dowiedz się, jaki budżet musisz mieć ze sobą",
-      "link": "https://businessinsider.com.pl/lifestyle/podroze/ile-kosztuje-obiad-czy-taksowka-w-tokio-taki-budzet-musisz-miec-ze-soba/6nbwhrz",
-      "summary": "Japonia coraz częściej pojawia się na liście podróżniczych marzeń Polaków. Równocześnie ten kierunek podróży uznawany jest za zbyt odległy i bardzo kosztowny. Zanim ktokolwiek wybierze się do Kraju Kwitnącej Wiśni, powinien sprawdzić, ile kosztują w Tokio podstawowe produkty.",
-      "published": "Fri, 26 Jun 2026 12:57:53 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "\"Zbłąkane OC\" plagą dla polskich kierowców. Coraz więcej skarg",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/ubezpieczenia/kierowcy-dostaja-wezwania-do-zaplaty-eksperci-ostrzegaja-to-zblakane-oc/9h7fjeb",
-      "summary": "Do Rzecznika Finansowego wpływa coraz więcej skarg związanych z obowiązkową polisą OC na samochód. Chodzi m.in. o bezpodstawne wezwania do zapłaty. Jak podaje Instytut Badań Rynku Motoryzacyjnego, z danych za 2025 r. wynika, że liczba takich wniosków wzrosła o 41 proc. i przekroczyła już 4 tys. spraw.",
-      "published": "Fri, 26 Jun 2026 12:54:26 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
