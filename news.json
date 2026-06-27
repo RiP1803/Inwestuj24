@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T11:03:09.407420",
+  "generated_at": "2026-06-27T14:01:21.099082",
   "articles": [
     {
       "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
@@ -98,12 +98,124 @@
       "category": "us"
     },
     {
+      "title": "Masz pieniądze na koncie? Tracisz więcej, niż myślisz",
+      "link": "https://www.money.pl/pieniadze/masz-pieniadze-na-koncie-tracisz-wiecej-niz-myslisz-7301354780406849v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wphcdn.cloud/d51fef3b-cf73-418c-ab67-0d447e512ce7.png\" width=\"308\" /> Polacy trzymają na nieoprocentowanych kontach astronomiczną kwotę — i z każdym rokiem realnie tracą. — Już jest bilion złotych leżący na nieoprocentowanych kontach w Polsce — alarmuje Katarzyna Iwuć, ekspertka od finansów osobistych, w programie \"Biznes Klasa\".",
+      "published": "Sat, 27 Jun 2026 13:35:25 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘She is retired’: Do I dip into my 401(k) to pay my mother’s $30,000 credit-card debt?",
+      "link": "https://www.marketwatch.com/story/she-is-retired-do-i-dip-into-my-401-k-to-pay-my-mothers-30-000-credit-card-debt-dc97569b?mod=mw_rss_topstories",
+      "summary": "“I want her to live on her Social Security instead of using it to pay off her credit-card debt.”",
+      "published": "Sat, 27 Jun 2026 13:19:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Sytuacja najlepsza od czasów Piasta Kołodzieja, czyli co w połowie roku wiemy o kondycji polskiej gospodarki [OPINIA]",
+      "link": "https://businessinsider.com.pl/gospodarka/wzrost-gospodarczy-w-polsce-bije-rekordy-nowe-zamowienia-daja-impuls/d1w5xzp",
+      "summary": "Jest dobrze, będzie jeszcze lepiej — tak opisują polską gospodarkę dane opublikowane w czerwcu. Solidny, 3,5-proc. wzrost produktu krajowego brutto był pierwszym widokiem w lusterku wstecznym polskiej gospodarki w czerwcu 2026 r. Wystąpił mimo srogiej zimy w styczniu i lutym oraz słabszego od oczekiwań wyniku inwestycji.",
+      "published": "Sat, 27 Jun 2026 13:11:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "I’m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?",
+      "link": "https://www.marketwatch.com/story/take-the-money-while-you-can-im-a-cpa-and-tell-my-clients-to-take-their-social-security-early-am-i-wrong-a50e55e8?mod=mw_rss_topstories",
+      "summary": "“Only 8% to 10% of people wait until age 70 to claim.”",
+      "published": "Sat, 27 Jun 2026 13:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "AI turbocharged the stock market. Now it’s firing up the economy.",
+      "link": "https://www.marketwatch.com/story/ai-turbocharged-the-stock-market-now-its-firing-up-the-economy-193d2eb1?mod=mw_rss_topstories",
+      "summary": "A modern-day gold rush is giving a big boost to U.S. GDP.",
+      "published": "Sat, 27 Jun 2026 13:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Going back to the office may actually be better for you than working from home",
+      "link": "https://www.marketwatch.com/story/going-back-to-the-office-may-actually-be-better-for-you-than-working-from-home-18126286?mod=mw_rss_topstories",
+      "summary": "Returning to the office — even just a few days a week — might be what fully remote workers actually need.",
+      "published": "Sat, 27 Jun 2026 13:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Prezes Ripple uderza w Michaela Saylora. „Zaszkodził całemu rynkowi kryptowalut”",
+      "link": "https://comparic.pl/prezes-ripple-uderza-w-michaela-saylora-zaszkodzil-calemu-rynkowi-kryptowalut/",
+      "summary": "<img alt=\"Brad Garlinghouse, Michael Saylor\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-Bitcoin-BTC-Michael-Saylor-Brad-Garlinghouse-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Prezes Ripple Brad Garlinghouse otwarcie skrytykował Michaela Saylora i sposób, w jaki Strategy finansuje kole",
+      "published": "Sat, 27 Jun 2026 12:42:33 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bruksela reaguje po groźbach Donalda Trumpa. Chodzi o 100-proc. cła",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-grozi-europie-100-proc-clami-bruksela-reaguje/qcd9wmc",
+      "summary": "Komisja Europejska zareagowała na zapowiedzi prezydenta Stanów Zjednoczonych dotyczące 100-proc. ceł na państwa planujące wprowadzić podatek cyfrowy. Bruksela podkreśliła, że Unia Europejska oraz jej kraje członkowskie zachowują pełną swobodę w kształtowaniu zasad funkcjonowania gospodarki na własnym terytorium.",
+      "published": "Sat, 27 Jun 2026 12:38:11 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Big Tech is obsessed with smart glasses. Now it has to convince people to wear them.",
+      "link": "https://www.marketwatch.com/story/big-tech-is-obsessed-with-smart-glasses-now-it-has-to-convince-people-to-wear-them-0d5ebd43?mod=mw_rss_topstories",
+      "summary": "Smart glasses could become the definitive hardware design of the AI era — if consumers buy in to the idea.",
+      "published": "Sat, 27 Jun 2026 12:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Koniec prawa pobytu w Danii. Cios Kopenhagi w uciekających przed ukraińskim wojskiem",
       "link": "https://www.bankier.pl/wiadomosc/Koniec-prawa-pobytu-w-Danii-Cios-Kopenhagi-w-uciekajacych-przed-ukrainskim-wojskiem-9157682.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/0/12ae0cb81d324c-948-568-7-0-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rząd Danii zapowiedział zaostrzenie przepisów wobec uchodźców wojennych z Ukrainy. Mężczyznom w wieku 23-60 lat, którzy nie są zwolnieni z odbycia służby w ukraińskim wojsku, nie",
       "published": "Sat, 27 Jun 2026 12:15:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "ING tnie prognozę dla srebra – 68 USD w III kwartale, ale kruszec wciąż pobije złoto",
+      "link": "https://comparic.pl/ing-tnie-prognoze-dla-srebra-68-usd-w-iii-kwartale-ale-kruszec-wciaz-pobije-zloto/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-silver-XAG-2-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />ING obniża prognozę dla ceny srebra na drugą połowę 2026 roku, wskazując na mocniejszego dolara i wysokie rentowności obligacji jako główne przeszkod",
+      "published": "Sat, 27 Jun 2026 12:04:07 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "How Kohl's lost its way — and is trying to become relevant again",
+      "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+      "summary": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
+      "published": "Sat, 27 Jun 2026 12:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
+      "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
+      "summary": "Hollywood is having its best summer since the pandemic putting the annual box office on pace to cross $10 billion for the first time in seven years.",
+      "published": "Sat, 27 Jun 2026 12:00:01 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘I’ll happily wait’: Does delaying Social Security make sense for high earners like me?",
+      "link": "https://www.marketwatch.com/story/ill-happily-wait-does-delaying-social-security-make-sense-for-high-earners-like-me-17dca69b?mod=mw_rss_topstories",
+      "summary": "“In many states, Social Security benefits are exempt from state income tax.”",
+      "published": "Sat, 27 Jun 2026 12:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SpaceX’s new $11 billion ‘saving grace’ comes with a big catch",
+      "link": "https://www.marketwatch.com/story/spacexs-new-11-billion-saving-grace-comes-with-a-big-catch-9270c6ae?mod=mw_rss_topstories",
+      "summary": "The company’s pivot toward offering hardware access to rivals could hamstring its own AI goals.",
+      "published": "Sat, 27 Jun 2026 12:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Chłodny prysznic dla Elona Muska, obawy o pęknięcie bańki AI i trudna do zduszenia inflacja",
@@ -128,6 +240,30 @@
       "published": "Sat, 27 Jun 2026 12:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Aplikacja, która zbiera w jednym miejscu twoje bony kaucyjne. Sprawdziłem, jak działa",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/cyfrowe-bony-kaucyjne-nowa-funkcja-w-popularnej-aplikacji/x5jb7d0",
+      "summary": "System kaucyjny, choć wciąż zbierający z niektórych stron krytykę, na dobre zagościł w polskiej rzeczywistości. Aby móc z niego korzystać jeszcze efektywniej i wygodniej, można posłużyć się pewną aplikacją. Jak działa i na co pozwala? Postanowiłem to sprawdzić.",
+      "published": "Sat, 27 Jun 2026 11:33:36 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "It’s a tale of two S&P 500s as rotation out of top tech stocks shifts into overdrive",
+      "link": "https://www.marketwatch.com/story/its-a-tale-of-two-s-p-500s-as-rotation-out-of-top-tech-stocks-shifts-into-overdrive-5254207f?mod=mw_rss_topstories",
+      "summary": "The equal-weighted version of the S&amp;P 500 outperformed its traditional capitalization-weighted sibling this week by the widest margin in six years.",
+      "published": "Sat, 27 Jun 2026 11:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Napięcie w cieśninie Ormuz. Pocisk trafił w tankowiec",
+      "link": "https://businessinsider.com.pl/wiadomosci/napiecie-w-ciesninie-ormuz-pocisk-trafil-w-tankowiec/p15hmyk",
+      "summary": "Brytyjska agencja monitorująca bezpieczeństwo żeglugi UKMTO przekazała w sobotę, że tankowiec znalazł się pod ostrzałem niezidentyfikowanego pocisku. Według wstępnych ustaleń straty nie są poważne.",
+      "published": "Sat, 27 Jun 2026 11:20:46 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Zły kierunek w polskiej edukacji. 58 proc. badanych o problemach",
@@ -338,14 +474,6 @@
       "category": "other"
     },
     {
-      "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
-      "link": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
-      "summary": "SNAP food restrictions are spreading to more states, pressuring major food and beverage as consumers shift spending away from soda, candy and processed foods.",
-      "published": "Sat, 20 Jun 2026 12:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "'Reward for failure': Investor support for Target Chair Brian Cornell falls to lowest level ever",
       "link": "https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html",
       "summary": "Target Chair Brian Cornell built the retailer into a $100 billion-plus giant, but recent struggles and underperformance have fueled investor calls for change.",
@@ -358,14 +486,6 @@
       "link": "https://www.cnbc.com/2026/06/22/lucid-layoffs-evs.html",
       "summary": "Lucid Group is cutting its U.S. workforce by 18% as part of a cost-savings plan. It also said COO Marc Winterhoff is departing effective immediately.",
       "published": "Mon, 22 Jun 2026 15:37:11 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "UPS to invest $48 million in temperature-controlled facilities amid healthcare boom",
-      "link": "https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html",
-      "summary": "UPS is announcing a new investment in healthcare logistics as demand for the temperature-controlled category booms, CNBC has learned exclusively.",
-      "published": "Mon, 22 Jun 2026 13:08:22 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -394,30 +514,6 @@
       "category": "us"
     },
     {
-      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
-      "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
-      "summary": "Oracle’s stock missed out on the broader software rally, as the company is tied to OpenAI’s success through its cloud-infrastructure business.",
-      "published": "Fri, 26 Jun 2026 22:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "U.S. confirms retaliatory strike on Iran, pushing oil prices higher in after-hours trading",
-      "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-      "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
-      "published": "Fri, 26 Jun 2026 21:50:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails.",
-      "link": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
-      "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
-      "published": "Fri, 26 Jun 2026 21:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
       "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
       "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
@@ -434,52 +530,12 @@
       "category": "other"
     },
     {
-      "title": "Iran’s ship attack tests the shipping-insurance market just as war-risk premiums had plunged",
-      "link": "https://www.marketwatch.com/story/irans-ship-attack-tests-the-shipping-insurance-market-just-as-war-risk-premiums-had-plunged-8c4ef14d?mod=mw_rss_topstories",
-      "summary": "War-risk premiums narrowed considerably in recent days but could increase again.",
-      "published": "Fri, 26 Jun 2026 21:06:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "SpaceX’s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy",
-      "link": "https://www.marketwatch.com/story/spacexs-new-bonds-are-flashing-a-warning-sign-as-investors-pump-the-brakes-on-ai-frenzy-752ad44b?mod=mw_rss_topstories",
-      "summary": "Elon Musk’s company made a splash earlier this week with a $25 billion bond deal, less than two weeks after it raised tens of billions of dollars in cash.",
-      "published": "Fri, 26 Jun 2026 20:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Bond yields are falling as inflation pops. The Fed’s tough talk under Warsh is helping.",
-      "link": "https://www.marketwatch.com/story/bond-yields-are-falling-as-inflation-pops-the-feds-tough-talk-under-warsh-is-helping-7d538b3b?mod=mw_rss_topstories",
-      "summary": "Kevin Warsh, the new Federal Reserve chair, is helping coax Treasury yields lower by talking tough on inflation.",
-      "published": "Fri, 26 Jun 2026 20:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.",
-      "link": "https://www.marketwatch.com/story/feds-kashkari-projects-one-interest-rate-hike-this-year-heres-what-changed-his-mind-3a6b428c?mod=mw_rss_topstories",
-      "summary": "Doubts over the U.S.-Iran peace deal and the AI buildup mean a rate hike is possible, the Minneapolis Fed president says.",
-      "published": "Fri, 26 Jun 2026 20:27:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rekordowe upały w Europie. To zagrożenie dla 12 mln nieruchomości we Francji",
       "link": "https://businessinsider.com.pl/nieruchomosci/rekordowe-upaly-w-europie-temperatura-zagraza-domom-w-europejskim-kraju/4c2v1f0",
       "summary": "W Europie padają rekordy gorąca. Tymczasem ponad połowie domów jednorodzinnych we Francji zagrażają rosnące temperatury. Zjawisko znane jako RGA generuje roczne koszty rzędu miliarda euro z tytułu odszkodowań.",
       "published": "Fri, 26 Jun 2026 20:26:06 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Healthcare stocks have become a haven for investors ditching tech",
-      "link": "https://www.marketwatch.com/story/healthcare-stocks-have-become-a-haven-for-investors-ditching-tech-81c544d0?mod=mw_rss_topstories",
-      "summary": "Shares of AbbVie, Eli Lilly and Johnson & Johnson were on track to hit all-time highs Friday, in the latest signal that investor appetite for the biopharmaceutical sector is back.",
-      "published": "Fri, 26 Jun 2026 20:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Czy piloci samolotu pasażerskiego są bogaci? Na takie zarobki mogą liczyć",
@@ -514,30 +570,6 @@
       "category": "pl"
     },
     {
-      "title": "Donald Trump grozi 100-proc. cłami państwom wprowadzającym podatek cyfrowy",
-      "link": "https://businessinsider.com.pl/gospodarka/trump-zagrozil-nalozeniem-100-proc-cla-na-panstwa-wprowadzajace-podatki-cyfrowe/lljhbbm",
-      "summary": "Donald Trump zagroził w piątek, że nałoży 100-proc. cła na towary z państw, które wprowadzą podatek od usług cyfrowych.",
-      "published": "Fri, 26 Jun 2026 16:43:03 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Mocne spadki na giełdach. \"Widać oznaki przegrzania\"",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wyprzedaz-akcji-w-usa-i-azji-widac-oznaki-przegrzania/3k76ffm",
-      "summary": "Notowania amerykańskich spółek technologicznych spadają w piątek, zmierzając ku najdłuższej w tym roku serii strat. Wśród inwestorów rosną obawy, że wzrosty napędzane przez boom na sztuczną inteligencję były przesadzone.",
-      "published": "Fri, 26 Jun 2026 16:40:44 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Odbudowa Ukrainy z polskim udziałem. Wiceministra zapowiada kroki",
-      "link": "https://businessinsider.com.pl/firmy/wiceministra-zapowiada-kroki-polskich-gigantow-chodzi-o-ukraine/604xxze",
-      "summary": "Polskie spółki energetyczne rozpoczęły wspólne planowanie zaangażowania się w odbudowę ukraińskiej infrastruktury. Podpisany list intencyjny ma być wstępem do szerszej współpracy, której szczegóły mają zostać przedstawione w najbliższym czasie.",
-      "published": "Fri, 26 Jun 2026 16:39:10 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Złoto odbiło, ale to nie koniec – czwarty tydzień strat i groźba zjazdu do 3700 USD",
       "link": "https://comparic.pl/zloto-odbilo-ale-to-nie-koniec-czwarty-tydzien-strat-i-grozba-zjazdu-do-3700-usd/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-zloto-GOLD-XAU-10-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Cena złota wzrosła w piątek po tym, jak najnowsze dane o inflacji w USA osłabiły dolara i skłoniły rynki do lekkiego ograniczenia zakładów na podwyżki stóp procentow",
@@ -560,14 +592,6 @@
       "published": "Fri, 26 Jun 2026 16:26:01 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Donald Trump oskarża Iran o naruszenie porozumienia",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-oskarzyl-iran-o-naruszenie-porozumienia-w-ciesninie-ormuz/qvdp4xv",
-      "summary": "Prezydent USA Donald Trump oskarżył Iran o naruszenie porozumienia o zawieszeniu broni poprzez ostrzelanie statków towarowych przepływających przez cieśninę Ormuz.",
-      "published": "Fri, 26 Jun 2026 16:23:27 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "CPN wraca do niebytu. Nowa prognoza. Gdzieniegdzie już 7 zł za litr",
@@ -738,27 +762,11 @@
       "category": "us"
     },
     {
-      "title": "Kursy walut NBP. Złoty odrabia straty! Sprawdź, ile dziś zapłacisz za euro, dolara i franka 26 czerwca 2026",
-      "link": "https://comparic.pl/kursy-walut-nbp-zloty-odrabia-straty-sprawdz-ile-dzis-zaplacisz-za-euro-dolara-i-franka-26-czerwca-2026/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />W piątek, 26 czerwca 2026 r., średnie kursy walut Narodowego Banku Polskiego (NBP) kształtują się następująco: dolar amerykański (USD/PLN) kosztuje 3,7599",
-      "published": "Fri, 26 Jun 2026 10:48:14 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "PKO BP przedłuża promocyjną stawkę na koncie oszczędnościowym",
       "link": "https://www.bankier.pl/wiadomosc/PKO-BP-z-nowa-promocja-konta-oszczednosciowego-Podwyzszona-stawka-zachowana-9158533.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/8/af2adc13087eec-948-568-80-383-3900-2340.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />PKO Bank Polski przedłuża na kolejny okres obowiązywanie swojej promocji Konta Oszczędnościowego Plus. W przeciwieństwie do poprzednich odsłon akcji specjalnej bank nie zmieni",
       "published": "Fri, 26 Jun 2026 10:40:00 +0100",
       "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ekonomiści podnoszą prognozy inflacji w USA – obniżka stóp Fed dopiero w 2027 roku",
-      "link": "https://comparic.pl/ekonomisci-podnosza-prognozy-inflacji-w-usa-obnizka-stop-fed-dopiero-w-2027-roku/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-chart-loss-lost-strata-przegrana-spadki-down-bear-market-panika-rozpacz-strach-1-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Ekonomiści podnieśli tegoroczne prognozy kluczowej miary inflacji w Stanach Zjednoczonych i zrewidowali",
-      "published": "Fri, 26 Jun 2026 10:39:31 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -830,14 +838,6 @@
       "link": "https://www.money.pl/finanse/tego-jeszcze-nie-bylo-krol-karol-iii-pokazal-ile-zaplacil-podatkow-7300903411103840a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a19d5841-243e-48a1-bea0-1baaf0412366\" width=\"308\" /> Niemal 13 milionów funtów - to wysokość podatków, jakie zapłacił król Karol III w ostatnim roku finansowym. Po raz pierwszy w historii dwór ujawnił sumy wpłacone przez brytyjskiego monarchę.",
       "published": "Fri, 26 Jun 2026 06:20:34 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "NATO się zbroi. Będą kontrakty na  dziesiątki miliardów dolarów",
-      "link": "https://www.money.pl/gospodarka/nato-sie-zbroi-beda-kontrakty-na-dziesiatki-miliardow-dolarow-7300899715561568a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/502d4367-6b15-43d7-84ff-e9c49d73a00a\" width=\"308\" /> Sekretarz generalny NATO Mark Rutte powiedział w Atlantic Council, że podczas nadchodzącego szczytu NATO w Ankarze ogłoszone zostaną kontrakty zbrojeniowe warte dziesiątki miliardów dolarów. Ocenił, że NATO przeżywa nową rewolucję przemysłową, która przyniesie zyski dla o",
-      "published": "Fri, 26 Jun 2026 06:07:36 +0200",
       "source": "Money.pl",
       "category": "pl"
     }
