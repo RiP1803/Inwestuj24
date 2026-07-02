@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T19:42:37.251270",
+  "generated_at": "2026-07-02T22:13:40.672344",
   "articles": [
     {
       "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
@@ -210,12 +210,100 @@
       "category": "pl"
     },
     {
-      "title": "Rewolucja w Niemczech. Nowe zasady zasiłków objęły też Polaków",
+      "title": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
+      "link": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
+      "summary": "Millions of crypto investors around the world are sitting on losses as a painful bear market erases trillions of dollars in paper profits.",
+      "published": "Thu, 02 Jul 2026 22:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+      "link": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+      "summary": "President renews vow to remove Fed’s Cook",
+      "published": "Thu, 02 Jul 2026 22:11:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump’s real-estate licensing income in foreign countries nearly doubled — and now features Qatar and Romania",
+      "link": "https://www.marketwatch.com/story/trumps-real-estate-licensing-income-in-foreign-countries-nearly-doubled-and-now-features-qatar-and-romania-ebe3d73d?mod=mw_rss_topstories",
+      "summary": "One ethics watchdog has “grave concerns about the president doing business in foreign countries.”",
+      "published": "Thu, 02 Jul 2026 22:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+      "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
+      "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
+      "published": "Thu, 02 Jul 2026 21:57:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Wielkie zmiany. Rewolucja w zasiłkach w Niemczech",
       "link": "https://www.money.pl/finanse/rewolucja-w-niemczech-nowe-zasady-zasilkow-objely-tez-polakow-7303238043482464a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8fa5128d-84c6-4601-941c-cc4865c8e7f6\" width=\"308\" /> Od 1 lipca w Niemczech nie obowiązuje już zasiłek Bürgergeld, a w jego miejsce wchodzi Grundsicherung. Podstawowa stawka pozostaje bez zmian, ale rosną wymagania wobec beneficjentów, a sankcje mają być szybsze. Zmiany dotyczą wielu Polaków - podaje serwis polskiobserwator",
       "published": "Thu, 02 Jul 2026 21:35:28 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
+      "summary": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
+      "published": "Thu, 02 Jul 2026 21:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers",
+      "link": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
+      "summary": "The automaker shipped 480,126 EVs to consumers last quarter — much more than even bullish analysts projected.",
+      "published": "Thu, 02 Jul 2026 21:05:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "This Adobe analyst is going against the grain by telling investors to buy the stock",
+      "link": "https://www.marketwatch.com/story/this-adobe-analyst-is-going-against-the-grain-by-telling-investors-to-buy-the-stock-8dadc0a5?mod=mw_rss_topstories",
+      "summary": "Adobe’s stock is rallying after a contrarian upgrade at HSBC.",
+      "published": "Thu, 02 Jul 2026 21:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SpaceX panic sends AT&T stock to its worst week in years",
+      "link": "https://www.marketwatch.com/story/spacex-panic-sends-verizon-and-at-t-shares-toward-their-worst-week-in-years-ba5879a8?mod=mw_rss_topstories",
+      "summary": "Both AT&amp;T and Verizon shares are down this week as the threat of Starlink looms",
+      "published": "Thu, 02 Jul 2026 20:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘Minions’ movies have been runaway hits — but is ‘franchise fatigue’ finally setting in?",
+      "link": "https://www.marketwatch.com/story/minions-movies-have-been-runaway-hits-but-is-franchise-fatigue-finally-setting-in-ba4f41da?mod=mw_rss_topstories",
+      "summary": "The new “Minions & Monsters” film is the seventh in the series, and is expected to bring in less than previous releases.",
+      "published": "Thu, 02 Jul 2026 20:51:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Retiring abroad sounds like a dream — what could go wrong? Actually, a lot.",
+      "link": "https://www.marketwatch.com/story/retiring-abroad-sounds-amazing-what-could-possibly-go-wrong-2e3c8af5?mod=mw_rss_topstories",
+      "summary": "We hear about the older Americans who bask in apparent paradise far from home — but that’s not the whole story.",
+      "published": "Thu, 02 Jul 2026 20:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Minister finansów nie kryje rozczarowania decyzją prezydenta. \"Trudno zrozumieć jakąkolwiek logikę\"",
+      "link": "https://businessinsider.com.pl/prawo/andrzej-domanski-krytykuje-karola-nawrockiego-oczekuje/mwt4j9e",
+      "summary": "Minister finansów i gospodarki Andrzej Domański skomentował w czwartek w TVP Info decyzję prezydenta Karola Nawrockiego, który skierował do Trybunału Konstytucyjnego nowelizację ustawy o akcyzie. Szef resortu finansów ocenił, że decyzja prezydenta jest niezrozumiała i pozbawiona logiki.",
+      "published": "Thu, 02 Jul 2026 19:58:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ceny paliw i tak by wzrosły? Powrót wyższej stawki VAT to nie wszystko",
@@ -224,22 +312,6 @@
       "published": "Thu, 02 Jul 2026 19:44:42 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
-      "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
-      "summary": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price.",
-      "published": "Thu, 02 Jul 2026 19:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Trump’s real-estate licensing income in foreign countries nearly doubled — and now features Qatar and Romania",
-      "link": "https://www.marketwatch.com/story/trumps-real-estate-licensing-income-in-foreign-countries-nearly-doubled-and-now-features-qatar-and-romania-ebe3d73d?mod=mw_rss_topstories",
-      "summary": "One ethics watchdog has “grave concerns about the president doing business in foreign countries.”",
-      "published": "Thu, 02 Jul 2026 19:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "21 tys. transakcji i miliardy w grze. Finanse Trumpa budzą pytania",
@@ -258,30 +330,6 @@
       "category": "other"
     },
     {
-      "title": "This Adobe analyst is going against the grain by telling investors to buy the stock",
-      "link": "https://www.marketwatch.com/story/this-adobe-analyst-is-going-against-the-grain-by-telling-investors-to-buy-the-stock-8dadc0a5?mod=mw_rss_topstories",
-      "summary": "Adobe’s stock is rallying after a contrarian upgrade at HSBC.",
-      "published": "Thu, 02 Jul 2026 19:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Why June’s jobs and inflation data are bullish for bonds",
-      "link": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
-      "summary": "The new jobs report is worse than many people realize.",
-      "published": "Thu, 02 Jul 2026 19:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "My doctor friend objected to his hospital’s fundraising tactics. Did management go too far?",
-      "link": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-      "summary": "“This shocking program was exploiting doctors and the trust inherent in their relationships with patients.”",
-      "published": "Thu, 02 Jul 2026 19:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 02.07.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-02-07-2026-7303210110556512a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 02.07.2026. W czwartek po południu za jedno euro (EUR) trzeba zapłacić 4.2913 zł.",
@@ -296,14 +344,6 @@
       "published": "Thu, 02 Jul 2026 18:37:32 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "The dollar’s strength is quietly risking another yen ‘carry trade’ blowup",
-      "link": "https://www.marketwatch.com/story/the-dollars-strength-is-quietly-risking-another-yen-carry-trade-blowup-9d42e159?mod=mw_rss_topstories",
-      "summary": "There’s a lot riding in markets on the current yen-dollar balance.",
-      "published": "Thu, 02 Jul 2026 18:37:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 02.07.2026",
@@ -330,22 +370,6 @@
       "category": "pl"
     },
     {
-      "title": "Concerts are increasingly for superfans and the rich, analysts say",
-      "link": "https://www.marketwatch.com/story/concerts-are-increasingly-for-superfans-and-the-rich-analysts-say-867b0284?mod=mw_rss_topstories",
-      "summary": "Some arenas are devoting nearly a third of their space to premium seats and services.",
-      "published": "Thu, 02 Jul 2026 18:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Oil prices are now back to prewar levels, but the market is not. Here’s what could happen next.",
-      "link": "https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7?mod=mw_rss_topstories",
-      "summary": "Oil prices have finally fallen back to pre-Iran war levels — but the crude market is far from seeing a normalization of shipping, oil supplies and demand that such a big retreat implies.",
-      "published": "Thu, 02 Jul 2026 18:17:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Budżet UE na lata 2028-2034 pod presją. Rekordowa kwota i spór o oszczędności",
       "link": "https://businessinsider.com.pl/gospodarka/budzet-ue-2028-2034-pod-lupa-piotr-serafin-apeluje-o-rozwage-przy-cieciach/pv26cry",
       "summary": "Komisarz do spraw budżetu Piotr Serafin zaapelował w czwartek o ostrożność wobec pomysłów zmniejszenia unijnych finansów na okres 2028-2034. Jego zdaniem ograniczanie wspólnych wydatków może skończyć się przeniesieniem obciążeń na państwa członkowskie, a niższa pula pieniędzy wcale nie musi oznaczać budżetu lepiej dopasowanego do współczesnych wyzwań.",
@@ -360,22 +384,6 @@
       "published": "Thu, 02 Jul 2026 18:07:59 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Why Tesla’s stock is sinking toward its worst day in a year despite blowout delivery numbers",
-      "link": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
-      "summary": "The automaker shipped 480,126 EVs to consumers last quarter — much more than even bullish analysts projected.",
-      "published": "Thu, 02 Jul 2026 17:44:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-      "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-      "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
-      "published": "Thu, 02 Jul 2026 17:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Ta kryptowaluta przebije Bitcoina i Ethereum? Jest jeden warunek",
@@ -768,14 +776,6 @@
       "published": "Thu, 02 Jul 2026 09:43:26 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Zwrot w głośnej sprawie dewelopera. Sąd ogłosił upadłość spółki HREIT",
-      "link": "https://businessinsider.com.pl/biznes/zwrot-w-glosnej-sprawie-dewelopera-wierzyciele-hreit-czekaja-na-pieniadze/ld1n105",
-      "summary": "Sąd zdecydował o ogłoszeniu upadłości firmy HREIT — kluczowej spółki z grupy HRE Investments Michała Sapoty — informuje \"Puls Biznesu\". Nie ma szans na restrukturyzację, co nie jest dobrą wiadomością dla tysięcy wierzycieli firmy.",
-      "published": "Thu, 02 Jul 2026 09:42:52 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Bez precedensu. Komornicy ściągnęli więcej od emerytów i rencistów niż od pracujących",
