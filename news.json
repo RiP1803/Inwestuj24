@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-07-07T09:57:39.244290",
+  "generated_at": "2026-07-07T14:54:10.928009",
   "articles": [
-    {
-      "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
-      "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
-      "summary": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.",
-      "published": "Wed, 01 Jul 2026 22:33:53 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
     {
       "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
       "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
@@ -18,26 +10,130 @@
       "category": "us"
     },
     {
-      "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
-      "link": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html",
-      "summary": "Lamborghini is calling the new Urus SE Performante the \"fastest Super SUV in the world.\"",
-      "published": "Wed, 01 Jul 2026 10:13:43 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Rosja nie dostanie ani centa za Nord Stream. Sąd zablokował miliardowe odszkodowanie",
-      "link": "https://www.bankier.pl/wiadomosc/Rosja-nie-dostanie-ani-centa-za-Nord-Stream-Sad-zablokowal-miliardowe-odszkodowanie-9164558.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/d/18410c29c7ca5c-948-568-0-2-1146-687.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ubezpieczyciele nie muszą wypłacać setek milionów euro spółce Nord Stream za zniszczenie gazociągu do Europy - uznał sąd w Londynie. Wymiar sprawiedliwości oddalił żądanie Rosjan,",
-      "published": "Tue, 7 Jul 2026 11:25:00 +0100",
+      "title": "Albo dostanie Grenlandię albo zabierze żołnierzy. Zaskakujące żądania Trumpa",
+      "link": "https://www.bankier.pl/wiadomosc/Albo-dostanie-Grenlandie-albo-zabierze-zolnierzy-Zaskakujace-zadania-Trumpa-9164789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/f/cb29cc303ea4e5-948-568-100-20-3900-2339.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump powiedział we wtorek podczas spotkania z prezydentem Turcji w Ankarze, że Grenlandia powinna być kontrolowana przez Stany Zjednoczone, a nie Danię. ",
+      "published": "Tue, 7 Jul 2026 15:57:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
     {
-      "title": "Kraków rusza na zakupy. Miasto odkupi mieszkania, by ratować setki rodzin",
-      "link": "https://www.bankier.pl/wiadomosc/Krakow-rusza-na-zakupy-Miasto-odkupi-mieszkania-by-ratowac-setki-rodzin-9164532.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/6a9bde15bb8873-948-568-140-100-3233-1940.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Miasto Kraków przeznaczy blisko 10 milionów złotych na zakup lokali mieszkalnych od prywatnych właścicieli. Inicjatywa ta ma na celu szybkie powiększenie zasobu mieszkań komu",
-      "published": "Tue, 7 Jul 2026 10:43:00 +0100",
+      "title": "250 mld zł w rządowej kasie. Bezpieczny 2026 rok i rosnąca presja na 2027",
+      "link": "https://www.bankier.pl/wiadomosc/250-mld-zl-w-rzadowej-kasie-Bezpieczny-2026-rok-i-rosnaca-presja-na-2027-9164780.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/b/d17e48934af5a1-948-568-0-209-3105-1862.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wysoka rezerwa płynnościowa ogranicza ryzyko związane z realizacją planu finansowania budżetu w 2026 r., ale nie eliminuje presji w dłuższym horyzoncie - prognozują ekonomiści ",
+      "published": "Tue, 7 Jul 2026 15:46:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nawet czterokrotne podwyżki u notariuszy. MS urealnia cenniki sprzed dwóch dekad",
+      "link": "https://www.bankier.pl/wiadomosc/Nawet-czterokrotne-podwyzki-u-notariuszy-MS-urealnia-cenniki-sprzed-dwoch-dekad-9164779.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/3/2d52d818d5f54d-945-560-0-60-1737-1042.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo Sprawiedliwości skierowało do opiniowania projekt rozporządzenia zwiększającego maksymalne stawki wynagrodzenia notariusza za dokonanie określonych czynności notari",
+      "published": "Tue, 7 Jul 2026 15:44:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rząd planuje minimalną rewizję KPO. Cel: Zminimalizowanie ryzyka utraty środków z KE",
+      "link": "https://www.bankier.pl/wiadomosc/Rzad-planuje-minimalna-rewizje-KPO-Cel-Zminimalizowanie-ryzyka-utraty-srodkow-z-KE-9164751.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/b/01bedc0ac6e85d-948-568-3-54-1185-711.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Planowana przez rząd minimalna rewizja KPO ma głównie na celu zminimalizowanie ryzyka otrzymania z Komisji Europejskiej niepełnej refundacji za ostatni wniosek o płatność - wynik",
+      "published": "Tue, 7 Jul 2026 15:18:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bezpłatne poprawki na bilecie. Nowe przepisy UE uderzą w linie lotnicze",
+      "link": "https://www.bankier.pl/wiadomosc/Bezplatne-poprawki-na-bilecie-Nowe-przepisy-UE-uderza-w-linie-lotnicze-9164739.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/d/e8a9568bfc8d60-929-557-50-2-929-557.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Parlament Europejski poparł we wtorek nowe przepisy wzmacniające prawa pasażerów linii lotniczych. Reforma, wynegocjowana po 13 latach rozmów z państwami członkowskimi, m.in. utrz",
+      "published": "Tue, 7 Jul 2026 15:03:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "„NATO z Ukrainą to sojusz przyszłości”. Zełenski punktuje braki w obronie Europy",
+      "link": "https://www.bankier.pl/wiadomosc/NATO-z-Ukraina-to-sojusz-przyszlosci-Zelenski-punktuje-braki-w-obronie-Europy-9164731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/8/2cbbb677cd891a-948-568-0-350-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski zaapelował we wtorek przed szczytem NATO w Ankarze do europejskich państw o pilne stworzenie własnych zdolności do produkcji systemów i poc",
+      "published": "Tue, 7 Jul 2026 14:58:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trzecie podejście Kielc do konsolidacji długu. W tle walka o 120 mln zł na inwestycje",
+      "link": "https://www.bankier.pl/wiadomosc/Trzecie-podejscie-Kielc-do-konsolidacji-dlugu-W-tle-walka-o-120-mln-zl-na-inwestycje-9164725.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/e/5f1d124db60440-948-568-0-264-4600-2759.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kielce ponownie chcą skonsolidować część zadłużenia. Operacja na 354,5 mln zł ma obniżyć roczne raty w latach 2027–2031 o ok. 50 mln zł i umożliwić miastu ubieganie się o 120 m",
+      "published": "Tue, 7 Jul 2026 14:52:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ukraińskie ataki paraliżują Rosję. Kierowcy masowo przechodzą na LPG",
+      "link": "https://www.bankier.pl/wiadomosc/Ukrainskie-ataki-na-rafinerie-paralizuja-Rosje-Kierowcy-masowo-przechodza-na-LPG-9164711.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/a/8236367552c7cc-948-568-0-119-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Mieszkańcy Rosji ustawiają się w kolejkach, żeby przerobić samochody na gaz LPG; ukraińskie ataki na rafinerie spowodowały w Rosji ogólnokrajowe niedobory paliwa i wzrost cen, ",
+      "published": "Tue, 7 Jul 2026 14:31:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "1500 zł to nowa suma nagród za konto w PKO BP. Sprawdź warunki nowej promocji",
+      "link": "https://www.bankier.pl/wiadomosc/Rekord-korzysci-w-PKO-BP-Suma-nagrod-siega-1500-zl-9164688.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/a/63d77f34e60f22-948-568-550-168-1312-787.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Początek lipca okazał się owocny pod kątem wysokości dostępnych nagród za założenie konta osobistego. Do czołówki wkroczył PKO Bank Polski, który w sumie oferuje korzyści o wa",
+      "published": "Tue, 7 Jul 2026 14:10:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "NBP kupował na przecenie. I ma już ponad 20 milionów uncji złota",
+      "link": "https://www.bankier.pl/wiadomosc/NBP-dokupil-zlota-w-czerwcu-2026-Mamy-juz-ponad-20-milionow-uncji-zlota-9164651.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/5/6b74873e5ee575-948-567-0-217-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Narodowy Bank Polski w czerwcu skorzystał ze spadku cen złota, aby zakumulować jeszcze więcej królewskiego metalu. NBP szybko realizuje postawiony w styczniu cel w postaci 700 t",
+      "published": "Tue, 7 Jul 2026 14:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Przełomowa umowa ws. Patriotów. Polska w elitarnym projekcie z USA",
+      "link": "https://www.bankier.pl/wiadomosc/Przelomowa-umowa-ws-Patriotow-Polska-w-elitarnym-projekcie-z-USA-9164672.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/0/6e4d7d4bf24212-948-568-0-211-1784-1070.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska podpisała porozumienie z USA, Niemcami, Holandią oraz Szwecją ws. utworzenia w Europie centrum serwisowania pocisków PAC-3 - przekazał we wtorek wicepremier, szef MON Wł",
+      "published": "Tue, 7 Jul 2026 13:59:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "100 milionów dolarów za głowę Donalda Trumpa. Radykalne wezwania na pogrzebie w Iranie",
+      "link": "https://www.bankier.pl/wiadomosc/100-milionow-dolarow-za-glowe-Donalda-Trumpa-Radykalne-wezwania-na-pogrzebie-w-Iranie-9164653.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/9/8bda83524a2af2-948-568-940-1140-2550-1530.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W irańskim mieście Kom, gdzie odbywają się aktualnie uroczystości pogrzebowe najwyższego przywódcy politycznego i duchowego, ajatollaha Alego Chameneiego, wywieszono transpa",
+      "published": "Tue, 7 Jul 2026 13:33:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tusk odpowiada prezydentowi: Polska nie wyrywa się przed szereg z pomocą dla Ukrainy",
+      "link": "https://www.bankier.pl/wiadomosc/Tusk-odpowiada-prezydentowi-Polska-nie-wyrywa-sie-przed-szereg-z-pomoca-dla-Ukrainy-9164643.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/8/64f99f4a49c21f-948-568-76-46-1971-1182.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Premier Donald Tusk zapewnił we wtorek, że rząd ustalał dotychczasowe formy pomocy dla Ukrainy z szefostwem NATO, a Polska nie wyrywa się do przodu z tymi wydatkami przed inne ",
+      "published": "Tue, 7 Jul 2026 13:21:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Jak wakacje, to na giełdzie. Wejdź ze mną do gry",
+      "link": "https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-Jak-wakacje-to-na-gieldzie-Wejdz-ze-mna-do-gry-9164629.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/5/af6bf4309542f6-948-568-0-0-948-568.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rusza inwestycyjna gra Wakacje na Giełdzie. Przed rokiem szło mi jak po grudzie, ale teraz spróbuję innej strategii. Jest o co walczyć.</p>",
+      "published": "Tue, 7 Jul 2026 13:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "4500 zł za konto firmowe i dodatkowe 300 zł. Taką ofertę ma Erste",
+      "link": "https://www.bankier.pl/wiadomosc/4500-zl-za-konto-firmowe-i-dodatkowe-300-zl-Taka-oferte-ma-Erste-9164455.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/1/e862115ff8fe93-948-568-0-320-4752-2851.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nowi klienci firmowi w Erste Bank Polska mogą otrzymać nawet 4500 zł premii za korzystanie z konta firmowego. Dodatkowo bank nagradza osoby polecające swoją ofertę elektroniczn",
+      "published": "Tue, 7 Jul 2026 12:50:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "„Nie trzeba codziennie patrzeć w notowania”. KISS to zasada, która się sprawdza",
+      "link": "https://www.bankier.pl/wiadomosc/Nie-trzeba-codziennie-patrzec-w-notowania-KISS-to-zasada-ktora-sie-sprawdza-9164601.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/9/f455172657abc7-948-568-0-39-966-579.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W wirtualnej rywalizacji w ramach konkursu Wakacje na Giełdzie bierze udział już ponad 1700 osób! Giełdowe zmagania to dla nas świetna okazja, by zachęcać Was do inwestowania – i ",
+      "published": "Tue, 7 Jul 2026 12:27:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -50,58 +146,10 @@
       "category": "pl"
     },
     {
-      "title": "Zarobili miliardy na rosyjskiej ropie. Greccy armatorzy pod lupą",
-      "link": "https://www.bankier.pl/wiadomosc/Zarobili-miliardy-na-rosyjskiej-ropie-Greccy-armatorzy-pod-lupa-9164516.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/2/35ad37260161f9-948-568-7-82-992-595.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Greccy armatorzy zarobili co najmniej 3,8 miliarda dolarów na transporcie rosyjskiej ropy od połowy 2023 roku, utrzymując kluczową pozycję w logistyce Moskwy – wynika z analizy „F",
-      "published": "Tue, 7 Jul 2026 10:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Prezydent Nawrocki nie spotka się z Zełenskim w Ankarze. \"Inicjatywa powinna być po stronie ukraińskiej\"",
-      "link": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-nie-spotka-sie-z-Zelenskim-w-Ankarze-Inicjatywa-powinna-byc-po-stronie-ukrainskiej-9164514.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/5/990a903d61bee0-948-568-6-0-1194-716.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podczas szczytu NATO w Ankarze nie jest planowane spotkanie prezydenta Karola Nawrockiego z prezydentem Ukrainy Wołodymyrem Zełenskim - poinformował szef prezydenckiego Biura Poli",
-      "published": "Tue, 7 Jul 2026 10:11:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Funt najdroższy od ponad roku. Kurs euro nadal w „boczniaku”",
-      "link": "https://www.bankier.pl/wiadomosc/Funt-najdrozszy-od-ponad-roku-Kurs-euro-nadal-w-boczniaku-9164512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/1/41f4eb3088ceac-948-568-0-44-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Notowania funta brytyjskiego osiągnęły najwyższy poziom od zeszłorocznego czerwca, podczas gdy kurs euro zdołał utrzymać się w ramach wiosenno-letniej konsolidacji.</p>",
-      "published": "Tue, 7 Jul 2026 10:05:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Awaria w Alior Banku. Klienci skarżą się na problemy z aplikacją i bankowością internetową",
-      "link": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-Klienci-skarza-sie-na-problemy-z-aplikacja-i-bankowoscia-internetowa-9164505.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/e/4f9fdd79093c07-948-568-162-406-2218-1331.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Od rana klienci Alior Banku mają problem z dostępem do bankowości elektronicznej. Awaria uniemożliwia zalogowanie się do aplikacji mobilnej i serwisu internetowego, a w efekc",
-      "published": "Tue, 7 Jul 2026 09:43:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ponad 1,1 miliona cudzoziemców pracuje w Polsce. Ukraińcy absolutnymi liderami, ale goni ich nowa fala",
-      "link": "https://www.bankier.pl/wiadomosc/Ponad-1-1-miliona-cudzoziemcow-pracuje-w-Polsce-Ukraincy-absolutnymi-liderami-ale-goni-ich-nowa-fala-9164502.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/7/791635da85e3fd-948-568-0-0-1900-1139.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Liczba cudzoziemców wykonujących w Polsce pracę wyniosła w końcu stycznia 1.119,0 tys. osób, o 7,1 proc. więcej rdr - podał GUS. W porównaniu do poprzedniego miesiąca ich liczba ",
-      "published": "Tue, 7 Jul 2026 09:42:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Sycylia odcięta od świata. Erupcja Etny zablokowała loty, ucierpią też turyści z Polski",
       "link": "https://www.bankier.pl/wiadomosc/Sycylia-odcieta-od-swiata-Erupcja-Etny-zablokowala-loty-ucierpia-tez-turysci-z-Polski-9164495.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/c/98ab8f8faf6d3f-948-568-0-0-4455-2673.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Z powodu aktywności wulkanu Etna na Sycylii do godziny 14 we wtorek wstrzymane zostały przyloty i odloty na międzynarodowym lotnisku w Katanii - podał zarząd tego portu lotniczeg",
       "published": "Tue, 7 Jul 2026 09:31:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zyski Samsunga wzrosły 19 razy. Ale to za mało na apetyt inwestorów",
-      "link": "https://www.bankier.pl/wiadomosc/Zyski-Samsunga-wzrosly-19-razy-Ale-to-za-malo-na-apetyt-inwestorow-9164493.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/2/bcbce7cea53b0a-920-552-57-0-920-552.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Samsung zanotował gigantyczny, 19-krotny wzrost zysków w II kwartale, jednak nawet to nie zaspokoiło wygórowanych apetytów inwestorów. Mimo rekordowych wyników napędzanych boomem ",
-      "published": "Tue, 7 Jul 2026 09:28:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -122,52 +170,276 @@
       "category": "pl"
     },
     {
-      "title": "AI pochłania miliardy. Microsoft zwolni 4800 osób, Xbox też oberwie",
-      "link": "https://www.bankier.pl/wiadomosc/Microsoft-tnie-etaty-i-stawia-na-AI-Zwolnienia-obejma-takze-Xbox-9164465.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/5/680c4f96c492ed-945-567-11-41-1488-893.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Microsoft ogłosił plany redukcji około 4800 miejsc pracy, co stanowi 2,1% globalnej siły roboczej firmy. Według dyrektor ds. zasobów ludzkich Amy Coleman, decyzja ta wynika ze z",
-      "published": "Tue, 7 Jul 2026 08:30:00 +0100",
-      "source": "Bankier.pl",
+      "title": "XRP broni poziomu 1,11 USD – czy wsparcie wytrzyma kolejny test?",
+      "link": "https://comparic.pl/xrp-broni-poziomu-111-usd-czy-wsparcie-wytrzyma-kolejny-test/",
+      "summary": "<img alt=\"XRP\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/01/freepik-Bitcoin-BTC-Ripple-XRP-Ethereum-ETH-NEO-Litecoin-LTC-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />XRP walczy o obronę wsparcia w rejonie 1,11 USD, jednak stłumiony wolumen nie pozwolił potwierdzić wybicia, a odrzucenie przy 1,",
+      "published": "Tue, 07 Jul 2026 16:32:47 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "„300 tysięcy dniówki” to nie wszystko. Neurochirurdzy operowali bez badań i na niedopuszczonym sprzęcie",
-      "link": "https://www.bankier.pl/wiadomosc/300-tysiecy-dniowki-to-nie-wszystko-Neurochirurdzy-operowali-bez-badan-i-na-niedopuszczonym-sprzecie-9164446.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/8/1206ec216e2681-948-568-0-168-1856-1113.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Spółka neurochirurgów „nieoficjalnie” opłacała pielęgniarki za pracę w sali operacyjnej. Aparat rentgenowski, którym wykonywano zabiegi, nie był dopuszczony do użytku w sali op",
-      "published": "Tue, 7 Jul 2026 07:25:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Bitcoin wyhamował po 6 dniach wzrostów. Jeden wskaźnik ostrzega, że rajd może się skończyć",
+      "link": "https://comparic.pl/bitcoin-wyhamowal-po-6-dniach-wzrostow-jeden-wskaznik-ostrzega-ze-rajd-moze-sie-skonczyc/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-bitcoin-btc-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Sześciodniowa passa wzrostów bitcoina dobiegła końca, a wraz z nią wraca pytanie o trwałość lipcowego odbicia. Kurs największej kryptowaluty cofnął się we wtorek w o",
+      "published": "Tue, 07 Jul 2026 15:43:56 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "Rada stóp już nie ruszy? A co nam pokaże lipcowa projekcja inflacyjna NBP?",
-      "link": "https://www.bankier.pl/wiadomosc/Rada-stop-juz-nie-ruszy-A-co-nam-pokaze-lipcowa-projekcja-inflacyjna-NBP-9164071.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/e/7dd8e490f5cbd4-948-568-330-0-2452-1471.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jeszcze miesiąc temu mogliśmy się zastanawiać, kiedy dojdzie do pierwszej od kilka lat podwyżki stóp procentowych w Polsce. Teraz możemy wrócić do spekulacji o następnych obniż",
-      "published": "Tue, 7 Jul 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Ethereum walczy o 1 800 USD. Po wybiciu celem może być nawet 2 245 USD",
+      "link": "https://comparic.pl/ethereum-walczy-o-1-800-usd-po-wybiciu-celem-moze-byc-nawet-2-245-usd/",
+      "summary": "<img alt=\"Ethereum\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/AI-Ethereum-ETH-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Ethereum kontynuuje odbicie po spadku do okolic 1 500 USD, jednak dalszy kierunek notowań zależy od zachowania kursu przy jednej z najważniejszych stref technicznych",
+      "published": "Tue, 07 Jul 2026 14:51:38 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "Ranking lokat miesięcznych. Dwie podwyżki i najwyższa stawka na rynku",
-      "link": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-na-miesiac-lipiec-2026-r-Zmiany-na-podium-zestawienia-9164124.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/6/0fac41fb9fe175-948-568-668-18-1831-1098.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Oferta na 7,00 proc. rocznie otwiera lipcowe zestawienie najlepszych lokat miesięcznych. W porównaniu do poprzedniego rankingu w tabeli pojawiły się dwie zmiany na plus – BOŚ ",
-      "published": "Tue, 7 Jul 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Rosjanie przerabiają swoje auta po atakach Ukrainy. \"Kolejka aż do września\"",
+      "link": "https://businessinsider.com.pl/motoryzacja/kryzys-paliwowy-w-rosji-rosjanie-szturmuja-warsztaty-instalacji-lpg/rf4pzkd",
+      "summary": "Rosjanie ustawiają się w kolejkach, by przystosować swoje samochody do zasilania LPG. \"W ciągu jednego dnia odebraliśmy 276 telefonów\" — mówi właściciel jednego z zakładów.",
+      "published": "Tue, 07 Jul 2026 14:34:55 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I make my own pizza’: What’s the best way you’ve found to save money?",
+      "link": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
+      "summary": "“Saving money doesn’t have to be about pizza — it could be coffee, cooking, cleaning, vacations, or anything else.”",
+      "published": "Tue, 07 Jul 2026 14:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Micron’s stock falls as investors wonder if the memory market is near the top",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
+      "summary": "“Most investor feedback continues to point to a skittish AI tape,” one analyst said.",
+      "published": "Tue, 07 Jul 2026 14:29:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "How parents can take advantage of the ‘best summer-camp tax break in years’",
+      "link": "https://www.marketwatch.com/story/how-parents-can-take-advantage-of-the-best-summer-camp-tax-break-in-years-cb7c2a1a?mod=mw_rss_topstories",
+      "summary": "For many kids, summer means camp. For many of their parents, that means financial juggling to pay for those camp experiences.",
+      "published": "Tue, 07 Jul 2026 14:27:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Who should handle your estate plan: Your lawyer or your financial adviser?",
+      "link": "https://www.marketwatch.com/story/who-should-handle-your-estate-plan-your-lawyer-or-your-financial-adviser-134189d7?mod=mw_rss_topstories",
+      "summary": "The more people who have eyeballs on your situation, the better — but at some point, you are going to need a legal specialist.",
+      "published": "Tue, 07 Jul 2026 14:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "We’re spending $7,000 to attend 7 weddings this year — and that’s after cutting corners",
+      "link": "https://www.marketwatch.com/story/were-spending-7-000-to-attend-7-weddings-this-year-and-thats-after-cutting-corners-8e467037?mod=mw_rss_topstories",
+      "summary": "Plus: How to decline a wedding invitation without feeling like a jerk",
+      "published": "Tue, 07 Jul 2026 14:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Zmalała wartość złota w skarbcach Narodowego Banku Polskiego. Oto powód",
+      "link": "https://businessinsider.com.pl/finanse/przecena-zlota-odbila-sie-na-rezerwach-nbp-oto-najnowsze-dane-banku-centralnego/0ct6kbl",
+      "summary": "W ostatnich latach wartość złota w rękach NBP systematycznie puchła i nasz bank centralny awansował do pierwszej dziesiątki pod względem zasobów tego szlachetnego kruszcu. Jednak według najnowszych danych wartość zmalała. Choć nie oznacza to, że NBP sprzedawał sztabki.",
+      "published": "Tue, 07 Jul 2026 14:17:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Your 5 biggest ‘Trump account’ questions, answered",
+      "link": "https://www.marketwatch.com/story/your-5-biggest-questions-about-trump-accounts-answered-421d9f6f?mod=mw_rss_topstories",
+      "summary": "Here’s who is eligible for $1,000 in free money — and where it can be invested.",
+      "published": "Tue, 07 Jul 2026 14:17:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SpaceX wins wild praise, with one analyst going so far as to predict a 400% stock surge",
+      "link": "https://www.marketwatch.com/story/spacex-wins-wild-praise-with-one-analyst-going-so-far-as-to-predict-a-400-stock-surge-cb0d1e23?mod=mw_rss_topstories",
+      "summary": "Wall Street is using colorful language as analysts cheer major upside potential for SpaceX’s stock.",
+      "published": "Tue, 07 Jul 2026 14:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rivian stock falls more than 10% as company sells 75 million shares to raise capital",
+      "link": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
+      "summary": "The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.",
+      "published": "Tue, 07 Jul 2026 13:54:34 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "FBI przejęło 600 dronów podczas mundialu. Rekordziści płacą 100 tys. dolarów",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/fbi-przejelo-600-dronow-podczas-mundialu-rekordzisci-placa-100-tys-dolarow/77cswxr",
+      "summary": "Amerykańskie służby federalne przeprowadziły zakrojoną na szeroką skalę operację przeciwko nielegalnym lotom dronów podczas trwających Mistrzostw Świata w Piłce Nożnej. Od początku turnieju Federalne Biuro Śledcze we współpracy z Departamentem Bezpieczeństwa Wewnętrznego przejęło już ponad sześćset dronów, które naruszyły specjalnie ustanowione strefy zakazu lotów wokół stadionów oraz stref kibicó",
+      "published": "Tue, 07 Jul 2026 13:53:01 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "SpaceX’s two lead underwriters have a $1 trillion chasm between their valuations as IPO quiet period ends",
+      "link": "https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories",
+      "summary": "The two lead underwriters on SpaceX’s initial public offering, Goldman Sachs and Morgan Stanley, have a valuation gap of more than $1 trillion as they both initiated coverage at buy.",
+      "published": "Tue, 07 Jul 2026 13:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Bitcoin schodzi na drugi plan. TeraWulf stawia na AI i podpisuje umowę za 19 mld USD",
+      "link": "https://comparic.pl/bitcoin-schodzi-na-drugi-plan-terawulf-stawia-na-ai-i-podpisuje-umowe-za-19-mld-usd/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-Bitcoin-BTC-mining-koparki-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />TeraWulf przyspiesza transformację z górnika Bitcoina w dostawcę infrastruktury dla sztucznej inteligencji. Podpisana z Anthropic 20-letnia umowa najmu ce",
+      "published": "Tue, 07 Jul 2026 13:44:27 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "Klasyka oszustw wraca w nowych szatach - paczki, podatki i mandaty",
-      "link": "https://www.bankier.pl/wiadomosc/Klasyka-oszustw-wraca-w-nowych-szatach-paczki-podatki-i-mandaty-9164026.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/0/a599447c260fec-948-568-495-302-2052-1231.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jeśli coś działa, to lepiej nie psuć – z takiego założenia wychodzą oszuści eksplorujący klasyczne formy wyłudzeń. Phishing „od kuriera”, „zwrot podatku”, wyłudzenie na nieza",
-      "published": "Tue, 7 Jul 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Kupili Bitcoina za 17 mld, teraz sprzedają, by ratować budżet. Problemy dopiero się zaczynają",
+      "link": "https://comparic.pl/kupili-bitcoina-za-17-mld-teraz-sprzedaja-by-ratowac-budzet-problemy-dopiero-sie-zaczynaja/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/saylor-schiff-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Firma Strategy znów sprzedaje Bitcoina, a każda kolejna transza wyprzedaży rozpala dyskusję o tym, czy słynna strategia akumulacji Michaela Saylora nie zaczęła pękać w szwach. Z",
+      "published": "Tue, 07 Jul 2026 13:41:45 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "Podatek od prezentów weselnych? Fiskus wyjaśnia, kiedy koperta jest bez podatku",
-      "link": "https://www.bankier.pl/wiadomosc/Podatek-od-prezentow-weselnych-Fiskus-wyjasnia-kiedy-koperta-jest-bez-podatku-9164024.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/b/8e9bf926512ea0-948-568-0-380-1707-1024.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ruszył sezon ślubny, a wraz z nim wraca pytanie o weselne koperty. W najnowszej interpretacji fiskus potwierdza, że gotówkowe prezenty od gości nie muszą oznaczać ani podatku, ",
-      "published": "Tue, 7 Jul 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
+      "title": "CNB podniósł stopy, a inflacja runęła do 1,5%. Czy czeski bank centralny właśnie popełnił kosztowny błąd?",
+      "link": "https://comparic.pl/cnb-podniosl-stopy-a-inflacja-runela-do-15-czy-czeski-bank-centralny-wlasnie-popelnil-kosztowny-blad/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-chart-loss-lost-strata-przegrana-spadki-down-bear-market-panika-rozpacz-strach-1-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Czeski bank centralny znalazł się w niewygodnej sytuacji – jeszcze trzy tygodnie temu podnosił stopy, t",
+      "published": "Tue, 07 Jul 2026 13:39:05 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "The trade of the year is entering a new phase, says Goldman Sachs. Here’s what it means for stocks.",
+      "link": "https://www.marketwatch.com/story/why-these-global-stocks-with-a-high-barrier-to-entry-are-winning-the-war-on-ai-disruption-43e88c2c?mod=mw_rss_topstories",
+      "summary": "Goldman Sachs says the HALO trade has worked well this year, but a tougher phase relying on earnings performance lies ahead.",
+      "published": "Tue, 07 Jul 2026 13:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Spokojny tydzień na forex ?",
+      "link": "https://comparic.pl/spokojny-tydzien-na-forex/",
+      "summary": "<img alt=\"Dariusz Dargo zaprasza na przegląd wykresów na żywo o 17:30\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2022/01/gwzzpthw7yk-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Redaktor Comparic.pl oraz trader z wieloletnim doświadczeniem, Dariusz Dargo, zaprasza na przegląd wybranych wykresów w o",
+      "published": "Tue, 07 Jul 2026 13:30:37 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czy S&P 500 czeka efekt domina i kolejna fala wyprzedaży?",
+      "link": "https://comparic.pl/czy-sp-500-czeka-efekt-domina-i-kolejna-fala-wyprzedazy-07-07-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bull-byk-hossa-wzrost-growth-stock-market-chart-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Amerykańska giełda szybko odrabia straty, a kurs S&#38;P 500 wraca powyżej 7500 punktów. Mimo to analityk rynków finansowych Mateusz Dą",
+      "published": "Tue, 07 Jul 2026 13:30:26 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ryszard Abramczyk nie żyje. Był współtwórcą rybnego imperium",
+      "link": "https://businessinsider.com.pl/biznes/ryszard-abramczyk-nie-zyje-wspolwlasciciel-firmy-mial-75-lat/jtd6h6l",
+      "summary": "W poniedziałek w wieku 75 lat zmarł Ryszard Abramczyk — współtwórca firmy Abramczyk i jej wieloletni prezes oraz współwłaściciel. Zmarłego pożegnali najbliżsi oraz współpracownicy.",
+      "published": "Tue, 07 Jul 2026 12:58:13 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Inflacja zaskakująco mocno spadła. Czesi popełnili błąd",
+      "link": "https://businessinsider.com.pl/finanse/czeski-bank-narodowy-pod-ostrzalem-decyzja-o-stopach-procentowych-budzi-watpliwosci/q6txfdk",
+      "summary": "Najnowszy odczyt inflacji konsumenckiej u naszych południowych sąsiadów i stabilizacja na Bliskim Wschodzie pokazują, że niedawna decyzja o podwyżce stóp procentowych prawdopodobnie okazała się niepotrzebna.",
+      "published": "Tue, 07 Jul 2026 12:39:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
+      "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+      "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+      "published": "Tue, 07 Jul 2026 12:39:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump chciał stworzyć rezerwę Bitcoina. Teraz projekt napotkał poważne przeszkody",
+      "link": "https://comparic.pl/trump-chcial-stworzyc-rezerwe-bitcoina-teraz-projekt-napotkal-powazne-przeszkody/",
+      "summary": "<img alt=\"Donald Trump\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Donald-Trump-USA-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Administracja Donalda Trumpa wciąż pracuje nad uruchomieniem Strategicznej Rezerwy Bitcoina, jednak projekt napotkał nowe przeszkody. Jak informuje Bloomberg, ",
+      "published": "Tue, 07 Jul 2026 12:38:56 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ukraina z mocniejszą kartą przetargową. \"Nowy\" Zełenski szykuje się do rozmów w NATO",
+      "link": "https://businessinsider.com.pl/wiadomosci/ukraina-uderza-w-rosje-i-poprawia-swoja-pozycje-zelenski-z-optymizmem-przed-szczytem/05xltq1",
+      "summary": "Na tegoroczny szczyt NATO w Turcji Wołodymyr Zełenski jedzie w wyraźnie lepszym nastroju niż jeszcze rok temu. Ukraiński prezydent ma za sobą miesiące, które przyniosły poprawę sytuacji militarnej i finansowej kraju, a także wzmocniły jego pozycję w rozmowach z zachodnimi partnerami — w tym z Donaldem Trumpem, z którym ma spotkać się podczas szczytu.",
+      "published": "Tue, 07 Jul 2026 12:34:09 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Marine Le Pen może walczyć o prezydenturę. Sąd skrócił zakaz",
+      "link": "https://businessinsider.com.pl/wiadomosci/marine-le-pen-moze-wystartowac-w-wyborach-sad-zdecydowal/elc29le",
+      "summary": "Liderka francuskiej skrajnej prawicy Marine Le Pen może ubiegać się o urząd prezydenta w przyszłym roku.",
+      "published": "Tue, 07 Jul 2026 12:26:18 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Piwny gigant w opałach. Strajk paraliżuje dostawy, pracownicy mówią \"dość\"",
+      "link": "https://businessinsider.com.pl/strajk-w-ab-inbev-piwo-nie-dojedzie-do-belgijskich-barow-i-restauracji/6sgb8xc",
+      "summary": "Największy producent piwa na świecie, koncern AB InBev, zmaga się z falą protestów w swoich centrach dystrybucyjnych w Belgii — podaje portal RetailDetail. Pracownicy odeszli od stanowisk pracy, skarżąc się na mordercze tempo, braki kadrowe i wadliwe zarządzanie. Skutki buntu zaczynają już odczuwać klienci kawiarni i restauracji.",
+      "published": "Tue, 07 Jul 2026 12:18:17 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Far more real estate agents now report seeing a balanced market, CNBC Housing Market Survey finds",
+      "link": "https://www.cnbc.com/2026/07/07/cnbc-housing-market-survey-balanced-market.html",
+      "summary": "Agents who reported at least one price cut to active listings dropped dramatically from prior surveys.",
+      "published": "Tue, 07 Jul 2026 12:15:55 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Bitcoin ETF-y z pierwszym stratnym półroczem w historii — inwestorzy wycofali 5,4 mld USD",
+      "link": "https://comparic.pl/bitcoin-etf-y-z-pierwszym-stratnym-polroczem-w-historii-inwestorzy-wycofali-54-mld-usd/",
+      "summary": "<img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-BTC-Bitcoin-17-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Era nieprzerwanej akumulacji w bitcoinowych ETF-ach dobiegła końca. Z analizy DWF Labs wynika, że spotowe fundusze zamknęły pierwsze półrocze 2026 roku z odpływa",
+      "published": "Tue, 07 Jul 2026 12:11:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ważna zmiana w Polski Liniach Oceanicznych. Znamy nazwisko nowego prezesa",
+      "link": "https://businessinsider.com.pl/gospodarka/zmiana-w-polskich-liniach-oceanicznych-wybrano-nowego-prezesa/w58cs94",
+      "summary": "Rada nadzorcza Polskich Linii Oceanicznych (PLO) wskazała nowego szefa spółki. Fotel prezesa objął Andrzej Kopeć, menedżer z wieloletnim doświadczeniem w sektorze bankowym i przemysłowym.",
+      "published": "Tue, 07 Jul 2026 12:08:26 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kursy walut NBP. Złoty pogłębia straty! Sprawdź, ile dziś zapłacisz za euro, dolara i franka 7 lipca 2026",
+      "link": "https://comparic.pl/kursy-walut-nbp-zloty-poglebia-straty-sprawdz-ile-dzis-zaplacisz-za-euro-dolara-i-franka-7-lipca-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />We wtorek 7 lipca 2026 r., średnie kursy walut Narodowego Banku Polskiego (NBP) kształtują się następująco: dolar amerykański (USD/PLN) kosztuje 3,7573 zł",
+      "published": "Tue, 07 Jul 2026 12:01:38 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "K-pop i k-dramy biją rekord. Zarobili 19 mld dol., też na Polsce",
+      "link": "https://businessinsider.com.pl/finanse/handel/k-pop-i-k-dramy-z-korei-coraz-popularniejsze-polski-rynek-rosnie-w-sile/k673s1y",
+      "summary": "Prawie 19 mld dol., czyli równowartość ponad 71 mld zł — tyle wyniosła wartość eksportu wygenerowanego przez Koreańską Falę (Hallyu), czyli szeroko pojętą koreańską kulturę i rozrywkę w 2025 r. Jej popularność rośnie również w Polsce, gdzie rynek koreańskich kosmetyków jest już wart nawet 700 mln zł rocznie, a społeczność fanów Hallyu liczy — według szacunków — blisko 5 mln osób.",
+      "published": "Tue, 07 Jul 2026 11:48:21 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ceny żywności spadają, ale zagrożenie rośnie. Dwa czynniki ryzyka",
+      "link": "https://businessinsider.com.pl/gospodarka/ceny-zywnosci-w-sprzyjaly-ostatnio-spadkowi-inflacji-w-polsce-moze-sie-to-predko/n16r1rq",
+      "summary": "Ceny żywności były głównym powodem pozytywnych zaskoczeń dotyczących inflacji w Polsce w ostatnich miesiącach. Pojawiają się dwa zjawiska, które mogą odwrócić ten pozytywny dla konsumentów trend.",
+      "published": "Tue, 07 Jul 2026 11:33:37 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Pozwał państwo o zaległą emeryturę. Oto odpowiedź prawników premiera",
@@ -176,6 +448,14 @@
       "published": "Tue, 07 Jul 2026 11:30:48 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Kiedy wrócą z wakacji twoje pociechy w szkolnej stołówce mogą się mocno zdziwić",
+      "link": "https://businessinsider.com.pl/wiadomosci/nowe-menu-uczniow-co-zmieni-sie-w-szkolach-i-przedszkolach-od-wrzesnia/c3tx33y",
+      "summary": "Od 1 września 2026 roku wszystkie szkoły i przedszkola w Polsce będą działać według nowych standardów żywienia określonych w rozporządzeniu Ministerstwa Zdrowia. Zmiany obejmują nie tylko to, co znajdzie się na talerzach dzieci, ale również sposób organizacji pracy stołówek, planowania jadłospisów i zaopatrzenia. Dla wielu placówek oznacza to konieczność intensywnych przygotowań jeszcze przed rozp",
+      "published": "Tue, 07 Jul 2026 11:30:28 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "-0,9% na złocie i 56% szans na podwyżkę stóp. Oto co czeka inwestorów w środę",
@@ -226,12 +506,28 @@
       "category": "pl"
     },
     {
+      "title": "Przełom w sprawie rakiet Patriot. USA otwierają drzwi dla produkcji w Europie",
+      "link": "https://businessinsider.com.pl/usa-otwieraja-sie-na-produkcje-pac-3-poza-krajem-polska-w-grze/0nm4hy3",
+      "summary": "Amerykanie nie wykluczają przeniesienia produkcji zaawansowanych pocisków PAC-3 Patriot poza granice swojego kraju. Polska wyrasta na jednego z kluczowych partnerów w tym procesie. W Kanadzie została już podpisana umowa, w ramach której nasz kraj weźmie udział w budowie europejskiego centrum serwisowania rakiet Patriot.",
+      "published": "Tue, 07 Jul 2026 10:53:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Czy Bitcoin właśnie wyznaczył dno? Grayscale wskazuje na ruch Strategy",
       "link": "https://comparic.pl/czy-bitcoin-wlasnie-wyznaczyl-dno-grayscale-wskazuje-na-ruch-strategy/",
       "summary": "<img alt=\"bitcoin\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-Bitcoin-BTC-kryptowaluta-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Decyzja Strategy o sprzedaży 3 588 Bitcoinów za 216 mln USD początkowo wywołała spadek notowań BTC, jednak analitycy z Grayscale oceniają ją jako pozytywny ",
       "published": "Tue, 07 Jul 2026 10:51:20 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "mBankowi nie udało się powtórzyć sukcesu PKO BP. Oszczędzający nie dopisali",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/mbank-rozczarowal-wynikami-sprzedazy-listow-zastawnych-inwestorzy-wybrali-obligacje/0npy0zd",
+      "summary": "mBank jako drugi kredytodawca w Polsce w czerwcu ruszył z ofertą listów zastawnych dla drobnych inwestorów. Apetyt banku był duży, ale nie udało się osiągnąć zamierzonego celu.",
+      "published": "Tue, 07 Jul 2026 10:35:55 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ceny mieszkań nie spadają wbrew oczekiwaniom — raport ujawnia bezprecedensowe odwrócenie na rynku kredytów hipotecznych",
@@ -250,6 +546,14 @@
       "category": "pl"
     },
     {
+      "title": "Szef NATO zapowiada. \"Czas zamienić pieniądze na realne zdolności wojskowe\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/mark-rutte-zapowiada-nowa-ere-w-nato-inwestycje-i-kontrakty-zbrojeniowe/xde27lz",
+      "summary": "NATO szykuje kolejne wspólne inwestycje w zdolności wojskowe. Podczas szczytu w Ankarze sojusznicy mają ogłosić nowe projekty dotyczące transportu strategicznego, rozpoznania oraz przemysłu obronnego. Według sekretarza generalnego Marka Ruttego celem jest szybsze przekucie rosnących wydatków na obronność w realne zdolności militarne.",
+      "published": "Tue, 07 Jul 2026 10:02:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "ETF ESG bez Meta zyskał 22% w rok. Co napędziło ten wynik?",
       "link": "https://comparic.pl/etf-esg-bez-meta-zyskal-22-w-rok-co-napedzilo-ten-wynik/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-3-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Fundusz ETF oparty na zasadach ESG udowadnia, że można osiągać ponadprzeciętne wyniki nawet bez jednej z największych spółek technologicznyc",
@@ -258,36 +562,12 @@
       "category": "pl"
     },
     {
-      "title": "Trump: Nikt nie rozumie potęgi Bitcoina. Padła kolejna mocna deklaracja",
-      "link": "https://comparic.pl/trump-nikt-nie-rozumie-potegi-bitcoina-padla-kolejna-mocna-deklaracja/",
-      "summary": "<img alt=\"Donald Trump\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/AI-Donalda-Trump-Bitcoin-BTC-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Donald Trump po raz kolejny publicznie opowiedział się za Bitcoinem, określając go jako aktywo o potencjale, którego „nikt naprawdę nie rozumie”. Wypo",
-      "published": "Tue, 07 Jul 2026 09:41:45 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "XRP podbija branżę podróży. Już ponad 2 miliony hoteli na świecie opłacisz kryptowalutą",
-      "link": "https://comparic.pl/xrp-podbija-branze-podrozy-juz-ponad-2-miliony-hoteli-na-swiecie-oplacisz-kryptowaluta/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/krypto-2026-07-07T083514.766-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Użyteczność XRP właśnie zrobiła kolejny znaczący krok naprzód, tym razem w jednej z największych branż konsumenckich na świecie. Platforma turystyczna Travala ogł",
-      "published": "Tue, 07 Jul 2026 09:40:10 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
-      "link": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
-      "summary": "“I could have bought a home for what I hope will be a growing family.”",
-      "published": "Tue, 07 Jul 2026 09:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "SpaceX’s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends",
-      "link": "https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories",
-      "summary": "The two lead underwriters on SpaceX’s initial public offering, Goldman Sachs and Morgan Stanley, have a valuation gap of more than $1 trillion as they both initiated coverage at buy.",
-      "published": "Tue, 07 Jul 2026 09:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Rosja cofa się o lata. Powrót benzyny, która psuje samochody",
+      "link": "https://businessinsider.com.pl/rosja-wrocila-do-paliwa-euro-3-kierowcy-koczuja-na-stacjach-40-godzin/0c371ev",
+      "summary": "Kreml, próbując ratować rynek paliwowy po ukraińskich atakach na rafinerie, zdecydował się na drastyczny krok: powrót do paliwa niskiej jakości. Skutki są opłakane — rosyjskie samochody masowo odmawiają posłuszeństwa, a kierowcy godzinami koczują na stacjach.",
+      "published": "Tue, 07 Jul 2026 09:54:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ceny żywności mogą wzrosnąć przez suszę. Mapa zagrożeń",
@@ -306,36 +586,12 @@
       "category": "other"
     },
     {
-      "title": "Tough crowd for Samsung as record quarterly earnings brings out the sellers",
-      "link": "https://www.marketwatch.com/story/tough-crowd-for-samsung-as-record-quarterly-earnings-brings-out-the-sellers-5e9979f2?mod=mw_rss_topstories",
-      "summary": "Samsung Electronics shareholders proved a difficult audience to please.",
-      "published": "Tue, 07 Jul 2026 09:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Nowe dane GUS na temat rynku pracy. Chodzi o obcokrajowców",
       "link": "https://businessinsider.com.pl/praca/w-polsce-pracuje-coraz-wiecej-obcokrajowcow-sa-nowe-dane-gus/vrbcb3w",
       "summary": "Rynek pracy w Polsce coraz silniej opiera się na pracownikach zza granicy. Najnowsze dane pokazują, jak zmienia się skala zatrudnienia cudzoziemców i którzy obywatele dominują w tej grupie.",
       "published": "Tue, 07 Jul 2026 09:15:15 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Former ‘Grey’s Anatomy’ star Katherine Heigl is selling her gorgeous Utah home for $10.6 million",
-      "link": "https://www.marketwatch.com/story/former-greys-anatomy-star-katherine-heigl-is-selling-her-gorgeous-utah-home-for-10-6-million-4a37d5ae?mod=mw_rss_topstories",
-      "summary": "Katherine Heigl is selling her longtime Utah retreat 14 years after she left the Hollywood spotlight to enjoy a quieter life with her family at the extraordinary mountain home.",
-      "published": "Tue, 07 Jul 2026 09:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Dennis Quaid lists L.A. home for $5.2 million and makes the move to Nashville",
-      "link": "https://www.marketwatch.com/story/dennis-quaid-lists-l-a-home-for-5-2-million-and-makes-the-move-to-nashville-761bb760?mod=mw_rss_topstories",
-      "summary": "The sun-soaked lifestyle he was able to enjoy at the home wasn’t enough to keep Quaid tethered to California, with the actor revealing recently that he made the decision to quit Los Angeles altogether.",
-      "published": "Tue, 07 Jul 2026 09:02:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Niemiecki przemysł łapie oddech. Produkcja w górę",
@@ -354,108 +610,12 @@
       "category": "other"
     },
     {
-      "title": "Pogłoski o śmierci niemieckiego przemysłu są przesadzone. Pomaga sztuczna inteligencja",
-      "link": "https://businessinsider.com.pl/gospodarka/niemiecki-przemysl-wraca-do-gry-dane-destatis-i-opinie-ekonomistow-rzucaja-nowe/xxvp8qj",
-      "summary": "Od dłuższego czasu niemiecki przemysł przypominał uśpionego olbrzyma, ale najnowsze dane sugerują, że maszyny wreszcie zaczynają pracować na wyższych obrotach.",
-      "published": "Tue, 07 Jul 2026 08:42:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Największy „byk” Bitcoina zaczyna sprzedawać BTC. Nadchodzi szok kryptowaluty jak po upadku FTX",
-      "link": "https://comparic.pl/najwiekszy-byk-bitcoina-zaczyna-sprzedawac-btc-nadchodzi-szok-kryptowaluty-jak-po-upadku-ftx/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/krypto-2026-07-07T081127.332-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Michael Saylor przez lata budował wizerunek najbardziej nieugiętego posiadacza Bitcoina na świecie, powtarzając mantrę „nigdy nie sprzedawaj”. Teraz jego firma St",
-      "published": "Tue, 07 Jul 2026 08:38:41 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fiskus kontroluje firmowe auta. Rozliczenia VAT pod lupą",
-      "link": "https://businessinsider.com.pl/technologie/motoryzacja/samochod-w-firmie-pod-lupa-skarbowki-kto-ryzykuje-korekte-vat/trp6r90",
-      "summary": "Przedsiębiorcy korzystający z samochodów firmowych muszą liczyć się z dokładniejszą kontrolą skarbówki. Urzędy sprawdzają, czy dane przedstawiane w ewidencji przebiegu pojazdów odpowiadają rzeczywistemu użytkowaniu aut - podaje \"Gazeta Wyborcza\".",
-      "published": "Tue, 07 Jul 2026 08:31:39 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Charlie Munger ostrzega inwestorów: zarządzający “to astrolodzy”",
-      "link": "https://comparic.pl/charlie-munger-ostrzega-inwestorow-zarzadzajacy-to-astrolodzy/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-panic-panika-strach-kryzys-crisis-spadek-bessa-krach-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Charlie Munger przez lata uchodził za jednego z najbardziej przenikliwych inwestorów giełdowych na świecie, dlatego jego opinie o ",
-      "published": "Tue, 07 Jul 2026 08:25:47 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rynki znów koncentrują się na ropie. Złoto i giełdy akcji w dół",
-      "link": "https://businessinsider.com.pl/gielda/ropa-znow-zajmuje-rynek-tym-razem-wzrost-podazy-i-perspektywy/21rqqvv",
-      "summary": "Ropa w górę, złoto i giełdy akcji w dół. Wygląda na to, że wracamy do ustawień sprzed paru tygodni, zanim jeszcze rynki zaczęły się koncentrować na stopach procentowych w USA — m.in. o tym przeczytasz w dzisiejszym wydaniu newslettera giełdowego Business Insidera.",
-      "published": "Tue, 07 Jul 2026 08:18:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ważne zmiany dla właścicieli fotowoltaiki. Zegar tyka, spóźnialskim grozi kara",
-      "link": "https://businessinsider.com.pl/oze-nowe-obowiazki-dla-wlascicieli-instalacji-ure-grozi-karami-za-spoznienie/4mfn4z5",
-      "summary": "Wytwórcy energii z odnawialnych źródeł (OZE), w tym właściciele małych instalacji fotowoltaicznych, muszą przygotować się na nowe formalności. Urząd Regulacji Energetyki (URE) wprowadza nowy wzór sprawozdania, który należy złożyć do końca lipca. Za niedopełnienie tego obowiązku grożą dotkliwe kary finansowe.",
-      "published": "Tue, 07 Jul 2026 08:03:21 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Koperta z wesela bez podatku? Fiskus wyjaśnia zasady",
       "link": "https://www.money.pl/podatki/koperta-z-wesela-bez-podatku-fiskus-wyjasnia-zasady-7304812017310048a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c8df5cda-dc33-4195-85d9-c53ce13f80d4\" width=\"308\" /> W sezonie ślubnym wraca temat opodatkowania weselnych kopert. Pieniądze z kopert weselnych nie zawsze trzeba zgłaszać fiskusowi. Skarbówka wyjaśnia, że liczy się nie suma zebrana po weselu, lecz kwota od jednego gościa. Problem może pojawić się dopiero przy wysokich preze",
       "published": "Tue, 07 Jul 2026 07:47:33 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Upały w Polsce. Ekspert wskazuje, kiedy grozi nam blackout",
-      "link": "https://businessinsider.com.pl/biznes/czy-polsce-grozi-blackout-nowe-inwestycje-zmieniaja-sytuacje-energetyczna/43npf93",
-      "summary": "Rekordowe temperatury — te zresztą za chwilę mają wrócić — i rosnące zużycie energii elektrycznej ponownie rodzą pytania o bezpieczeństwo polskiego systemu energetycznego. Zdaniem Tobiasza Adamczewskiego, wiceprezesa Forum Energii, obecna sytuacja jest znacznie lepsza niż jeszcze dekadę temu. Ryzyko blackoutu jest jednak zawsze.",
-      "published": "Tue, 07 Jul 2026 07:45:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Złoto po 6000 USD jeszcze w 2026 roku? Prognozy 5 największych banków",
-      "link": "https://comparic.pl/zloto-po-6000-usd-jeszcze-w-2026-roku-prognozy-5-najwiekszych-bankow/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/krypto-2026-07-07T072005.601-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Niedawna korekta cen złota schłodziła jeden z najsilniejszych trendów wzrostowych ostatnich lat, jednak największe banki inwestycyjne nie zamierzają rewidować swo",
-      "published": "Tue, 07 Jul 2026 07:43:35 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "3 akcje dywidendowe, które od dekad zwiększają wypłaty zysków",
-      "link": "https://comparic.pl/3-akcje-dywidendowe-ktore-od-dekad-zwiekszaja-wyplaty-zyskow/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/04/hossa-freepik-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Szukasz akcji dywidendowych, które mogą zapewniać stabilny dochód przez długie lata? Niektóre spółki zwiększają wypłaty dla akcjonariuszy nieprzerwanie od niemal siedmiu dekad, ",
-      "published": "Tue, 07 Jul 2026 07:33:11 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ropa drożeje po niepokojących doniesieniach z cieśniny Ormuz. \"Wciąż daleko od normalizacji\"",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/ceny-ropy-rosna-po-atakach-w-ciesninie-ormuz-inwestorzy-sa-zaniepokojeni/j1y0y1x",
-      "summary": "Ropa na świecie drożeje we wtorek po niepokojących informacjach dotyczących cieśniny Ormuz, kluczowego szlaku wodnego dla transportu ropy naftowej, gazu ziemnego i innych surowców z Zatoki Perskiej.",
-      "published": "Tue, 07 Jul 2026 07:28:24 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Morgan Stanley wskazuje liderów: akcje hiperskalerów wracają do gry",
-      "link": "https://comparic.pl/morgan-stanley-wskazuje-liderow-akcje-hiperskalerow-wracaja-do-gry/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-stock-market-chart-wykres-wzrost-grow-growth-hossa-up-5-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Akcje Meta, Amazona, Microsoftu i Alphabetu ponownie przyciągają uwagę inwestorów. Morgan Stanley uważa, że po miesiącach domina",
-      "published": "Tue, 07 Jul 2026 07:11:39 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Nagłe zamknięcie sklepów znanej sieci. Pracownicy dowiedzieli się w ostatniej chwili",
-      "link": "https://businessinsider.com.pl/delikatesy-centrum-znikaja-z-wyszkowa-mieszkancy-zaskoczeni-decyzja/3pw1zdr",
-      "summary": "Z dnia na dzień z mapy Wyszkowa zniknęły dwie placówki sieci Delikatesy Centrum. Pracownicy o wypowiedzeniach usłyszeli tuż przed końcem pracy, a na drzwiach zamkniętych punktów pojawiły się pożegnalne ogłoszenia. To jednak dopiero wierzchołek góry lodowej — informuje portal Tuba Wyszkowa.",
-      "published": "Tue, 07 Jul 2026 07:06:37 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 07.07.2026",
@@ -490,115 +650,11 @@
       "category": "pl"
     },
     {
-      "title": "Słaby jen rujnuje Japonię. Fala bankructw najwyższa od 2022 roku",
-      "link": "https://comparic.pl/slaby-jen-rujnuje-japonie-fala-bankructw-najwyzsza-od-2022-roku/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/krypto-2026-07-07T065901.141-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Japoński jen osunął się poniżej czterdziestoletniego minimum, a rynek walutowy coraz częściej zadaje sobie pytanie, gdzie leży granica tej słabości. Odpowiedź zac",
-      "published": "Tue, 07 Jul 2026 07:00:50 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Chwila prawdy minister zdrowia. Tyle zarabiała do tej pory",
-      "link": "https://businessinsider.com.pl/biznes/donald-tusk-stawia-ultimatum-jolancie-sobieranskiej-grendzie-co-z-jej-majatkiem/ymtth06",
-      "summary": "Mija dziś termin ultimatum, które premier postawił ministrze zdrowia. Do wtorku Jolanta Sobierańska-Grenda ma przedstawić Donaldowi Tuskowi \"satysfakcjonujący\" plan reformy wynagrodzeń medyków. W przeciwnym wypadku grozi jej dymisja. Sprawdzamy, jak zmienił się jej majątek w czasie piastowania stanowiska ministry zdrowia.",
-      "published": "Tue, 07 Jul 2026 06:56:37 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ceny biletów na kolejkę na Kasprowy Wierch 2026. Ile teraz trzeba wydać na popularną atrakcję w Tatrach",
-      "link": "https://businessinsider.com.pl/lifestyle/podroze/ceny-biletow-na-kolejke-na-kasprowy-wierch-2026/2yvcdm9",
-      "summary": "Kasprowy Wierch to jedna z najbardziej rozpoznawalnych i najbardziej popularnych atrakcji turystycznych w polskich górach. Na szczyt turyści mogą dotrzeć specjalną kolejką linową. Wyjaśniamy, ile kosztuje kolejka na Kasprowy Wierch i od czego zależy cena biletów.",
-      "published": "Tue, 07 Jul 2026 06:47:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Już nie tylko torebki i zegarki. Wielka zmiana na rynku luksusu",
-      "link": "https://businessinsider.com.pl/gospodarka/tyle-jest-wart-rynek-luksusu-to-ameryki-go-napedzaja/k9xsdw8",
-      "summary": "Globalne wydatki na dobra luksusowe osiągnęły w 2025 r. wartość 1 bln 443 mld euro — wynika z raportu Bain &amp; Company, który poznał Business Insider Polska. Co ciekawe, w tej branży coraz mniej liczą się luksusowe gadżety, a coraz bardziej... doświadczenia.",
-      "published": "Tue, 07 Jul 2026 06:30:48 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Niemcy zbroją się. Tyle chcą wydać na armię",
       "link": "https://www.money.pl/gospodarka/niemcy-zbroja-sie-tyle-chca-wydac-na-armie-7304791755274592a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c9446857-4843-45d7-adee-b9dfd0af8d6c\" width=\"308\" /> Niemcy planują rekordowe wydatki na obronność. W projekcie budżetu na 2027 rok na wojsko przewidziano 109,7 mld euro, czyli około jedną piątą wszystkich wydatków państwa. Berlin tłumaczy to koniecznością nadrobienia wieloletnich zaniedbań.",
       "published": "Tue, 07 Jul 2026 06:03:25 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Miliardy dla polskiej armii. Ministerstwo ujawnia: zyskamy nawet 67 mld zł",
-      "link": "https://businessinsider.com.pl/polska-kupuje-sprzet-wojskowy-z-safe-resort-finansow-wylicza-korzysci/pqnp4z0",
-      "summary": "Polska może zaoszczędzić gigantyczne kwoty dzięki pożyczkom z europejskiego programu SAFE. Według analiz Ministerstwa Finansów finansowanie zakupów zbrojeniowych przez Brukselę jest znacznie tańsze niż samodzielne pożyczanie pieniędzy na rynkach finansowych. Korzyści mogą sięgnąć nawet 67 mld zł w całym okresie obsługi długu.",
-      "published": "Tue, 07 Jul 2026 06:00:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Strategia PSV: Nasdaq blisko ważnego wsparcia. Ruch o 600 pkt. wraca do gry?",
-      "link": "https://comparic.pl/strategia-psv-nasdaq-blisko-waznego-wsparcia-ruch-o-600-pkt-wraca-do-gry/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/cc-psv-AI-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Dziś zarówno DAX, jak i Nasdaq (NQ) wchodzą w kluczową fazę po dynamicznych wzrostach z końcówki ubiegłego tygodnia. Na niemieckim indeksie coraz wyraźniej widać oznaki wyczerpywa",
-      "published": "Tue, 07 Jul 2026 05:42:27 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Nie tylko Patriot. Oto ile kosztuje i co potrafi konkurencja amerykańskiego systemu",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/system-patriot-i-jego-konkurenci-kto-oferuje-skuteczniejsze-rozwiazania/6ph09dh",
-      "summary": "O Patriotach znów jest w Polsce głośno. Choć tym razem kontrowersje związane z zaawansowanym systemem mają genezę głównie polityczną, całość ma także wymiar obronno-techniczny. Skupiając się jedynie na tych czynnikach, przyjrzęliśmy się bliżej alternatywnym rozwiązaniom. Na co pozwalają i ile kosztują?",
-      "published": "Tue, 07 Jul 2026 04:56:37 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Minister finansów Litwy dla Business Insidera. \"Przestrzegam przed takim scenariuszem\" [WYWIAD]",
-      "link": "https://businessinsider.com.pl/gospodarka/minister-finansow-litwy-zwlekanie-z-akcesja-ukrainy-do-ue-to-zagrozenie-dla-europy/pw0p6kq",
-      "summary": "Litwa chce, by Ukraina znalazła się w Unii Europejskiej jeszcze przed końcem tej dekady i ostrzega, że pozostawienie Kijowa poza Wspólnotą byłoby niebezpieczne dla całej Europy. — Powinna wejść do UE już wczoraj — mówi w rozmowie z Business Insider Polska litewski minister finansów Kristupas Vaitiekūnas. Jednocześnie przyznaje, że największą przeszkodą mogą okazać się nie reformy w Ukrainie, lecz ",
-      "published": "Tue, 07 Jul 2026 04:37:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Pozwał państwo o zaległą emeryturę. Usłyszał od premiera o nadużyciu prawa",
-      "link": "https://businessinsider.com.pl/prawo/praca/emeryt-pozwal-skarb-panstwa-o-100-tys-zl-uslyszal-od-premiera-o-naduzyciu-prawa/2lb6z07",
-      "summary": "76-letni pan Krzysztof, który uważa, że państwo jest mu winne blisko 100 tys. zł. Innego zdania jest radca prawny, pełnomocnik premiera Donalda Tuska. Emerytowi zarzuca \"nadużycie prawa\".",
-      "published": "Tue, 07 Jul 2026 04:24:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "\"Ochrona w szpitalach to fikcja, nie ma dnia bez jakiegoś ataku\". Lekarz po napaści nożownika w szpitalu apeluje o zmiany",
-      "link": "https://businessinsider.com.pl/praca/lekarz-o-ataku-nozownika-w-szpitalu-nie-ma-dnia-bez-agresji/0mg9evl",
-      "summary": "Po ataku nożownika w szpitalu w Jastrzębiu-Zdroju lekarz Artur Ploch nie ma złudzeń. — Człowiek, który zaatakował naszych pacjentów i pracowników, chodził po naszym szpitalu boso, rozebrany do połowy i nikt nie zwrócił na niego uwagi — mówi w rozmowie z Business Insider Polska. Opowiada, z jaką agresją medycy mierzą się niemal codziennie i dlaczego uważa, że polskie szpitale pozostają dziś praktyc",
-      "published": "Tue, 07 Jul 2026 04:00:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Chcesz inwestować, a masz kredyt? Doświadczony analityk sugeruje, od czego zacząć",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/jak-zaczac-oszczedzac-na-poczatek-zrob-wszystko-zeby-uniknac-tego-bledu/wg9j73h",
-      "summary": "— Kredyty w większości przypadków są po prostu droższe niż to, co jesteśmy w stanie zyskać na inwestycji — mówi nam analityk Jarosław Sadowski. I radzi, jak zabrać się za porządkowanie swoich finansów.",
-      "published": "Tue, 07 Jul 2026 04:00:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Trump calls Walmart ‘patriotic’ for cutting beef prices — in a stark change of tune",
-      "link": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
-      "summary": "The president hasn’t always approved of Walmart’s moves, having criticized the chain’s response to tariffs last year.",
-      "published": "Tue, 07 Jul 2026 00:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Erste Bank z wielką akcją. Wiemy, jak odebrać 1200 zł i kolejne bonusy",
-      "link": "https://www.bankier.pl/wiadomosc/1200-zl-premii-w-prostej-promocji-Erste-Banku-A-to-dopiero-poczatek-bonusow-9160634.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/0/158b37ad4b074b-948-568-250-224-2250-1349.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Erste Bank sypnął promocjami dla nowych klientów. Oferta tego banku to szeroki pakiet korzyści, który łączy premię za założenie rachunku, ubezpieczenie samochodu i konto dla ",
-      "published": "Thu, 2 Jul 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -674,68 +730,12 @@
       "category": "us"
     },
     {
-      "title": "\"Niesprowokowana eskalacja\". Bruksela murem za Polską w sporze o Wołyń i UPA",
-      "link": "https://www.bankier.pl/wiadomosc/Niesprowokowana-eskalacja-Bruksela-murem-za-Polska-w-sporze-o-Wolyn-i-tradycje-UPA-9164216.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/8/88d8ffa675a228-948-568-0-0-3890-2333.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Parlament Europejski we wtorek na posiedzeniu w Strasburgu przeprowadzi debatę na temat postępów akcesyjnych Ukrainy. Do projektu rezolucji w tej sprawie większość frakcji w izbi",
-      "published": "Mon, 6 Jul 2026 16:14:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix.",
-      "link": "https://www.marketwatch.com/story/the-nasdaq-100-has-been-far-more-volatile-than-the-s-p-500-now-add-spacex-to-the-mix-cd397c36?mod=mw_rss_topstories",
-      "summary": "While SpaceX is due to join the Nasdaq-100 on Tuesday, it won’t become part of the S&amp;P 500 for at least another year — likely furthering the volatility spread between those two indexes.",
-      "published": "Mon, 06 Jul 2026 22:39:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "U.S.-Belgium match could draw record TV audience amid the Trump World Cup controversy",
-      "link": "https://www.marketwatch.com/story/u-s-belgium-match-could-draw-record-tv-audience-amid-the-trump-world-cup-controversy-52783b8f?mod=mw_rss_topstories",
-      "summary": "Some industry experts are predicting all-time viewing records for a U.S. soccer game",
-      "published": "Mon, 06 Jul 2026 22:17:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
-      "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-      "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
-      "published": "Mon, 06 Jul 2026 21:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Your investing expectations are more than double the reality. Here is the tough truth.",
-      "link": "https://www.marketwatch.com/story/your-investing-expectations-are-more-than-double-the-reality-here-is-the-tough-truth-dea61820?mod=mw_rss_topstories",
-      "summary": "Long-term real returns above 10% annualized are exceedingly rare.",
-      "published": "Mon, 06 Jul 2026 21:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Toyota to invest $3.6 billion to move Tacoma pickup truck production from Mexico to Texas",
       "link": "https://www.cnbc.com/2026/07/06/toyota-tacoma-truck-san-antonio-plant.html",
       "summary": "Toyota said it is investing $3.6 billion to move production of the Tacoma midsize pickup truck from Mexico to its San Antonio manufacturing campus in Texas.",
       "published": "Mon, 06 Jul 2026 20:30:01 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Przegląd dnia Comparic.pl: XRP przed zmianą trendu? Historyczny sygnał z rynku",
-      "link": "https://comparic.pl/xrp-przed-zmiana-trendu-historyczny-sygnal-z-rynku/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />XRP zyskało w ciągu tygodnia ponad 8 procent, a początek lipca przyniósł rynkowi kryptowalut wyraźną zmianę nastrojów. Altcoiny odrabiają zaległości wobec rynku akc",
-      "published": "Mon, 06 Jul 2026 19:33:06 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Microsoft zwalnia 4 800 pracowników — rekordowe wydatki na AI i kryzys Xboxa ciążą gigantowi",
-      "link": "https://comparic.pl/microsoft-zwalnia-4-800-pracownikow-rekordowe-wydatki-na-ai-i-kryzys-xboxa-ciaza-gigantowi/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2017/07/Microsoft_CES_2009-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Fala zwolnień w Big Techu nie zwalnia tempa. Microsoft ogłosił redukcję około 4 800 etatów, czyli 2,1 procent globalnej załogi, próbując zrównoważyć gigantyczne wydatki na i",
-      "published": "Mon, 06 Jul 2026 18:51:22 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Tego nie było od 26 lat. Ruch Saudyjczyków zaskoczył rynki ropy",
