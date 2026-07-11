@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T22:11:05.834215",
+  "generated_at": "2026-07-11T03:28:14.916364",
   "articles": [
     {
       "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
@@ -122,10 +122,26 @@
       "category": "us"
     },
     {
-      "title": "Apple sues OpenAI for ‘institutional’ misconduct — and alleges that’s just the tip of the iceberg",
+      "title": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
       "link": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
-      "summary": "Apple claims OpenAI attempted to steal confidential information.",
-      "published": "Fri, 10 Jul 2026 22:07:00 GMT",
+      "summary": "The iPhone maker claims “misconduct is normalized and exemplified by leadership” at OpenAI.",
+      "published": "Fri, 10 Jul 2026 23:06:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Meta’s stock roars back to life as it notches its best week in years",
+      "link": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+      "summary": "Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.",
+      "published": "Fri, 10 Jul 2026 22:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
+      "link": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+      "summary": "The South Korean memory-chip company’s new American depositary receipts began trading on Friday and logged gains of nearly 13%.",
+      "published": "Fri, 10 Jul 2026 22:18:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -160,14 +176,6 @@
       "published": "Fri, 10 Jul 2026 20:16:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Meta’s stock roars back to life as it heads for its best week in years",
-      "link": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
-      "summary": "Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.",
-      "published": "Fri, 10 Jul 2026 19:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Silver Squeeze wraca na rynek srebra — czy szósty rok deficytu doprowadzi do nowego rekordu?",
@@ -288,14 +296,6 @@
       "published": "Fri, 10 Jul 2026 18:50:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘Trump accounts’ are great — if you’re already rich",
-      "link": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
-      "summary": "They’re a poor deal for most other people.",
-      "published": "Fri, 10 Jul 2026 18:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zarabiają nawet 1,1 mln zł rocznie. Pojawiła się nowa nisza",
