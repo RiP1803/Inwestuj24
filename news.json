@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:15:47.820592",
+  "generated_at": "2026-07-12T21:58:00.491422",
   "articles": [
     {
       "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
@@ -154,12 +154,20 @@
       "category": "pl"
     },
     {
-      "title": "19 miesięcy po obaleniu dyktatora. Nowy parlament w Syrii zebrał się w cieniu kontrowersji",
-      "link": "https://www.bankier.pl/wiadomosc/19-miesiecy-po-obaleniu-dyktatora-Nowy-parlament-w-Syrii-zebral-sie-w-cieniu-kontrowersji-9167054.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/9/800b87071f9d7e-948-568-22-90-2994-1796.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nowy syryjski parlament zebrał się po raz pierwszy w niedzielę, 19 miesięcy po tym, jak rebelianci pod wodzą prezydenta Ahmeda al-Szary obalili Baszara al-Asada, co stanowi kam",
-      "published": "Sun, 12 Jul 2026 19:37:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Why Citigroup is the one to watch when banks report earnings this week",
+      "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+      "summary": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
+      "published": "Sun, 12 Jul 2026 19:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "You don’t have to be rich to be financially independent. Here’s how to take control of your money.",
+      "link": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
+      "summary": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
+      "published": "Sun, 12 Jul 2026 19:27:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Emeryt wygrał w sądzie z ZUS. Ważny wyrok dla 200 tys. seniorów",
@@ -234,14 +242,6 @@
       "category": "other"
     },
     {
-      "title": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
-      "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-      "summary": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
-      "published": "Sun, 12 Jul 2026 15:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Anthropic przyłapane na śledzeniu użytkowników Claude Code",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/anthropic-przylapana-na-sledzeniu-uzytkownikow-claude-code/3kddd75",
       "summary": "Firma Anthropic od lat buduje swój wizerunek jako najbardziej etyczny gracz w branży sztucznej inteligencji. Podkreśla znaczenie bezpieczeństwa, prywatności i odpowiedzialnego rozwoju modeli. Tymczasem niedawno wyszło na jaw, że w jej narzędziu Claude Code umieszczono ukryty mechanizm śledzący, który potajemnie oznaczał zapytania pochodzące od użytkowników z Chin lub powiązanych z chińskimi labora",
@@ -312,6 +312,14 @@
       "published": "Sun, 12 Jul 2026 13:25:19 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
+    },
+    {
+      "title": "\"Flota cieni\" Putina w ogniu. Kolejna operacja nowej formacji ukraińskiej armii",
+      "link": "https://www.bankier.pl/wiadomosc/Flota-cieni-Putina-w-ogniu-Kolejna-operacja-nowej-formacji-ukrainskiej-armii-9166984.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/f/b8c6a870c4b2ec-948-568-290-30-3250-1950.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jednostki Sił Obrony Ukrainy przeprowadziły ostatniej nocy atak na rafinerię w Syzraniu w obwodzie samarskim, na południowym wschodzie europejskiej części Rosji, uderzono równ",
+      "published": "Sun, 12 Jul 2026 13:22:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "The stock-market rally now hinges more on AI than oil",
@@ -566,14 +574,6 @@
       "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
       "summary": "Your share of the AI wealth is a right — not a handout. Here is how we claw back our money.",
       "published": "Sat, 11 Jul 2026 16:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
-      "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
-      "summary": "Financial literacy just hit a 10-year low — and it is devastating bank accounts.",
-      "published": "Sat, 11 Jul 2026 16:00:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
