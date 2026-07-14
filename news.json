@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:37:00.541919",
+  "generated_at": "2026-07-14T22:04:55.337555",
   "articles": [
     {
       "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
       "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
       "summary": "The Manheim Used Vehicle Value Index for EVs — which tracks prices of used vehicles sold at its U.S. wholesale auctions — increased 12% compared to June 2025.",
       "published": "Wed, 08 Jul 2026 16:11:15 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
-      "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
-      "summary": "FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.",
-      "published": "Wed, 08 Jul 2026 15:38:50 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -26,12 +18,76 @@
       "category": "us"
     },
     {
+      "title": "Złoto wraca powyżej bariery 4000 USD z uncję. Analityk wyjaśnia, czy to już koniec spadków",
+      "link": "https://comparic.pl/zloto-wraca-powyzej-bariery-4000-usd-z-uncje-analityk-wyjasnia-czy-to-juz-koniec-spadkow-14-07-2026/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-silver-XAG-2-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Tylko od końca stycznia br. kurs złota przecenił się z poziomu 5600 USD za uncję, do niecałych 4000 USD, co przełożyło się na blisko 30% wyprzedaż. M",
+      "published": "Tue, 14 Jul 2026 22:21:27 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Amerykańska inflacja niczym koń na białym rycerzu. Jeden odczyt odwrócił losy sesji",
+      "link": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/b/ce8d02b4d20813-945-560-12-67-980-587.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />To mógł być dzień, który zapowiadał się jako jednoznacznie spadkowy. I wtedy nadszedł wręcz podejrzanie „miękki” odczyt inflacyjny, który odwrócił losy sesji.</p>",
+      "published": "Tue, 14 Jul 2026 22:11:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump zmienia zdanie! 20% opłat w cieśninie Ormuz nie będzie? Ceny ropy wymazują wcześniejsze wzrosty",
+      "link": "https://comparic.pl/trump-zmienia-zdanie-20-oplat-w-ciesninie-ormuz-nie-bedzie-ceny-ropy-wymazuja-wczesniejsze-wzrosty/",
+      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-oil-wti-brent-crude-ropa-naftowa-barylka-ropy-naftowej-4-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Jeszcze wczoraj rynki finansowe żyły zapowiedzią prezydenta USA Donalda Trumpa, który ogłosił światu plan pobierania 20% opłat ",
+      "published": "Tue, 14 Jul 2026 21:50:13 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "link": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.",
+      "published": "Tue, 14 Jul 2026 21:38:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
+      "link": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+      "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
+      "published": "Tue, 14 Jul 2026 21:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
+      "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
+      "summary": "Shares of Taco Bell parent Yum Brands were down nearly 4% on Tuesday.",
+      "published": "Tue, 14 Jul 2026 21:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Boliwia chce uznać USDT za środek płatniczy. Stablecoin ma pomóc w kryzysie dolara",
       "link": "https://comparic.pl/boliwia-chce-uznac-usdt-za-srodek-platniczy-stablecoin-ma-pomoc-w-kryzysie-dolara/",
       "summary": "<img alt=\"Tether\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Tether-USDT-stablecoin-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Boliwia analizuje możliwość uznania USDT za pełnoprawny środek wykorzystywany w codziennych płatnościach. Decyzja miałaby pomóc gospodarce zmagającej się z chr",
       "published": "Tue, 14 Jul 2026 21:03:47 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
+      "link": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories",
+      "summary": "Analysts have set a sky-high bar for second-quarter earnings. However, Piper Sandler thinks corporate America can still clear it.",
+      "published": "Tue, 14 Jul 2026 21:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
+      "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+      "summary": "What the link between the yen and U.S. stocks means for your portfolio.",
+      "published": "Tue, 14 Jul 2026 20:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "USA grożą Brazylii cłami za... darmowy system płatności na smartfony",
@@ -48,6 +104,30 @@
       "published": "Tue, 14 Jul 2026 20:27:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis",
+      "link": "https://www.marketwatch.com/story/skip-the-lettuce-cook-your-other-greens-and-more-advice-on-avoiding-cyclosporiasis-ec2aed46?mod=mw_rss_topstories",
+      "summary": "The outbreak of cyclosporiasis, which causes diarrhea, has sickened about 6,700 people since May.",
+      "published": "Tue, 14 Jul 2026 20:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "IBM’s stock just had its worst day ever after the surprise release of an earnings miss",
+      "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+      "summary": "IBM’s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
+      "published": "Tue, 14 Jul 2026 20:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Lucid denies bankruptcy talk, but the stock still sinks to a record low",
+      "link": "https://www.marketwatch.com/story/lucid-denies-bankruptcy-talk-but-the-stock-still-sinks-to-a-record-low-82f87d0d?mod=mw_rss_topstories",
+      "summary": "EV maker’s stock down more than 50% intraday, then pares the bulk of those losses after Lucid says ‘the rumors are completely false’",
+      "published": "Tue, 14 Jul 2026 20:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Jak bardzo wzrośnie cena XRP? Jeden wykres pokazuje, dlaczego instytucje ignorują obecną cenę Ripple",
@@ -74,6 +154,46 @@
       "category": "pl"
     },
     {
+      "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+      "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+      "published": "Tue, 14 Jul 2026 20:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge",
+      "link": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html",
+      "summary": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
+      "published": "Tue, 14 Jul 2026 20:04:23 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "link": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+      "summary": "“I’ve just been ignoring their attempts.”",
+      "published": "Tue, 14 Jul 2026 20:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Francja może ulokować broń w Polsce. Rozmowy są na wstępnym etapie",
+      "link": "https://businessinsider.com.pl/wiadomosci/stale-magazyny-broni-w-polsce-rozmowy-z-francja-moga-ruszyc-niebawem/22htsjv",
+      "summary": "Francja rozważa stałe magazyny broni w Polsce — ustaliła \"Rzeczpospolita\".",
+      "published": "Tue, 14 Jul 2026 19:59:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+      "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+      "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
+      "published": "Tue, 14 Jul 2026 19:50:48 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
       "title": "Inflacja CPI w USA zaskoczyła skalą spadku — największy miesięczny zjazd cen od kwietnia 2020 roku",
       "link": "https://comparic.pl/inflacja-cpi-w-usa-zaskoczyla-skala-spadku-najwiekszy-miesieczny-zjazd-cen-od-kwietnia-2020-roku/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-15-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Czerwcowy raport o inflacji konsumenckiej w Stanach Zjednoczonych okazał się wyraźnie dezinflacyjny. Indeks cen CPI spadł o 0,4 procent miesiąc do miesiąca, co ",
@@ -84,7 +204,7 @@
     {
       "title": "Półfinał mundialu Francja-Hiszpania w Dallas. Tyle zgarnia zwycięzca",
       "link": "https://businessinsider.com.pl/sport/francja-hiszpania-czyli-mecz-o-fortune-tyle-zgarnie-zwyciezca/tgqmvgb",
-      "summary": "Francja i Hiszpania grają w półfinale mundialu na stadionie w Dallas. Za sam awans do półfinału drużyny zarobiły już 27 mln dol. Zwycięzca meczu zgarnie dodatkowe 6 mln dol. Jakie pieniądze czekają na zwycięzcę mundialu?",
+      "summary": "Francja i Hiszpania grają w półfinale mundialu. Oprócz prestiżu i szansy na zapisanie się w historii, w grę wchodzą również miliony dolarów. Tyle wynosi nagroda pieniężna dla zwycięzcy.",
       "published": "Tue, 14 Jul 2026 19:34:29 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
@@ -114,30 +234,6 @@
       "category": "pl"
     },
     {
-      "title": "Ziobro na celowniku amerykańskiego ICE? Pilne pismo polskiego ministra",
-      "link": "https://www.bankier.pl/wiadomosc/Ziobro-na-celowniku-amerykanskiego-ICE-Pilne-pismo-polskiego-ministra-9168207.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/f/789b92033be903-948-568-596-121-1988-1193.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister sprawiedliwości Waldemar Żurek poinformował we wtorek, że wysłał do amerykańskiej służby imigracyjnej ICE pismo w sprawie udzielenia informacji, na jakiej podstawie ",
-      "published": "Tue, 14 Jul 2026 19:23:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Global oil prices notch back-to-back rise, remain ‘tethered to the Hormuz narrative’",
-      "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
-      "summary": "Global oil prices on Tuesday notched their largest two-day rise since mid-March, buoyed by further escalation in the U.S.-Iran conflict.",
-      "published": "Tue, 14 Jul 2026 19:17:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-      "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-      "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
-      "published": "Tue, 14 Jul 2026 19:08:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Złoto runęło z 5589 USD do 4000 USD, a fundusze ETF mimo to przyciągnęły 8 mld USD. To nie jest przypadek",
       "link": "https://comparic.pl/zloto-runelo-z-5589-usd-do-4000-usd-a-fundusze-etf-mimo-to-przyciagnely-8-mld-usd-to-nie-jest-przypadek/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-zloto-GOLD-XAU-13-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Fundusze ETF oparte na fizycznym złocie zanotowały w czerwcu odpływy sięgające 8,9 mld USD — wynika z raportu Gold ETF Flows Światowej Rady Złota (WGC). Pomimo słabe",
@@ -162,36 +258,12 @@
       "category": "other"
     },
     {
-      "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plunge",
-      "link": "https://www.cnbc.com/2026/07/14/lucid-stock-lcid-bankruptcy-report.html",
-      "summary": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
-      "published": "Tue, 14 Jul 2026 18:50:52 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "IBM’s stock is having its worst day ever after the surprise release of an earnings miss",
-      "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
-      "summary": "IBM’s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
-      "published": "Tue, 14 Jul 2026 18:37:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Awantura o 117 tysięcy zł miesięcznie. Joanna Kurska przegrywa z TVP",
       "link": "https://www.bankier.pl/wiadomosc/Awantura-o-117-tysiecy-zl-miesiecznie-Joanna-Kurska-przegrywa-z-TVP-9168195.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/6/281f86b618ab52-948-568-6-33-2655-1593.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sąd Okręgowy w Warszawie we wtorek oddalił w całości powództwo Joanny Kurskiej, w którym domagała się przeprosin w związku z podaniem w programie informacyjnym „19.30” informacj",
       "published": "Tue, 14 Jul 2026 18:36:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Homes are getting more affordable. So how come you still can’t afford to buy one?",
-      "link": "https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories",
-      "summary": "Home prices exploded over the past five years. They’re now going up more slowly, but incomes have still not kept up.",
-      "published": "Tue, 14 Jul 2026 18:33:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Kurs dolara słabnie po zaskakujących danych z USA — rynek redukuje zakłady na podwyżki Fed",
@@ -202,28 +274,12 @@
       "category": "pl"
     },
     {
-      "title": "These are the obstacles still keeping women from retirement security",
-      "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
-      "summary": "Yes, women still need a “retirement security day.” Here’s why.",
-      "published": "Tue, 14 Jul 2026 18:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Zmiany w akcyzie. Drony polecą taniej, a zniszczony alkohol przyniesie ulgę",
       "link": "https://www.bankier.pl/wiadomosc/Zmiany-w-akcyzie-Drony-poleca-taniej-a-zniszczony-alkohol-przyniesie-ulge-9168183.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/3/0f515fe61d4c83-948-568-0-201-3500-2099.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Możliwość odliczenia akcyzy od przeterminowanych alkoholi, jeśli zostaną one zniszczone, czy rozszerzenie zwolnienia z daniny o paliwo dla dronów to jedne z kilkunastu założeń ",
       "published": "Tue, 14 Jul 2026 18:14:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "This overlooked index is a better investment than the S&P 500",
-      "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-      "summary": "We did the math over a 30-year period, and it’s not even close.",
-      "published": "Tue, 14 Jul 2026 18:12:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Trump zmienia plany wobec cieśniny Ormuz. Nie będzie 20-proc. opłat, ale co w zamian?",
@@ -242,30 +298,6 @@
       "category": "pl"
     },
     {
-      "title": "Paychecks are rising faster than prices for a change — but when will consumers feel the relief?",
-      "link": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
-      "summary": "Wage growth in June outpaced inflation, after falling behind during April and May.",
-      "published": "Tue, 14 Jul 2026 17:55:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-      "published": "Tue, 14 Jul 2026 17:31:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
-      "link": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
-      "summary": "Shares of Taco Bell parent Yum Brands were down nearly 4% on Tuesday.",
-      "published": "Tue, 14 Jul 2026 17:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Potężne wzrosty i obroty na Allegro pchnęły WIG20 na nowy szczyt hossy. KGHM i Orlen też pomogły",
       "link": "https://www.bankier.pl/wiadomosc/Potezne-wzrosty-i-obroty-na-Allegro-pchnely-WIG20-na-nowy-szczyt-hossy-KGHM-i-Orlen-tez-pomogly-9168139.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/f/da42f9aed175b5-948-568-10-155-4082-2449.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ogromną dawkę emocji przyniosła wtorkowa sesja na GPW. Choć dzień rozpoczął się od spadków, a nad sektorem bankowym zawisły czarne chmury, to ostatecznie druga połowa dnia prz",
@@ -279,14 +311,6 @@
       "summary": "It passes a stegosaurus skeleton that billionaire hedge funder Ken Griffin bought for $44.6 million in 2024.",
       "published": "Tue, 14 Jul 2026 17:12:15 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Sky-high returns and earnings expectations could mean the end is near for this stock-market bull run",
-      "link": "https://www.marketwatch.com/story/sky-high-returns-and-earnings-expectations-could-mean-the-end-is-near-for-this-stock-market-bull-run-429b4085?mod=mw_rss_topstories",
-      "summary": "Never since 1950 have the S&amp;P 500’s price and earnings both been so far above the historical trend at one time, one strategist said.",
-      "published": "Tue, 14 Jul 2026 17:12:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -514,28 +538,12 @@
       "category": "us"
     },
     {
-      "title": "Kursy walut NBP. Złoty kontynuuje wyprzedaż! Sprawdź, ile dziś zapłacisz za euro, dolara i franka 14 lipca 2026",
-      "link": "https://comparic.pl/kursy-walut-nbp-zloty-kontynuuje-wyprzedaz-sprawdz-ile-dzis-zaplacisz-za-euro-dolara-i-franka-14-lipca-2026/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />We wtorek, 14 lipca 2026 r., średnie kursy walut Narodowego Banku Polskiego (NBP) kształtują się następująco: dolar amerykański (USD/PLN) kosztuje 3,8076 ",
-      "published": "Tue, 14 Jul 2026 13:22:49 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Koniec legendarnego browaru po prawie 350 latach. Cała załoga do zwolnienia",
       "link": "https://businessinsider.com.pl/biznes/slynny-browar-konczy-dzialalnosc-po-prawie-350-latach-prace-straci-240-osob/7nqghzw",
       "summary": "Przez wiele miesięcy pracownicy liczyli jeszcze, że założony w 1679 r. browar można uratować. Nie udało się i słynna niemiecka marka Eichbaum przechodzi do historii. Około 240 osób traci pracę, a firma całkowicie wstrzymuje działalność.",
       "published": "Tue, 14 Jul 2026 13:17:15 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Koniec WIBOR! Nadchodzi nowy wskaźnik, który może zmienić raty kredytów",
-      "link": "https://comparic.pl/koniec-wibor-nadchodzi-nowy-wskaznik-ktory-moze-zmienic-raty-kredytow/",
-      "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/04/freepik-dom-mieszkanie-rynek-nieruchomosci-kredyt-hipoteczny-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Zmiana wskaźników referencyjnych to jedna z największych reform w polskim systemie finansowym od lat. Dotyka ona bezpośrednio kredy",
-      "published": "Tue, 14 Jul 2026 13:16:02 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Paradoks Yamala. To piłkarski \"biedak\", choć na boisku jest najcenniejszy",
@@ -622,14 +630,6 @@
       "link": "https://businessinsider.com.pl/gielda/allegro-zaskakuje-inwestorow-notowania-akcji-wystrzelily/n52z6y3",
       "summary": "Wycena biznesu Allegro w kilkanaście godzin podskoczyła o ok. 3 mld zł. We wtorek akcje spółki są w trójce najlepszych na całej warszawskiej giełdzie. Inwestorzy pozytywnie zareagowali na ujawnione przed czasem wskazówki dotyczące wyników finansowych.",
       "published": "Tue, 14 Jul 2026 11:40:18 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Liczba aptek w Polsce spada. Pacjenci i tak kupują coraz więcej leków",
-      "link": "https://businessinsider.com.pl/finanse/handel/w-polsce-jest-coraz-mniej-aptek-pacjenci-wykupuja-jednak-jeszcze-wiecej-lekow/8h265j4",
-      "summary": "Rynek aptek w Polsce kurczy się, ale pacjenci wykupują coraz więcej leków — wynika z danych Głównego Urzędu Statystycznego. Sprzedaż leków na receptę wzrosła rok do roku bardzo gwałtownie, bo o 13,1 proc.",
-      "published": "Tue, 14 Jul 2026 11:24:40 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
