@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:59:07.336718",
+  "generated_at": "2026-07-20T03:50:16.675706",
   "articles": [
     {
       "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
@@ -111,6 +111,14 @@
       "summary": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
       "published": "Thu, 16 Jul 2026 12:13:49 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+      "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+      "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+      "published": "Sun, 19 Jul 2026 22:29:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -490,22 +498,6 @@
       "category": "us"
     },
     {
-      "title": "Netflix is spending big money on sports. Is the company making the right bets?",
-      "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-      "summary": "The streaming service says live programming helps draw in new subscribers, but investors have become disillusioned with Netflix’s broader engagement trends.",
-      "published": "Sat, 18 Jul 2026 18:54:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-      "link": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-      "summary": "Netflix is still a Wall Street favorite — and a target for government regulators",
-      "published": "Sat, 18 Jul 2026 18:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rynek mieszkaniowy hamuje po rekordowym początku roku. Eksperci wskazują dwa powody słabszej sprzedaży",
       "link": "https://comparic.pl/rynek-mieszkaniowy-hamuje-po-rekordowym-poczatku-roku-eksperci-wskazuja-dwa-powody-slabszej-sprzedazy/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/11/Freepik-home-house-dom-mieszkanie-nieruchomosc-nieruchomosci-budownictwo-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Po dynamicznym początku roku polski rynek mieszkaniowy wyraźnie zwolnił. Z danych JLL wynika, że deweloperzy sprzedali ",
@@ -624,6 +616,14 @@
       "published": "Sat, 18 Jul 2026 06:00:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+      "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+      "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
+      "published": "Mon, 20 Jul 2026 03:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Taco Bell says it has removed lettuce linked to cyclosporiasis outbreak from its restaurants",
