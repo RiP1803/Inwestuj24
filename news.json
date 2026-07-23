@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:36:39.701147",
+  "generated_at": "2026-07-23T22:09:40.091058",
   "articles": [
     {
       "title": "Wicepremier obiecał wyższą kwotę wolną od podatku. \"Amok\" [OPINIA]",
@@ -32,14 +32,6 @@
       "published": "Wed, 22 Jul 2026 12:59:19 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Wall Street is selling more rental homes, as buying ban takes effect",
-      "link": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
-      "summary": "The largest landlords are all net sellers year to date, with 3,180 more homes sold than bought since Jan. 1.",
-      "published": "Wed, 22 Jul 2026 12:57:45 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Orlen na szczycie. Akcje giganta biją historyczny rekord",
@@ -114,6 +106,86 @@
       "category": "us"
     },
     {
+      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+      "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street’s biggest stocks.",
+      "published": "Thu, 23 Jul 2026 22:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Mocna przecena na Wall Street. Ropa, Trump, Tesla , Google i cała reszta",
+      "link": "https://www.bankier.pl/wiadomosc/Mocna-przecena-na-Wall-Street-Ropa-Trump-Tesla-Google-i-cala-reszta-9172656.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/c/fb5341436b4ac0-948-568-530-360-2800-1680.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kombinacja eskalacji wojny z Iranem, zwyżkujących notowań ropy naftowej oraz rozczarowanie wynikami Google’a i Tesli sprawiły, że czwartkowa sesja na nowojorskich giełdach za",
+      "published": "Thu, 23 Jul 2026 22:03:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "summary": "The hottest tech trades of 2026 just got slammed — smart investors are buying anyway.",
+      "published": "Thu, 23 Jul 2026 22:02:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "AMD’s rivalry with Nvidia is increasingly moving into a new realm",
+      "link": "https://www.marketwatch.com/story/amds-rivalry-with-nvidia-is-increasingly-moving-into-a-new-realm-ac63eceb?mod=mw_rss_topstories",
+      "summary": "The chip makers are best known for competing in the GPU business, but they’re stepping up their offerings in the attractive market for server CPUs.",
+      "published": "Thu, 23 Jul 2026 21:59:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here’s what happens next.",
+      "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
+      "summary": "The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.",
+      "published": "Thu, 23 Jul 2026 21:55:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The stock market’s calm is cracking. Here’s how to prepare for an August shock.",
+      "link": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
+      "summary": "August is historically brutal for market volatility. Here’s how to protect your portfolio.",
+      "published": "Thu, 23 Jul 2026 21:53:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
+      "link": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
+      "summary": "President Donald Trump and U.S. Trade Representative Jamieson Greer are making a fresh move with tariffs on Thursday.",
+      "published": "Thu, 23 Jul 2026 21:50:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat",
+      "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
+      "summary": "While ServiceNow’s earnings beat proved that its AI momentum is picking up, the launch of OpenAI Presence reignited fears of enterprise software disruption",
+      "published": "Thu, 23 Jul 2026 21:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
+      "published": "Thu, 23 Jul 2026 21:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’",
+      "link": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+      "summary": "Tesla’s stock has its worst drop in a year after the company’s earnings call leaves Wall Street with more questions than answers.",
+      "published": "Thu, 23 Jul 2026 21:14:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Przegląd dnia Comparic.pl: S&P 500 bije rekord z czasów bańki dotcomów. Tylko 24 spółki to już połowa indeksu",
       "link": "https://comparic.pl/sp-500-bije-rekord-z-czasow-banki-dotcomow-tylko-24-spolki-to-juz-polowa-indeksu/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Indeks S&#38;P 500 osiągnął najwyższy w historii poziom koncentracji rynkowej, przewyższając nawet szczyt z okresu bańki dotcomów. Według danych Bloomberga z 22 lip",
@@ -122,12 +194,36 @@
       "category": "pl"
     },
     {
+      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+      "summary": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
+      "published": "Thu, 23 Jul 2026 20:45:13 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
       "title": "Gigantyczna kara dla Google. USA odpowiadają UE",
       "link": "https://www.money.pl/gospodarka/eu-nalozyla-gigantyczna-kare-na-google-amerykanie-odpowiadaja-7310664715647360a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5be3bc9e-9792-4056-9f35-078801e1c761\" width=\"308\" /> Działanie Brukseli tworzy \"poważny klimat niepewności\" w relacjach Stanów Zjednoczonych ze Wspólnotą i ryzyko w stosunkach transatlantyckich - ocenił Jamieson Greer, przedstawiciel USA ds. handlu. Dyplomata w ten sposób zareagował na nałożoną przez UE karę na Google wysok",
       "published": "Thu, 23 Jul 2026 20:44:37 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Lockheed Martin’s stock skyrockets as push to build more missiles faster pays off",
+      "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+      "summary": "Lockheed Martin’s stock jumps as a ramp up in missile production helped lead to an earnings beat and raise.",
+      "published": "Thu, 23 Jul 2026 20:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
+      "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
+      "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
+      "published": "Thu, 23 Jul 2026 20:14:12 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
       "title": "OPEC+ znów podniesie cele wydobycia ropy? Wrzesień domknie cięcia z 2023 roku",
@@ -140,7 +236,7 @@
     {
       "title": "Niemcy ostrzegają. Gigantyczna firma mówi o \"upadku przemysłu\"",
       "link": "https://www.money.pl/gospodarka/upadek-przemyslu-w-europie-prezes-swiatowego-giganta-z-niemiec-uderza-w-ue-7310649321347424a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9b9276b6-b3d7-4677-9f8b-9bb642339e31\" width=\"308\" /> Szef BASF Markus Kamieth ocenia, że planowana przez Komisję Europejską reforma systemu ETS może zaszkodzić europejskim firmom i przyspieszyć przenoszenie produkcji poza UE. BASF to największe przedsiębiorstwo chemiczne na świecie.",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9b9276b6-b3d7-4677-9f8b-9bb642339e31\" width=\"308\" /> Szef BASF Markus Kamieth ocenia, że planowana przez Komisję Europejską reforma systemu ETS może zaszkodzić europejskim firmom i przyspieszyć przenoszenie produkcji poza UE. BASF to jedna z największych firm chemicznych na świecie.",
       "published": "Thu, 23 Jul 2026 19:39:18 +0200",
       "source": "Money.pl",
       "category": "pl"
@@ -154,44 +250,12 @@
       "category": "pl"
     },
     {
-      "title": "How to find the best mortgage rate — it could save you $3,300 a year",
-      "link": "https://www.marketwatch.com/story/how-to-find-the-best-mortgage-rate-it-could-save-you-3-300-a-year-e973e520?mod=mw_rss_topstories",
-      "summary": "Buyers who skip comparison shopping often end up considerably overpaying for their mortgage.",
-      "published": "Thu, 23 Jul 2026 19:20:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Global oil tops $100, settles at 2-month high after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran",
-      "link": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-      "summary": "Oil futures climbed sharply Thursday, with global benchmark Brent crude topping $100 a barrel for the first time since May, after Yemen’s Houthi militants claimed attacks on two Saudi Arabian tankers in the Red Sea.",
-      "published": "Thu, 23 Jul 2026 19:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "American Airlines stock tumbles 7% as fuel spike further postpones turnaround",
-      "link": "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-      "summary": "American Airlines further cut its 2026 earnings outlook, citing higher fuel costs.",
-      "published": "Thu, 23 Jul 2026 19:17:21 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Most FDA advisers say the BPC-157 and KPV peptides should be made available in the U.S. Here’s what happens next.",
-      "link": "https://www.marketwatch.com/story/peptides-could-soon-become-widely-available-in-the-u-s-heres-what-happens-next-ead02287?mod=mw_rss_topstories",
-      "summary": "The FDA is deciding whether seven peptides like BPC-157 and TB-500 can be legally compounded, potentially opening the door to broader use in Americans.",
-      "published": "Thu, 23 Jul 2026 19:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they’re stuck.",
-      "link": "https://www.marketwatch.com/story/more-than-70-of-recent-home-buyers-were-counting-on-mortgage-rates-to-drop-now-theyre-stuck-1d0dab60?mod=mw_rss_topstories",
-      "summary": "Refinancing to a lower rate isn’t an option for many homeowners, who now face “financially unsustainable” mortgage payments.",
-      "published": "Thu, 23 Jul 2026 19:08:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Polska złożyła USA ofertę. Chcemy produkować pociski Patriot",
+      "link": "https://businessinsider.com.pl/gospodarka/wspolna-produkcja-patriotow-polska-wychodzi-z-inicjatywa-do-usa-i-ukrainy/cn9d954",
+      "summary": "Wiceminister obrony narodowej Magdalena Sobkowiak-Czarnecka powiedziała w czwartek w Waszyngtonie, że zaproponowała stronie amerykańskiej produkcję pocisków do systemów Patriot we współpracy z USA i Ukrainą. Dodała, że \"chodzi o to, by ta produkcja odbywała się w miejscu bezpiecznym\", czyli w Polsce.",
+      "published": "Thu, 23 Jul 2026 19:36:38 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Rekordowa kara Unii dla Google. Administracja Trumpa reaguje",
@@ -210,44 +274,12 @@
       "category": "pl"
     },
     {
-      "title": "The rising cost of capital for companies today is starting to spook the stock market: ‘The worry is the spending might not pay off’",
-      "link": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
-      "summary": "Alphabet says it plans to throw even more money at the AI buildout. The Iran war, oil back at $100 a barrel and rising bond yields make it all the more difficult for the market to stomach.",
-      "published": "Thu, 23 Jul 2026 18:58:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Atak z zakładnikami w niemieckim banku. Nie żyje pracownik placówki",
-      "link": "https://www.bankier.pl/wiadomosc/Atak-z-zakladnikami-w-niemieckim-banku-Nie-zyje-pracownik-placowki-9172605.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/e/78713e757393a7-948-568-0-0-3890-2333.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Jedna osoba zginęła z powodu ran odniesionych w ataku nożownika w banku w mieście Regensburg na południowym-zachodzie Niemiec. Napastnik wziął zakładników, ale policja zdołała ic",
-      "published": "Thu, 23 Jul 2026 18:57:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "These 16 states are offering tax holidays as back-to-school costs soar to over $800 per student",
-      "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-      "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-      "published": "Thu, 23 Jul 2026 18:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Polacy mają w ETF-ach niemal 20 mld zł — rekordowe inwestycje w pierwszym półroczu 2026",
       "link": "https://comparic.pl/polacy-maja-w-etf-ach-niemal-20-mld-zl-rekordowe-inwestycje-w-pierwszym-polroczu-2026/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-6-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Polski rynek funduszy ETF zbliża się do symbolicznej granicy 20 mld zł. Z raportu Analiz Online, przygotowanego we współpracy z warszawską g",
       "published": "Thu, 23 Jul 2026 18:49:50 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "The stock market’s calm surface is cracking. Here’s how to prepare for an August shock.",
-      "link": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
-      "summary": "August is historically brutal for market volatility. Here’s how to protect your portfolio.",
-      "published": "Thu, 23 Jul 2026 18:47:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Drugi wniosek o referendum w sprawie Zielonego Ładu. Prezydent zmienił pytanie",
@@ -264,14 +296,6 @@
       "published": "Thu, 23 Jul 2026 18:38:41 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
-      "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
-      "summary": "“We live in a house that I purchased entirely with money I had before we were married.”",
-      "published": "Thu, 23 Jul 2026 18:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Rozmowy MC z ambasadą USA. Tematem cyberzagrożenia, 6G i inwestycje technologiczne",
@@ -338,14 +362,6 @@
       "category": "pl"
     },
     {
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-      "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-      "summary": "“I asked why the limit was so low, but they couldn’t give me an explanation.”",
-      "published": "Thu, 23 Jul 2026 18:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rząd zapłaci więcej za budowę dróg. Nowe reguły kosztowały 2 mld zł",
       "link": "https://businessinsider.com.pl/biznes/budowa-drog-w-polsce-z-nowymi-zasadami-gddkia-wyplaci-dodatkowe-miliardy/e05wxxe",
       "summary": "Budowa 855 km dróg będzie wymagała waloryzacji kontraktów. A skoro wzrósł jej limit, to Generalna Dyrekcja Dróg Krajowych i Autostrad musi wypłacić dodatkowe 2 mld zł.",
@@ -359,14 +375,6 @@
       "summary": "Nolan's \"The Odyssey\" is racking up box office dollars for Imax and fueling investor confidence that the company will reach record ticket sales in 2026.",
       "published": "Thu, 23 Jul 2026 17:57:35 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "AT&T won’t need to worry about SpaceX for ‘years,’ analyst says",
-      "link": "https://www.marketwatch.com/story/at-t-wont-need-to-worry-about-spacex-for-years-analyst-says-1d84e1a5?mod=mw_rss_topstories",
-      "summary": "However, that doesn’t mean Starlink won’t be an overhang on wireless stocks.",
-      "published": "Thu, 23 Jul 2026 17:57:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -782,14 +790,6 @@
       "link": "https://businessinsider.com.pl/finanse/handel/lidl-otworzyl-tysieczny-sklep-i-testuje-nowe-rozwiazanie-ai-system-zobaczy/l4vfxtn",
       "summary": "Sieć dyskontów Lidl wprowadza do swoich sklepów nowoczesne technologie. Niektóre z nowych rozwiązań testowane są w najnowszej otwartej placówce. 23 lipca ruszył tysięczny już sklep Lidla — otwarto go w Katowicach, na Nikiszowcu.",
       "published": "Thu, 23 Jul 2026 11:12:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Celne uderzenie Ukrainy w rosyjski handel i rafinerie. Cios w łańcuchy dostaw",
-      "link": "https://businessinsider.com.pl/gospodarka/cios-w-rosyjski-przemysl-naftowy-wazne-obiekty-wstrzymuja-produkcje/1xpqr0s",
-      "summary": "W nocy ze środy na czwartek siły zbrojne Ukrainy ponownie przeprowadziły ataki na magazyny Wildberries i obiekty kompleksu paliwowo-energetycznego w Rosji. Seria uderzeń w strategiczną infrastrukturę — od przesyłu surowców po hale dystrybucyjne — sprawia, że rosyjski biznes z dnia na dzień traci gwarancję ciągłości operacyjnej.",
-      "published": "Thu, 23 Jul 2026 11:04:10 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
