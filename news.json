@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-07-27T22:12:48.671834",
+  "generated_at": "2026-07-28T03:23:36.799834",
   "articles": [
+    {
+      "title": "Kilka milionów osób wypisało się z PPK. Tyle pieniędzy przeszło im koło nosa",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/oszczedzanie/pracownicze-plany-kapitalowe-kto-zyskal-a-kto-stracil-na-decyzji/fp58bh3",
+      "summary": "Blisko 4,5 mln osób oszczędza w PPK. Prawie 3 mln osób mogłoby też zyskać, ale państwowemu programowi powiedziały \"nie\". Z wyliczeń Business Insidera wynika, że od 2020 r. osoby z minimalną krajową mogły zyskać co najmniej 5 tys. zł. Im wyższe wynagrodzenie, tym większe korzyści (nominalnie).",
+      "published": "Tue, 28 Jul 2026 03:06:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
+      "published": "Tue, 28 Jul 2026 01:19:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
     {
       "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
       "link": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
@@ -98,6 +114,14 @@
       "category": "us"
     },
     {
+      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+      "summary": "“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”",
+      "published": "Mon, 27 Jul 2026 22:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
       "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
       "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
@@ -109,14 +133,6 @@
       "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
       "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
       "summary": "“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”",
-      "published": "Mon, 27 Jul 2026 21:46:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-      "summary": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
       "published": "Mon, 27 Jul 2026 21:46:00 GMT",
       "source": "MarketWatch",
       "category": "us"
@@ -182,14 +198,6 @@
       "link": "https://www.marketwatch.com/story/spacexs-stock-falls-to-a-new-low-despite-a-near-flawless-starship-flight-034a99ab?mod=mw_rss_topstories",
       "summary": "SpaceX’s earnings report next week could unleash a further wave of selling, as some insiders will soon be able to unload shares.",
       "published": "Mon, 27 Jul 2026 20:41:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Micron and other chip stocks fall as China steals the spotlight",
-      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
-      "summary": "CXMT had a strong public debut in Shanghai, and now investors are weighing the prospect of a manufacturing breakthrough that could make China’s chip industry more competitive.",
-      "published": "Mon, 27 Jul 2026 20:33:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -720,14 +728,6 @@
       "published": "Mon, 27 Jul 2026 10:46:58 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "\"Mamy ceny Karola Nawrockiego\". Premier zapowiedział możliwy powrót regulowanych cen paliw",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-tusk-o-cenach-paliw-zapowiada-mozliwy-ruch-rzadu/y362fpp",
-      "summary": "Donald Tusk odniósł się do wysokich cen na stacjach paliw w Polsce. — Ktoś złośliwie powiedział, że był CPN, czyli Ceny Paliwa Niżej, a teraz mamy CKN, czyli ceny Karola Nawrockiego. Trochę tak jest niestety. Szkoda tych 4 mld — stwierdził szef rządu. Zapowiedział, że pod koniec wakacji mogą ponownie pojawić się regulowane ceny.",
-      "published": "Mon, 27 Jul 2026 10:33:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Lekarz zażądał 4 tys. zł za dzień pracy. Rzecznik NIL: Powodzenia w prywacie",
