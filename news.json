@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-08-04T19:46:18.764243",
+  "generated_at": "2026-08-04T22:18:04.193131",
   "articles": [
+    {
+      "title": "Euforia na Wall Street. S&P500 wybił przez sufit",
+      "link": "https://www.bankier.pl/wiadomosc/Euforia-na-Wall-Street-S-P500-wybil-przez-sufit-9177963.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/1/ac8359aa06920e-948-569-7-72-991-595.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />S&amp;P500 z impetem wybił się na nowe szczyty wszech czasów. Dow Jones ustanowił nowy historyczny rekord. A Nasdaq zaliczył trzecią silnie wzrostową sesję z rzędu.</p>",
+      "published": "Tue, 4 Aug 2026 22:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
     {
       "title": "Europa rozminuje cieśninę Ormuz? Iran gotowy na ustępstwa",
       "link": "https://www.bankier.pl/wiadomosc/USA-Media-Iran-moze-pozwolic-Europejczykom-na-rozminowanie-Ormuzu-9177944.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
@@ -62,14 +70,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Z-23-do-8-procent-VAT-na-wode-Ministerstwo-Finansow-przeprowadzilo-symulacje-9177860.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/d/59ab99b2e6043e-945-560-224-58-3009-1805.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo Finansów nie wprowadza obecnie zmian w zakresie stawek VAT na butelkowaną wodę mineralną i źródlaną, nie wyklucza jednak wprowadzenia obniżki VAT na te towary w p",
       "published": "Tue, 4 Aug 2026 16:44:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Koniec ze „starymi” interpretacjami podatkowymi. Rząd szykuje gruntowną reformę",
-      "link": "https://www.bankier.pl/wiadomosc/Koniec-ze-starymi-interpretacjami-podatkowymi-Rzad-szykuje-gruntowna-reforme-9177857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/8/ee8d1903a5bd06-948-567-5-70-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wprowadzenie pięcioletniego okresu ważności interpretacji indywidualnych oraz możliwość ich automatycznego przedłużenia zakłada projekt nowelizacji Ordynacji podatkowej – wynika z",
-      "published": "Tue, 4 Aug 2026 16:41:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -162,12 +162,84 @@
       "category": "pl"
     },
     {
+      "title": "Lucid begins 'operational reset' as CEO says EV maker will delay midsize vehicle",
+      "link": "https://www.cnbc.com/2026/08/04/lucid-group-lcid-earnings-q2-2026.html",
+      "summary": "The company didn't provide updated guidance. New CEO Silvio Napoli earlier this year suspended production expectations.",
+      "published": "Tue, 04 Aug 2026 22:08:51 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+      "summary": "While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.",
+      "published": "Tue, 04 Aug 2026 21:54:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+      "link": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+      "summary": "U.S. stocks are entering what has historically been the weakest stretch of the year, but unusually bearish investor sentiment could help limit any pullback, according to Ned Davis Research.",
+      "published": "Tue, 04 Aug 2026 21:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
+      "published": "Tue, 04 Aug 2026 21:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
+      "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
+      "summary": "Paramount Skydance reported second-quarter earnings after the bell and said it continues to prepare for its proposed merger with Warner Bros. Discovery.",
+      "published": "Tue, 04 Aug 2026 21:15:03 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "McDonald’s says its value meals have become too complicated",
+      "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
+      "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
+      "published": "Tue, 04 Aug 2026 21:13:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Przegląd dnia Comparic.pl: Jaka kryptowaluta powtórzy hossę z 2021 roku? Analityk widzi wzrost o 1400 procent",
       "link": "https://comparic.pl/jaka-kryptowaluta-powtorzy-hosse-z-2021-roku-analityk-widzi-wzrost-o-1400-procent/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-324x235.jpg\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Analitycy kryptowalut coraz częściej zestawiają obecne zachowanie kursów z wcześniejszymi cyklami, szukając w nich wskazówek co do dalszego kierunku. Na początku si",
       "published": "Tue, 04 Aug 2026 21:12:46 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+      "summary": "“She has been living with me for four years.”",
+      "published": "Tue, 04 Aug 2026 21:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
+      "link": "https://www.marketwatch.com/story/traders-are-using-options-to-chase-a-runaway-rebound-in-stocks-pushing-the-market-even-higher-9b08d4ab?mod=mw_rss_topstories",
+      "summary": "Stocks have shot higher over the past four trading sessions, and investors who are worried about missing out are piling into bullish options bets just to try to keep up.",
+      "published": "Tue, 04 Aug 2026 21:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
+      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
+      "published": "Tue, 04 Aug 2026 20:47:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Powrót programu CPN w drugiej połowie sierpnia? Motyka rozmawia z resortem finansów",
@@ -178,20 +250,60 @@
       "category": "pl"
     },
     {
+      "title": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
+      "link": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+      "summary": "Critics say Kevin Warsh’s determination to cool prices gains isn’t sufficient.",
+      "published": "Tue, 04 Aug 2026 20:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "published": "Tue, 04 Aug 2026 20:20:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Novo Nordisk stock is sliding again — and the Wegovy pill’s surprise miss is partly to blame",
+      "link": "https://www.marketwatch.com/story/the-wegovy-pills-surprise-miss-is-one-reason-novo-nordisks-stock-is-down-ec0fe43d?mod=mw_rss_topstories",
+      "summary": "The Danish drugmaker also revealed an improved outlook for the year.",
+      "published": "Tue, 04 Aug 2026 20:17:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
+      "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
+      "summary": "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion.",
+      "published": "Tue, 04 Aug 2026 20:15:34 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
+      "link": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
+      "summary": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
+      "published": "Tue, 04 Aug 2026 20:13:38 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Novo Nordisk shares slide after guidance disappoints investors",
+      "link": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
+      "summary": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
+      "published": "Tue, 04 Aug 2026 20:12:20 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
       "title": "Złoto wciąż w „fazie wybuchowej”. Deutsche Bank podtrzymuje cel 4600 USD na uncji",
       "link": "https://comparic.pl/zloto-wciaz-w-fazie-wybuchowej-deutsche-bank-podtrzymuje-cel-4600-usd-na-uncji/",
       "summary": "<img alt=\"\" class=\"attachment-td_324x235 size-td_324x235 wp-post-image\" height=\"235\" src=\"https://comparic.pl/wp-content/uploads/2026/07/freepik-zloto-GOLD-XAUUSD-324x235.webp\" style=\"float: left; margin: 0 15px 15px 0;\" width=\"324\" />Złoto wciąż znajduje się w &#8220;fazie gwałtownego wzrostu cen&#8221;, która rozpoczęła się w sierpniu 2024 roku i dotąd się nie zakończyła — twierdzi Deutsche Bank",
       "published": "Tue, 04 Aug 2026 19:53:15 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-      "link": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
-      "summary": "S&amp;P 500 heads for 25th record close of 2026, after a 42-day break.",
-      "published": "Tue, 04 Aug 2026 19:33:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Porozumienie USA-Iran ws. cieśniny Ormuz w tym tygodniu? Bessent zapowiada spadek cen ropy",
@@ -202,52 +314,12 @@
       "category": "pl"
     },
     {
-      "title": "McDonald’s admits its value meals have become too confusing",
-      "link": "https://www.marketwatch.com/story/mcdonalds-admits-its-value-meals-have-become-too-confusing-dc076468?mod=mw_rss_topstories",
-      "summary": "The fast-food chain said too many promotions at once led to confusion for staff and customers alike.",
-      "published": "Tue, 04 Aug 2026 19:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
-      "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
-      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
-      "published": "Tue, 04 Aug 2026 19:22:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Tyle koncerny naftowe zarobiły w trakcie wojny. \"Robią nas w balona\"",
       "link": "https://businessinsider.com.pl/biznes/fala-upalow-i-wojna-z-iranem-koncerny-naftowe-zarobily-astronomiczna-kwote/kjgbgde",
       "summary": "Osiem największych koncernów naftowych osiągnęło zyski przekraczające 90 mld dol. w ciągu zaledwie trzech miesięcy — podaje \"The Guardian\". \"Robią nas w balona, ​​skoro nawet Donald Trump wzywa je do ukrócenia żerowania na wysokich cenach\" — ocenia jeden z ekspertów.",
       "published": "Tue, 04 Aug 2026 19:18:02 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
-      "link": "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
-      "summary": "“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage.”",
-      "published": "Tue, 04 Aug 2026 19:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-      "link": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
-      "published": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Novo Nordisk shares slide after guidance disappoints investors",
-      "link": "https://www.cnbc.com/2026/08/04/novo-nordisk-releases-earnings-and-guidance.html",
-      "summary": "Novo Nordisk raised its financial outlook as it tries to catch up with rival Eli Lilly in the booming GLP-1 market.",
-      "published": "Tue, 04 Aug 2026 18:51:39 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Kurs jena odbił z 40-letniego dna. Co musi się stać, żeby umocnienie było trwałe?",
@@ -258,36 +330,12 @@
       "category": "pl"
     },
     {
-      "title": "These charts suggest the S&P 500 is looking like a bargain. Take them with a grain of salt.",
-      "link": "https://www.marketwatch.com/story/these-charts-suggest-the-s-p-500-is-looking-like-a-bargain-take-them-with-a-grain-of-salt-f109548f?mod=mw_rss_topstories",
-      "summary": "Stocks are expensive and cheap at the same time. That’s the strange spot the S&amp;P 500 finds itself in: It’s sitting at a fresh all-time high on Tuesday, yet the valuation metrics that usually flash a warning sign are instead flashing green.",
-      "published": "Tue, 04 Aug 2026 18:36:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Chipotle stock falls on potential link to salmonella outbreak in Minnesota",
-      "link": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
-      "summary": "Chipotle has pulled the affected supply from restaurants and replaced them with peppers from different growers, according to the company.",
-      "published": "Tue, 04 Aug 2026 18:33:33 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Media: Iran może pozwolić Europejczykom na rozminowanie Ormuzu",
       "link": "https://businessinsider.com.pl/wiadomosci/rozminowanie-ormuzu-media-iran-moze-dopuscic-europejczykow/6gz5c2g",
       "summary": "Iran rozważa możliwość pozwolenia krajom europejskim na udział w rozminowaniu cieśniny Ormuz — napisał we wtorek serwis Bloomberg.",
       "published": "Tue, 04 Aug 2026 18:22:02 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
-      "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
-      "summary": "“She has been living with me for four years.”",
-      "published": "Tue, 04 Aug 2026 18:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
@@ -298,27 +346,11 @@
       "category": "us"
     },
     {
-      "title": "The richest 20% bought most of the new cars sold in the past several months",
-      "link": "https://www.marketwatch.com/story/the-richest-20-are-buying-most-of-the-new-cars-sold-in-the-u-s-6e470ad4?mod=mw_rss_topstories",
-      "summary": "The AI-fueled bull market in stocks has shifted U.S. car sales into a higher gear — and the richest Americans are doing most of the buying.",
-      "published": "Tue, 04 Aug 2026 17:09:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
       "link": "https://www.cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
       "summary": "P&amp;G CEO Shailesh Jejurikar said the acquisition is a play to grow the company's health business on CNBC's \"Squawk on the Street.\"",
       "published": "Tue, 04 Aug 2026 17:02:05 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "It’s getting easier for terminally ill people to end their own lives. What to know as laws change.",
-      "link": "https://www.marketwatch.com/story/its-getting-easier-for-terminally-ill-people-to-end-their-own-lives-what-to-know-as-laws-change-4fa04c54?mod=mw_rss_topstories",
-      "summary": "Patients must meet three conditions to qualify for Medical Aid in Dying.",
-      "published": "Tue, 04 Aug 2026 16:56:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -336,14 +368,6 @@
       "published": "Tue, 04 Aug 2026 16:46:12 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
-      "published": "Tue, 04 Aug 2026 16:34:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Kraj NATO wydłuża służbę wojskową. \"Stoi w obliczu nowej rzeczywistości\"",
@@ -448,14 +472,6 @@
       "published": "Tue, 04 Aug 2026 14:07:14 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "McDonald's says its U.S. business is falling short as it announces new head of its largest market",
-      "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
-      "summary": "McDonald's stock has fallen more than 11% this year, dragging its market cap down to roughly $191 billion.",
-      "published": "Tue, 04 Aug 2026 13:52:18 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Nowojorska giełda łapie wiatr w żagle. Technologiczni giganci znów napędzają wzrosty",
@@ -824,22 +840,6 @@
       "published": "Mon, 03 Aug 2026 11:26:36 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "link": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-      "published": "Fri, 31 Jul 2026 21:49:40 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-      "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-      "published": "Fri, 31 Jul 2026 20:19:03 GMT",
-      "source": "CNBC",
-      "category": "us"
     }
   ]
 }
