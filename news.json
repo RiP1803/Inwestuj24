@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:04:06.848807",
+  "generated_at": "2026-08-10T19:08:06.210271",
   "articles": [
     {
       "title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
@@ -74,14 +74,6 @@
       "category": "us"
     },
     {
-      "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
-      "link": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
-      "summary": "Burger King's U.S. business reported same-store sales growth of 8.5%.",
-      "published": "Thu, 06 Aug 2026 15:58:02 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Warner Bros. Discovery reports 10% jump in streaming revenue ahead of proposed Paramount combination",
       "link": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
       "summary": "Warner Bros. Discovery's streaming segment surpassed $3 billion in revenue for the second quarter, marking a 10% increase from the year prior",
@@ -114,14 +106,6 @@
       "category": "pl"
     },
     {
-      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
-      "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-      "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
-      "published": "Sat, 08 Aug 2026 12:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "45 lat pracy w Niemczech. Ważny apel 75-letniej emerytki",
       "link": "https://www.money.pl/finanse/45-lat-pracy-w-niemczech-wazny-apel-75-letniej-emerytki-7316203462985728a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8a930bfe-acb3-438c-b945-e560f08b98a7\" width=\"308\" /> Niemieckie media poruszają temat podejścia do życia na emeryturze. Serwis Focus opisuje historię 75-letniej Maricy, która przepracowała w Niemczech 45 lat. Kobieta krytykuje powszechne narzekanie i apeluje do seniorów o zmianę nastawienia.",
@@ -138,19 +122,123 @@
       "category": "pl"
     },
     {
+      "title": "Microsoft wreszcie pokaże własny chip AI! Czy to koniec eldorado Nvidii?",
+      "link": "https://comparic.pl/microsoft-wreszcie-pokaze-wlasny-chip-ai-czy-to-koniec-eldorado-nvidii/",
+      "summary": "<p><img alt=\"Microsoft\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2022/01/Depositphotos_150052304_S-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Po miesiącach stania w miejscu, problemach technicznych i znacznie wolniejszym rozwoju, niż można było oczekiwać, projekt własnego chipu AI Microsoftu mo",
+      "published": "Mon, 10 Aug 2026 19:52:07 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Przełom w odchudzaniu. Europa zatwierdziła pierwszą tabletkę zamiast zastrzyków",
+      "link": "https://www.bankier.pl/wiadomosc/Przelom-w-odchudzaniu-Europa-zatwierdzila-pierwsza-tabletke-zamiast-zastrzykow-9180359.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/d/ac781c548eed05-948-568-0-100-1920-1151.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Brytyjska agencja ds. leków MHRA jako pierwsza w Europie zatwierdziła w poniedziałek do użytku tabletkę odchudzającą Foundayo, którą zażywa się codziennie. Ma pomóc w utracie w",
+      "published": "Mon, 10 Aug 2026 19:44:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowy warunek w rozmowach USA z Iranem. Trump chce odszkodowań",
+      "link": "https://www.bankier.pl/wiadomosc/Nowy-warunek-w-rozmowach-USA-z-Iranem-Trump-chce-odszkodowan-9180354.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/c/d6c7e3bbde39cb-948-568-555-97-2437-1462.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump zapowiedział w poniedziałek, że będzie domagać się odszkodowań od Iranu za wszystkie osoby, które zginęły i zostały ranne w wyniku działań władz w T",
+      "published": "Mon, 10 Aug 2026 19:34:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Vitalik Buterin ma nowy plan dla Ethereum. Chodzi o bezpieczeństwo milionów użytkowników",
+      "link": "https://comparic.pl/vitalik-buterin-ma-nowy-plan-dla-ethereum-chodzi-o-bezpieczenstwo-milionow-uzytkownikow/",
+      "summary": "<p><img alt=\"Vitalik Buterin\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/AI-Vitalik-Buterin-Ethereum-ETH-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Współzałożyciel Ethereum Vitalik Buterin przedstawił nową wizję rozwoju sieci, która znacząco zmienia jej dotychczasowe priorytety technolog",
+      "published": "Mon, 10 Aug 2026 19:21:07 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
+      "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+      "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
+      "published": "Mon, 10 Aug 2026 19:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
+      "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "summary": "The capital package highlights the growing role of private capital in financing the costs of the artificial intelligence boom.",
+      "published": "Mon, 10 Aug 2026 18:58:47 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Wypaliłam się i rzuciłam wymagającą pracę. Przerodziło się to w nieoczekiwaną, 18-miesięczną przerwę zawodową, która zmieniła moje życie",
+      "link": "https://businessinsider.com.pl/rozwoj-osobisty/kariera/wypalilam-sie-i-rzucilam-wymagajaca-prace-przerodzilo-sie-to-w-nieoczekiwana-18/g57ept6",
+      "summary": "Myślę, że byłam wypalona przez całe sześć lat, kiedy pracowałam w bankowości inwestycyjnej i private equity. Przez pierwszą połowę mojej kariery byłam świeżo po studiach i wydawało mi się, że mam nieograniczone pokłady determinacji, żeby wszystko wytrzymać. Z czasem jednak wypalenie narastało.",
+      "published": "Mon, 10 Aug 2026 18:49:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+      "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+      "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
+      "published": "Mon, 10 Aug 2026 18:46:43 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Emerytura? Niekoniecznie. Polacy wypłacili już miliardy",
+      "link": "https://www.money.pl/finanse/emerytura-niekoniecznie-polacy-wyplacili-sobie-miliardy-7317004553091072a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/fa6a180b-351b-4b5f-8b47-5692eb97e991\" width=\"308\" /> W lipcu 2026 r. aktywa netto funduszy w Pracowniczych Planach Kapitałowych (PPK) wzrosły do 55,9 mld zł. Tylko w tym jednym miesiącu wypłacono z nich jednak około 367 mln zł.",
+      "published": "Mon, 10 Aug 2026 18:38:25 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+      "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+      "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
+      "published": "Mon, 10 Aug 2026 18:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
+      "published": "Mon, 10 Aug 2026 18:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-just-how-insane-the-stock-markets-august-crash-up-has-been-so-far-b822404d?mod=mw_rss_topstories",
+      "summary": "Many investors were caught flat-footed when stocks suddenly jerked higher late last month, as a dramatic July momentum unwind ended with a hint of optimism.",
+      "published": "Mon, 10 Aug 2026 18:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "published": "Mon, 10 Aug 2026 18:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Zaorał 200 metrów asfaltu. Straty sięgają 400 tys. zł, rolnik trafił do aresztu",
+      "link": "https://www.bankier.pl/wiadomosc/Zaoral-200-metrow-asfaltu-Straty-siegaja-400-tys-zl-rolnik-trafil-do-aresztu-9180325.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/8/c4aeb47bb005cc-948-568-0-0-1674-1004.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sąd zgodził się na aresztowanie rolnika, który zaorał asfalt na ul. Rybackiej w Ostropie, ze względu na zagrożenie surową karą i możliwość podejmowania prób jej uniknięcia – poin",
+      "published": "Mon, 10 Aug 2026 17:55:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "5,81 mln ETH w rękach jednej spółki. Bitmine ujawnia wartość swojego portfela",
       "link": "https://comparic.pl/581-mln-eth-w-rekach-jednej-spolki-bitmine-ujawnia-wartosc-swojego-portfela/",
       "summary": "<p><img alt=\"Ethereum\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/AI-Ethereum-ETH-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Bitmine Immersion Technologies zwiększyło zasoby Ethereum do 5,81 mln ETH, które odpowiadają już 4,8% całkowitej podaży tej kryptowaluty. Łączna wartość kryptowa",
       "published": "Mon, 10 Aug 2026 17:50:03 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Konflikt w WZM przed połączeniem z Cegielskim. Czterech związkowców zwolnionych",
-      "link": "https://www.bankier.pl/wiadomosc/Konflikt-w-WZM-przed-polaczeniem-z-Cegielskim-Czterech-zwiazkowcow-zwolnionych-9180301.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/b/fc02ef1ed124e8-948-568-6-12-2553-1532.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zwolnienia pracowników Wojskowych Zakładach Motoryzacyjnych w Poznaniu to efekt nieprawidłowości wykrytych w czasie zewnętrznego audytu - podkreślił w poniedziałkowym oświadczen",
-      "published": "Mon, 10 Aug 2026 17:33:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -162,6 +250,30 @@
       "category": "pl"
     },
     {
+      "title": "Donald Trump odpowiada Iranowi. Teraz to on żąda odszkodowań",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-stawia-nowy-warunek-iranowi-odszkodowania-w-centrum-sporu/04e821p",
+      "summary": "Donald Trump postawił nowy warunek w rozmowach z Teheranem. W odpowiedzi na irańskie roszczenia finansowe prezydent Stanów Zjednoczonych zapowiedział, że sam wystąpi z żądaniami rekompensat, obejmującymi ofiary działań przypisywanych władzom Islamskiej Republiki.",
+      "published": "Mon, 10 Aug 2026 17:28:29 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "summary": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+      "published": "Mon, 10 Aug 2026 17:23:17 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI",
+      "link": "https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories",
+      "summary": "Archer Aviation’s stock is flying higher after the company agreed to buy three business units from Boeing.",
+      "published": "Mon, 10 Aug 2026 17:22:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Zwolnienia grupowe spadły o 32 proc. Resort podał najnowsze dane",
       "link": "https://www.bankier.pl/wiadomosc/Zwolnienia-grupowe-spadly-o-32-proc-Resort-podal-najnowsze-dane-9180293.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/4/4caed985bdb038-948-568-10-270-3983-2390.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W okresie styczeń-czerwiec 2026 r. zwolniono grupowo 11,6 tys. osób, czyli o 32 proc. mniej niż w analogicznym okresie 2025 r. - poinformował w odpowiedzi na interpelację pose",
@@ -170,12 +282,20 @@
       "category": "pl"
     },
     {
-      "title": "Silne trzęsienie ziemi w Kolumbii. Zawaliły się budynki",
+      "title": "Silne trzęsienie ziemi w Kolumbii. Zawaliły się budynki, są ofiary śmiertelne",
       "link": "https://www.bankier.pl/wiadomosc/Silne-trzesienie-ziemi-w-Kolumbii-Zawalily-sie-budynki-9180292.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/a/2bbb592ce071c7-948-568-0-193-2972-1783.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Silne trzęsienie ziemi, które w poniedziałek nawiedziło Kolumbię, doprowadziło do zawalenia się budynków - poinformował kolumbijski dziennik „El Tiempo”. Liczba ofiar śmierteln",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/a/2bbb592ce071c7-948-568-0-193-2972-1783.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do 47 wzrosła liczba ofiar śmiertelnych trzęsienia ziemi, które w poniedziałek nawiedziło zachodnią Kolumbię - przekazały władze lokalne. Zawaliły się dziesiątki budynków, trwa",
       "published": "Mon, 10 Aug 2026 16:53:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
+      "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+      "summary": "Here’s how the Protect College Sports Act could impact the economics of college sports.",
+      "published": "Mon, 10 Aug 2026 16:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Strategy znów sprzedaje Bitcoina. Tym razem pozbyła się 1 690 BTC",
@@ -192,6 +312,14 @@
       "published": "Mon, 10 Aug 2026 16:26:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Wielki plan Shein legł w gruzach. Wraca do Chin",
+      "link": "https://businessinsider.com.pl/finanse/handel/chinski-gigant-shein-z-problemami-przychody-w-usa-spadaja-inwestycje-wracaja-do-chin/wnn5x7q",
+      "summary": "Nieco ponad rok temu chiński gigant taniej mody Shein wynajął 15 hektarów magazynów w pobliżu Ho Chi Minh City. Firma chciała stworzyć w Wietnamie ważną bazę eksportową i zmniejszyć zależność od Chin. Plan jednak nie wypalił — pisze Reuters.",
+      "published": "Mon, 10 Aug 2026 16:24:24 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Rada Ministrów wyraziła zgodę na podział Enei",
@@ -274,30 +402,6 @@
       "category": "pl"
     },
     {
-      "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-      "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-      "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
-      "published": "Mon, 10 Aug 2026 15:03:24 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.",
-      "link": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-      "summary": "The share of Americans who are working or looking for a job hasn’t been this low since the pandemic, according to a July jobs report full of gut punches.",
-      "published": "Mon, 10 Aug 2026 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
-      "link": "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-      "summary": "“She was a teacher at a school district, so didn’t put much into Social Security.”",
-      "published": "Mon, 10 Aug 2026 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Coraz więcej rozwodów po 30 latach małżeństwa. GUS pokazał najnowsze dane",
       "link": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-rozwodow-po-30-latach-malzenstwa-GUS-pokazal-najnowsze-dane-9180204.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/c/7ee39fdb1023c2-948-568-28-0-1809-1085.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przeciętne małżeństwo, które kończy się rozwodem, trwa około 15 lat. Na przestrzeni 25 lat zwiększył się odsetek rozwodów małżeństw z długoletnim stażem - przekazał w poniedział",
@@ -312,46 +416,6 @@
       "published": "Mon, 10 Aug 2026 14:53:57 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
-      "link": "https://www.marketwatch.com/story/heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-startup-cost-53735d59?mod=mw_rss_topstories",
-      "summary": "Starlink versus fiber, cable and 5G: The smart spender’s guide to 2026 internet options.",
-      "published": "Mon, 10 Aug 2026 14:51:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-      "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-      "summary": "“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”",
-      "published": "Mon, 10 Aug 2026 14:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Taylor Farms recalls jalapeño-based foods in 26 states amid ongoing salmonella outbreak",
-      "link": "https://www.marketwatch.com/story/taylor-farms-recalls-jalapeno-based-foods-in-26-states-amid-ongoing-salmonella-outbreak-f873657b?mod=mw_rss_topstories",
-      "summary": "The farming giant said this includes salsas, guacamole and pimento cheese dips.",
-      "published": "Mon, 10 Aug 2026 14:41:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
-      "published": "Mon, 10 Aug 2026 14:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The stocks of these ‘toll takers’ could be the AI boom’s next big winners",
-      "link": "https://www.marketwatch.com/story/the-stocks-of-these-toll-takers-could-be-the-ai-booms-next-big-winners-ae1081f1?mod=mw_rss_topstories",
-      "summary": "The next boom could be in stocks of companies collecting recurring revenue from AI workloads.",
-      "published": "Mon, 10 Aug 2026 14:28:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Aż 21 krajów ze średnią ceną energii powyżej psychologicznej bariery",
@@ -402,14 +466,6 @@
       "category": "pl"
     },
     {
-      "title": "Prokuratura nie odpuszcza Wiśniewskiemu. Jest kasacja do Sądu Najwyższego",
-      "link": "https://www.bankier.pl/wiadomosc/Prokuratura-nie-odpuszcza-Wisniewskiemu-Jest-kasacja-do-Sadu-Najwyzszego-9180145.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/0/9113866aa442e7-948-568-0-90-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prokuratura Okręgowa Warszawa-Praga poinformowała w poniedziałek, że wniosła do Sądu Najwyższego kasację od wyroku uniewinniającego piosenkarza Michała Wiśniewskiego. Artysta by",
-      "published": "Mon, 10 Aug 2026 13:52:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "\"Pieniądze pielgrzymów”. Tak Niemcy opisują gigantyczną Maryję w Polsce",
       "link": "https://businessinsider.com.pl/wiadomosci/polski-milioner-buduje-gigantyczny-pomnik-matki-boskiej-to-robi-wrazenie/kng3nh0",
       "summary": "Niemieckie media zauważyły powstający we wsi Konotopie monumentalny pomnik Matki Boskiej. \"W maleńkiej polskiej wsi jeden z najbogatszych Polaków wznosi gigantyczny pomnik Najświętszej Maryi Panny, jeszcze większy niż Chrystus z Rio. Mała miejscowość liczy na łaskę Matki Boskiej — i pieniądze pielgrzymów\" — podaje n-tv.de, serwis niemieckiej telewizji informacyjnej.",
@@ -454,14 +510,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/d/a40a778c1bc3aa-948-568-0-0-948-568.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na warszawskiej giełdzie wakacyjna hossa trwa w najlepsze, co przekłada się na wyniki uczestników naszego konkursu inwestycyjnego. W przypadku dwóch aktualnie najlepszych graczy wy",
       "published": "Mon, 10 Aug 2026 13:25:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "MF otwiera drogę do hipotek opartych na stopie NBP. Jest wniosek do EBC",
-      "link": "https://www.bankier.pl/wiadomosc/MF-otwiera-droge-do-hipotek-opartych-na-stopie-NBP-Jest-wniosek-do-EBC-9180110.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/6/d9ff33e3036e85-948-567-0-35-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Resort finansów zwrócił się do Europejskiego Banku Centralnego o opinię ws. propozycji krajowego sektora bankowego o uwzględnienie stopy referencyjnej NBP jako jednej z metod ust",
-      "published": "Mon, 10 Aug 2026 13:10:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -698,22 +746,6 @@
       "category": "pl"
     },
     {
-      "title": "Sentymentalna pułapka. Porównaliśmy ceny z lat 90. i z dziś",
-      "link": "https://businessinsider.com.pl/finanse/ceny-w-latach-90-sprawdzilismy-ile-kosztowaly-najpopularniejsze-zakupy/rnwz5d6",
-      "summary": "Tak, kiedyś było tanio. W połowie lat 90. bochen chleba kosztował mniej niż złotówkę, bilet do kina 4 zł, a za papierosy Caro płaciliśmy 1 zł 30 gr. Takie ceny to jednak sentymentalna pułapka, bo w tamtych czasach było nas stać na dużo mniej. Policzyliśmy to na konkretnych przykładach.",
-      "published": "Mon, 10 Aug 2026 10:26:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Rekordowe zyski koncernów paliwowych. Co zrobią z tymi pieniędzmi?",
-      "link": "https://businessinsider.com.pl/gielda/rekordowe-zyski-koncernow-paliwowych-co-zrobia-z-tymi-pieniedzmi/r3ybwg4",
-      "summary": "Wielcy gracze branży paliwowej, tacy jak ExxonMobil, Chevron, BP, Shell i TotalEnergies, odnotowali w drugim kwartale 2026 r. prawie 50 mld dol. zysków. Firmy mierzą się z rosnącą presją polityczną i społeczną.",
-      "published": "Mon, 10 Aug 2026 10:22:42 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "XRP spadnie wkrótce o 50%? ChatGPT ujawnił dokładną datę krachu",
       "link": "https://comparic.pl/xrp-spadnie-wkrotce-o-50-chatgpt-ujawnil-dokladna-date-krachu/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/krypto-2026-07-13T074546.672-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Kolejna prognoza dotycząca kryptowalut powstała nie w laboratorium analityków, lecz w modelu sztucznej inteligencji, który ocenił perspektywy jednego z najpop",
@@ -726,30 +758,6 @@
       "link": "https://comparic.pl/te-akcje-maja-ogromny-potencjal-analityk-wskazuje-swoje-typy-na-sierpien-2026-r/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/hossa-wyniki-AI-23423523235-freepik-cc-345325235-10-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Polska giełda bije kolejne rekordy, jednak zdaniem analityka Marcina Podlackiego to jeszcze nie koniec rajdu. Choć pod koniec lipca ryn",
       "published": "Mon, 10 Aug 2026 10:13:53 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rosja bije rekordy w fabrykach rakiet. Ukraiński wywiad ostrzega",
-      "link": "https://businessinsider.com.pl/wiadomosci/rosyjski-przemysl-zbrojeniowy-bije-rekordy-wywiad-ukrainy-alarmuje/8qwkd7p",
-      "summary": "Rosyjski przemysł zbrojeniowy działa w tempie, które przekracza założone plany produkcyjne. Wywiad wojskowy Ukrainy alarmuje, że mimo międzynarodowych sankcji Moskwa nie tylko utrzymuje, ale wyraźnie zwiększa wytwarzanie pocisków rakietowych różnych typów.",
-      "published": "Mon, 10 Aug 2026 10:02:54 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Cezary Graf miał rację. Ta spółka pobiła Wall Street – Nvidia i Apple bez szans",
-      "link": "https://comparic.pl/cezary-graf-mial-racje-ta-spolka-pobila-wall-street-nvidia-i-apple-bez-szans/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/krypto-2026-08-10T090142.439-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Pierwsza połowa 2026 roku należała do jednej z bardziej nieprzewidywalnych na Wall Street od dłuższego czasu, a indeks S&#38;P 500 zyskał w tym okresie 12,8 p",
-      "published": "Mon, 10 Aug 2026 09:34:10 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Najgorszy kwartał złota od 2013 r.! “To jeden z najsilniejszych sygnałów w historii raportów WGC”",
-      "link": "https://comparic.pl/najgorszy-kwartal-zlota-od-2013-r-to-jeden-z-najsilniejszych-sygnalow-w-historii-raportow-wgc/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/Tomasz-Gessner-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Złoto zamknęło najgorszy kwartał od 2013 roku, tracąc na wartości 14 procent. Dla wielu inwestorów to sygnał alarmowy, dla innych sygnał do zwiększenia pozycji. Kto miał ra",
-      "published": "Mon, 10 Aug 2026 09:26:41 +0000",
       "source": "Comparic.pl",
       "category": "pl"
     },
@@ -830,14 +838,6 @@
       "link": "https://www.money.pl/gospodarka/ujawnili-niezrealizowany-plan-orbana-chcial-wydac-20-mln-euro-7315863164086336a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/26f6a337-5f0f-454c-8033-4f46149f594b\" width=\"308\" /> Gabinet Viktora Orbána chciał kupić za 20 mln euro nieruchomość w jednej z najdroższych części Brukseli. Miała tam powstać luksusowa restauracja promująca węgierską kuchnię oraz przestrzeń dyplomatyczna dla ówczesnego premiera i jego otoczenia. Plan ostatecznie upadł.",
       "published": "Fri, 07 Aug 2026 12:51:15 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wzrost bezrobocia w Polsce. W urzędach pracy 907,3 tys. osób",
-      "link": "https://www.money.pl/gospodarka/wzrost-bezrobocia-w-polsce-w-urzedach-pracy-907-3-tys-osob-7315852777814080a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/50996db5-b244-4e93-a37b-60e1e322036e\" width=\"308\" /> Szacowana stopa bezrobocia rejestrowanego w lipcu wyniosła 5,9 proc. Oznacza to minimalny wzrost wobec czerwca. W urzędach pracy zarejestrowanych było 907,3 tys. bezrobotnych, jak podało MRPiPS.",
-      "published": "Fri, 07 Aug 2026 12:37:05 +0200",
       "source": "Money.pl",
       "category": "pl"
     }
