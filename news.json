@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:30:58.729705",
+  "generated_at": "2026-08-14T04:54:24.505103",
   "articles": [
     {
       "title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
@@ -8,14 +8,6 @@
       "published": "Wed, 12 Aug 2026 21:13:11 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Nie liczmy na AI, wiek emerytalny do zmiany. \"Docelowo trzeba podnieść\"",
-      "link": "https://www.money.pl/finanse/nie-liczmy-na-ai-wiek-emerytalny-do-zmiany-docelowo-trzeba-podniesc-7317653671831680a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/3c77377c-5e7b-4228-9e89-17f56cfde24b\" width=\"308\" /> Rozwój sztucznej inteligencji może w przyszłości zwiększyć produktywność, ale i tak nie unikniemy dyskusji o podniesieniu wieku emerytalnego. Obecne rozwiązania już są archaiczne - mówi w rozmowie z money.pl prof. Agnieszka Chłoń-Domińczak ze Szkoły Głównej Handlowej w Wa",
-      "published": "Wed, 12 Aug 2026 20:34:48 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
@@ -80,6 +72,14 @@
       "published": "Tue, 11 Aug 2026 16:23:29 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Rekordy w cieniu kryzysu i wojny. S&P 500 na szczycie wszech czasów.",
+      "link": "https://www.bankier.pl/wiadomosc/Rekordy-w-cieniu-kryzysu-i-wojny-S-P-500-na-szczycie-wszech-czasow-9182147.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/c/51dd39e408ba28-948-568-25-56-2022-1213.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, a S&amp;P 500 ustanowił nowy historyczny rekord. Liderami zwyżek były spółki technologiczne. W dół s",
+      "published": "Thu, 13 Aug 2026 23:02:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
@@ -160,14 +160,6 @@
       "published": "Thu, 13 Aug 2026 20:33:06 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Grecja walczy z pożarami. Ogień dotarł na Półwysep Chalcydycki",
-      "link": "https://www.bankier.pl/wiadomosc/Grecja-walczy-z-pozarami-Ogien-dotarl-na-Polwysep-Chalcydycki-9182112.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/c/410d3e002af19e-945-560-15-247-2925-1754.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Pożary, z którymi od kilkunastu dni zmaga się Grecja, dotarły na Półwysep Chalcydycki na północy kraju. Ponad 300 osób - turystów i mieszkańców - ewakuowano w czwartek po połu",
-      "published": "Thu, 13 Aug 2026 20:22:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Clop atakuje kolejne koncerny? Shell i Philips badają incydenty",
@@ -378,14 +370,6 @@
       "category": "pl"
     },
     {
-      "title": "Wirus Zachodniego Nilu w Europie. Grecja odnotowuje gwałtowny wzrost zakażeń",
-      "link": "https://www.bankier.pl/wiadomosc/Wirus-Zachodniego-Nilu-w-Europie-Grecja-odnotowuje-gwaltowny-wzrost-zakazen-9181973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/4/69d16c1ceb3e48-948-567-5-32-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Greckie służby medyczne odnotowały znaczny wzrost liczby zakażeń wirusem Zachodniego Nilu (WNF) – w ciągu ostatniego tygodnia zgłoszono 45 nowych przypadków - przekazał w czwartek",
-      "published": "Thu, 13 Aug 2026 16:26:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Pierwsze takie słowa premiera. Mówi o podatku na gigantów z USA",
       "link": "https://www.money.pl/podatki/donald-tusk-o-podatku-cyfrowym-co-z-relacjami-z-usa-7318039831423168a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/72124c44-d7f0-4cd0-9fd9-d71d00117805\" width=\"308\" /> Podczas czwartkowej konferencji premier Donald Tusk zabrał głos sprawie podatku cyfrowego. Szef rządu podkreślił, że decyzje w tym zakresie wymagają ostrożności z uwagi na relacje polsko-amerykańskie.",
@@ -466,14 +450,6 @@
       "category": "pl"
     },
     {
-      "title": "Prezydent podpisał ustawę o OKI. 100 tys. zł inwestycji bez podatku Belki",
-      "link": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-o-osobistych-kontach-inwestycyjnych-9181877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/b/909c2448edd2ee-945-560-0-0-1732-1039.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki podpisał ustawę z dnia 3 lipca 2026 r. o osobistych kontach inwestycyjnych - poinformowała w czwartek kancelaria prezydenta.</p>",
-      "published": "Thu, 13 Aug 2026 15:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "WIG20 wyraźnie traci. Czy hossa na GPW złapie zadyszkę?",
       "link": "https://businessinsider.com.pl/gielda/gpw-pod-presja-realizacji-zyskow-ekspert-o-sile-polskich-akcji/jnegel6",
       "summary": "\"Okresowe cofnięcia i realizacja zysków są naturalne\" — komentuje sytuację na warszawskiej giełdzie Eryk Szmyd z XTB. Jego zdaniem nawet zejście indeksu WIG20 w okolice 3800 pkt nie musiałoby samo w sobie oznaczać końca długoterminowego trendu wzrostowego.",
@@ -504,14 +480,6 @@
       "published": "Thu, 13 Aug 2026 14:37:34 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "ETF-y: kupić i trzymać czy aktywnie zmieniać portfel? Najpierw spisz plan",
-      "link": "https://www.bankier.pl/wiadomosc/ETF-y-kupic-i-trzymac-czy-aktywnie-zmieniac-portfel-Najpierw-spisz-plan-9181855.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/1/c4d0b039c4f6bc-948-568-6-19-1168-700.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />ETF-y upraszczają budowę zdywersyfikowanego portfela, ale nie zdejmują z inwestora odpowiedzialności za strategię. Jak często kupować, kiedy przywracać założone proporcje między ",
-      "published": "Thu, 13 Aug 2026 14:33:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Tak chciał zakpić z podatków. Sąd szybko sprowadził Mentzena na ziemię",
@@ -554,14 +522,6 @@
       "category": "pl"
     },
     {
-      "title": "Kultowe Gadu-Gadu wraca z nowym komunikatorem",
-      "link": "https://www.bankier.pl/wiadomosc/Kultowe-Gadu-Gadu-wraca-z-nowym-komunikatorem-9181794.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/3/6390e901bd8a4e-948-568-79-0-2736-1641.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />15 sierpnia Gadu-Gadu skończy 26 lat. Polski komunikator, który na początku XXI wieku stał się jednym z symboli internetowej komunikacji, chce dziś wykorzystać swoją rozpoznawal",
-      "published": "Thu, 13 Aug 2026 14:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Kredyty hipoteczne znów drożeją. Banki zmieniają marże i oprocentowanie, ale część promocji nadal zaskakuje",
       "link": "https://comparic.pl/kredyty-hipoteczne-znow-drozeja-banki-zmieniaja-marze-i-oprocentowanie-ale-czesc-promocji-nadal-zaskakuje/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/04/freepik-dom-mieszkanie-rynek-nieruchomosci-kredyt-hipoteczny-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Rynek kredytów hipotecznych w Polsce ponownie stał się bardzo zróżnicowany. Część banków zdecydowała się na podwyżki stawek po ",
@@ -586,14 +546,6 @@
       "category": "other"
     },
     {
-      "title": "To już pewne. Takie korzyści podatkowe przyniosą Osobiste Konta Inwestycyjne [ANALIZA]",
-      "link": "https://businessinsider.com.pl/finanse/inwestowanie-bez-podatku-belki-jakie-korzysci-moze-przyniesc-osobiste-konto/rmj4c48",
-      "summary": "Osobiste Konto Inwestycyjne staje się faktem. Prezydent Karol Nawrocki podpisał ustawę umożliwiającą zwolnienie z podatku Belki oraz wprowadzającą zupełnie nowe podejście do opodatkowania większych inwestycji.",
-      "published": "Thu, 13 Aug 2026 13:45:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Donald Trump pozwany za płatny dostęp do wpisów na Truth Social",
       "link": "https://comparic.pl/donald-trump-pozwany-za-platny-dostep-do-wpisow-na-truth-social/",
       "summary": "<p><img alt=\"Donald Trump\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Donald-Trump-USA-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Prezydent USA Donald Trump został pozwany w związku z Truth API, komercyjną usługą Trump Media zapewniającą klientom szybszy dostęp do wpisów publikowanych",
@@ -610,44 +562,12 @@
       "category": "pl"
     },
     {
-      "title": "Człowiek Donalda Tuska ma wylądować w Trybunale Konstytucyjnym. Szykują się kontrowersje",
-      "link": "https://businessinsider.com.pl/prawo/donald-tusk-zegna-macieja-berka-nowa-rola-bylego-ministra-budzi-emocje/70g3hdr",
-      "summary": "Maciej Berek przestanie być ministrem w Kancelarii Prezesa Rady Ministrów. Donald Tusk potwierdził, że będzie kandydatem do Trybunału Konstytucyjnego. Nasi rozmówcy nie kryją, że może wzbudzać tam kontrowersje porównywalne z Krystyną Pawłowicz.",
-      "published": "Thu, 13 Aug 2026 13:40:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "UE płaci Maroku za ochronę granic. Kwota jest ogromna",
-      "link": "https://businessinsider.com.pl/gospodarka/maroko-dostaje-miliony-na-walke-z-migracja-liczba-przekroczen-granicy-wzrasta/g3zkt5n",
-      "summary": "Unia Europejska od lat przekazuje Maroku pieniądze na kontrolę granic i walkę z nielegalną migracją - w latach 2021-2027 planowane jest 500 mln euro. Problem w tym, że oficjalne statystyki pokazują wzrost liczby osób przedostających się do hiszpańskich enklaw w Afryce. W samym 2026 r., jeszcze przed uwzględnieniem największych tegorocznych wydarzeń, liczba takich przypadków przekroczyła już poziom",
-      "published": "Thu, 13 Aug 2026 13:36:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Donald Tusk ogłasza nowy CPN. Wiemy już, jak skorzystają kierowcy",
-      "link": "https://businessinsider.com.pl/gospodarka/podatki/donald-tusk-oglasza-nowy-cpn-wiemy-juz-jak-skorzystaja-kierowcy/89e1w0z",
-      "summary": "Pakiet przepisów \"Ceny Paliw Niżej\" został wprowadzony pod koniec marca w reakcji na gwałtowny wzrost cen ropy i paliw na światowych rynkach po wybuchu wojny na Bliskim Wschodzie. Po ostatnim wzroście napięcia w tym regionie cena Brent zbliżyła się do 90 dol. za baryłkę, a paliwa znów zrobiły drogie. Donald Tusk w czwartek ogłosił nowy kształt programu.",
-      "published": "Thu, 13 Aug 2026 13:12:07 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Kursy walut NBP. Złoty tanieje. Sprawdź, ile dziś zapłacisz za euro, dolara i franka 13 sierpnia 2026",
       "link": "https://comparic.pl/kursy-walut-nbp-zloty-tanieje-sprawdz-ile-dzis-zaplacisz-za-euro-dolara-i-franka-13-sierpnia-2026/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>W czwartek, 13 sierpnia 2026 r., średnie kursy walut Narodowego Banku Polskiego (NBP) kształtują się następująco: dolar amerykański (USD/PLN) kosztuje",
       "published": "Thu, 13 Aug 2026 13:06:26 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Pierwsze kroki na giełdzie w 2026 r. Kiedy zacząć i czy hossa lub bessa ma znaczenie?",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/pierwsze-kroki-na-gieldzie-w-2026-r-kiedy-zaczac-i-czy-hossa-lub-bessa-ma-znaczenie/3w601sr",
-      "summary": "Warszawska giełda bije rekordy. To może zachęcać do inwestowania w akcje osoby, które wcześniej tego nie robiły. Niektórzy mogą sobie zadawać pytanie: czy to dobry moment na start przygody z inwestowaniem?",
-      "published": "Thu, 13 Aug 2026 12:59:31 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Kurs WIG20 wzrósł w tym roku aż o 30%! Piotr Kuczyński: nie unikniemy korekty",
@@ -698,14 +618,6 @@
       "category": "pl"
     },
     {
-      "title": "Goldman Sachs robi duży ruch na rynku ETF-ów. Bitcoin i Ethereum częścią transakcji",
-      "link": "https://comparic.pl/goldman-sachs-robi-duzy-ruch-na-rynku-etf-ow-bitcoin-i-ethereum-czescia-transakcji/",
-      "summary": "<p><img alt=\"BTC, ETH\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/03/AI-Bitcoin-BTC-Ethereum-ETH-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Goldman Sachs mocniej wchodzi na rynek aktywnie zarządzanych ETF-ów. Bank uzgodnił przejęcie Neos Investments za maksymalnie 2,25 mld USD. Dzięki trans",
-      "published": "Thu, 13 Aug 2026 09:28:03 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Niemiecki dziennikarz zdradza, co jego rodacy myślą teraz o Polakach",
       "link": "https://www.money.pl/gospodarka/zdecydowany-zwrot-w-niemczech-zazdroszcza-polakom-7317902317267136a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7c8a1bf4-30c5-403e-beba-7a3875058727\" width=\"308\" /> - Niemcy, którzy dobrze znają Polskę, coraz częściej zazdroszczą jej rozwoju gospodarczego i reform – ocenia Jan Puhl z \"Der Spiegel\". W rozmowie z PAP przekonuje, że zmieniło się też nastawienie samych Polaków, którzy coraz rzadziej patrzą na Zachód z kompleksem niższośc",
@@ -719,14 +631,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/6f170b1d-730c-4b77-8a29-e15ae8e48138\" width=\"308\" /> Dopiero 18 sierpnia przypadnie w tym roku Dzień Wolności Sektora Prywatnego – wynika z raportu Instytutu Misesa. Według tego symbolicznego wskaźnika przez 229 dni sektor prywatny pracuje na pokrycie wydatków publicznych. To najpóźniejsza data w historii badania.",
       "published": "Thu, 13 Aug 2026 06:41:10 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Strzały pod Kremlem, Kadyrow i spalone miliardy. Drony niszczą imperium najbogatszej Rosjanki",
-      "link": "https://www.bankier.pl/wiadomosc/Wildberries-w-ogniu-Strzaly-pod-Kremlem-Kadyrow-i-spalone-miliardy-najbogatszej-Rosjanki-9179367.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/7/b2cac5188f12de-948-568-1945-276-2099-1259.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />To mogła być historia o sukcesie w amerykańskim stylu, ale skończyła się po rosyjsku - zdradą, wojną wpływów i interwencją władz. Tatiana Kim, była nauczycielka, matka siedm",
-      "published": "Thu, 13 Aug 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -776,6 +680,102 @@
       "published": "Mon, 10 Aug 2026 11:00:01 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Ameryka jedzie na rezerwie. Komercyjne zapasy wzrosły, ale strategiczne pukają do dna",
+      "link": "https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-Komercyjne-zapasy-wzrosly-ale-strategiczne-pukaja-do-dna-9181939.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/f35bde6a4e1fda-948-568-0-67-1000-600.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do najniższego poziomu od 43 lat stopniała słynna rezerwa strategiczna rządu USA. Nieoczekiwanie - i zapewne tylko jednorazowo - wzrosły za to prywatne zapasy ropy naftowej w Ame",
+      "published": "Fri, 14 Aug 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Dźwignia nie wybacza. Jak stracić na kryptowalutach w trzech krokach?",
+      "link": "https://www.bankier.pl/wiadomosc/Dzwignia-nie-wybacza-Jak-stracic-na-kryptowalutach-w-trzech-krokach-9181651.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/0/1d8078201b0826-948-568-0-91-2800-1679.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nikt nie sięga po dźwignię po to, żeby przegrać - każdy liczy, że dzięki niej uda mu się szybciej wygrać. A na rynku, jak w życiu, co nagle to po diable. Mój siostrzeniec potrze",
+      "published": "Fri, 14 Aug 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Najwyżej oprocentowane konta oszczędnościowe. Minimum 6% w pięciu bankach",
+      "link": "https://www.bankier.pl/wiadomosc/Najlepsze-konta-oszczednosciowe-sierpien-2026-r-Gdzie-po-stawki-wynoszace-min-6-9181859.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/3/97cc07878d760f-948-568-107-201-2329-1397.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />7 proc. na szczycie tabeli i tłok na kolejnych pozycjach na podium – tak wygląda sierpień na rynku kont oszczędnościowych. BOŚ Bank nadal zasiada w fotelu lidera, ale konkure",
+      "published": "Fri, 14 Aug 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ponad 99 proc. rekrutacji odbywa się zdalnie. AI pisze CV, AI wybiera kandydatów",
+      "link": "https://www.bankier.pl/wiadomosc/AI-pisze-CV-algorytm-wybiera-kandydatow-Tak-zmienila-sie-rekrutacja-9181904.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/4/75b526a327c0d3-948-568-10-0-1875-1124.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />CV wspomagane przez AI, preselekcja kandydatów z wykorzystaniem algorytmów i rozmowa kwalifikacyjna przed ekranem – tak coraz częściej wygląda rekrutacja w 2026 r. Technologia p",
+      "published": "Fri, 14 Aug 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowe obowiązki dotyczące opakowań. Kogo obejmą? A to dopiero początek zmian",
+      "link": "https://www.bankier.pl/wiadomosc/Nowe-przepisy-i-obowiazki-dotyczace-opakowan-Bedzie-wiele-zmian-O-jakich-zasadach-musza-pamietac-firmy-9181938.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/39c23eba4ebd8f-948-568-0-51-1191-714.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />12 sierpnia wszedł w życie pierwszy pakiet nowych przepisów unijnego rozporządzenia PPWR (Packaging and Packaging Waste Regulation) dotyczącego opakowań. Obciążają one firmy nowy",
+      "published": "Fri, 14 Aug 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rewolucyjne pomysły podatkowe rządu. Kto by skorzystał? Mamy wyliczenia",
+      "link": "https://www.money.pl/podatki/rewolucyjne-pomysly-podatkowe-rzadu-kto-by-skorzystal-mamy-wyliczenia-7318017587742848a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ee0aa0e5-dc7e-4ca0-ae91-cdf19580dbdc\" width=\"308\" /> W rządzie trwają dyskusje o nowych stawkach PIT i progach podatkowych. Rządzącym zależy, by podatnicy odczuli zmiany w roku wyborczym. Jednym z pomysłów jest wprowadzenie nowej stawki PIT na poziomie ok. 24 proc. Eksperci tłumaczą, kto na takim ruchu skorzystałby najbardz",
+      "published": "Fri, 14 Aug 2026 05:49:57 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Strategia PSV: DAX i NQ przy rekordach. Cele wzrostowe nadal w zasięgu",
+      "link": "https://comparic.pl/strategia-psv-dax-i-nq-przy-rekordach-cele-wzrostowe-nadal-w-zasiegu/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/cc-psv-AI-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>DAX i NQ wracają w okolice rekordów, a kolejne cele wzrostowe pozostają w zasięgu, jednak przy ATH coraz ważniejsza od samego kierunku staje się relacja potencjału do ryzyka. ",
+      "published": "Fri, 14 Aug 2026 05:43:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "AI miała rewolucjonizować biznes. Na razie kończy się porażką",
+      "link": "https://businessinsider.com.pl/technologie/sztuczna-inteligencja-miala-przyspieszac-prace-jest-zupelnie-inaczej/rcqbtmf",
+      "summary": "Miała przyspieszać pracę i obniżać koszty. Tymczasem większość pierwszych wdrożeń AI w biznesie to porażka — pisze w piątkowym wydaniu \"Rzeczpospolita\".",
+      "published": "Fri, 14 Aug 2026 04:48:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Jestem inwestorem i wolę wydać 120 dol. na subskrypcje niż na stażystę. Uważam, że AI jest bardziej produktywna",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/tak-ai-pomaga-26-letniemu-inwestorowi-jest-lepsze-niz-stazysta/kw7bks6",
+      "summary": "Marc Palet, inwestor venture capital z branży technologicznej, korzysta z narzędzi AI, by zwiększać swoją produktywność. — Płacę ponad 120 dol. miesięcznie za subskrypcje, ale chętnie płaciłbym więcej, jeśli miałoby to zwiększyć moją produktywność — mówi w rozmowie z Business Insiderem. Zdradza przy tym, których narzędzi i do czego używa.",
+      "published": "Fri, 14 Aug 2026 04:30:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Podniesienie progu podatkowego i kwoty wolnej. Nieoczywiste skutki dla Polski [OPINIA]",
+      "link": "https://businessinsider.com.pl/gospodarka/zmiany-w-podatkach-a-gospodarka-nieoczywiste-skutki-podniesienia-progow-i-kwoty/gk8w65v",
+      "summary": "Obniżenie podatków, jakim byłoby podniesienie progów i kwoty wolnej, choć początkowo miałoby pozytywne efekty mnożnikowe, byłoby ciężarem dla budżetu Polski. \"Nietrudno sobie wyobrazić sytuację, że premia za ryzyko fiskalne w polskim długu wzrośnie. To pociągnie ze sobą koszty zadłużenia dodatkowo w górę, a być może także deprecjację złotego\" — pisze Jakub Rybacki, ekonomista mBanku, w analizie dl",
+      "published": "Fri, 14 Aug 2026 04:23:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polak z kolegą w weekend zarobili kilkanaście milionów. \"Do samego końca miałem obawy\"",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/iron-nest-zarobil-miliony-polak-jednym-z-ojcow-sukcesu/0cdxw1w",
+      "summary": "— Za konserwatywny scenariusz uznałem mniej więcej 100 tys. dol. przychodu w pierwszym roku — mówi nam o grze Iron Nest: Heavy Turret Simulator jeden z jej twórców Dominik Latos. Przebił te oczekiwania wielokrotnie już w weekend premiery. — Napisałem niedawno na LinkedInie, że życzę każdemu deweloperowi, żeby choć raz w karierze mógł przeżyć taki moment — podkreśla.",
+      "published": "Fri, 14 Aug 2026 04:17:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kiedy B2B korzystniejsze od etatu i jak ograniczyć ryzyko kontroli PIP [WYJAŚNIAMY]",
+      "link": "https://businessinsider.com.pl/prawo/wybor-b2b-zamiast-etatu-oto-od-jakiej-kwoty-zyskujesz-najwiecej/jlm3tn0",
+      "summary": "Wybór działalności gospodarczej zamiast etatu w firmie to nadal dostępna i legalna opcja. Wyjaśniamy, przy jakim poziomie przychodów (zaskakująco niskim) B2B jest bardziej opłacalne oraz co trzeba zrobić, żeby inspektorzy Państwowej Inspekcji Pracy nie zakwestionowali takiego wyboru.",
+      "published": "Fri, 14 Aug 2026 04:09:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
