@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:30:13.827899",
+  "generated_at": "2026-09-14T19:48:03.325215",
   "articles": [
     {
       "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
@@ -46,14 +46,6 @@
       "link": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
       "summary": "As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.",
       "published": "Tue, 08 Sep 2026 15:19:43 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against",
-      "link": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
-      "summary": "The Department of Energy has given grants to small battery tech companies. But the U.S. has a few years to do what took China decades.",
-      "published": "Tue, 08 Sep 2026 11:00:01 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -114,14 +106,6 @@
       "category": "us"
     },
     {
-      "title": "These are the 10 biggest retirement fears — and what you can do about them",
-      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-      "summary": "No amount of wealth can erase retirement worries.",
-      "published": "Sun, 13 Sep 2026 21:10:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Po ataku tuż przy granicy. Prezes polskiego banku w Ukrainie: To jest eskalacja",
       "link": "https://www.money.pl/banki/po-ataku-tuz-przy-granicy-prezes-polskiego-banku-na-ukrainie-to-jest-eskalacja-7328991968954464a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ec5e3eff-46fc-45d8-bb5f-0de7f7580cba\" width=\"308\" /> – To jest eskalacja wojny, która w coraz większym stopniu dotyczy bezpośrednio Polski. To dowód na to, że Polska powinna wspierać Ukrainę po to, żeby oddalać wojnę od własnego terytorium – tak poranny atak blisko granicy z Polską komentuje w rozmowie z money.pl Jakub Karn",
@@ -170,12 +154,92 @@
       "category": "pl"
     },
     {
-      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
-      "link": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
-      "summary": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
-      "published": "Sat, 05 Sep 2026 12:00:01 GMT",
+      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+      "published": "Mon, 14 Sep 2026 18:39:08 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Polski Fundusz Rozwoju ma nowego prezesa",
+      "link": "https://businessinsider.com.pl/biznes/pfr-ma-nowego-prezesa-kim-jest-mikolaj-raczynski/6l3ww50",
+      "summary": "Rada nadzorcza Polskiego Funduszu Rozwoju powołała Mikołaja Raczyńskiego na stanowisko prezesa zarządu PFR.",
+      "published": "Mon, 14 Sep 2026 18:22:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Novo CEO tells CNBC why drugmaker is rebranding, needs to 'rethink' obesity strategy",
+      "link": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+      "summary": "The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly.",
+      "published": "Mon, 14 Sep 2026 17:30:14 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Rosyjski gigant celem Ukraińców. Tak chce się bronić",
+      "link": "https://businessinsider.com.pl/biznes/wildberries-inwestuje-w-ochrone-przed-dronami-po-atakach-rosnie-popyt-na-siatki/w7sn9zr",
+      "summary": "Po ukraińskich atakach Wildberries, rosyjski gigant e-commerce, chce kupić ponad 470 tys. m kw. siatki chroniącej przed dronami.",
+      "published": "Mon, 14 Sep 2026 16:46:55 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Dolar spadnie a Fed podniesie stopy tylko raz? Analityk wskazuje warunek",
+      "link": "https://comparic.pl/dolar-spadnie-a-fed-podniesie-stopy-tylko-raz-analityk-wskazuje-warunek-14-09-2026/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-1-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Wojna na Bliskim Wschodzie sprawiła, że dolar ponownie podporządkował sobie większość walut i szybko zyskuje na wartości w ślad za zmianą oczekiwań wobec przyszł",
+      "published": "Mon, 14 Sep 2026 16:25:01 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Robi się gorąco. Premia za ryzyko w USA gwałtownie wzrosła",
+      "link": "https://businessinsider.com.pl/gospodarka/rentownosc-obligacji-skarbowych-w-usa-przekroczyla-5-proc/5214wzm",
+      "summary": "Nasilająca się wyprzedaż amerykańskich obligacji skarbowych spowodowała, że ​​rentowność papierów 10-letnich przekroczyła poziom 5 proc., po raz pierwszy od 2023 r.",
+      "published": "Mon, 14 Sep 2026 15:56:30 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs Orlenu rośnie razem z ropą! Czy gigant kontynuuje spektakularny rajd?",
+      "link": "https://comparic.pl/kurs-orlenu-rosnie-razem-z-ropa-czy-gigant-kontynuuje-spektakularny-rajd-14-09-2026/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/Orlen-AI-freepik-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Ropa naftowa kontynuuje spektakularne wzrosty, negując dziś całość piątkowej wyprzedaży. Oznacza to, że za gatunek Brent trzeba zapłacić niemal 110 USD, z kolei WTI to ju",
+      "published": "Mon, 14 Sep 2026 15:35:31 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump: Rosja i Ukraina zgodziły się powstrzymać uderzenia w cele energetyczne",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-rosja-i-ukraina-zgodzily-sie-powstrzymac-uderzenia-na-obiekty/e7s8bze",
+      "summary": "Donald Trump przekazał, że Rosja i Ukraina zgodziły się powstrzymać uderzenia na obiekty energetyczne.",
+      "published": "Mon, 14 Sep 2026 15:27:03 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rekordowe ceny paliw na stacjach w Polsce. Ponure prognozy dla kierowców",
+      "link": "https://businessinsider.com.pl/gospodarka/ceny-paliw-w-polsce-bija-rekordy-eksperci-ostrzegaja-przed-kolejnymi-podwyzkami/m6s7b8j",
+      "summary": "Rekordy średnich cen paliw już padły albo stanie się to w najbliższych dniach — przewidują eksperci w rozmowie z Business Insider Polska. Na razie jednak nie powinniśmy się martwić o fizyczną dostępność.",
+      "published": "Mon, 14 Sep 2026 14:49:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Alarm dla Ministerstwa Finansów. Odsetki od polskich obligacji najwyższe od trzech i pół roku",
+      "link": "https://businessinsider.com.pl/finanse/polski-dlug-coraz-drozszy-ministerstwo-finansow-w-klopotach-przed-wyborami/w6sqb9q",
+      "summary": "Wygląda na to, że Ministerstwo Finansów będzie musiało korygować plany budżetowe. A w roku wyborczym nie będzie to proste. Wielka wyprzedaż na rynku długu powoduje, że Polska musi płacić już ponad 6,4 proc. odsetek rocznie za wyemitowane obligacje 10-letnie. I to w czasie rekordowych deficytów budżetowych.",
+      "published": "Mon, 14 Sep 2026 14:41:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Inwestor znany z \"The Big Short\" stawia teraz na wino, obawiając się skutków rozwoju AI",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/inwestor-z-big-short-zdradza-nowa-strategie-luksusowe-wina-zamiast-dolara/l1pgwn4",
+      "summary": "We wpisie na platformie Substack Michael Burry argumentował na rzecz inwestowania w wina klasy premium. Inwestor znany z \"Big Short\" stwierdził, że stanowią one \"znakomity element dywersyfikujący\" portfel inwestycyjny. Burry wskazał, że na inwestycje w takie wina mogą korzystnie wpłynąć osłabienie dolara, ucieczka od walut fiducjarnych oraz skutki rozwoju sztucznej inteligencji.",
+      "published": "Mon, 14 Sep 2026 14:28:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Zyski rosną, prognozy idą w górę, a kurs odpoczywa. Czy inwestorzy przegapiają okazję? Analiza akcji VRG",
@@ -194,6 +258,14 @@
       "category": "pl"
     },
     {
+      "title": "Ruszyła budowa \"Big Boya\". Wieżowiec ma mieć prawie 100 metrów",
+      "link": "https://businessinsider.com.pl/nieruchomosci/w-gdansku-ruszyla-budowa-99-metrowego-wiezowca-big-boy-zmieni-panorame-miasta/36qmb5m",
+      "summary": "W Gdańsku rozpoczęły się zaawansowane prace geotechniczne pod budowę nowego, 99-metrowego wieżowca. To będzie jeden z najwyższych budynków w mieście.",
+      "published": "Mon, 14 Sep 2026 14:00:57 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Zysk ponad 400% w górę, kurs +25% przy wielkich obrotach! Gwiazda GPW 2026 roku kończy trwającą 100 dni 45% korektę",
       "link": "https://comparic.pl/zysk-ponad-400-w-gore-kurs-25-przy-wielkich-obrotach-gwiazda-gpw-2026-roku-konczy-trwajaca-100-dni-45-korekte/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/hossa-AI-freepik-324234-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Wasko wypracowało w II kwartale 2026 roku 16,89 mln zł skonsolidowanego zysku netto, wobec 3,86 mln zł rok wcześniej. Zysk operacyjny wzrósł z 4,55 mln zł do 18,96",
@@ -210,6 +282,22 @@
       "category": "pl"
     },
     {
+      "title": "Cena benzyny w Niemczech osiąga rekord wszech czasów. Politycy apelują",
+      "link": "https://businessinsider.com.pl/gospodarka/niemcy-mierza-sie-z-rekordowymi-cenami-paliw-politycyi-apeluja-o-interwencje/hm791k2",
+      "summary": "Ceny paliw w Niemczech rosną do rekordowych poziomów z powodu napięć na Bliskim Wschodzie. Premier Brandenburgii Dietmar Woidke domaga się wprowadzenia limitu cen paliw, a eksperci nie wykluczają, że cena litra oleju napędowego może w Niemczech wzrosnąć nawet do 3 euro (13,03 zł).",
+      "published": "Mon, 14 Sep 2026 13:51:50 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Niemcy masowo ruszyli nad polskie megahotele. Oto liczby",
+      "link": "https://businessinsider.com.pl/biznes/turysci-z-niemiec-gromadza-sie-w-megahotelach-nad-morzem-baltyckim/q3p5qlz",
+      "summary": "Najpierw trwały spory wokół gigantycznej inwestycji, teraz do obiektu napływają tłumy gości. Nowy hotel Gołębiewski nad polskim morzem stał się prawdziwym magnesem dla turystów. W ciągu zaledwie dwóch letnich miesięcy odnotowano w nim 88 162 noclegi. Wśród zagranicznych gości zdecydowanie największą grupę stanowili Niemcy.",
+      "published": "Mon, 14 Sep 2026 13:33:25 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Zarząd kupuje akcje, kapitalizacja przekracza 1 mld USD. Czy na akcjach cyber_Folks kończy się największa korekta od 1000 sesji?",
       "link": "https://comparic.pl/zarzad-kupuje-akcje-kapitalizacja-przekracza-1-mld-usd-czy-na-akcjach-cyber_folks-konczy-sie-najwieksza-korekta-od-1000-sesji/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/hossa-skup-akcji-AI-23423523235-freepik-cc-345325235-14-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>cyber_Folks ma za sobą ważne wydarzenia, które mogą zainteresować inwestorów. Grupa przekroczyła kapitalizację 1 mld USD, a po połą",
@@ -218,12 +306,44 @@
       "category": "pl"
     },
     {
+      "title": "Radosław Piesiewicz odwołany. Tyle zarobił jako prezes PKOl",
+      "link": "https://businessinsider.com.pl/wiadomosci/wynagrodzenie-radoslawa-piesiewicza-w-pkol-kwota-robi-wrazenie/sj0wrwt",
+      "summary": "Radosław Piesiewicz nie jest już prezesem PKOl. Decyzją zarządu Komitetu został odwołany po tym, jak trafił do aresztu w związku z aferą Zondacrypto. Jego kadencję ma dokończyć Marian Kmita, szef Polsatu Sport.",
+      "published": "Mon, 14 Sep 2026 12:44:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Pierwszy raz w historii Chiny wyprzedziły Niemcy w eksporcie do Polski. Pieniądze szybciej wypływają z kraju",
+      "link": "https://businessinsider.com.pl/gospodarka/pierwszy-raz-w-historii-chiny-wyprzedzily-niemcy-w-eksporcie-do-polski-pieniadze/sjtghcx",
+      "summary": "Narodowy Bank Polski podał w poniedziałek najnowsze dane o przepływie pieniędzy do Polski i z Polski. Wynika z nich, że w lipcu był największy odpływ od 11 miesięcy. I wcale nie było to rezultatem wysokich cen ropy. Chodzi o coraz większy import z Chin, który zgodnie z informacją NBP przebił import z Niemiec.",
+      "published": "Mon, 14 Sep 2026 12:39:05 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Kursy walut NBP. Złoty tanieje! Sprawdź, ile dziś zapłacisz za euro, dolara i franka 14 września 2026",
       "link": "https://comparic.pl/kursy-walut-nbp-zloty-tanieje-sprawdz-ile-dzis-zaplacisz-za-euro-dolara-i-franka-14-wrzesnia-2026/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>W poniedziałek, 14 września 2026 r., średnie kursy walut Narodowego Banku Polskiego (NBP) kształtują się następująco: dolar amerykański (USD/PLN) kosz",
       "published": "Mon, 14 Sep 2026 12:34:31 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Współzałożyciel Palantira bagatelizuje zagrożenie AI.  \"Wszystko będzie dobrze\"",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wspolzalozyciel-palantir-uspokaja-w-sprawie-ai-wszystko-bedzie-dobrze/20htyvt",
+      "summary": "\"Wszystko jest w porządku\", jeśli chodzi o zagrożenie sztuczną inteligencją. Przynajmniej tak twierdzi jeden ze współzałożycieli firmy Palantir.",
+      "published": "Mon, 14 Sep 2026 12:31:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "MF odpowiada Radzie Fiskalnej. Zarzuca brak zgody z przepisami",
+      "link": "https://businessinsider.com.pl/gospodarka/rada-fiskalna-krytykuje-budzet-ministerstwo-ostro-odpowiada/lq3v528",
+      "summary": "Ministerstwo Finansów zakwestionowało opinię Rady Fiskalnej dotyczącą projektu budżetu na 2027 r. Resort zarzucił instytucji doradczej naruszenie przepisów przy ocenie stabilizującej reguły wydatkowej. Rada Fiskalna wcześniej skrytykowała rządowe plany finansowe.",
+      "published": "Mon, 14 Sep 2026 12:25:12 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Rynek ETF w Polsce przyspiesza. Napływy do BETA ETF w górę o 381% od początku roku",
@@ -250,14 +370,6 @@
       "category": "pl"
     },
     {
-      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-      "summary": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
-      "published": "Mon, 14 Sep 2026 12:11:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Zapomnij o Intelu. Ta spółka urosła 2000%, a mimo to wciąż wygląda tanio",
       "link": "https://comparic.pl/zapomnij-o-intelu-ta-spolka-urosla-2000-a-mimo-to-wciaz-wyglada-tanio/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/krypto-12-2-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Silne wzrosty kursów spółek technologicznych coraz częściej zmuszają inwestorów do porównywania potencjału dalszych zwyżek z poziomem ich wycen. Intel należy w tym roku do naj",
@@ -274,12 +386,44 @@
       "category": "pl"
     },
     {
-      "title": "Oil over $100 has JPMorgan stock-market strategists fearing a missing out on a swift decline",
-      "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
-      "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
-      "published": "Mon, 14 Sep 2026 11:59:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Chiny i USA dominują na rynku AI. Nadzieja dla Europy może znajdować się w sąsiedztwie Polski",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/luzyce-szansa-europy-eksperci-wskazuja-nowe-lokalizacje-pod-centrum-danych/z2hebez",
+      "summary": "Odpowiedź na jeden z największych problemów przyszłości może, zdaniem grupy 13 polityków i ekonomistów, znajdować się w Łużycach, niemieckim regionie sąsiadującym z Polską. Niedaleko dawnych odkrywkowych kopalń węgla brunatnego nadal stoją stare elektrownie. Większość została już wyłączona, ale ich linie przesyłowe wciąż działają. To idealne miejsca do budowy nowoczesnych centrów danych.",
+      "published": "Mon, 14 Sep 2026 11:58:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "100 tys. pigułek. Tak wykorzystali wizerunek słynnego Muammara Kaddafiego",
+      "link": "https://businessinsider.com.pl/wiadomosci/spadniesz-z-krzeszla-tak-wykorzystali-wizerunek-slynnego-muammara-kaddafiego/16b78xd",
+      "summary": "Libijskie służby bezpieczeństwa poinformowały o przejęciu około 100 tys. tabletek ecstasy, które zostały wytłoczone w kształcie twarzy i charakterystycznych szat Muammara Kaddafiego. Wizerunek byłego przywódcy Libii posłużył jako nietypowe oznaczenie partii narkotyków, która miała trafić do kraju z Europy.",
+      "published": "Mon, 14 Sep 2026 11:41:03 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wojsko znalazło rosyjskiego drona w Bałtyku. Komunikat MON",
+      "link": "https://businessinsider.com.pl/wiadomosci/wojsko-znalazlo-rosyjskiego-drona-w-baltyku-komunikat-mon/jcbjcx1",
+      "summary": "W rejonie miejscowości Rusinowo koło Jarosławca (woj. zachodniopomorskie) wojsko zlokalizowało i podjęło z morza drona. Wstępne oględziny wskazują, że to bezzałogowiec wojskowy z Rosji — poinformował w poniedziałek wicepremier, szef MON Władysław Kosiniak-Kamysz.",
+      "published": "Mon, 14 Sep 2026 11:28:04 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polska prawie jak Norwegia. Na co idą u nas świadczenia socjalne",
+      "link": "https://businessinsider.com.pl/finanse/wydatki-socjalne-w-polsce-rosna-doganiamy-europejska-czolowke/qz5fvwr",
+      "summary": "Teoretycznie się bogacimy, ale na świadczenia socjalne idzie coraz więcej pieniędzy, z czego wynika, że coraz więcej jest potrzebujących. Według najnowszych danych to aż 22,5 proc. PKB.",
+      "published": "Mon, 14 Sep 2026 11:27:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Lady Gaga z narzeczonym szkolą model AI na danych pozyskiwanych z ludzkiej skóry",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/lady-gaga-w-radzie-startupu-tak-ai-zmienia-badania-nad-ludzka-skora/hmyn7nr",
+      "summary": "Michael Polansky współzałożył Outer Bio, firmę biotechnologiczną zajmującą się badaniami nad ludzką skórą. Jego narzeczona, Lady Gaga, zasiada w radzie dyrektorów spółki. Outer Bio szkoli modele sztucznej inteligencji na danych pozyskiwanych z próbek ludzkiej skóry.",
+      "published": "Mon, 14 Sep 2026 11:26:56 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Warren Buffett zdradza jak budować majątek. 99% inwestorów robi odwrotnie",
@@ -290,20 +434,20 @@
       "category": "pl"
     },
     {
+      "title": "Amazon oszukiwał. Gigant przyznaje, że sprzedawał fałszywe produkty",
+      "link": "https://businessinsider.com.pl/firmy/amazon-pod-ostrzalem-za-sprzedaz-niebezpiecznych-oszczedzaczy-energii/h8v69e8",
+      "summary": "Amazon nadal sprzedaje niebezpieczne, fałszywe \"oszczędzacze energii\", które mogą stwarzać ryzyko pożaru, mimo że wcześniej zapewniał parlamentarzystów o usunięciu takich ofert ze swojej platformy.",
+      "published": "Mon, 14 Sep 2026 10:55:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Złoto na krawędzi przeceny — TD Securities wskazuje dwa poziomy, które uruchomią wyprzedaż funduszy",
       "link": "https://comparic.pl/zloto-na-krawedzi-przeceny-td-securities-wskazuje-dwa-poziomy-ktore-uruchomia-wyprzedaz-funduszy/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-zloto-GOLD-XAU-10-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>TD Securities nie zmienia zdania o złocie. Analitycy Ryan McKay i Bart Melek przyznają, że kruszec może jeszcze spaść — zwłaszcza jeśli Fed potwierdzi zacieśnien",
       "published": "Mon, 14 Sep 2026 10:37:07 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-      "summary": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
-      "published": "Mon, 14 Sep 2026 10:35:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Zwrot USA ws. Iranu. \"Możemy dostarczać im paliwo do elektrowni\"",
@@ -314,28 +458,12 @@
       "category": "pl"
     },
     {
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "summary": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
-      "published": "Mon, 14 Sep 2026 10:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rząd szykuje zmiany w podatku od nieruchomości. Oto szczegóły",
       "link": "https://www.money.pl/podatki/rzad-szykuje-zmiany-w-podatku-od-nieruchomosci-oto-szczegoly-7329265955698848a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8d72a484-16fd-4819-8e27-45a891ad4d22\" width=\"308\" /> Koniec z sytuacją, w której jeden współwłaściciel odpowiada za cały podatek od wspólnej nieruchomości. Ministerstwo Finansów chce zmienić zasady i wprowadzić rozliczanie podatku od nieruchomości według udziałów. Projekt ma też uprościć formalności przy zakupie mieszkań.",
       "published": "Mon, 14 Sep 2026 10:02:24 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "summary": "“He is also the sole beneficiary of my 403(b) accounts.”",
-      "published": "Mon, 14 Sep 2026 09:45:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Bitcoin po 250 000 USD? Ten model oparty na kosztach wydobycia przewiduje cenę BTC z zaskakującą precyzją",
@@ -360,14 +488,6 @@
       "published": "Mon, 14 Sep 2026 09:36:25 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
-      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "summary": "The investor response to the calls by Anthropic CEO Dario Amodei to slow down frontier artificial-intelligence development was greeted negatively, albeit not catastrophically, by investors on Monday.",
-      "published": "Mon, 14 Sep 2026 09:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Dolar jednak słabnie. Inwestorzy boją się czegoś więcej niż stóp procentowych?",
@@ -402,22 +522,6 @@
       "category": "pl"
     },
     {
-      "title": "Here’s the big caveat to the report that Anthropic is profitable for a second straight quarter",
-      "link": "https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories",
-      "summary": "A published report that pioneering artificial-intelligence lab Anthropic was profitable for a second quarter in a row includes a very important caveat.",
-      "published": "Mon, 14 Sep 2026 09:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Massive sinkhole still threatens Nicolas Cage’s $10.5 million Malibu mansion",
-      "link": "https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories",
-      "summary": "Actor Nicolas Cage’s lavish Malibu mansion is facing a dramatic threat after a massive hole opened up where part of the property’s driveway once stood.",
-      "published": "Mon, 14 Sep 2026 09:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Dolar szybko drożeje! Ile zapłacisz za USD, EUR, CHF i GBP 14 września 2026 r.",
       "link": "https://comparic.pl/dolar-szybko-drozeje-ile-zaplacisz-za-usd-eur-chf-i-gbp-14-wrzesnia-2026-r/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/06/freepik-usd-dolar-dollar-PLN-polski-zloty-EUR-euro-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>W poniedziałek, 14 września 2026 r. o poranku polski złoty mocno traci względem głównych konkurentów na rynku Forex. Dzisiejsza sesja cha",
@@ -431,22 +535,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/db761b3b-1f27-4c89-8a69-93f097c518a0\" width=\"308\" /> Rada Fiskalna bije na alarm w sprawie budżetu na 2027 r. Jej zdaniem rząd nie wykorzystuje dobrej koniunktury do ograniczenia deficytu, a ryzyko przekroczenia ustawowego progu 55 proc. długu do PKB jest bardzo wysokie. Problemem nie są przy tym wyłącznie wydatki na obronn",
       "published": "Mon, 14 Sep 2026 08:47:09 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Dwa wyroki dla Bitcoina w 7 dni. Nadchodzi nieoczekiwany ruch Fedu i Waszyngtonu",
-      "link": "https://comparic.pl/dwa-wyroki-dla-bitcoina-w-7-dni-nadchodzi-nieoczekiwany-ruch-fedu-i-waszyngtonu/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/krypto-6-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Rynek kryptowalut wchodzi w tydzień, w którym decyzje dotyczące polityki pieniężnej i regulacji mogą mieć szczególne znaczenie dla notowań cyfrowych aktywów. Dla inwestorów Bitco",
-      "published": "Mon, 14 Sep 2026 08:11:13 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "3 rosnące spółki z GPW z jeszcze wyższymi wycenami! Rekomendacje ekspertów wskazują przyszłe hity",
-      "link": "https://comparic.pl/3-rosnace-spolki-z-gpw-z-jeszcze-wyzszymi-wycenami-rekomendacje-ekspertow-wskazuja-przyszle-hity/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/hossa-AI-32432423-freepik-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Analitycy mocno zmieniają podejście do trzech spółek z GPW. VRG otrzymało podwyższoną cenę docelową do 7,2 zł oraz rekomendację „kupuj”, co przy obecnym kursie o",
-      "published": "Mon, 14 Sep 2026 07:44:44 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -504,14 +592,6 @@
       "published": "Mon, 14 Sep 2026 06:00:00 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-      "summary": "“Over the years, my mother and I have supplemented his income.”",
-      "published": "Mon, 14 Sep 2026 01:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
