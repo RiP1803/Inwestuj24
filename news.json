@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:47:13.032284",
+  "generated_at": "2026-09-18T23:10:41.155072",
   "articles": [
     {
       "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
@@ -154,12 +154,36 @@
       "category": "pl"
     },
     {
-      "title": "Saudowie wysłali sygnał. Jest ruch na ropie",
-      "link": "https://www.money.pl/gospodarka/saudowie-wyslali-sygnal-jest-ruch-na-ropie-7330301401430272a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8159f109-1903-411e-bca8-ad52e96ba675\" width=\"308\" /> Ceny ropy na światowych rynkach lekko spadają, a inwestorzy obserwują sytuację wokół jednego z najważniejszych szlaków przesyłu surowca na Bliskim Wschodzie. Arabia Saudyjska chce szybko przywrócić działanie uszkodzonego rurociągu Wschód-Zachód.",
-      "published": "Thu, 17 Sep 2026 08:06:01 +0200",
+      "title": "Nocna zmiana ratingu. Złe wieści dla polskiej gospodarki",
+      "link": "https://www.money.pl/pieniadze/nocna-zmiana-ratingu-zle-wiesci-dla-polskiej-gospodarki-7330882788825312a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c38d1e28-102a-427e-ab73-f3a21889e0e6\" width=\"308\" /> Agencja ratingowa Moody’s obniżyła rating Polski do poziomu A3. -Traktujemy tę decyzję poważnie, ale spokojnie. Polska gospodarka szybko rośnie, a jej fundamenty pozostają mocne - skomentował tę decyzję minister finansów Andrzej Domański.",
+      "published": "Fri, 18 Sep 2026 23:24:07 +0200",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+      "published": "Fri, 18 Sep 2026 23:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "published": "Fri, 18 Sep 2026 22:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "summary": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
+      "published": "Fri, 18 Sep 2026 22:41:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Przegląd dnia Comparic.pl: JPMorgan — Bitcoin ma więcej przestrzeni do wzrostu niż złoto?",
@@ -168,6 +192,38 @@
       "published": "Fri, 18 Sep 2026 21:19:01 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "published": "Fri, 18 Sep 2026 21:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Spełnił się negatywny scenariusz dla Polski. Agencja Moody's obniża rating",
+      "link": "https://businessinsider.com.pl/finanse/moodys-obniza-rating-polski-nowa-ocena-to-zly-sygnal-dla-gospodarki/tbfz0jk",
+      "summary": "Mimo rosnącego długu i rekordowych deficytów agencja Fitch w sierpniu była dla nas łaskawa i pozostawiła rating dla Polski na niezmienionym poziomie. Ten sam scenariusz nie powtórzył się niestety w przypadku kolejnej z wielkiej trójki agencji ratingowych. Teraz pożyczanie pieniędzy dla polskiego rządu będzie trudniejsze i bardziej kosztowne.",
+      "published": "Fri, 18 Sep 2026 21:15:41 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "published": "Fri, 18 Sep 2026 21:14:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "summary": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
+      "published": "Fri, 18 Sep 2026 20:48:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "Dolar kończy tydzień mocną świecą. Czy to szczyt wzrostów?",
@@ -250,36 +306,12 @@
       "category": "pl"
     },
     {
-      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "summary": "Selling a condo has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
-      "published": "Fri, 18 Sep 2026 19:11:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "Fri, 18 Sep 2026 19:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Awaryjny \"wyłącznik\" AI? Kalifornia stawia opór i reguluje sztuczną inteligencję",
       "link": "https://www.bankier.pl/wiadomosc/Awaryjny-wylacznik-AI-Kalifornia-stawia-opor-i-reguluje-sztuczna-inteligencje-9199491.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/7/7a0b8a83236de8-948-568-326-28-3168-1900.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Gubernator amerykańskiego stanu Kalifornia Gavin Newsom podpisał w piątek rozporządzenie zmierzające do wprowadzenia regulacji o bezpieczeństwie sztucznej inteligencji. Wśród ",
       "published": "Fri, 18 Sep 2026 18:58:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-      "published": "Fri, 18 Sep 2026 18:46:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Europoseł KO z zarzutami korupcji. Prokuratura Europejska chce aresztu",
@@ -302,14 +334,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
       "published": "Fri, 18 Sep 2026 18:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "summary": "“They had been married for over 30 years when she passed.”",
-      "published": "Fri, 18 Sep 2026 18:26:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -351,14 +375,6 @@
       "summary": "Ticket prices are rising for Macklemore's upcoming solo concert after the rapper was removed from Ed Sheeran's tour for making pro-Palestine comments.",
       "published": "Fri, 18 Sep 2026 18:01:39 GMT",
       "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
-      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
-      "summary": "Shocking to say, but Berkshire Hathaway’s stock has actually not outperformed the S&amp;P 500 in about 30 years.",
-      "published": "Fri, 18 Sep 2026 17:41:00 GMT",
-      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -408,14 +424,6 @@
       "published": "Fri, 18 Sep 2026 17:11:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Two signs investors don’t have to fear an AI slowdown",
-      "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
-      "summary": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips.",
-      "published": "Fri, 18 Sep 2026 17:02:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Saudyjczycy zakręcają kurek z ropą dla Europy. Saudi Aramco kasuje wszystkie październikowe dostawy",
@@ -634,22 +642,6 @@
       "category": "other"
     },
     {
-      "title": "Pralka i suszarka w jednym? Oto 5 modeli, na które warto zwrócić uwagę",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/pralka-i-suszarka-w-jednym-oto-5-modeli-na-ktore-warto-zwrocic-uwage/2qtfdmr",
-      "summary": "Poniższa lista produktów jest subiektywną listą stworzoną przez Media Expert w celach promocyjnych.",
-      "published": "Fri, 18 Sep 2026 14:03:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Słuchawki bezprzewodowe za 20 zł: mają ponad 2200 opinii i 340 recenzji",
-      "link": "https://businessinsider.com.pl/technologie/sluchawki-bezprzewodowe-za-20-zl-maja-ponad-2200-opinii-i-340-recenzji/fmp949c",
-      "summary": "Czy za 20 zł można kupić bezprzewodowe słuchawki? Oczywiście, że tak i mamy na to idealny przykład. Co więcej, model znaleziony przez nas zgromadził w jednym z portali już ponad 2200 opinii oraz 340 recenzji. Dużym zaskoczeniem może być fakt, że większość tych opinii jest pozytywna. W tak niskiej cenie otrzymujemy sporo: Bluetooth 5.0, certyfikat wodoodporności IPX4 oraz etui, w którym mieści się ",
-      "published": "Fri, 18 Sep 2026 13:59:33 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Wielki rozłam w świecie sportu. Mbappe kończy 20-letnią współpracę z gigantem. Jest nowa umowa",
       "link": "https://businessinsider.com.pl/biznes/kylian-mbappe-porzuca-nike-po-20-latach-bedzie-twarza-firmy-min-federera/fpkgnvp",
       "summary": "Francuski napastnik Kylian Mbappe zamienia amerykańskiego giganta Nike na szwajcarską markę sportową On. Zakończył tym samym niemal dwudziestoletnią współpracę, która rozpoczęła się w dzieciństwie. Teraz będzie twarzą marki należącej m.in. do Rogera Federera - informuje Bloomberg.",
@@ -704,6 +696,14 @@
       "published": "Fri, 18 Sep 2026 13:23:40 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Gorąca dyskusja w Niemczech. Nie wszyscy chcą obniżać ceny paliw. Jest inny pomysł",
+      "link": "https://businessinsider.com.pl/wiadomosci/w-niemczech-nie-wszyscy-chca-obnizac-cene-paliw-maja-nowy-pomysl/decr1he",
+      "summary": "Sekretarz generalna rządzącej w Niemczech partii CDU przedstawiła wstępną propozycję pomocy dla kierowców zmagających się z rosnącymi kosztami tankowania. Tymczasem partia koalicyjna SPD ma inny pomysł.",
+      "published": "Fri, 18 Sep 2026 13:18:16 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Trzy banki centralne podniosły stopy. Rynki zignorowały sygnał ostrzegawczy",
