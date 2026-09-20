@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:51:19.055473",
+  "generated_at": "2026-09-20T04:39:29.640097",
   "articles": [
     {
       "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
@@ -111,6 +111,38 @@
       "summary": "CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film \"Days of Thunder 2\" will help raise brand awareness and broaden its fan base.",
       "published": "Thu, 17 Sep 2026 10:00:01 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Emerytury i pensje pod nóż. Miliony osób zapłacą za rozpędzony dług",
+      "link": "https://www.money.pl/finanse/emerytury-i-pensje-pod-noz-miliony-osob-zaplaca-za-rozpedzony-dlug-7330401113950432a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/92fe88ac-fb26-497f-bd70-f738bbbf6bc4\" width=\"308\" /> Coraz więcej ekonomistów ostrzega przed tym, że dług publiczny zbliża się do czerwonej linii. Chodzi o poziom 55 proc. PKB. Jakie mogą być konsekwencje naruszenia tego limitu? – Kryzys fiskalny wymusi ograniczenia w budżetówce i systemie świadczeń społecznych. Skutki tych",
+      "published": "Sun, 20 Sep 2026 05:58:41 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "published": "Sun, 20 Sep 2026 01:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
+      "published": "Sun, 20 Sep 2026 01:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+      "published": "Sun, 20 Sep 2026 01:03:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     },
     {
@@ -274,36 +306,12 @@
       "category": "us"
     },
     {
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "summary": "“They had been married for over 30 years when she passed.”",
-      "published": "Sat, 19 Sep 2026 16:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "Sat, 19 Sep 2026 16:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Kredyty hipoteczne w USA drożeją do 7,22% – miliony Amerykanów rezygnują z zakupu domu",
       "link": "https://comparic.pl/kredyty-hipoteczne-w-usa-drozeja-do-722-miliony-amerykanow-rezygnuja-z-zakupu-domu/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/freepik-nieruchomosci-3-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Rosnące stopy procentowe uderzają w amerykański rynek kredytów hipotecznych, a kupujący i obecni kredytobiorcy wstrzymują decyzje. Łączna liczba wniosków kredytowy",
       "published": "Sat, 19 Sep 2026 15:58:33 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "summary": "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
-      "published": "Sat, 19 Sep 2026 15:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Pęczniejący problem. \"Z polskiego balonika schodzi powietrze\" [OPINIA]",
@@ -830,14 +838,6 @@
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-18-09-2026-7330642833123552a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 18.09.2026. W piątek za jedno euro (EUR) trzeba zapłacić 4.3549 zł.",
       "published": "Fri, 18 Sep 2026 07:02:05 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 18.09.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-18-09-2026-7330642787195104a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 18.09.2026. W piątek za jednego franka (CHF) trzeba zapłacić 4.605 zł.",
-      "published": "Fri, 18 Sep 2026 07:01:54 +0200",
       "source": "Money.pl",
       "category": "pl"
     }
