@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:36:16.373001",
+  "generated_at": "2026-09-21T19:56:00.995928",
   "articles": [
     {
       "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
@@ -22,30 +22,6 @@
       "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
       "summary": "American says a minority of its seats now accounts for half of its revenue.",
       "published": "Wed, 16 Sep 2026 18:33:51 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
-      "link": "https://www.cnbc.com/2026/09/16/tropical-smoothie-cafe-announces-new-branding-plans-for-new-locations.html",
-      "summary": "Tropical Smoothie Cafe unveiled new branding as it grows rapidly under the ownership of private equity firm Blackstone.",
-      "published": "Wed, 16 Sep 2026 13:16:40 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
-      "link": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
-      "summary": "Travelers gave higher ratings in part because of the newer gates and terminals many airports have opened in recent years, according to the study.",
-      "published": "Wed, 16 Sep 2026 10:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
-      "link": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
-      "summary": "Ford said the changes are meant to provide customers with more choice and help expand sales of key models, a strategy CEO Jim Farley has touted.",
-      "published": "Tue, 15 Sep 2026 18:08:12 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -82,14 +58,6 @@
       "category": "us"
     },
     {
-      "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
-      "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
-      "summary": "CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film \"Days of Thunder 2\" will help raise brand awareness and broaden its fan base.",
-      "published": "Thu, 17 Sep 2026 10:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Trzy progi podatkowe i bonus dla młodych. Jest manifest nowej partii Hennig-Kloski",
       "link": "https://www.money.pl/podatki/trzy-progi-podatkowe-i-bonus-dla-mlodych-jest-manifest-nowej-partii-hennig-kloski-7331503882193120a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/99f34a12-ff04-4334-811b-ae40a9a94e6d\" width=\"308\" /> Unia Centrum zaprezentowała w Warszawie pakiet propozycji zapisanych w przyjętym \"manifeście politycznym\". Wśród zapowiedzi znalazły się m.in. konstytucyjny limit trzech kolejnych kadencji dla posłów i senatorów, trzy progi podatkowe oraz program dopłat do oszczędności dl",
@@ -104,14 +72,6 @@
       "published": "Sun, 20 Sep 2026 15:43:33 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-      "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-      "published": "Sun, 20 Sep 2026 12:47:23 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
@@ -170,6 +130,438 @@
       "category": "pl"
     },
     {
+      "title": "Akcje mocno w dół. Tak rynek zareagował na półmiliardową karę od UOKiK",
+      "link": "https://www.money.pl/gielda/akcje-mocno-w-dol-tak-gielda-zareagowala-na-kare-od-uokik-7331910286899456a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/6fd38e9e-121c-4370-a03b-e5b3084b5a40\" width=\"308\" /> W poniedziałek akcje toruńskiej spółki Neuca spadły o ponad 13 proc. Tego dnia Urząd Ochrony Konkurencji i Konsumenta poinformował o nałożeniu na spółkę niemal pół miliarda złotych kary. Firma już zapowiedziała, że odwoła się od decyzji UOKiK do Sądu Ochrony Konkurencji i",
+      "published": "Mon, 21 Sep 2026 21:35:47 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Giełda kryptowalut domaga się prawie 2,5 mln zł od KNF za wpis na listę ostrzeżeń publicznych",
+      "link": "https://www.bankier.pl/wiadomosc/Gielda-kryptowalut-domaga-sie-prawie-2-5-mln-zl-od-KNF-za-wpis-na-liste-ostrzezen-publicznych-9200373.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/f/a8f3b7d9c4f960-948-568-7-0-991-594.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przed stołecznym sądem toczy się sprawa, w której giełda kryptowalut BitMarket24 domaga się niemal 2,5 mln zł odszkodowania od Komisji Nadzoru Finansowego za wpis na listę ostrzeże",
+      "published": "Mon, 21 Sep 2026 20:29:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Duże zmiany w podatkach. Rząd chce ograniczyć estoński CIT i zwolnić energetykę z daniny",
+      "link": "https://www.bankier.pl/wiadomosc/Duze-zmiany-w-podatkach-Rzad-chce-ograniczyc-estonski-CIT-i-zwolnic-energetyke-z-daniny-9200370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/a/82c6258eae6973-948-568-0-556-1854-1112.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie będzie można przejść na tzw. estoński CIT w trakcie roku podatkowego, a przedsiębiorstwa m.in. z sektorów energetycznego i ciepłowniczego zostaną zwolnione z minimalnego po",
+      "published": "Mon, 21 Sep 2026 20:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Efekt wojny. Obliczono, jaki cios otrzymała gospodarka Iranu",
+      "link": "https://www.money.pl/polityka/efekt-wojny-obliczono-jaki-cios-otrzymala-gospodarka-iranu-7331890650593536a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/f2a02e6b-bc3a-4f44-964b-b4ee049b76a6\" width=\"308\" /> Produkt Krajowy Brutto Iranu obniżył się o 10,1 proc. między końcem marca a końcem czerwca – wynika z danych Irańskiego Centrum Statystycznego, które przytoczyła AFP. Spadek PKB to oczywiście efekt wojny z USA oraz Izraelem.",
+      "published": "Mon, 21 Sep 2026 20:02:30 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Mówi o problemie bezdomności. \"Być może AI nam pomoże\"",
+      "link": "https://www.money.pl/gospodarka/mowi-o-problemie-bezdomnosci-byc-moze-ai-nam-pomoze-7331797000852545v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv.wphcdn.cloud/3104896-11prevb.jpg\" width=\"308\" /> – Powstaje klasa ludzi, którzy wypadli z tej gry ekonomiczno-rozwojowej kraju. Czyli zaczynają pojawiać się problemy bezdomności, chorób psychicznych, które są już dzisiaj w pewnym sensie epidemią. I społeczeństwo nie jest na to przygotowane – uważa gość \"Biznes Klasy\" Piotr Moncarz, polski inżynier, profesor U",
+      "published": "Mon, 21 Sep 2026 20:02:04 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Szef MON miał się spotkać z Petem Hegsethem. Do spotkania nie dojdzie",
+      "link": "https://www.bankier.pl/wiadomosc/Szef-MON-mial-sie-spotkac-z-Petem-Hegsethem-Do-spotkania-nie-dojdzie-9200362.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/3/41e150847f04a6-948-568-239-0-2581-1548.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Resort obrony poinformował w poniedziałek wieczorem, że na „pilną prośbę” strony amerykańskiej planowana na środę wizyta wicepremiera, szefa MON Władysława Kosiniaka-Kamysza w ",
+      "published": "Mon, 21 Sep 2026 19:47:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Elon Musk, Jensen Huang and Tim Cook are set to dine with Xi this week. Here’s what their companies want from China.",
+      "link": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
+      "summary": "The Trump White House’s guest list reads like a map of corporate America’s exposure to China — from Tesla’s Shanghai factory, to Nvidia’s blocked AI chips, to Citi’s long-awaited brokerage license.",
+      "published": "Mon, 21 Sep 2026 19:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: XRP szykuje wybicie? Ta formacja może wynieść kurs o 35% w górę",
+      "link": "https://comparic.pl/xrp-szykuje-wybicie-ta-formacja-moze-wyniesc-kurs-o-35-w-gore/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Najwięksi posiadacze XRP znów przenoszą tokeny na Binance na skalę niewidzianą od pół roku. Według danych CryptoQuant w ciągu ostatnich 30 dni trafiło tam z duż",
+      "published": "Mon, 21 Sep 2026 19:43:14 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
+      "link": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
+      "summary": "One reason that analysts and doctors want to see the data is to better understand how well the personalized treatment works.",
+      "published": "Mon, 21 Sep 2026 19:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Flights disrupted into Newark, New York, Philadelphia after Verizon cable cut",
+      "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+      "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
+      "published": "Mon, 21 Sep 2026 19:36:24 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+      "published": "Mon, 21 Sep 2026 19:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The hottest part of the AI trade could be turning into its biggest weakness",
+      "link": "https://www.marketwatch.com/story/the-hottest-part-of-the-ai-trade-could-be-turning-into-its-biggest-weakness-099f2c09?mod=mw_rss_topstories",
+      "summary": "While stock investors celebrate booming demand for chips and servers, credit markets are flagging risky contracts and rising debt costs.",
+      "published": "Mon, 21 Sep 2026 19:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Forget Elon Musk and Jeff Bezos: The ‘everywhere millionaires’ created the blueprint for regular people to get rich in America",
+      "link": "https://www.marketwatch.com/story/forget-elon-musk-and-jeff-bezos-the-everywhere-millionaires-created-the-blueprint-for-regular-people-to-get-rich-in-america-df543f9c?mod=mw_rss_topstories",
+      "summary": "Owen Zidar and Eric Zwick spent a decade mining tax data to identify an under-the-radar class of American wealth.",
+      "published": "Mon, 21 Sep 2026 19:23:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rating Polski w dół po 24 latach. Odsetki od długu mają przekroczyć 100 mld zł",
+      "link": "https://comparic.pl/rating-polski-w-dol-po-24-latach-odsetki-od-dlugu-maja-przekroczyc-100-mld-zl/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/tomdzqyjnoi-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Co oznacza obniżka ratingu Polski do A3? Dla rządzących to sygnał, że finanse publiczne wymagają pilnych działań. Dla inwestorów – informacja, że ryzyko związane z polskim dług",
+      "published": "Mon, 21 Sep 2026 19:04:40 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+      "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+      "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+      "published": "Mon, 21 Sep 2026 19:00:48 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "published": "Mon, 21 Sep 2026 19:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "UE ma problemy z wykrywaniem poważnych cyberincydentów. ETO alarmuje",
+      "link": "https://www.bankier.pl/wiadomosc/UE-ma-problemy-z-wykrywaniem-powaznych-cyberincydentow-ETO-alarmuje-9200341.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/6/174750717806be-945-560-22-0-4477-2686.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />UE ma problemy z wykrywaniem poważnych cyberincydentów i reagowaniem na nie, a głównym powodem jest brak wystarczającej wymiany informacji - wynika z opublikowanego w poniedział",
+      "published": "Mon, 21 Sep 2026 19:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production",
+      "link": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
+      "summary": "Eli Lilly is trying to catch up in the GLP-1 pill market to Novo, which got a head start in the space.",
+      "published": "Mon, 21 Sep 2026 18:57:34 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Akcje Strategy wystrzeliły po zakupie 950 Bitcoinów. Firma zwiększa gigantyczne rezerwy BTC",
+      "link": "https://comparic.pl/akcje-strategy-wystrzelily-po-zakupie-950-bitcoinow-firma-zwieksza-gigantyczne-rezerwy-btc/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/saylor-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Powrót Strategy do zakupów Bitcoina zbiegł się z silnym odbiciem zarówno samej kryptowaluty, jak i akcji spółki, która pozostaje największym korporacyjnym posiadaczem BTC. Akcje MS",
+      "published": "Mon, 21 Sep 2026 18:56:37 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+      "published": "Mon, 21 Sep 2026 18:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Strajk mediów. W ramach solidarności z CNN nie będą relacjonować działań Trumpa",
+      "link": "https://www.bankier.pl/wiadomosc/Strajk-mediow-W-ramach-solidarnosci-z-CNN-nie-beda-relacjonowac-dzialan-Trumpa-9200323.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/b/194d1419722e9e-948-568-0-57-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Telewizja CNN poinformowała w poniedziałek, że główne amerykańskie stacje nie będą relacjonować aktywności prezydenta USA Donalda Trumpa w ramach prezydenckiego korpusu prasoweg",
+      "published": "Mon, 21 Sep 2026 18:28:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "31 miliardów dolarów ucieka z Wall Street. Inwestorzy boją się ropy i Fedu",
+      "link": "https://comparic.pl/31-miliardow-dolarow-ucieka-z-wall-street-inwestorzy-boja-sie-ropy-i-fedu/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-4-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Inwestorzy czwarty tydzień z rzędu wycofują pieniądze z amerykańskich funduszy akcji. Drożejąca ropa naftowa podsyca obawy o inflację, a",
+      "published": "Mon, 21 Sep 2026 18:18:08 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nawrocki: Polska i USA powinny uzgodnić krótką listę projektów przemysłowych",
+      "link": "https://www.bankier.pl/wiadomosc/Nawrocki-Polska-i-USA-powinny-uzgodnic-krotka-liste-projektow-przemyslowych-9200318.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/4525de47db41b8-948-568-10-60-3990-2393.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polska i USA powinny uzgodnić krótką listę konkretnych projektów przemysłowych w czystej energii dla przemysłu, elektronice motoryzacyjnej i w produkcji substancji czynnych dla",
+      "published": "Mon, 21 Sep 2026 18:16:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "summary": "“On each of these weekends away, she’s probably spending $500.”",
+      "published": "Mon, 21 Sep 2026 18:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Domański: Złoty stabilny mimo obniżenia ratingu Polski, ceny polskich obligacji skarbowych rosną",
+      "link": "https://www.bankier.pl/wiadomosc/Domanski-Zloty-stabilny-mimo-obnizenia-ratingu-Polski-ceny-polskich-obligacji-skarbowych-rosna-9200304.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/1/356e6456374556-948-568-20-0-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister Finansów i Gospodarki Andrzej Domański powiedział w poniedziałek, że kurs polskiego złotego pozostaje stabilny pomimo obniżenia ratingu Polski przez agencję Moody's. Ws",
+      "published": "Mon, 21 Sep 2026 18:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Fala zwolnień u producenta Ozempiku. Koniec eldorado w branży farmaceutycznej?",
+      "link": "https://www.bankier.pl/wiadomosc/Fala-zwolnien-u-producenta-Ozempicu-Koniec-eldorado-w-branzy-farmaceutycznej-9199957.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/b/a02451e9aece6e-948-567-0-47-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Należeli do grupy kandydatów, których najtrudniej było przekonać do zmiany pracy na duńskim rynku. Jednak po zwolnieniach i zmianie kultury organizacyjnej w Novo (od Ozempiku), h",
+      "published": "Mon, 21 Sep 2026 18:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "BitMarket24 pozywa KNF o 2,5 mln zł. Ruszył precedensowy proces",
+      "link": "https://comparic.pl/bitmarket24-pozywa-knf-o-25-mln-zl-ruszyl-precedensowy-proces/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/CYFROWY-PRZELOM-3-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Spór sprzed kilku lat między polskim nadzorem finansowym, a branżą kryptowalutową właśnie trafił na salę sądową w formie procesu odszkodowawczego dotyczącego wpisu na li",
+      "published": "Mon, 21 Sep 2026 17:56:11 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Chcesz wziąć kredyt na mieszkanie? We wrześniu możesz pożyczyć wyraźnie mniej niż miesiąc temu",
+      "link": "https://comparic.pl/chcesz-wziac-kredyt-na-mieszkanie-we-wrzesniu-mozesz-pozyczyc-wyraznie-mniej-niz-miesiac-temu/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/06/freepik-dom-mieszkanie-nieruchomosc-nieruchomosci-home-house-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Zdolność kredytowa Polaków wyraźnie spadła we wrześniu, a banki coraz ostrożniej podchodzą do liczenia, ile mogą pożyczyć na mi",
+      "published": "Mon, 21 Sep 2026 17:52:01 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+      "published": "Mon, 21 Sep 2026 17:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ropa omija cieśninę Ormuz. Powstała nowa linia ratunkowa dla eksporterów",
+      "link": "https://www.bankier.pl/wiadomosc/Ropa-omija-ciesnine-Ormuz-Powstala-nowa-linia-ratunkowa-dla-eksporterow-9200262.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/2/d5f5ad608574d7-948-568-0-225-2962-1777.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przeładunki między statkami (STS) stały się linią ratunkową dla producentów ropy z Zatoki Perskiej w sytuacji, gdy trwa irańska blokada cieśniny Ormuz i amerykańska blokada por",
+      "published": "Mon, 21 Sep 2026 17:32:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowe centrum Amazona na Dolnym Śląsku. Firma zapowiada ponad 1 tys. etatów",
+      "link": "https://www.bankier.pl/wiadomosc/Nowe-centrum-Amazona-na-Dolnym-Slasku-Firma-zapowiada-ponad-1-tys-etatow-9200249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/1/23f8f0b29ba5c5-948-568-113-3-1228-737.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Amazon otworzył w Dobromierzu na Dolnym Śląsku dwunaste centrum logistyczne w Polsce. Do końca roku obiekt zapewni ponad 1 tys. stałych miejsc pracy - podała spółka w komunikaci",
+      "published": "Mon, 21 Sep 2026 17:20:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Orlen przerwał złą passę. To jednak banki zaprowadziły polską giełdę po nowe rekordy",
+      "link": "https://www.bankier.pl/wiadomosc/Orlen-przerwal-zla-passe-To-jednak-banki-zaprowadzily-polska-gielde-po-nowe-rekordy-9200284.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/d/bb85547d21a78d-948-568-0-162-2400-1439.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Najmocniejsza sesja na polskiej giełdzie od przeszło dwóch miesięcy zaprowadziła indeksy WIG20 oraz WIG do nowych, historycznych maksimów. Za mocnymi wzrostami stoją kolejne sp",
+      "published": "Mon, 21 Sep 2026 17:17:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "summary": "The retirement myth has been crumbling for decades",
+      "published": "Mon, 21 Sep 2026 17:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "100 tys. zł za spotkanie z prezydentem? Nawrocki: Sam decyduję o swoim kalendarzu",
+      "link": "https://www.bankier.pl/wiadomosc/100-tys-zl-za-spotkanie-z-prezydentem-Nawrocki-Sam-decyduje-o-swoim-kalendarzu-9200278.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/8/9536b5557e2f98-948-568-26-17-3516-2109.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Karol Nawrocki powiedział w poniedziałek, że sam decyduje o swoim kalendarzu - o tym, kiedy i z kim się spotyka. Zaznaczył, że celem spotkań, które odbywa, jest zawsz",
+      "published": "Mon, 21 Sep 2026 17:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Obniżka ratingu nie zatrzymała GPW. Padł rekord",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wig-i-wig20-ustanowily-rekordy-na-gpw-mimo-decyzji-moodys/qjdn9fy",
+      "summary": "WIG20 przebił w poniedziałek poziom 4.200 pkt. i osiągnął nowe maksimum. Na historycznym szczycie jest też WIG.",
+      "published": "Mon, 21 Sep 2026 17:13:51 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Złoto tanieje do 4 337 USD. Rynek wycenia 88% szans na grudniową podwyżkę Fed",
+      "link": "https://comparic.pl/zloto-tanieje-do-4-337-usd-rynek-wycenia-88-szans-na-grudniowa-podwyzke-fed/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/zloto-gold-cc-xauusd-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Notowania złota znalazły się pod presją dwóch przeciwstawnych sił. Z jednej strony napięta sytuacja na Bliskim Wschodzie wciąż wspiera popyt na aktywa bezpieczne, z d",
+      "published": "Mon, 21 Sep 2026 17:03:15 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Przełom w sprawie sankcji na Rosję. Usmanow i Fridman mogą zostać wykreśleni",
+      "link": "https://www.bankier.pl/wiadomosc/Przelom-w-sprawie-sankcji-na-Rosje-Usmanow-i-Fridman-moga-zostac-wykresleni-9200243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/0/3d98bd294bec44-948-568-0-120-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rosyjscy oligarchowie Aliszer Usmanow i Michaił Fridman mają zostać wykreśleni z tzw. unijnej czarnej listy, o co zabiegały Francja i Słowacja - poinformowało PAP źródło unijne",
+      "published": "Mon, 21 Sep 2026 16:55:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+      "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+      "summary": "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
+      "published": "Mon, 21 Sep 2026 16:53:00 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "3 kryptowaluty przecenione aż o 90%. Mogą dać większy zysk niż Bitcoin i XRP",
+      "link": "https://comparic.pl/3-kryptowaluty-przecenione-az-o-90-moga-dac-wiekszy-zysk-niz-bitcoin-i-xrp/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/CYFROWY-PRZELOM-2-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Ten, kto już jest trochę na rynku wie, że głębokie przeceny na rynku kryptowalut nie muszą od razu oznaczać trwałego osłabienia projektu, zwłaszcza jeśli jego fundamenty",
+      "published": "Mon, 21 Sep 2026 16:21:11 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ropa spada o 3% i zbliża się do 100 USD. Trump gotowy rozmawiać z Iranem – rynek odetchnął",
+      "link": "https://comparic.pl/ropa-spada-o-3-i-zbliza-sie-do-100-usd-trump-gotowy-rozmawiac-z-iranem-rynek-odetchnal/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-oil-wti-brent-crude-ropa-naftowa-barylka-ropy-naftowej-6-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Ropa naftowa tanieje na początku tygodnia i jest coraz bliżej psychologicznej granicy 100 USD za baryłkę. Rynek liczy na pr",
+      "published": "Mon, 21 Sep 2026 15:53:54 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Co zrobić z pieniędzmi, jeśli naprawdę zmierzamy ku apokalipsie AI? [PORADNIK]",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/apokalipsa-ai-a-oszczednosci-eksperci-zdradzaja-jak-chronic-majatek/5c9ep36",
+      "summary": "Rosnąca liczba ostrzeżeń przed potencjalnie katastrofalnymi skutkami sztucznej inteligencji wywołała nie tylko debatę technologiczną, lecz także pytania o inwestowanie. Jeśli, choćby teoretycznie, AI mogłaby stać się zagrożeniem dla gospodarki lub nawet ludzkości, jak chronić majątek? Business Insider zapytał o to ekspertów od inwestowania i finansów osobistych. Ich odpowiedzi obejmowały wszystko:",
+      "published": "Mon, 21 Sep 2026 15:50:42 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Bitcoin po 85 tys. USD. Fala wymuszonego odkupowania instrumentów pochodnych napędza wzrost cen kryptowalut",
+      "link": "https://comparic.pl/bitcoin-po-85-tys-usd-fala-wymuszonego-odkupowania-instrumentow-pochodnych-napedza-wzrost-cen-kryptowalut/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-BTC-Bitcoin-45-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Tydzień rozpoczyna się od zdecydowanego wzrostu cen kryptowalut, z bitcoinem na czele. Po godzinie 14:00 jego kurs rośnie o około 5 proc., przekraczając 85 tys. USD",
+      "published": "Mon, 21 Sep 2026 15:38:31 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Donald Trump zapowiada umowę z Białorusią.\"Bardzo dobre wieści\"",
+      "link": "https://businessinsider.com.pl/gospodarka/potaz-z-bialorusi-zastapi-kanadyjski-donald-trump-pracujemy-nad-umowa/qbn54c2",
+      "summary": "Donald Trump poinformował, że Stany Zjednoczone pracują nad nowym porozumieniem dotyczącym importu potażu z Białorusi.",
+      "published": "Mon, 21 Sep 2026 15:34:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ukraina szuka \"zabójcy Shahedów\". Oto ile maksymalnie muszą kosztować",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/drony-przechwytujace-shahedy-priorytetem-ukrainy-ruszyl-wyscig-zbrojen/pz0b9z8",
+      "summary": "Ukraina przyspiesza prace nad nową generacją dronów przechwytujących, które mają skuteczniej zwalczać coraz szybsze rosyjskie bezzałogowce Shahed. Kilka firm zbrojeniowych pracuje nad tanimi rozwiązaniami, które mogłyby zastąpić kosztowne rakiety i myśliwce wykorzystywane obecnie do obrony powietrznej. Poszukiwanie \"Shahed Killera\" stało się jednym z priorytetów władz w Kijowie.",
+      "published": "Mon, 21 Sep 2026 15:33:50 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Moody's: nowy rząd będzie musiał mocno ograniczyć deficyt. Inaczej zadziałają reguły",
+      "link": "https://www.bankier.pl/wiadomosc/Moody-s-nowy-rzad-bedzie-musial-mocno-ograniczyc-deficyt-Inaczej-zadzialaja-reguly-9200172.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/8/ac5e72359545c5-945-560-0-15-1500-899.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po wyborach parlamentarnych w Polsce w 2027 r. nowy rząd i prezydent powinni być świadomi konieczności znalezienia sposobu na konsolidację fiskalną, ponieważ w przeciwnym razie m",
+      "published": "Mon, 21 Sep 2026 15:28:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zcash osiągnie 50 000 USD. Ekspert kryptowaluty zdradza dokładną datę",
+      "link": "https://comparic.pl/zcash-osiagnie-50-000-usd-ekspert-kryptowaluty-zdradza-dokladna-date/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/CYFROWY-PRZELOM-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Zcash pozostaje jednym z najmocniej rosnących aktywów cyfrowych 2026 roku, a najnowsza analiza techniczna wskazuje na możliwość dalszego, wieloletniego wzrostu. Według T",
+      "published": "Mon, 21 Sep 2026 15:23:17 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wzrost wynagrodzeń w Polsce hamuje, a etatów ubywa. GUS pokazuje słabszy rynek pracy",
+      "link": "https://comparic.pl/wzrost-wynagrodzen-w-polsce-hamuje-a-etatow-ubywa-gus-pokazuje-slabszy-rynek-pracy/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/freepik-Polska-PLN-Warszawa-Poland-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Przeciętne wynagrodzenie w sektorze przedsiębiorstw wzrosło w sierpniu 2026 roku o 5,6% r/r, do 9 259,54 zł – podał Główny Urząd Statystyczny. Odczyt ok",
+      "published": "Mon, 21 Sep 2026 15:13:19 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Hamujący wzrost wynagrodzeń sporo mówi o polskiej gospodarce. Takie będą skutki",
+      "link": "https://businessinsider.com.pl/gospodarka/nowe-dane-gus-place-w-dol-zatrudnienie-nizsze-co-czeka-polskich-pracownikow/xs24kt1",
+      "summary": "Najnowsze dane o średnich wynagrodzeniach i zatrudnieniu w polskich firmach rzucają więcej światła na kondycję rynku pracy. Wyjaśniamy, co oznaczają dla oczekiwań płacowych pracowników, konsumpcji, inflacji i stóp procentowych.",
+      "published": "Mon, 21 Sep 2026 15:13:11 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+      "published": "Mon, 21 Sep 2026 15:04:04 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Audi pozywa AUDI o audi. Koncern straszy importera własnych aut z Chin",
+      "link": "https://www.bankier.pl/wiadomosc/Audi-pozywa-AUDI-o-audi-Koncern-straszy-importera-wlasnych-aut-z-Chin-9200162.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/a/257fa269757af4-948-568-510-719-1975-1184.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Audi stworzyło markę specjalnie przeznaczoną na chiński rynek o nazwie nomen omen AUDI. Teraz jak się okazuje, koncern musi biec do sądu, by zapobiec ich importowi do Niemiec",
+      "published": "Mon, 21 Sep 2026 15:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wstydliwa wpadka giganta. Dyson wycofuje szczoteczkę za 2 tys. zł, bo... ta nie lubi się z wodą",
+      "link": "https://www.bankier.pl/wiadomosc/Wstydliwa-wpadka-giganta-Dyson-wycofuje-szczoteczke-za-2-tys-zl-bo-ta-nie-lubi-sie-z-woda-9200181.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/c/f2b7949b6aca45-948-568-10-2-970-582.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dyson wypuścił na rynek szczoteczkę do zębów za blisko dwa tysiące złotych (dokładnie 419 funtów), która miała zmienić nasze życie, a tymczasem po niecałym miesiącu od premiery br",
+      "published": "Mon, 21 Sep 2026 14:55:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Sądy sprawdzą przedłużenia zwrotów VAT? Przełomowa uchwała NSA może zmienić praktyki skarbówki",
+      "link": "https://businessinsider.com.pl/prawo/podatki/sady-nie-zbadaja-wszystkich-przedluzen-zwrotu-vat-jest-uchwala-nsa/tcmhqnp",
+      "summary": "Przedłużanie zwrotu VAT nawet kilkanaście razy przez urzędy skarbowe to praktyka, która potrafi zachwiać płynnością finansową firm. Po najnowszej uchwale Naczelnego Sądu Administracyjnego ta rzeczywistość może się zmienić.",
+      "published": "Mon, 21 Sep 2026 14:54:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "#WaMaMarketing 2026: człowiek, kreatywność i technologia w centrum rozmów w Olsztynie",
+      "link": "https://comparic.pl/wamamarketing-2026-czlowiek-kreatywnosc-i-technologia-w-centrum-rozmow-w-olsztynie/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/WaMa-Marketing-2026-70-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Ponad 1500 osób wzięło udział w tegorocznej edycji #WaMaMarketing, która 11 września odbyła się w Hali Urania w Olsztynie. Wydarzenie połączyło ekspertów, twórców i",
+      "published": "Mon, 21 Sep 2026 14:46:59 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Przejęcie właściciela TVN. Paramount Skydance zawarł ugodę",
+      "link": "https://businessinsider.com.pl/biznes/przejecie-wlasciciela-tvn-paramount-skydance-zawarl-ugode/c09xj80",
+      "summary": "Paramount Skydance zawarł ugodę ze stanami USA, które sprzeciwiały się przejęciu koncernu Warner Bros. Discovery, właściciela m.in. TVN — podaje Bloomberg.",
+      "published": "Mon, 21 Sep 2026 14:19:19 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "XTB odświeża aplikację mobilną. Wprowadzono nowy język wizualny",
       "link": "https://comparic.pl/xtb-odswieza-aplikacje-mobilna-wprowadzono-nowy-jezyk-wizualny/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/XTB-aplikacja-porownanie-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>XTB, wywodzący się z Polski europejski lider wśród aplikacji inwestycyjnych, odświeżył wygląd aplikacji mobilnej. Nowy design jest bardziej spójny wizualnie, odpo",
@@ -183,14 +575,6 @@
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/04/freepik-USD-dolar-dollar-USA-4-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Dolar wychodzi z rundy decyzji banków centralnych jako zwycięzca, spychając EURUSD poniżej 1,15 i umacniając się do 2-miesięcznych szczytów w skali indeksu m",
       "published": "Mon, 21 Sep 2026 14:02:49 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zryw na rynku kryptowalut. Bitcoin najwyżej od początku roku pomimo trudnego tygodnia",
-      "link": "https://www.bankier.pl/wiadomosc/Zryw-na-rynku-kryptowalut-Bitcoin-najwyzej-od-poczatku-roku-pomimo-trudnego-tygodnia-9200030.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/9/2a9464a9ed0338-948-568-0-195-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Cena Bitcoina przekroczyła w poniedziałek granicę 84 000 USD, osiągając najwyższy poziom od końca stycznia 2026 roku. Rajd pierwszej kryptowaluty wywołał likwidację krótkich po",
-      "published": "Mon, 21 Sep 2026 14:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -242,60 +626,20 @@
       "category": "pl"
     },
     {
-      "title": "Liderka AfD: Chcemy wspólnie z USA otworzyć kanał rozmów z Rosją",
-      "link": "https://www.bankier.pl/wiadomosc/Liderka-AfD-Chcemy-wspolnie-z-USA-otworzyc-kanal-rozmow-z-Rosja-9200126.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/7215735fb7fda1-948-568-0-0-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Współprzewodnicząca prawicowo-populistycznej AfD Alice Weidel zapowiedziała w poniedziałek w Berlinie, że partia chce wspólnie z USA otworzyć kanał rozmów ze stroną rosyjską. Jej",
-      "published": "Mon, 21 Sep 2026 13:44:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Rekordowe ceny paliw w Niemczech. \"Niewiarygodne\"",
+      "link": "https://businessinsider.com.pl/finanse/ceny-paliw-niemcy-jezdza-do-polski-po-benzyne-i-diesla-wciaz-sie-oplaca/2g1gzzh",
+      "summary": "Ceny paliw w Niemczech biją rekordy, a kierowcy jeżdżą tankować do Polski. \"Kupiłem benzynę Super za 1,84 euro. W tej sytuacji wyprawa za granicę wciąż się opłaca\" — mówi jeden z kierowców. Tymczasem niemiecki rząd ogłosił obniżkę podatku od paliw.",
+      "published": "Mon, 21 Sep 2026 13:38:24 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
-      "title": "Niemcy tną podatek od paliw. Kierowcy zapłacą mniej od października",
-      "link": "https://www.bankier.pl/wiadomosc/Niemcy-tna-podatek-od-paliw-Kierowcy-zaplaca-mniej-od-pazdziernika-9200096.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/2/f20db767d3982e-948-568-1042-959-1737-1042.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Obniżka podatku energetycznego od benzyny i oleju napędowego o około 17 eurocentów na litr wejdzie w życie w Niemczech 1 października - poinformował w poniedziałek rzecznik ",
-      "published": "Mon, 21 Sep 2026 13:42:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Amica wróciła do generowania zysków – dług spadł o 71%, a bilans wygląda najlepiej od lat",
-      "link": "https://comparic.pl/amica-wrocila-do-generowania-zyskow-dlug-spadl-o-71-a-bilans-wyglada-najlepiej-od-lat/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/04/amica-graf-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Amica zanotowała w II kwartale 2026 roku 2,8 mln zł skonsolidowanego zysku netto przypisanego akcjonariuszom jednostki dominującej, wobec 5,5 mln zł przed rokiem. Słabszy kwart",
-      "published": "Mon, 21 Sep 2026 13:40:31 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Mieszkania nadal będą drożeć. PKO BP wskazuje na wzrost cen o 5 proc.",
-      "link": "https://www.bankier.pl/wiadomosc/Mieszkania-nadal-beda-drozec-PKO-BP-wskazuje-na-wzrost-cen-o-5-proc-9200091.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/d/46bc50cd6288d1-948-567-10-5-990-593.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W perspektywie roku oczekiwana jest stabilizacja na rynku mieszkaniowym, z umiarkowanym wzrostem średnich cen transakcyjnych mieszkań - oceniają analitycy PKO BP. W perspektywie d",
-      "published": "Mon, 21 Sep 2026 13:36:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fałszywa narracja o ewakuacji. W sieci straszą Polaków „wysiedleniem”",
-      "link": "https://www.bankier.pl/wiadomosc/Falszywa-narracja-o-ewakuacji-W-sieci-strasza-Polakow-wysiedleniem-9200105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/e/b749f60fe9aea8-948-568-10-230-3990-2393.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo Spraw Wewnętrznych i Administracji zdementowało fałszywe informacje, według których Krajowy Plan Ewakuacji miałby być rzekomo „planem na wysiedlenie Polaków”. Aut",
-      "published": "Mon, 21 Sep 2026 13:24:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zielone światło od Komisji Europejskiej. Kolejne miliardy euro zasilą polską gospodarkę",
-      "link": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-od-Komisji-Europejskiej-Kolejne-miliardy-euro-zasila-polska-gospodarke-9200079.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/0/399778448cbf6b-948-568-58-67-3813-2288.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Komisja Europejska wydała tzw. decyzję wykonawczą w sprawie wypłaty Polsce 7,9 mld euro w ramach ósmej płatności z Krajowego Planu Odbudowy - wynika z opublikowanego w poniedzi",
-      "published": "Mon, 21 Sep 2026 13:15:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Akcje Creotech Quantum +5%! Short ma ponad 40% zysku, a spółka dostała potężny impuls od ESA",
-      "link": "https://comparic.pl/akcje-creotech-quantum-5-short-ma-ponad-40-zysku-a-spolka-dostala-potezny-impuls-od-esa/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/Creotech-hossa-bessa-AI-32525223-cc-freepik-234234234-fdsdf-4-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Creotech Quantum podpisał z Europejską Agencją Kosmiczną projekt o wartości 2,33 mln euro, z czego 1,2 mln euro przypada na z",
-      "published": "Mon, 21 Sep 2026 13:13:48 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
+      "title": "Tylu opakowań jeszcze nikt nie zebrał. Rekord w butelkomacie w Bochni",
+      "link": "https://businessinsider.com.pl/finanse/handel/padl-nowy-rekord-polski-przy-butelkomacie-ponad-11-tys-butelek-w-bochni/jh4h6g6",
+      "summary": "Zwrot opakowań po napojach w ramach systemu kaucyjnego rozwinął się pod koniec ubiegłego tygodnia w niezwykłą akcję. Mieszkaniec Bochni (woj. małopolskie) Paweł Mej przez cały dzień wrzucał do automatu butelki gromadzone przez kilka miesięcy. Miał w tym określony cel.",
+      "published": "Mon, 21 Sep 2026 13:31:11 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Gospodarczy nokaut Iranu. PKB leci w dół o 10%, a spór o cieśninę Ormuz trwa",
@@ -306,12 +650,12 @@
       "category": "pl"
     },
     {
-      "title": "Nowy wygląd aplikacji XTB. Co zmieniło się dla 3 mln użytkowników?",
-      "link": "https://www.bankier.pl/wiadomosc/Nowy-wyglad-aplikacji-XTB-Co-zmienilo-sie-dla-3-mln-uzytkownikow-9200070.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/7/448f6bd4569c99-948-568-75-87-1015-609.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polski broker XTB udostępnił nową wersję swojej aplikacji mobilnej. Zmiany mają charakter czysto wizualny - interfejs zyskał odświeżony układ i nową paletę barw, jednak kluczowe",
-      "published": "Mon, 21 Sep 2026 13:10:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Spowolnienie AI to zmowa big techów? Giganci oskarżeni przez użytkowników",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/pozew-przeciwko-gigantom-ai-klienci-obawiaja-sie-zmowy-i-spowolnienia-rozwoju/45zv4vb",
+      "summary": "Tempo rozwoju sztucznej inteligencji ma zostać spowolnione, ale użytkownicy mają nadal płacić tę samą cenę. Teraz złożono pozew przeciwko czterem gigantom AI — powodowie zarzucają im zmowę.",
+      "published": "Mon, 21 Sep 2026 13:04:11 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Jedna Rosja z rekordowym wynikiem. Będzie miała konstytucyjną większość w Dumie",
@@ -322,28 +666,28 @@
       "category": "pl"
     },
     {
-      "title": "Akcje Newag w górę po rewelacyjnych wynikach! Czy powtórzy się historia z 20 kwietnia? Analiza techniczna i fundamentalna",
-      "link": "https://comparic.pl/akcje-newag-w-gore-po-rewelacyjnych-wynikach-czy-powtorzy-sie-historia-z-20-kwietnia-analiza-techniczna-i-fundamentalna/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/hossa-wyniki-AI-23423523235-freepik-cc-345325235-10-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Newag wystrzelił po wynikach, a liczby pokazują skalę pozytywnego zaskoczenia: w II kw. 2026 r. zysk netto sięgnął 147,57 mln zł wobec ",
-      "published": "Mon, 21 Sep 2026 12:59:53 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
+      "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
+      "link": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
+      "summary": "CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film \"Days of Thunder 2\" will help raise brand awareness and broaden its fan base.",
+      "published": "Mon, 21 Sep 2026 13:02:27 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
-      "title": "Nvidia wypłaci wkrótce dywidendę. Oto ile zysku da 1000 akcji NVDA",
-      "link": "https://comparic.pl/nvidia-wyplaci-wkrotce-dywidende-oto-ile-zysku-da-1000-akcji-nvda/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/CYFROWY-PRZELOM-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Dywidenda Nvidii pozostaje niewielka w relacji do wartości akcji, ale dla akcjonariuszy oznacza regularny dodatkowy zwrot z inwestycji. Nvidia (NASDAQ: NVDA) przygotowuje ",
-      "published": "Mon, 21 Sep 2026 12:40:59 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
+      "title": "NBP przeprowadził spore zakupy złota. Coraz bliżej celu prezesa Adama Glapińskiego",
+      "link": "https://businessinsider.com.pl/finanse/wartosc-zlota-w-nbp-rosnie-coraz-blizej-celu-prezesa-adama-glapinskiego/q0s3j8k",
+      "summary": "NBP w sierpniu dokupił tyle samo sztabek złota co w lipcu. W skarbcach naszego banku centralnego znajduje się już 648 ton wartych według stanu z końca sierpnia prawie 345 mld zł.",
+      "published": "Mon, 21 Sep 2026 13:01:02 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
-      "title": "\"Stop atakom na rosyjskie rafinerie\". Trump naciska na Zełenskiego z powodu cen",
-      "link": "https://www.bankier.pl/wiadomosc/Stop-atakom-na-rosyjskie-rafinerie-Trump-naciska-na-Zelenskiego-z-powodu-cen-9200069.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/8/88d8ffa675a228-948-568-0-0-3890-2333.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump powtórzył podczas niedzielnej rozmowy telefonicznej z prezydentem Ukrainy Wołodymyrem Zełenskim swoją prośbę o zaprzestanie przez siły ukraińskie atakó",
-      "published": "Mon, 21 Sep 2026 12:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
+      "title": "Trzęsienie ziemi w kraju nadbałtyckim. Chodzi o ropę z Orlenu",
+      "link": "https://businessinsider.com.pl/gospodarka/trzesienie-ziemi-w-kraju-nadbaltyckim-chodzi-o-dostawy-ropy-dla-orlenu/1460scc",
+      "summary": "Zakłócenia w dostawach ropy z Arabii Saudyjskiej spowodowały problem z dostępnością surowca dla jedynej na Litwie rafinerii, prowadzonej przez Orlen Litwa — spółkę kontrolowaną przez polski koncern. Konieczne jest poszukiwanie nowych źródeł.",
+      "published": "Mon, 21 Sep 2026 12:41:27 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Wypadek na drodze. Uber musi zapłacić krocie za śmierć pasażerki",
@@ -354,62 +698,6 @@
       "category": "other"
     },
     {
-      "title": "Węgrzy nadal głodni rosyjskiej ropy. Budapeszt prosi USA o taryfę ulgową",
-      "link": "https://www.bankier.pl/wiadomosc/Wegrzy-nadal-glodni-rosyjskiej-ropy-Budapeszt-prosi-USA-o-taryfe-ulgowa-9200057.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/d/27d26bc3ad542d-948-568-42-72-957-574.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Władze w Budapeszcie próbują wynegocjować w Waszyngtonie okres przejściowy, który uchroni węgierską gospodarkę przed nowymi amerykańskimi cłami na import rosyjskich surowców. Jak",
-      "published": "Mon, 21 Sep 2026 12:25:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "summary": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-      "published": "Mon, 21 Sep 2026 12:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Złoto za ponad 8 mld dolarów. Rosja ujawniła kolejną sprzedaż metalu",
-      "link": "https://www.bankier.pl/wiadomosc/Zloto-Kremla-za-ponad-8-mld-dolarow-Bank-Centralny-Rosji-ujawnil-kolejna-sprzedaz-metalu-9200045.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/b/e5bddb7ad64ca7-948-567-0-30-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Od początku roku Centralny Bank Rosji spieniężył blisko 56 ton złota. Jego rynkowa wartość według średnich cen wynosi ponad 8 mld dolarów. Trudno jednak podejrzewać, że odcięta o",
-      "published": "Mon, 21 Sep 2026 12:15:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ceny paliw wykończą polskich tirowców? Przewoźnicy z dramatycznym apelem do premiera",
-      "link": "https://www.bankier.pl/wiadomosc/Ceny-paliw-wykoncza-polskich-tirowcow-Przewoznicy-z-dramatycznym-apelem-do-premiera-9200041.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/2/4a7307d7a0d10c-948-568-0-107-1719-1031.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zrzeszenie Międzynarodowych Przewoźników Drogowych w Polsce (ZMPD) zaapelowało do premiera Donalda Tuska o objęcie branży transportu drogowego programem osłonowym w związku z w",
-      "published": "Mon, 21 Sep 2026 12:14:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polacy rzucili się na mieszkania, ale to dopiero początek! 56% wierzy we wzrost cen",
-      "link": "https://comparic.pl/polacy-rzucili-sie-na-mieszkania-ale-to-dopiero-poczatek-56-wierzy-we-wzrost-cen/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/01/freepik-nieruchomosci-ziemia-dzialki-grunty-home-house-1-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>56% Polaków spodziewa się dalszych wzrostów cen mieszkań, a dla 63% osób kupujących nieruchomość właśnie perspektywa droższych loka",
-      "published": "Mon, 21 Sep 2026 12:12:20 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wybucha największa panika od 1000 sesji na akcjach z GPW! Kluczowe wsparcie ponad 20% niżej – co jest powodem spadków?",
-      "link": "https://comparic.pl/wybucha-najwieksza-panika-od-1000-sesji-na-akcjach-z-gpw-kluczowe-wsparcie-ponad-20-nizej-co-jest-powodem-spadkow/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/03/krach-upadek-freepik-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Akcje Spyrosoft runęły o ponad 17%, a kurs spadł do najniższego poziomu od około 960 dni przy obrotach najwyższych od ponad 1050 sesji. Rynek gwałtownie reaguje na ra",
-      "published": "Mon, 21 Sep 2026 12:08:42 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "summary": "The weight-loss-drug manufacturer failed to excite investors hoping for a turnaround.",
-      "published": "Mon, 21 Sep 2026 12:06:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "\"Czytajcie między wierszami\". Mocne uderzenie szefa Nvidii w OpenAI i Google",
       "link": "https://www.bankier.pl/wiadomosc/Czytajcie-miedzy-wierszami-Mocne-uderzenie-szefa-Nvidii-w-OpenAI-i-Google-9200003.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/4a63a355fd7274-948-568-0-404-2250-1349.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />- 2030 rok nie będzie oznaczał końca świata. AI nie doprowadzi do zagłady ludzkości - tak wieści o zbliżającej się katastrofie, której motorem będzie sztuczna inteligencja, sko",
@@ -418,44 +706,12 @@
       "category": "pl"
     },
     {
-      "title": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
-      "link": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
-      "summary": "The implication is a belief among insiders that the stocks are going higher from here, not lower.",
-      "published": "Mon, 21 Sep 2026 11:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "XRP trafia na największą giełdę w Rosji! Kryptowaluta będzie rozliczana w rublach",
-      "link": "https://comparic.pl/xrp-trafia-na-najwieksza-gielde-w-rosji-kryptowaluta-bedzie-rozliczana-w-rublach/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/krypto-35-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Rosyjski rynek finansowy stopniowo zwiększa dostęp do instrumentów powiązanych z kryptowalutami, choć odbywa się to w ramach ściśle regulowanych zasad. Giełda Moskiewska (MOEX",
-      "published": "Mon, 21 Sep 2026 11:44:26 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Próby skażenia wody w polskich kranach? Rząd chce odłączenia wodociągów od Internetu",
-      "link": "https://www.bankier.pl/wiadomosc/Proby-skazenia-wody-w-polskich-kranach-Rzad-chce-odlaczenia-wodociagow-od-Internetu-9200007.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/b/488189fd702e06-948-568-90-70-3910-2345.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Urządzenia OT, czyli wykorzystywane do sterowania procesami technologicznymi, powinny być odseparowane od internetu - wynika z poniedziałkowych rekomendacji dla sektora wodno-k",
-      "published": "Mon, 21 Sep 2026 11:37:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Przedsiębiorcy w USA w kryzysie. \"Firmy są na granicy wytrzymałości\"",
+      "title": "Kryzys uderzył w amerykańskie firmy. \"Są na granicy wytrzymałości\"",
       "link": "https://businessinsider.com.pl/gospodarka/przedsiebiorcy-w-usa-zmagaja-sie-z-kryzysem-rosna-cla-i-koszty-dostaw/1bngjj1",
       "summary": "Amerykańscy przedsiębiorcy ledwo sobie radzą w pogłębiającym się kryzysie ekonomicznym — informuje CNN. Zakłócenia w żegludze, globalne cła, rosnące koszty. — To zdecydowanie większy problem niż covid — podsumował jeden z biznesmenów w rozmowie z portalem.",
       "published": "Mon, 21 Sep 2026 11:30:35 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
-      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-      "summary": "Low valuations and founder management are attractive to RV Capital’s Rob Vinall.",
-      "published": "Mon, 21 Sep 2026 11:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Załamanie kursu czołowej hurtowni leków. Ogromna kara od UOKiK",
@@ -464,22 +720,6 @@
       "published": "Mon, 21 Sep 2026 11:20:26 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Warren Buffett odchodzi po 60 latach. Zostawia firmę mniejszą niż… Bitcoin",
-      "link": "https://comparic.pl/warren-buffett-odchodzi-po-60-latach-zostawia-firme-mniejsza-niz-bitcoin/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/krypto-34-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Odejście Warrena Buffetta z kierowniczej roli w Berkshire Hathaway zamyka jedną z najdłuższych i najbardziej wpływowych karier w historii współczesnego inwestowania. 96-letni ",
-      "published": "Mon, 21 Sep 2026 11:18:45 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-      "published": "Mon, 21 Sep 2026 11:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Tankowanie jeszcze droższe. Może paść rekord",
@@ -496,14 +736,6 @@
       "published": "Mon, 21 Sep 2026 11:02:49 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-      "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-      "summary": "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
-      "published": "Mon, 21 Sep 2026 11:00:01 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Gigantyczne kary od UOKiK. Hurtownie leków ograniczały rynkową konkurencję",
@@ -526,206 +758,6 @@
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/sztuczna-inteligencja-w-centrum-debaty-tony-blair-apeluje-do-panstw-zachodnich/e5n3p5h",
       "summary": "Tony Blair zaapelował do państw zachodnich, by nie spowalniały rozwoju sztucznej inteligencji mimo rosnących obaw o bezpieczeństwo tej technologii. Były premier Wielkiej Brytanii uważa, że wstrzymanie prac nad AI mogłoby przynieść Zachodowi równie poważne konsekwencje jak zagrożenia związane z samą technologią.",
       "published": "Mon, 21 Sep 2026 10:51:52 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "ASBIS z najlepszym sierpniem w historii. Przychody w górę o 91% do 604 mln USD",
-      "link": "https://comparic.pl/asbis-z-najlepszym-sierpniem-w-historii-przychody-w-gore-o-91-do-604-mln-usd/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/asbis-graf-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Grupa ASBIS wypracowała w sierpniu 2026 roku skonsolidowane przychody na poziomie 604 mln USD, niemal dwukrotnie wyższe niż przed rokiem. Wzrost o 91% rok do roku oznacza najle",
-      "published": "Mon, 21 Sep 2026 10:45:19 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kiedyś był nuklearny \"czerwony telefon\" między mocarstwami. Teraz ma być AI-owy",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/propozycja-usa-dla-chin-nowy-dialog-o-ai-i-bezpieczenstwie-narodowym/j0cgr35",
-      "summary": "Stany Zjednoczone zaproponowały Chinom utworzenie bezpośredniego kanału komunikacji, który pozwalałby obu rządom informować się nawzajem o poważnych incydentach związanych ze sztuczną inteligencją i bezpieczeństwem narodowym. Inicjatywa pojawia się w czasie, gdy rywalizacja między oboma krajami w obszarze AI staje się coraz bardziej intensywna.",
-      "published": "Mon, 21 Sep 2026 10:33:16 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Rynek reaguje na cięcie ratingu Polski. Kluczowe okazały się inne informacje",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/polskie-obligacje-i-zloty-zyskuja-mimo-decyzji-moodys-nowe-rekordy-na-gpw/mclh56m",
-      "summary": "Poniedziałkowa sesja jest pierwszą od decyzji Moody's o cięciu polskiego ratingu. Wielkiej reakcji rynku nie widać. Rentowności obligacji skarbowych wręcz spadają, złoty się umacnia, a na GPW znowu padły nowe rekordy.",
-      "published": "Mon, 21 Sep 2026 10:26:46 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "summary": "“On each of these weekends away, she’s probably spending $500.”",
-      "published": "Mon, 21 Sep 2026 10:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
-      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
-      "summary": "A team at the bank, led by Ben Snider, wrote in a recent note that they see S&amp;P 500 earnings per share growth slowing to 11% in 2027 and 2028.",
-      "published": "Mon, 21 Sep 2026 10:13:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Ranking najlepiej płatnych branż: Górnictwo wypada z podium. Pensje rosną coraz wolniej",
-      "link": "https://www.bankier.pl/wiadomosc/Ranking-najlepiej-platnych-branz-Gornictwo-wypada-z-podium-Pensje-rosna-coraz-wolniej-9199962.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/5/51ba40fad8a64e-948-568-0-108-1600-960.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Negatywne zaskoczenie z rynku pracy przyniosły sierpniowe statystyki o zatrudnieniu i dynamice płac podane przez GUS. Tempo wzrostu płac było drugim najwolniejszym od przeszło 5",
-      "published": "Mon, 21 Sep 2026 10:10:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Google ukarany gigantyczną karą. 403 mln euro za dane użytkowników",
-      "link": "https://businessinsider.com.pl/biznes/media/google-ukarane-403-mln-euro-za-naruszenie-prywatnosci/k7p81nr",
-      "summary": "Należąca do Alphabetu wyszukiwarka Google dostała karę w wysokości 403 mln euro. Nałożył ją irlandzki organ ochrony danych, będący głównym regulatorem ds. prywatności w Unii Europejskiej dla większości największych firm internetowych,.",
-      "published": "Mon, 21 Sep 2026 10:08:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Trzy ładunki gazu z Orlenu dla Ukrainy. Kluczowe porozumienia dwóch gigantów",
-      "link": "https://businessinsider.com.pl/gospodarka/trzy-ladunki-gazu-z-orlenu-dla-ukrainy-kluczowe-porozumienia-dwoch-gigantow/mr0dge2",
-      "summary": "Orlen podpisał z ukraińskim Naftogazem dwa porozumienia. Mają wzmacniać współpracę m.in. w kwestii dostaw LNG i produktów naftowych w Ukrainie i regionie. Już w pierwszym kwartale 2027 r. jest szansa na trzy dostawy gazu od Orlenu.",
-      "published": "Mon, 21 Sep 2026 10:07:54 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Trump to najlepszy kontrkandydat Trumpa. MAGA pogrąża się sama i ciągnie USA za sobą",
-      "link": "https://www.bankier.pl/wiadomosc/Donald-Trump-to-najlepszy-kontrkandydat-Donalda-Trumpa-MAGA-pograza-sie-sama-i-ciagnie-USA-za-soba-9199960.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/6/f8d59fa76d6b1e-948-568-39-0-1080-648.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA ma nie lada problem. Stany Zjednoczone przegrywają właśnie wojnę z jednym ze swoich największych wrogów. Gospodarka USA coraz bardziej pogrążona jest w bagnie rosną",
-      "published": "Mon, 21 Sep 2026 10:03:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zablokowanie Clarity Act jest paradoksalnie korzystne dla Bitcoina i kryptowalut",
-      "link": "https://comparic.pl/zablokowanie-clarity-act-jest-paradoksalnie-korzystne-dla-bitcoina-i-kryptowalut/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/09/krypto-31-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Debata nad regulacją rynku kryptowalut w USA weszła w nowy etap po tym, jak Senat w zeszłym tygodniu nie zdołał rozpocząć dalszych prac nad długo oczekiwanym projektem CLARITY",
-      "published": "Mon, 21 Sep 2026 09:50:42 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Dolar i euro drożeją! Kurs złotego w poniedziałek 21września 2026 r.",
-      "link": "https://comparic.pl/dolar-i-euro-drozeja-kurs-zlotego-w-poniedzialek-21wrzesnia-2026-r/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/05/freepik-PLN-polski-zloty-1-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>W poniedziałek, 21 września 2026 r. o poranku polski złoty mocno traci względem głównych konkurentów na rynku Forex. Dzisiejsza sesja charakteryzuje się następuj",
-      "published": "Mon, 21 Sep 2026 09:30:04 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Pogłoski o śmierci budownictwa mocno przesadzone\". Solidne odbicie",
-      "link": "https://businessinsider.com.pl/gospodarka/produkcja-budowlano-montazowa-zaskakuje-w-sierpniu-infrastruktura-na-plusie/qxl3ykt",
-      "summary": "Po bardzo słabym lipcu produkcja budowlano-montażowa w Polsce w sierpniu odbiła. Jednak struktura pokazuje bardzo zróżnicowane wyniki: solidne odbicie w budownictwie infrastrukturalnym, głęboki spadek budowy budynków i przeciętne wyniki robót specjalistycznych.",
-      "published": "Mon, 21 Sep 2026 09:27:05 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
-      "published": "Mon, 21 Sep 2026 09:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Jeden poziom Bitcoina dzieli nas od hossy. Analitycy podali konkretną cenę BTC",
-      "link": "https://comparic.pl/jeden-poziom-bitcoina-dzieli-nas-od-hossy-analitycy-podali-konkretna-cene-btc/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2022/02/bitcoin-btc-cc-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Rynek Bitcoina (BTC) ponownie znalazł się w punkcie, w którym zachowanie kursu przy kluczowych poziomach technicznych może przesądzić o dalszym kierunku notowań. Główna kryp",
-      "published": "Mon, 21 Sep 2026 09:14:13 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Analitycy ostrzegają. Te akcje otrzymały rekomendacje sprzedaży – lista!",
-      "link": "https://comparic.pl/analitycy-ostrzegaja-te-akcje-otrzymaly-rekomendacje-sprzedazy-lista/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/01/freepik-bear-niedzwiedz-bessa-spadek-spadki-kryzys-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Na europejskim rynku akcji pojawiła się seria nowych rekomendacji sprzedaży i &#8220;Niedoważaj&#8221; dla znanych spółek, w tym Novo No",
-      "published": "Mon, 21 Sep 2026 09:13:00 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Tanie rogaliki z Polski? To początek końca\". Jak szwajcarska sieć piekarni radzi sobie z kryzysem branży",
-      "link": "https://businessinsider.com.pl/biznes/szwajcarskie-piekarnie-znikaja-ale-te-rosna-w-sile-oto-ich-strategia/f6j015s",
-      "summary": "W ciągu ostatnich 25 lat liczba piekarni w Szwajcarii zmniejszyła się o połowę. Tymczasem sieć Fleischli nie tylko przetrwała, ale rozrosła się do 14 placówek. Jej właściciele, Konrad i Chantal Pfister, stawiają na automatyzację, ścisłą kontrolę kosztów i selekcję asortymentu. Jednocześnie przekonują, że jakość pozostaje kluczowa, a import tanich wypieków może być dla piekarzy ślepą uliczką.",
-      "published": "Mon, 21 Sep 2026 09:08:22 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Kylie Jenner sells California mansion for $5 million below asking",
-      "link": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
-      "summary": "Reality TV superstar and fashion mogul Kylie Jenner has finally found a buyer for her longtime California mansion, offloading the home for $15.3 million.",
-      "published": "Mon, 21 Sep 2026 09:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Steven Spielberg lists longtime L.A. equestrian ranch for $30 million",
-      "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
-      "summary": "Filmmaker Steven Spielberg has listed the sprawling Los Angeles ranch where he housed his horses for nearly $30 million—decades after abandoning controversial plans to transform the property with an enormous five-story riding facility.",
-      "published": "Mon, 21 Sep 2026 09:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Od dzisiaj ważna zmiana w Biedronce. Klienci mają na to cztery miesiące",
-      "link": "https://businessinsider.com.pl/finanse/handel/biedronka-wprowadza-zmiane-w-systemie-kaucyjnym-od-poniedzialku-nowe-zasady/cwg94dg",
-      "summary": "Od poniedziałku 21 września rozpoczyna się okres obowiązywania nowych zasad w sklepach sieci Biedronka. Sieć podjęła decyzję o wydłużeniu ważności voucherów uzyskanych w ramach systemu kaucyjnego. Teraz klienci mają na to aż cztery miesiące.",
-      "published": "Mon, 21 Sep 2026 08:56:55 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "ORLEN rezygnuje z reprezentacji Polski. PZPN negocjuje nową umowę",
-      "link": "https://businessinsider.com.pl/sport/orlen-znika-z-pilkarskiej-reprezentacji-polski-nowy-sponsor-juz-ogloszony/98g4dsh",
-      "summary": "ORLEN przestał być sponsorem Polskiego Związku Piłki Nożnej.Oznacza to, że podczas najbliższego zgrupowania reprezentacji Polski marka ORLEN nie będzie już widoczna na materiałach związanych z kadrą. PZPN zyskał za to nowego sponsora.",
-      "published": "Mon, 21 Sep 2026 08:48:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Handel w niedziele znowu do zmiany? Propozycja trzech dni wolnego za jeden",
-      "link": "https://www.bankier.pl/wiadomosc/Handel-w-niedziele-znowu-do-zmiany-Propozycja-trzech-dni-wolnego-za-jeden-9199908.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/c/4dd837748f1ff1-948-567-0-54-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dwa dni wolne za pracę, które następują tuż po sobie - takie rozwiązanie proponuje jeden ze związków zawodowych w zamian za otwarcie sklepów w niedzielę. Petycja, która wpłynęła ",
-      "published": "Mon, 21 Sep 2026 08:47:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rynek znowu uwierzył Donaldowi Trumpowi. Wyraźna reakcja notowań ropy naftowej",
-      "link": "https://businessinsider.com.pl/biznes/ceny-ropy-spadaja-czwarty-dzien-z-rzedu-inwestorzy-patrza-na-bliski-wschod/md0cr5d",
-      "summary": "W poniedziałek rano na światowych rynkach ceny ropy naftowej wyraźnie spadają. To czwarta z rzędu sesja, gdy ten kluczowy dla gospodarki surowiec tanieje. Wpływ na spadki mają słowa prezydenta USA, które — choć zawierają elementy gróźb i eskalacji — mogą zwiastować porozumienie na Bliskim Wschodzie.",
-      "published": "Mon, 21 Sep 2026 08:34:30 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nowa fala zwolnień w Volkswagenie i Porsche. Pracownicy wyszli na ulice",
-      "link": "https://www.bankier.pl/wiadomosc/Nowa-fala-zwolnien-w-Volkswagenie-i-Porsche-Pracownicy-wyszli-na-ulice-9199888.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/f/e58d725a8f9c3f-948-568-0-30-997-598.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Plan restrukturyzacyjny Volkswagena obejmujący zamknięcie czterech fabryk i nawet 100 tys. zwolnionych może nie wystarczyć. Koncern motoryzacyjny co chwila informuje o kolejnej fa",
-      "published": "Mon, 21 Sep 2026 08:30:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Rekordowa kumulacja w Lotto. Takiej wygranej w Polsce jeszcze nie było",
-      "link": "https://businessinsider.com.pl/gospodarka/rekord-w-lotto-gracz-wygral-44-mln-tyle-mu-zabierze-polski-rzad/r51m8xl",
-      "summary": "Potężna wygrana padła w weekend w Lotto. Jeden z graczy trafił szóstkę i na jego konto trafi kwota ponad 44 mln zł, pomniejszona o 10-procentowy podatek. Tym samym pobity został rekord sprzed dziewięciu lat.",
-      "published": "Mon, 21 Sep 2026 08:28:18 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Rozczarowujące dane o wynagrodzeniach. Tak rośnie średnia pensja w Polsce",
-      "link": "https://businessinsider.com.pl/gospodarka/gus-o-wynagrodzeniach-w-sierpniu-2026-tempo-wzrostu-realnych-plac-zwalnia/svdzxv8",
-      "summary": "Główny Urząd Statystyczny opublikował nowe dane dotyczące tempa wzrostu płac w firmach. Nominalne wynagrodzenia nadal rosną całkiem szybko, ale wolniej od prognoz. Odbicie inflacji spowodowało, że w ujęciu realnym dynamika wyraźnie spowolniła. To będą istotne dane dla RPP.",
-      "published": "Mon, 21 Sep 2026 07:32:45 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
     },
@@ -762,36 +794,12 @@
       "category": "pl"
     },
     {
-      "title": "\"Tylko 35 proc. przesyłek Pepco dociera na czas\". Gigant planuje duże zmiany",
-      "link": "https://businessinsider.com.pl/biznes/potezna-inwestycja-pepco-pod-gdanskiem-ma-wzmocnic-lancuchy-dostaw/leyzwdp",
-      "summary": "Pepco chce usprawnić proces dostaw — w tej chwili tylko 35 proc. przesyłek dociera na czas, a koszty transportu rosną — informuje Reuters. Szansą na złagodzenie tych problemów może być potężna inwestycja w Polsce.",
-      "published": "Mon, 21 Sep 2026 06:50:48 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Nocna zmiana ratingu. Złe wieści dla polskiej gospodarki",
-      "link": "https://www.money.pl/pieniadze/nocna-zmiana-ratingu-zle-wiesci-dla-polskiej-gospodarki-7330882788825312a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c38d1e28-102a-427e-ab73-f3a21889e0e6\" width=\"308\" /> Agencja ratingowa Moody’s obniżyła rating Polski do poziomu A3. -Traktujemy tę decyzję poważnie, ale spokojnie. Polska gospodarka szybko rośnie, a jej fundamenty pozostają mocne - skomentował tę decyzję minister finansów Andrzej Domański.",
-      "published": "Fri, 18 Sep 2026 23:24:07 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
       "link": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
       "summary": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
       "published": "Fri, 18 Sep 2026 19:30:55 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "\"Egzaminu nie zdaliśmy\". Alerty i ewakuacje na wschodzie Polski wpływają na pracę i biznes",
-      "link": "https://www.money.pl/gospodarka/egzaminu-nie-zdalismy-alerty-i-ewakuacje-na-wschodzie-polski-wplywaja-na-prace-i-biznes-7330757347145984a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/93d53b7e-f9bc-47f1-8198-d91185f62153\" width=\"308\" /> Czwartkowy alert RCB ostrzegający mieszkańców Podkarpacia i Lubelszczyzny przed zagrożeniem atakiem z powietrza wstrzymał loty na dwóch lotniskach, ponadto ewakuowano część urzędów i szkoły. – Wyrywanie ludzi z codziennego życia będzie dużym problemem – mówi jeden z naszy",
-      "published": "Fri, 18 Sep 2026 19:26:45 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
@@ -824,14 +832,6 @@
       "published": "Fri, 18 Sep 2026 16:13:00 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Prokuratura w budynku Ministerstwa Sportu i Turystyki. W tle feralny raport o Polakach",
-      "link": "https://www.money.pl/gospodarka/prokuratura-w-budynku-ministerstwa-sportu-i-turystyki-w-tle-feralny-raport-o-polakach-7330767695231200a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0a1fd029-5cee-4b64-bbbb-dc6170e5c226\" width=\"308\" /> Prokuratura wkroczyła do budynku Ministerstwa Sportu i Turystyki. W czwartek policjanci prowadzili przeszukania na Dolnym Śląsku, m.in. w nieruchomości Barbary Mróz-Gorgoń.",
-      "published": "Fri, 18 Sep 2026 15:40:01 +0200",
-      "source": "Money.pl",
-      "category": "pl"
     },
     {
       "title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
