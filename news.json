@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:46:34.330560",
+  "generated_at": "2026-10-02T22:04:17.223755",
   "articles": [
     {
       "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
@@ -58,14 +58,6 @@
       "category": "us"
     },
     {
-      "title": "Goldman Sachs CEO succession planning faces one big problem",
-      "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-      "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
-      "published": "Tue, 29 Sep 2026 20:50:10 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
       "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
       "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
       "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
@@ -90,34 +82,66 @@
       "category": "us"
     },
     {
+      "title": "Koreańskie FA-50 w pełnej gotowości. Zastępują MiGi-29 w misjach nad wschodnią Polską",
+      "link": "https://www.bankier.pl/wiadomosc/Koreanskie-FA-50-w-pelnej-gotowosci-Zastepuja-MiGi-29-w-misjach-nad-wschodnia-Polska-9206988.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/0/8e04982f569eeb-948-568-4-72-1596-957.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef MON, wicepremier Władysław Kosiniak-Kamysz poinformował w piątek wieczorem, że w dyżur bojowy weszły właśnie lekkie samoloty FA-50GF. Oznacza to kolejne wzmocnienie naszej w",
+      "published": "Fri, 2 Oct 2026 22:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wielki biznes w cieniu wojny. Amerykański kapitał kładzie rękę na zasobach Ukrainy",
+      "link": "https://www.bankier.pl/wiadomosc/Wielki-biznes-w-cieniu-wojny-Amerykanski-kapital-kladzie-reke-na-zasobach-Ukrainy-9206982.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/1/8ad046a6c79002-948-568-0-22-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Amerykańsko-ukraiński inwestycyjny fundusz odbudowy zawarł pierwszą umowę w sprawie eksploatacji surowców krytycznych oraz projektów energetycznych - podał w piątek Reuters, cyt",
+      "published": "Fri, 2 Oct 2026 21:40:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zachodnie ambasady ewakuują się do Polski? Stanowcza reakcja Kijowa",
+      "link": "https://www.bankier.pl/wiadomosc/Zachodnie-ambasady-ewakuuja-sie-do-Polski-Stanowcza-reakcja-Kijowa-9206981.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/7/b18e7bb9b6196e-937-562-62-0-937-562.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />MSZ Ukrainy zaprzeczyło doniesieniom brytyjskiego dziennika „The Guardian”, że zachodnie ambasady w Kijowie przygotowują się na wyjazd do Lwowa albo Polski, gdyby rosyjskie wojska",
+      "published": "Fri, 2 Oct 2026 21:33:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "50 sabotażystów w polskich więzieniach. Wiceszef MON ostro odpowiada na zarzuty Nawrockiego",
+      "link": "https://www.bankier.pl/wiadomosc/50-sabotazystow-w-polskich-wiezieniach-Wiceszef-MON-ostro-odpowiada-na-zarzuty-Nawrockiego-9206975.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/5/419d313cb6e9eb-948-568-0-104-3800-2279.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W więzieniach znajduje się 50 sabotażystów złapanych przez służby specjalne – poinformował w piątek wieczorem sekretarz stanu w ministerstwie obrony narodowej Cezary Tomczyk (P",
+      "published": "Fri, 2 Oct 2026 21:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Bunt młodych paraliżuje Francję. Tysiące aresztowanych, podpalenia i miliony euro strat",
+      "link": "https://www.bankier.pl/wiadomosc/Bunt-mlodych-paralizuje-Francje-Tysiace-aresztowanych-podpalenia-i-miliony-euro-strat-9206970.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/557d5d797c799f-948-568-22-217-2975-1784.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Protesty licealistów we Francji zakłóciły w piątek w różnym stopniu funkcjonowanie 735 szkół - przekazał minister edukacji Edouard Geffray. Szef resortu spraw wewnętrznych Lau",
+      "published": "Fri, 2 Oct 2026 21:05:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Powrót „czarnej śmierci” w Rosji? Prawie 200 osób z objawami trafiło do szpitali",
+      "link": "https://www.bankier.pl/wiadomosc/Powrot-czarnej-smierci-w-Rosji-Prawie-200-osob-z-objawami-trafilo-do-szpitali-9206961.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/1/2875072ac44d35-945-560-0-231-4029-2417.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Blisko 200 osób trafiło do szpitali w obwodzie irkuckim, na wschodzie Syberii, z podejrzeniem dżumy - podał w piątek rosyjski niezależny portal Moscow Times.</p>",
+      "published": "Fri, 2 Oct 2026 20:14:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "„Każdy premier powiedziałby Domańskiemu: do domu”. Nawrocki mówi o bilionie złotych długu",
+      "link": "https://www.bankier.pl/wiadomosc/Kazdy-premier-powiedzialby-Domanskiemu-do-domu-Nawrocki-mowi-o-bilionie-zlotych-dlugu-9206949.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/6/6783de76f614dd-948-568-0-70-3491-2094.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Finanse publiczne idą na ścianę, obecny rząd zadłużył już Polaków na 1 bln zł - mówił w piątek na spotkaniu w Stargardzie (woj. zachodniopomorskie) prezydent Karol Nawrocki. W n",
+      "published": "Fri, 2 Oct 2026 19:32:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "Chiński szok uderza w Europę. Stawką są miliony miejsc pracy",
       "link": "https://www.bankier.pl/wiadomosc/Chinski-szok-uderza-w-Europe-Stawka-sa-miliony-miejsc-pracy-9206586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/e/53c851f78b86a5-948-568-0-170-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W przyszłym tygodniu przedstawiciele najwyższych władz UE udadzą się do Pekinu, by zażądać od chińskich władz ograniczenia ogromnego deficytu handlowego w wymianie z Europą. Sp",
       "published": "Fri, 2 Oct 2026 19:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kłótnia w USA o wojskowe miliony. Administracja Trumpa ignoruje blokadę Kongresu",
-      "link": "https://www.bankier.pl/wiadomosc/Klotnia-w-USA-o-wojskowe-miliony-Administracja-Trumpa-ignoruje-blokade-Kongresu-9206922.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/4/a973224b7524a3-948-568-100-170-3883-2330.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Politycy Partii Demokratycznej w Kongresie USA oskarżyli administrację prezydenta Donalda Trumpa o próbę nielegalnego przekierowania środków na pomoc wojskową dla państw euro",
-      "published": "Fri, 2 Oct 2026 18:35:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Koniec patologii w schroniskach dla zwierząt? Nawet 40 z nich może być patologicznych",
-      "link": "https://www.bankier.pl/wiadomosc/Koniec-patologii-w-schroniskach-dla-zwierzat-Nawet-40-z-nich-moze-byc-patologicznych-9206919.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/8/28021095432818-945-560-11-1150-2324-1394.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Trzeba wzmocnić system kontroli schronisk dla zwierząt - ocenili eksperci podczas piątkowego VI Kongresu Praw Zwierząt w Senacie. Ich zdaniem, kontrole powinny być niezapowie",
-      "published": "Fri, 2 Oct 2026 18:28:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Miliardy euro w grze. Tusk na czele koalicji broniącej funduszy dla regionów i rolników",
-      "link": "https://www.bankier.pl/wiadomosc/Miliardy-euro-w-grze-Tusk-na-czele-koalicji-broniacej-funduszy-dla-regionow-i-rolnikow-9206886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/2/ac7b9f1e543600-948-567-0-0-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przywódcy 17 państw UE, w tym premier Donald Tusk, we wspólnym liście wysłanym w piątek sprzeciwili się cięciom w nowym unijnym budżecie. Według nich poziom wydatków na rozwój reg",
-      "published": "Fri, 2 Oct 2026 17:39:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -146,14 +170,6 @@
       "category": "pl"
     },
     {
-      "title": "Boisko na górze, schron na dole. Tak mają wyglądać Orliki nowej generacji",
-      "link": "https://www.bankier.pl/wiadomosc/Boisko-na-gorze-schron-na-dole-Tak-maja-wygladac-Orliki-nowej-generacji-9206809.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/a/0f8daf39241c4b-945-560-37-0-2962-1777.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister sportu i turystyki Jakub Rutnicki ogłosił w Ciasnej listę samorządów w woj. śląskim, którym przyznano dotacje na remont Orlików. Zaapelował, by w razie budowy nowych ob",
-      "published": "Fri, 2 Oct 2026 16:28:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Trump nacisnął i dopiął swego. Europa uwalnia z tajnych magazynów 100 milionów baryłek ropy",
       "link": "https://www.bankier.pl/wiadomosc/Trump-nacisnal-i-dopial-swego-Europa-uwalnia-z-tajnych-magazynow-100-milionow-barylek-ropy-9206805.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/9/a6c222380b7379-948-568-14-9-1977-1186.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump ogłosił w piątek, że państwa europejskie zgodziły się uwolnić „potężną ilość” oleju napędowego ze swoich rezerw. Potwierdził to prezydent Francji Emma",
@@ -166,14 +182,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Wlasciciel-m-in-TVN-i-HBO-z-nowa-nazwa-Paramount-i-Warner-Bros-polacza-sily-jako-Skydance-9206804.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/a/22b34daa72e0a0-948-568-30-0-3970-2381.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef koncernu Paramount Skydance David Ellison ogłosił w piątek, że firma zmieni nazwę na Skydance po przejęciu Warner Bros. Discovery. Do sfinalizowania transakcji ma dojść 6 p",
       "published": "Fri, 2 Oct 2026 16:19:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Morawiecki zmienia strategię. Start partii Rozwój Plus opóźniony o kilka miesięcy",
-      "link": "https://www.bankier.pl/wiadomosc/Morawiecki-zmienia-strategie-Start-partii-Rozwoj-Plus-opozniony-o-kilka-miesiecy-9206792.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/7/105beccc6f7123-948-568-0-15-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Formalne powołanie nowej partii politycznej b. premiera Mateusza Morawieckiego nie nastąpi na kongresie 15 października, jak dotąd zapowiadano, lecz „raczej za kilka miesięcy” -",
-      "published": "Fri, 2 Oct 2026 15:52:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -198,22 +206,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Rewolucja-w-oswiadczeniach-majatkowych-Rzad-chce-ujawniac-takze-majatek-malzonkow-9206724.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/b/4053d5ba94d131-948-568-614-61-3481-2088.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Oświadczenia majątkowe będą składane w wersji cyfrowej za pomocą specjalnego systemu elektronicznego – wynika z projektu ustawy opublikowanego w wykazie prac rządu. Jednocześn",
       "published": "Fri, 2 Oct 2026 14:44:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Glapiński o inflacji: „Nastrój zimowy, taki jastrzębi”. Obniżki stóp się oddaliły",
-      "link": "https://www.bankier.pl/wiadomosc/Glapinski-o-inflacji-Nastroj-zimowy-taki-jastrzebi-Obnizki-stop-sie-oddalily-9206717.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/a/0709fc8ef76f6e-948-568-0-104-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Narodowy Bank Polski nie ma wpływu na ceny energii, ale nie dopuści do utrwalenia się inflacji powyżej celu, nastroje są jastrzębie - wynika z przemówienia prezesa NBP Adama Gl",
-      "published": "Fri, 2 Oct 2026 14:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zimny prysznic dla rynku pracy w USA. Słabe payrollsy dają ulgę inwestorom",
-      "link": "https://www.bankier.pl/wiadomosc/Rynek-pracy-w-USA-rozczarowal-w-sierpniu-2026-Ale-gielda-jest-zadowolona-9206712.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/c/d7d39b672abc18-948-568-0-247-3379-2027.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Amerykański rynek pracy we wrześniu odnotował wyraźne wyhamowanie. Ta zdawałoby się negatywna informacja wywołała pozytywną reakcję indeksów giełdowych w USA. Zaskakująco słaby",
-      "published": "Fri, 2 Oct 2026 14:30:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -250,12 +242,140 @@
       "category": "pl"
     },
     {
+      "title": "Koniec z bazgrołami w oświadczeniach majątkowych. Rząd szykuje reformę",
+      "link": "https://www.money.pl/gospodarka/koniec-z-bazgrolami-w-oswiadczeniach-majatkowych-rzad-szykuje-reforme-7335809470695712a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9af3d379-ae24-42f1-bb95-cd98f640067f\" width=\"308\" /> Oświadczenia majątkowe trzeba będzie obowiązkowo składać w wersji cyfrowej za pomocą specjalnego systemu elektronicznego. Tak zakłada projekt ustawy, wpisany w piątek do wykazu prac rządu. Wypełniane ręcznie, nieczytelne oświadczenia składane przez niektórych polityków są",
+      "published": "Fri, 02 Oct 2026 21:59:33 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "summary": "Is it time to dust off the financial playbook from that dismal decade?",
+      "published": "Fri, 02 Oct 2026 21:54:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "link": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "summary": "Data shows that partisan ETFs result in higher fees and lower market returns",
+      "published": "Fri, 02 Oct 2026 20:43:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "link": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "summary": "The Vatican has laid a moral blueprint for the technology, with Pope Leo maintaining that “algorithms lack the spark of humanity.”",
+      "published": "Fri, 02 Oct 2026 20:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "published": "Fri, 02 Oct 2026 20:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
+      "published": "Fri, 02 Oct 2026 20:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "eu"
+    },
+    {
+      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+      "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
+      "summary": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
+      "published": "Fri, 02 Oct 2026 20:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Saving your retirement could come down to this simple writing exercise",
+      "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "summary": "A “retirement policy statement” lays out instructions that you can stick to.",
+      "published": "Fri, 02 Oct 2026 20:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "summary": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+      "published": "Fri, 02 Oct 2026 20:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Prezydent mówi, że może zabraknąć pieniędzy na emerytury. \"To jest kłamstwo\"",
+      "link": "https://www.money.pl/polityka/prezydent-mowi-ze-moze-zabraknac-pieniedzy-na-emerytury-to-jest-klamstwo-7335789533374752a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/d886d488-547c-4a34-a1aa-7a651d783945\" width=\"308\" /> - To jest pierwsza sytuacja, w której prezydent RP wykorzystuje urząd i orędzie do tego, żeby kłamać obywateli wbrew rządowi - mówił w piątek minister energii Miłosz Motyka, odnosząc się do czwartkowego wystąpienia Karola Nawrockiego.",
+      "published": "Fri, 02 Oct 2026 20:21:12 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+      "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+      "summary": "Industry giant Conagra Brands has so many frozen-food items that they’re competing against each other, an analyst says.",
+      "published": "Fri, 02 Oct 2026 20:16:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "summary": "A weak U.S. jobs report did what bad news hadn’t done in a while: It made U.S. debt look attractive again — albeit briefly.",
+      "published": "Fri, 02 Oct 2026 20:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: XRP w cieniu pesymizmu. Czy to sygnał kontrariański przed odbiciem?",
+      "link": "https://comparic.pl/przeglad-dnia-comparic-pl-xrp-w-cieniu-pesymizmu-czy-to-sygnal-kontrarianski-przed-odbiciem/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Nastroje wokół XRP pogorszyły się na początku października do poziomu niewidzianego od połowy sierpnia — tymczasem po stronie instytucjonalnej dzieje się coś do",
+      "published": "Fri, 02 Oct 2026 20:03:41 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Donald Trump wysyła czeki przed wyborami. 500 dol. dla miliona Amerykanów",
+      "link": "https://businessinsider.com.pl/finanse/donald-trump-rozdaje-czeki-amerykanom-eksperci-komentuja-polityczna-zagrywke/rn242ye",
+      "summary": "Administracja Trumpa wysyła czeki na 500 dol. do niemal 1 mln Amerykanów w 30 stanach. Prezydent Donald Trump powiedział, że to zwroty za \"nadpłaty w Obamacare\" pobrane przez administrację Bidena. Eksperci od polityki publicznej powiedzieli Business Insiderowi, że Trump może w ten sposób \"wbijać szpilę\" Bidenowi albo próbować zdobyć głosy.",
+      "published": "Fri, 02 Oct 2026 19:58:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rodzina Solorzów ściąga spółkę z giełdy. Zaproponowali cenę",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wycofanie-ze-pak-z-warszawskiej-gieldy-rodzina-solorzow-stawia-na-transformacje/m77gc2c",
+      "summary": "ZE PAK niedawno zakończył ciągłą produkcję energii z węgla i teraz ostatni blok pracuje tylko doraźnie. I właśnie w takim momencie wehikuł inwestycyjny rodziny Solorzów postanowił ściągnąć spółkę z giełdy.",
+      "published": "Fri, 02 Oct 2026 19:33:26 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Ukradł 3,8 mln USD z NEAR Intents. Teraz dostał 48 godzin na zwrot pieniędzy",
       "link": "https://comparic.pl/ukradl-38-mln-usd-z-near-intents-teraz-dostal-48-godzin-na-zwrot-pieniedzy/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/cyber-crime-hacking-cc-pexels.com_-e1539846624967-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>NEAR Intents twierdzi, że ustalił tożsamość osoby stojącej za atakiem, w którym z infrastruktury projektu wyprowadzono około 3,8 mln USD.",
       "published": "Fri, 02 Oct 2026 19:26:47 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+      "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+      "summary": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+      "published": "Fri, 02 Oct 2026 19:19:15 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
       "title": "Co dalej z kursem dolara? USD/PLN tuż pod 3,91 zł, ale prognozy zaskakują",
@@ -266,12 +386,52 @@
       "category": "pl"
     },
     {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "published": "Fri, 02 Oct 2026 18:49:03 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
+      "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
+      "summary": "It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.",
+      "published": "Fri, 02 Oct 2026 18:31:49 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
       "title": "Dane z USA zaskoczyły rynek. Bitcoin zareagował niemal natychmiast",
       "link": "https://comparic.pl/dane-z-usa-zaskoczyly-rynek-bitcoin-zareagowal-niemal-natychmiast/",
       "summary": "<p><img alt=\"Bitcoin\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/AI-Bitcoin-BTC-Kryptowaluty-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Bitcoin zareagował wzrostem na wyraźnie słabsze od oczekiwań dane z amerykańskiego rynku pracy. Raport za wrzesień pokazał zaledwie 29 tys. nowych miejs",
       "published": "Fri, 02 Oct 2026 18:26:46 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Europejski potentat rowerowy upada. 60 chętnych do przejęcia jego marek",
+      "link": "https://businessinsider.com.pl/biznes/marki-haibike-ghost-i-raleigh-czekaja-na-nowych-wlascicieli-ogromne-zainteresowanie/lhbck64",
+      "summary": "Około 60 firm jest zainteresowanych przejęciem marek rowerowych należących do upadłej holenderskiej Accell Group. Te marki to Haibike, Ghost, Winora, Koga, Lapierre, Babboe oraz Raleigh - pisze niemiecki dziennik \"Bild\".",
+      "published": "Fri, 02 Oct 2026 18:24:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Prezydent Nawrocki grzmi w sprawie finansów państwa. Apel o dymisję ministra Domańskiego",
+      "link": "https://businessinsider.com.pl/finanse/prezydent-nawrocki-krytykuje-polityke-fiskalna-rzadu-tuska-padly-mocne-slowa/retcplf",
+      "summary": "Prezydent Karol Nawrocki ostro skrytykował politykę fiskalną koalicji rządowej. Podczas spotkania w Stargardzie oskarżył władze o niszczenie efektów wieloletniej pracy Polaków i doprowadzanie kraju do katastrofy finansowej.",
+      "published": "Fri, 02 Oct 2026 18:06:51 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+      "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
+      "summary": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.",
+      "published": "Fri, 02 Oct 2026 17:55:26 GMT",
+      "source": "CNBC",
+      "category": "us"
     },
     {
       "title": "Koniec sesji na GPW. Oto efekty podpisu Karola Nawrockiego",
@@ -282,28 +442,12 @@
       "category": "pl"
     },
     {
-      "title": "Why bond investors quickly lost their enthusiasm for weak labor figures",
-      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
-      "summary": "A weak U.S. jobs report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
-      "published": "Fri, 02 Oct 2026 17:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "Fri, 02 Oct 2026 17:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The U.S. can’t find enough of this critical machine component to win the humanoid-robots race",
-      "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
-      "summary": "Humanoid robots have the potential to revolutionize life as we know it — but the U.S. does not have a supply chain that can produce key parts.",
-      "published": "Fri, 02 Oct 2026 17:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Energia z centrów danych może ogrzewać mieszkania. Nowy kierunek dla ciepłownictwa",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/centra-danych-ogrzeja-polskie-mieszkania-nowe-zrodlo-ciepla-coraz-blizej/4dv32n4",
+      "summary": "W centrach danych powstaje dużo energii cieplnej. Ta, zamiast trafiać do atmosfery, może zasilać sieci ciepłownicze i ogrzewać budynki. Według analiz Polskiego Związku Centrów Danych, do 2035 r. nawet 16 proc. krajowego zapotrzebowania na ciepło sieciowe ma szansę pochodzić właśnie z tego źródła.",
+      "published": "Fri, 02 Oct 2026 17:44:54 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
@@ -328,22 +472,6 @@
       "published": "Fri, 02 Oct 2026 17:14:31 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here’s how it’s worked out.",
-      "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge and buyers seek relief from high housing costs.",
-      "published": "Fri, 02 Oct 2026 17:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "Fri, 02 Oct 2026 17:03:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Złoto poniżej 4 200 USD po danych NFP. Czy obroni strefę 3 925–3 975 USD?",
@@ -434,28 +562,12 @@
       "category": "pl"
     },
     {
-      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: ‘I don’t know how anyone is making it’",
-      "link": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
-      "summary": "Even seniors with savings are struggling to get by",
-      "published": "Fri, 02 Oct 2026 15:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "FOREX.com rozbudowuje narzędzia inwestora – Performance Analytics, alerty i Akademia Handlowa",
       "link": "https://comparic.pl/forex-com-rozbudowuje-narzedzia-inwestora-performance-analytics-alerty-i-akademia-handlowa/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/12/freepik-zysk-sukces-wygrana-happy-win-winner-up-growth-bull-wzrost-14-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>FOREX.com rozwija ofertę narzędzi transakcyjnych i edukacyjnych, które mają zwiększać efektywność inwestorów niezależn",
       "published": "Fri, 02 Oct 2026 15:47:56 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Europe’s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
-      "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by more than 4%.",
-      "published": "Fri, 02 Oct 2026 15:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "eu"
     },
     {
       "title": "Ta „mała” spółka da większy zysk niż Amazon, Meta i Tesla razem! To nowy lider Wall Street",
@@ -466,44 +578,12 @@
       "category": "pl"
     },
     {
-      "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-      "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-      "summary": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes.",
-      "published": "Fri, 02 Oct 2026 15:20:29 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "‘Complete disruption of the economy is all but certain’: Top jobs and home prices are at risk, a new report on AI says",
-      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "summary": "Job losses among screen-based workers and troubles for the housing market are among the challenges to the economy posed by AI, according to credit-ratings agency Egan-Jones.",
-      "published": "Fri, 02 Oct 2026 15:18:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Hiszpańska wieś z 11 domami na sprzedaż. Cena jak za apartament na Złotej 44 w Warszawie",
       "link": "https://businessinsider.com.pl/nieruchomosci/niecodzienna-oferta-w-hiszpanii-cala-wies-tansza-niz-apartament-w-warszawie/7v65yh2",
       "summary": "W cenie są domy, dawna przychodnia, sklepik i hektary ziemi, a nawet kaplica. Na zdjęciach widać też kort tenisowy. Wieś w Hiszpanii wyceniono na 850 tys. euro.",
       "published": "Fri, 02 Oct 2026 15:15:54 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "summary": "“As a country, we have grown dangerously comfortable.”",
-      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
-      "published": "Fri, 02 Oct 2026 15:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "General Motors Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
@@ -544,14 +624,6 @@
       "published": "Fri, 02 Oct 2026 14:14:43 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-      "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-      "summary": "It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.",
-      "published": "Fri, 02 Oct 2026 14:05:29 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "Czym zajmuje się najbogatsza kobieta świata? Oto jej majątek",
@@ -658,14 +730,6 @@
       "category": "other"
     },
     {
-      "title": "Sąsiad Polski sprzedał obligacje za ponad 10 mld euro. Oto co je napędza",
-      "link": "https://businessinsider.com.pl/finanse/obligacje-skarbowe-slowacji-coraz-popularniejsze-padl-nowy-rekord-sprzedazy/l26gtgs",
-      "summary": "Słowacja sprzedała w ciągu pierwszych dziewięciu miesięcy 2026 r. obligacje skarbowe o łącznej wartości przekraczającej 10 mld euro. Największą rolę w finansowaniu potrzeb pożyczkowych państwa odegrały duże emisje syndykowane, jednak coraz więcej środków pochodzi także od indywidualnych inwestorów.",
-      "published": "Fri, 02 Oct 2026 12:36:41 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Sprzedaż wystrzeliła – kurs znowu rośnie. Dywidendowy arystokrata z GPW najlepsze ma mieć dopiero przed sobą",
       "link": "https://comparic.pl/sprzedaz-wystrzelila-kurs-znowu-rosnie-dywidendowy-arystokrata-z-gpw-najlepsze-ma-miec-dopiero-przed-soba/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/hossa-freepik-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Atal zawarł 2563 umowy deweloperskie i przedwstępne w okresie I-III kwartału 2026 roku, z czego 996 przypadło na sam III kwartał. We wrześniu spółka podpisała 431 umów, usta",
@@ -678,22 +742,6 @@
       "link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
       "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
       "published": "Fri, 02 Oct 2026 12:30:17 GMT",
-      "source": "CNBC",
-      "category": "us"
-    },
-    {
-      "title": "Zaskakujące wyniki polskich banków. Spadek zysków to tylko wierzchołek góry lodowej",
-      "link": "https://businessinsider.com.pl/finanse/banki-w-polsce-pod-presja-podatkow-wyniki-za-sierpien-zaskakuja/e94d6vc",
-      "summary": "Z opublikowanych właśnie danych NBP wynika, że zysk netto polskich banków spada. Jest to jednak zrozumiałe, biorąc pod uwagę dużo wyższą stawkę CIT. Ciekawe jest to, że mimo cięć stóp procentowych wynik odsetkowy zrównał się z rekordowym sprzed półtora roku.",
-      "published": "Fri, 02 Oct 2026 12:26:52 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
-      "published": "Fri, 02 Oct 2026 12:24:27 GMT",
       "source": "CNBC",
       "category": "us"
     },
@@ -730,14 +778,6 @@
       "category": "pl"
     },
     {
-      "title": "Piłkarski gigant ma kłopoty. Za oszustwa finansowe na setki milionów mogą stracić tytuły",
-      "link": "https://businessinsider.com.pl/sport/raport-komisji-premier-league-szokuje-manchester-city-pod-lupa-za-ukryte-finanse/y9vd1s4",
-      "summary": "To dokument, który może zmienić historię piłki nożnej. Opublikowane właśnie orzeczenie niezależnej komisji piłkarskiej Premier League liczy 40 stron. Jego treść jest następująca: angielski klub Manchester City został uznany za winny niemal we wszystkich punktach aktu oskarżenia. Sędziowie kreślą w nim obraz klubu piłkarskiego, który przez lata miał ukrywać swoją rzeczywistą sytuację finansową — os",
-      "published": "Fri, 02 Oct 2026 11:58:55 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Jest reakcja na decyzję ws. paliw. Oto, co się dzieje z kursem Orlenu",
       "link": "https://www.money.pl/gospodarka/przelom-ws-paliw-tak-zareagowal-kurs-orlenu-7335660864522560a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/84dbc4a2-d3ed-40da-b432-11563c052490\" width=\"308\" /> Akcje Orlenu spadają w piątek o blisko 3 proc., mimo że WIG20 lekko rośnie. Inwestorzy reagują na podpisanie ustawy o podatku od nadzwyczajnych zysków firm paliwowych. Spada także kurs akcji spółki Unimot. Eksperci wskazują, że podpisanie ustawy o podatku od nadzwyczajnyc",
@@ -752,30 +792,6 @@
       "published": "Fri, 02 Oct 2026 11:50:05 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Miasto rozdaje działki za pół ceny. Oferta tylko dla młodych, ale jest haczyk",
-      "link": "https://comparic.pl/miasto-rozdaje-dzialki-za-pol-ceny-oferta-tylko-dla-mlodych-ale-jest-haczyk/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/05/freepik-nieruchomosc-nieruchomosci-home-house-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Program „Działki budowlane dla młodych” ma być kontynuowany na większą skalę. Suwałki przygotowują ponad 60 nowych nieruchomości przy ul. Ogro",
-      "published": "Fri, 02 Oct 2026 11:40:30 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Czwarta upadłość niemieckiej sieci sklepów. 12 tys. miejsc pracy wisi na włosku",
-      "link": "https://businessinsider.com.pl/finanse/handel/czwarta-upadlosc-niemieckiej-sieci-sklepow-12-tys-osob-moze-stracic-prace/kqzw0ef",
-      "summary": "Niemiecka sieć centrów handlowych złożyła wniosek o upadłość. To już czwarty taki przypadek, a ostatni miał miejsce zaledwie dwa i pół roku temu — podaje T-Online. Mimo to firma wciąż próbowała utrzymać się na rynku. Teraz o swoje miejsca pracy może obawiać się 12 tys. osób.",
-      "published": "Fri, 02 Oct 2026 11:35:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Trump wiele razy obiecywał Amerykanom pieniądze. Oto które pomysły weszły w życie, a które utknęły",
-      "link": "https://businessinsider.com.pl/gospodarka/trump-accounts-dywidendy-i-premie-jakie-pieniadze-rozdawal-donald-trump/t3qc6m3",
-      "summary": "Od początku swojej drugiej kadencji Donald Trump wielokrotnie zapowiadał różnego rodzaju wypłaty dla Amerykanów. Część propozycji została zrealizowana, inne napotkały opór Kongresu lub pozostały jedynie politycznymi deklaracjami. Oto najważniejsze programy i ich aktualny status.",
-      "published": "Fri, 02 Oct 2026 11:27:43 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Benzyna mocno w dół. Tyle zapłacą Polacy. Mamy wyliczenia",
@@ -822,22 +838,6 @@
       "link": "https://www.money.pl/gospodarka/polacy-do-wojska-mentzen-apeluje-jest-odpowiedz-z-rzadu-7335638505941280a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/eeef899c-cf3c-46b3-b485-5ef1d26bede8\" width=\"308\" /> Sławomir Mentzen chce przywrócenia powszechnych szkoleń wojskowych dla młodych Polaków i przekonuje, że sama armia zawodowa nie wystarczy do obrony Polski. Wiceszef MON Cezary Tomczyk odpowiada, że rząd nie widzi dziś potrzeby odwieszania poboru i stawia na ochotników.",
       "published": "Fri, 02 Oct 2026 10:10:58 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Niepokojący sygnał. Tak źle nie było od 24 lat. Koszty długu w górę",
-      "link": "https://www.money.pl/gospodarka/powazne-ostrzezenie-dla-trumpa-takiej-sytuacji-nie-bylo-od-24-lat-7335595772815680a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8e0b9010-33c8-4164-92a1-d8a8800b1057\" width=\"308\" /> Oprocentowanie 10-letnich obligacji rządowych USA osiągnęło w czwartek najwyższy poziom od 24 lat, gdy ponownie zaczęły rosnąć ceny ropy – podaje portal Investopedia. Wzrost kosztu długu może przełożyć się m.in. na droższe kredyty, finansowanie firm i większe wydatki rząd",
-      "published": "Fri, 02 Oct 2026 07:20:36 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 02.10.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-02-10-2026-7335597458872608a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 02.10.2026. W piątek za jednego franka (CHF) trzeba zapłacić 4.687 zł.",
-      "published": "Fri, 02 Oct 2026 07:02:31 +0200",
       "source": "Money.pl",
       "category": "pl"
     }
