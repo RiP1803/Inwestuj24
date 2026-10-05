@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T18:35:26.464693",
+  "generated_at": "2026-10-05T00:01:16.388116",
   "articles": [
     {
       "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
@@ -40,6 +40,14 @@
       "published": "Thu, 01 Oct 2026 13:18:47 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Konie Nawrockiego na państwowym garnuszku. Zapłaciliśmy za stajnię 54 tys. zł od lipca",
+      "link": "https://www.bankier.pl/wiadomosc/Konie-Nawrockiego-na-panstwowym-garnuszku-Zaplacilismy-za-stajnie-54-tys-zl-od-lipca-9207221.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/e/73aaf9dbe323a3-948-568-0-30-2000-1199.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Edzio, Ramzes i Aramis to trzy konie, na których jeździ Karol Nawrocki, jego żona i córka. Zwierzęta mieszkają w jednej z prezydenckich rezydencji w Promniku, 100 km od Warszawy",
+      "published": "Sun, 4 Oct 2026 22:10:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Ubóstwo w UE spada, ale różnice są ogromne. Gdzie znalazła się Polska?",
@@ -102,14 +110,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Trump-powoluje-Sily-Superinteligencji-Bialy-Dom-idzie-na-calosc-w-wyscigu-z-Chinami-9207248.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/9/c66686cc39e829-948-568-10-50-3990-2393.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump ogłosił w niedzielę, że utworzy „Siły Superinteligencji”, zespół urzędników mających koordynować politykę w sprawie AI. Na ich czele stanie Dyrektor ",
       "published": "Sun, 4 Oct 2026 15:53:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump idzie na układ z Moskwą? Nowy wysłannik ma znieść sankcje za więźniów",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-idzie-na-uklad-z-Moskwa-Nowy-wyslannik-ma-zniesc-sankcje-za-wiezniow-9207247.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/72b0b98bd1a626-945-560-0-0-2048-1228.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump ogłosił w niedzielę, że mianował swojego dotychczasowego wysłannika na Białoruś, Johna Coale'a, specjalnym wysłannikiem ds. zakładników. Według pisma „",
-      "published": "Sun, 4 Oct 2026 15:48:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -184,6 +184,38 @@
       "published": "Sun, 4 Oct 2026 05:04:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "summary": "“We have an ironclad prenup.”",
+      "published": "Sun, 04 Oct 2026 20:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+      "published": "Sun, 04 Oct 2026 19:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+      "published": "Sun, 04 Oct 2026 19:08:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "15 lat w Guantanamo bez zarzutów. \"Mogli zrobić ze mną wszystko\"",
@@ -482,22 +514,6 @@
       "category": "us"
     },
     {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-      "published": "Sat, 03 Oct 2026 20:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-      "published": "Sat, 03 Oct 2026 19:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Bitcoin wchodzi w gorący październik. Te wydarzenia mogą wywołać dużą zmienność",
       "link": "https://comparic.pl/bitcoin-wchodzi-w-goracy-pazdziernik-te-wydarzenia-moga-wywolac-duza-zmiennosc/",
       "summary": "<p><img alt=\"bitcoin\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-Bitcoin-BTC-kryptowaluta-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Październik historycznie sprzyja Bitcoinowi, ale tym razem sezonowość może zejść na dalszy plan. W ciągu najbliższych tygodni inwestorzy poznają serię k",
@@ -520,22 +536,6 @@
       "published": "Sat, 03 Oct 2026 18:38:00 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
-      "published": "Sat, 03 Oct 2026 18:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-      "summary": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
-      "published": "Sat, 03 Oct 2026 17:24:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Problem z 800 plus. Pieniądze nie dla wszystkich cudzoziemców",
