@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:18:02.230476",
+  "generated_at": "2026-10-16T04:13:57.397856",
   "articles": [
     {
       "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
@@ -38,14 +38,6 @@
       "link": "https://www.money.pl/gospodarka/rosja-uderza-w-amerykanski-biznes-na-ukrainie-trump-odwraca-glowe-7339996664195520a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a5cc1f3e-d43f-4246-9fc2-c73fff62715f\" width=\"308\" /> Rosyjskie ataki uszkodziły w ostatnich miesiącach obiekty amerykańskich firm działających na Ukrainie. Pociski lub drony uderzyły m.in. w zakład Coca-Coli, fabrykę PepsiCo oraz magazyn wykorzystywany przez McDonald’s. Administracja Donalda Trumpa nie potępiła tych uderzeń",
       "published": "Wed, 14 Oct 2026 17:50:30 +0200",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polska marka rośnie w Hiszpanii i Portugalii. \"Nie akceptujemy pozycji numer dwa\"",
-      "link": "https://www.money.pl/pieniadze/polska-marka-rosnie-w-hiszpanii-i-portugalii-nie-akceptujemy-pozycji-numer-dwa-7339957567891904a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/bcb82ae3-25b0-4aeb-ae77-4a7cabc63689\" width=\"308\" /> Od 2021 roku InPost zwiększył liczbę lokalizacji w Hiszpanii i Portugalii ponad czterokrotnie, z ok. 3,5 tys. do blisko 14,2 tys. Spółka stawia na model out-of-home (OOH) i automaty paczkowe (APM). Chce zostać liderem w regionie w horyzoncie krótszym niż dekada.",
-      "published": "Wed, 14 Oct 2026 17:46:11 +0200",
       "source": "Money.pl",
       "category": "pl"
     },
@@ -98,12 +90,68 @@
       "category": "us"
     },
     {
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "summary": "As more people switch to Coke, some analysts are getting more worried about the state of archrival Pepsi.",
+      "published": "Thu, 15 Oct 2026 23:29:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "summary": "”I earn $110,000 a year.”",
+      "published": "Thu, 15 Oct 2026 22:31:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+      "published": "Thu, 15 Oct 2026 22:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "Na Wall Street tym razem bez spadków",
       "link": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tym-razem-bez-spadkow-9213541.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/7/6dabb29b81e95f-948-568-127-179-2865-1718.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Inwestorzy analizowali najnowsze dane, które wskazują na utrzymującą się w USA inflację.</p>",
       "published": "Thu, 15 Oct 2026 22:12:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
+    },
+    {
+      "title": "Zmotoryzowani chcą płatności cyfrowych w warsztatach samochodowych",
+      "link": "https://businessinsider.com.pl/biznes/zmotoryzowani-chca-platnosci-cyfrowych-w-warsztatach-samochodowych/17lr56t",
+      "summary": "Szybkość, bezpieczeństwo i komfort płacenia mają znaczenie dla zmotoryzowanych",
+      "published": "Thu, 15 Oct 2026 22:00:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+      "published": "Thu, 15 Oct 2026 21:56:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+      "published": "Thu, 15 Oct 2026 21:23:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+      "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+      "published": "Thu, 15 Oct 2026 21:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
@@ -170,6 +218,14 @@
       "category": "pl"
     },
     {
+      "title": "Rejs po 11 rajskich wyspach i relaks w luksusowym resorcie. Te wakacje będziesz wspominać latami",
+      "link": "https://businessinsider.com.pl/lifestyle/podroze/rejs-po-11-rajskich-wyspach-i-relaks-w-luksusowym-resorcie-te-wakacje-bedziesz/xwrqp5g",
+      "summary": "Nie jeden hotel i jedna plaża, ale aż 11 rajskich wysp, które każdego dnia zachwycają czymś innym. Ten wyjątkowy rejs po Seszelach pozwala zobaczyć najpiękniejsze zakątki archipelagu, nurkować w turkusowych lagunach i poczuć prawdziwy smak egzotyki. Na deser pozostaje pobyt w luksusowym resorcie, w którym można zwolnić tempo i nacieszyć się jednym z najpiękniejszych miejsc na świecie.",
+      "published": "Thu, 15 Oct 2026 19:48:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Bitwa o ceny prądu sparaliżowała szczyt UE. Koalicja V4, Włoch i Grecji żąda cięcia ETS",
       "link": "https://www.bankier.pl/wiadomosc/Bitwa-o-ceny-pradu-sparalizowala-szczyt-UE-Koalicja-V4-Wloch-i-Grecji-zada-ciecia-ETS-9213502.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/a/a2873a8a5e4651-948-568-120-341-2233-1339.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kwestia wysokich cen energii okazała się najbardziej spornym tematem pierwszego dnia szczytu UE w Brukseli. Po całym dniu obrad w czwartek liderom nie udało się wypracować ws",
@@ -194,26 +250,10 @@
       "category": "pl"
     },
     {
-      "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
-      "link": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
-      "summary": "Here’s the Nov. 3 contest that “presents the biggest election-specific risk,” analysts say.",
-      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Ucieczka kapitału z Chin. Najbogatsi uciekają przed podatkową presją Pekinu",
       "link": "https://www.bankier.pl/wiadomosc/Ucieczka-kapitalu-z-Chin-Najbogatsi-uciekaja-przed-podatkowa-presja-Pekinu-9213200.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/d/4260b448a64d24-948-568-0-6-2400-1439.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Chińscy miliarderzy znaleźli się na celowniku państwa. Pekin prześwietla ich zagraniczne aktywa, zamraża konta i nakłada zakazy opuszczania kraju. Za podatkową ofensywą kryje się",
       "published": "Thu, 15 Oct 2026 19:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zjednoczona Prawica jednak razem? Kaczyński: PiS będzie dążyło do odbudowy",
-      "link": "https://www.bankier.pl/wiadomosc/Zjednoczona-Prawica-jednak-razem-Kaczynski-PiS-bedzie-dazylo-do-odbudowy-9213478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/6/3f6d690b10baf1-948-568-18-18-3731-2238.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezes PiS Jarosław Kaczyński zaapelował w czwartek w Krakowie o jedność prawicy i utworzenie jednej dużej listy patriotycznej. Jego zdaniem tylko Zjednoczona Prawica może poko",
-      "published": "Thu, 15 Oct 2026 18:57:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -250,22 +290,6 @@
       "category": "other"
     },
     {
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "Thu, 15 Oct 2026 18:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "summary": "Spending all your cash first can make your income surge in later years.",
-      "published": "Thu, 15 Oct 2026 17:52:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rachoń kandydatem Nawrockiego na ambasadora w USA. Sikorski: Nigdy nie było naszej zgody",
       "link": "https://www.bankier.pl/wiadomosc/Rachon-kandydatem-Nawrockiego-na-ambasadora-w-USA-Sikorski-Nigdy-nie-bylo-naszej-zgody-9213434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/5/d294e25a391509-948-568-0-70-2639-1583.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nikodem Rachoń był głównym kandydatem prezydenta Karola Nawrockiego na ambasadora Polski w USA - powiedział wicepremier, szef MSZ Radosław Sikorski. Zaprzeczył, jakoby „była mow",
@@ -290,14 +314,6 @@
       "category": "pl"
     },
     {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-      "published": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Trump nie chce eskalacji przed wyborami? Dolar oddaje zyski, euro odbija od dołka",
       "link": "https://comparic.pl/trump-nie-chce-eskalacji-przed-wyborami-dolar-oddaje-zyski-euro-odbija-od-dolka/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/07/freepik-USD-dolar-dollar-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Trwa osłabienie dolara i odbicie euro, chociaż ceny gazu ziemnego w Europie osiągnęły najwyższy poziom od grudnia 2022 roku. Inwestorzy zdają się ignorować ryzyko",
@@ -314,36 +330,12 @@
       "category": "pl"
     },
     {
-      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "summary": "“I know you’re not supposed to put money you can’t afford to lose into speculative stuff.”",
-      "published": "Thu, 15 Oct 2026 17:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Dług USA wywinduje złoto? Jefferies podtrzymuje cel 5 000 USD za uncję",
       "link": "https://comparic.pl/dlug-usa-wywinduje-zloto-jefferies-podtrzymuje-cel-5-000-usd-za-uncje/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/gold-cc-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Jefferies nie rezygnuje z byczego scenariusza dla złota, choć krótkoterminowo studzi oczekiwania. Bank obniżył prognozę na IV kwartał do 4 400 USD za uncję, ale podtrzymał cel 5 0",
       "published": "Thu, 15 Oct 2026 17:07:58 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
-      "published": "Thu, 15 Oct 2026 17:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The COLA wars are coming for Social Security",
-      "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-      "summary": "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered",
-      "published": "Thu, 15 Oct 2026 17:07:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Karol Nawrocki użył weta. Zablokował trzy ustawy",
@@ -391,14 +383,6 @@
       "summary": "<p><img alt=\"USDC UE\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/10/AI-UE-Stablecoin-USDC-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Europejski Urząd Nadzoru Bankowego (EBA) po raz pierwszy uznał stablecoina za token pieniądza elektronicznego o istotnym znaczeniu w ramach regulacji MiCA. De",
       "published": "Thu, 15 Oct 2026 16:07:13 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Prezydent zdecydował: Twarde weto dla zmian politycznych, zielone światło dla energetyki",
-      "link": "https://www.bankier.pl/wiadomosc/Prezydent-zdecydowal-Twarde-weto-dla-zmian-politycznych-zielone-swiatlo-dla-energetyki-9213328.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/4/0307b73802214e-948-568-0-0-3276-1965.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ostatnie decyzje płynące z Pałacu Prezydenckiego pokazują wyraźny kierunek polityki głowy państwa. Prezydent Karol Nawrocki z jednej strony zdecydowanie blokuje proponowane zmian",
-      "published": "Thu, 15 Oct 2026 16:06:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -450,6 +434,14 @@
       "category": "pl"
     },
     {
+      "title": "Polecam 3 smartfony z mocnymi bateriami. Jeden kosztuje mniej niż 500 zł",
+      "link": "https://businessinsider.com.pl/technologie/polecam-3-smartfony-z-mocnymi-bateriami-jeden-kosztuje-mniej-niz-500-zl/z2kgphq",
+      "summary": "Ładowanie telefonu co wieczór potrafi być irytujące, szczególnie gdy dużo korzystasz z nawigacji, oglądasz filmy albo przeglądasz internet poza domem. Dlatego przy wyborze smartfona warto zwrócić uwagę nie tylko na aparat czy wydajność, ale też na pojemność baterii. Na rynku można znaleźć modele z akumulatorami o pojemności 6500–7500 mAh, i to w bardzo różnych cenach.",
+      "published": "Thu, 15 Oct 2026 15:34:23 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Wywiad z szefem CD Projekt. Ekranizacja Cyberpunk 2077 i wiele dróg Wiedźmina",
       "link": "https://businessinsider.com.pl/gielda/sukces-cyberpunka-i-wiedzmina-trwa-cd-projekt-red-ma-nowe-ambitne-cele/t3bcbfk",
       "summary": "CD Projekt RED nie chce, by film na podstawie Cyberpunka tworzony przez Paramount Pictures był bezpośrednią ekranizacją gry — poinformował w wywiadzie dla PAP joint CEO dewelopera gier, Michał Nowakowski. Ponadto spółka widzi przestrzeń do dalszego zwiększania liczby odbiorców Cyberpunka i Wiedźmina, za czym \"przemawia demografia i nowi odbiorcy gamingu\".",
@@ -498,14 +490,6 @@
       "category": "pl"
     },
     {
-      "title": "Ropa od Saudi Aramco płynie do Orlenu. Tankowce ruszyły w drogę, koncern odpowiada",
-      "link": "https://www.bankier.pl/wiadomosc/Ropa-od-Saudi-Aramco-plynie-do-Orlenu-Tankowce-ruszyly-w-droge-do-Polski-9213249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/7/f8d5d9ec22c498-948-568-1500-301-1593-956.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Orlen ma odebrać w październiku co najmniej cztery ładunki saudyjskiej ropy naftowej, informuje Reuters. Jak podała agencja może to oznaczać powrót do normalnych dostaw od Sa",
-      "published": "Thu, 15 Oct 2026 14:46:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Prywatny kucharz z kamerą w pracy karmi też AI. To część szerszego trendu",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/kto-karmi-ai-pracownicy-na-calym-swiecie-nagrywaja-swoja-codziennosc/5d5fn7e",
       "summary": "Pewnego piątkowego wieczoru tego lata prywatny kucharz przygotował dla mnie i dwojga moich znajomych trzydaniową kolację — sałatkę z burratą, pieczonego łososia i tiramisu. Kolacja była darmowa, ale był pewien haczyk. Kamera przymocowana do czapki z daszkiem kucharza Alisera Demira nagrywała wszystko.",
@@ -519,14 +503,6 @@
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/3e926a7a-ffc6-42d7-9448-d6c59f35fe7a\" width=\"308\" /> Arabia Saudyjska wstrzymała część dostaw ropy do Europy po uszkodzeniu kluczowego rurociągu przez ataki dronów. Według agencji Reutera Orlen poszukuje surowca z Morza Północnego i innych kierunków, a ceny niektórych ładunków przekroczyły 120 dol. za baryłkę.",
       "published": "Thu, 15 Oct 2026 14:38:34 +0200",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "16 lat bez ani jednej kontroli. Dwa miliony ludzi pobiera zasiłek bez weryfikacji",
-      "link": "https://www.bankier.pl/wiadomosc/16-lat-bez-ani-jednej-kontroli-Dwa-miliony-ludzi-pobiera-zasilek-bez-weryfikacji-9213217.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/0/e5bcdea82ce1af-948-567-5-15-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ponad dwa miliony Brytyjczyków pobierających zasiłek chorobowy, może nie spełniać warunków do jego otrzymania - wykazało śledztwo \"The Times\". Dodatkowo w 70 proc. przypadków nie ",
-      "published": "Thu, 15 Oct 2026 14:37:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -568,14 +544,6 @@
       "published": "Thu, 15 Oct 2026 14:25:01 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Norweski megafundusz zacznie inwestować w zbrojenia? Rządowa komisja daje zielone światło",
-      "link": "https://www.bankier.pl/wiadomosc/Norweski-megafundusz-zacznie-inwestowac-w-zbrojenia-Rzadowa-komisja-daje-zielone-swiatlo-9213220.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/3/adbc7d16336e4e-948-568-32-12-2528-1516.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rządowa komisja zarekomendowała zmianę reguł w polityce inwestycyjnej państwowego funduszu majątkowego Norwegii. Jeden z największych globalnych inwestorów może wkrótce otworzy",
-      "published": "Thu, 15 Oct 2026 14:12:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "WIG20 w zawieszeniu – GPW czeka na sygnał z USA. Co pokaże inflacja PPI?",
@@ -626,14 +594,6 @@
       "category": "pl"
     },
     {
-      "title": "Zapaść demograficzna. W pół roku z mapy Polski zniknęło 90 tysięcy ludzi",
-      "link": "https://www.bankier.pl/wiadomosc/Zapasc-demograficzna-W-pol-roku-z-mapy-Polski-zniknelo-90-tysiecy-ludzi-9213142.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/b/37a3854c1e87a4-948-568-8-53-3534-2120.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W pierwszym półroczu 2026 r. liczba ludności Polski zmniejszyła się o 90 tys. w stosunku do końca 2025 r. i wyniosła 37 mln 243 tys. – przekazał w czwartek Główny Urząd Statysty",
-      "published": "Thu, 15 Oct 2026 13:35:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Ministerstwo podało deficyt budżetu po wrześniu. Nie wygląda to dobrze",
       "link": "https://businessinsider.com.pl/finanse/deficyt-budzetu-bije-rekordy-nadchodza-trudne-czasy-dla-finansow-panstwa/jd1eljh",
       "summary": "Rekordowe deficyty budżetowe i idący za tym wzrost zadłużenia państwa oraz koszt spłaty odsetek. Już wszyscy analitycy i ekonomiści wysyłają ostrzeżenia rządowi. Sytuacja jest niebezpieczna, konieczne mogą być wkrótce bardzo poważne cięcia wydatków państwa, wzrosną podatki. Ministerstwo Finansów opublikowało właśnie najnowsze dane. Do września deficyt budżetu wyniósł aż 172,2 mld zł.",
@@ -648,14 +608,6 @@
       "published": "Thu, 15 Oct 2026 13:24:53 GMT",
       "source": "CNBC",
       "category": "us"
-    },
-    {
-      "title": "Serwery pozwolą ogrzać mieszkania Polaków. Strategiczna umowa dwóch gigantów",
-      "link": "https://businessinsider.com.pl/gospodarka/cieplo-z-serwerow-ma-ogrzewac-domy-nask-i-pge-planuja-wspolna-inwestycje/tgphvqe",
-      "summary": "Wspólna inwestycja Polskiej Grupy Energetycznej (PGE) i Naukowej i Akademickiej Sieci Komputerowej (NASK), nadzorowanej przez Ministerstwo Cyfryzacji, zakłada budowę serwerowni do przechowywania i przetwarzania danych. Będzie jednak miała dodatkową wartość — ciepło wytwarzane przez serwery będzie można wykorzystać do ogrzewania domów.",
-      "published": "Thu, 15 Oct 2026 13:21:15 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Masz Bitcoina lub kryptowaluty? Uważaj. We Francji możesz stać się celem",
@@ -682,52 +634,12 @@
       "category": "pl"
     },
     {
-      "title": "ChatGPT w sądzie za szkody dla dzieci. Żądania idą daleko",
-      "link": "https://businessinsider.com.pl/prawo/stany-usa-pozywaja-openai-chatgpt-mial-zagrazac-bezpieczenstwu-dzieci/gr7dspb",
-      "summary": "Osiem stanów pozwało OpenAI, twierdząc, że ChatGPT zachęcał do samookaleczeń i przemocy. W pozwach zarzucono OpenAI wprowadzanie konsumentów w błąd co do bezpieczeństwa ChatGPT. Niektóre stany wysuwają wyjątkowo daleko idące żądania.",
-      "published": "Thu, 15 Oct 2026 13:02:39 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Masz firmę? Bank Pekao daje do 5000 zł za konto. Oto warunki promocji dla wyjadaczy",
-      "link": "https://www.bankier.pl/wiadomosc/Masz-firme-Bank-Pekao-daje-do-5000-zl-za-konto-Oto-warunki-promocji-dla-wyjadaczy-9213089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/8/367786dfb0e6c1-948-568-64-237-1802-1081.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bank Pekao kusi przedsiębiorców potężną premią sięgającą aż 5000 zł za założenie Konta Biznes z Żubrem. Wprawne oko szybko jednak wyłapie, że maksymalna pula to propozycja dla",
-      "published": "Thu, 15 Oct 2026 13:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Przełomowy wyrok TSUE. Banki będą pozywać klientów?",
       "link": "https://www.money.pl/banki/przelomowy-wyrok-tsue-banki-beda-pozywac-klientow-7340268935915968a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/171ed842-7895-48c7-b366-4e024d48225a\" width=\"308\" /> Banki nie mogą odmawiać bezzwłocznego zwrotu pieniędzy skradzionych z konta tylko dlatego, że klient padł ofiarą oszustwa wskutek własnego rażącego zaniedbania – ogłosił TSUE. – Nie można wykluczyć wzrostu liczby postępowań sądowych – komentuje dla money.pl Wojciech Boche",
       "published": "Thu, 15 Oct 2026 12:30:18 +0200",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Kluczowe dane dla decyzji o stopach procentowych. NBP wyliczył inflację bazową",
-      "link": "https://businessinsider.com.pl/gospodarka/inflacja-bazowa-spada-kredytobiorcy-moga-odetchnac-z-ulga/y387v22",
-      "summary": "Inflacja w odpowiedniej wysokości jest celem, którego stara się trzymać Rada Polityki Pieniężnej. Ale to inflacja bazowa podpowiada najlepiej, czy stopy procentowe są na odpowiednim poziomie. NBP wyliczył, że ten wskaźnik spadł do 3,1 proc. we wrześniu.",
-      "published": "Thu, 15 Oct 2026 12:29:28 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Zaskakujący zwrot w brytyjskiej gospodarce. Polscy emigranci zastanowią się, czy wracać",
-      "link": "https://businessinsider.com.pl/gospodarka/brytyjskie-pkb-zaskakuje-ekonomistow-wzrost-napedzany-sztuczna-inteligencja/r8lnf2q",
-      "summary": "Wielka Brytania liczy PKB nie tylko raz na kwartał, jak to jest przyjęte w krajach Unii Europejskiej, ale ich urząd statystyczny podaje szacunki co miesiąc. I z tych najnowszych wynika, że wzrost przyśpiesza niemal na wszystkich frontach. Gospodarka Zjednoczonego Królestwa urosła w sierpniu o 2,1 proc. rok do roku.",
-      "published": "Thu, 15 Oct 2026 12:23:31 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Co jeśli AI Elona Muska zrobi nieautoryzowane zakupy? Mocna deklaracja miliardera",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/ai-grok-i-odpowiedzialnosc-za-zakupy-musk-obiecuje-ochrone-uzytkownikow/rh7rsef",
-      "summary": "Elon Musk powiedział, że SpaceX \"wyrówna straty\" użytkownikom, jeśli agent AI Grok dokona nieautoryzowanych zakupów. Komentarz Muska, choć pozbawiony szczegółów, odbiega od standardowego podejścia do błędów agentów. Warunki korzystania z usług Groka, Mety i OpenAI zasadniczo przenoszą odpowiedzialność za działania agentów na użytkowników.",
-      "published": "Thu, 15 Oct 2026 12:12:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Kanada zmienia zdanie. Wycofuje się z umowy z USA",
@@ -839,6 +751,94 @@
       "summary": "\"Starbucks is not buying Chipotle,\" a Starbucks spokesperson told CNBC.",
       "published": "Mon, 12 Oct 2026 14:22:48 GMT",
       "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "70 rakiet i 720 dronów. Tak Rosja chce sparaliżować trzy duże miasta Ukrainy",
+      "link": "https://www.money.pl/gospodarka/70-rakiet-i-720-dronow-tak-rosja-chce-sparalizowac-trzy-duze-miasta-ukrainy-7340536424609792a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/54e93b76-4430-4c3e-823f-1e39efabce5f\" width=\"308\" /> Rosja chce w ciągu miesiąca pozbawić Kijów, Charków i Odessę prądu, wody i ogrzewania – informuje \"New York Times\". Dziennik ujawnił plan zmasowanych ataków, który zakłada użycie setek dronów i dziesiątek rakiet. Rozmówcy gazety obawiają się, że Ukraina jest dziś bardziej",
+      "published": "Fri, 16 Oct 2026 06:07:46 +0200",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "NBP walczy z Ludowym Bankiem Chin. Kto kupi więcej złota w 2026 r.",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-po-raz-trzeci-z-rzedu-czy-Chiny-pierwszy-raz-od-dwoch-lat-Zloty-wyscig-na-ostatniej-prostej-9213156.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/4/6c37e18822bc8d-948-568-0-84-1416-849.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Narodowy Bank Polski nie zdejmuje nogi z gazu i po raz kolejny przewodzi na globalnym rynku złota. Jak wynika z wyliczeń analityków Societe Generale w ostatnich piętnastu latach ",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Twarde lądowanie Wielkiej Brytanii. „Najbardziej na brexicie stracili ci, którzy za nim głosowali”",
+      "link": "https://www.bankier.pl/wiadomosc/Twarde-ladowanie-Wielkiej-Brytanii-Najbardziej-na-brexicie-stracili-ci-ktorzy-za-nim-glosowali-9213309.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/3/97d917a88f836b-948-568-0-80-979-587.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Brexit wpisał się w krajobraz europejskiej polityki i gospodarki, stając się elementem nowej normalności. W najnowszym odcinku wideocastu z cyklu „Rzeczy, o których przestaliśmy m",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "100 mln pasażerów na horyzoncie. Polski transport lotniczy potrzebuje inwestycji i kadr",
+      "link": "https://www.bankier.pl/wiadomosc/Nawet-100-mln-pasazerow-do-2035-r-Port-Polska-i-regionalne-lotniska-walcza-o-przyszlosc-9213510.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/e/760199f1f5638b-948-568-0-152-1907-1144.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />O tym, czy Port Polska wzmocni pozycję Polski w globalnej siatce połączeń, jakie inwestycje są najważniejsze dla branży lotniczej i jakich kadr potrzebuje ten sektor, rozmawial",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Hipoteki znowu droższe. Wracają wahania w cennikach",
+      "link": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-pazdziernik-2026-9213005.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/9/6f8a7b08ff4f88-948-568-344-82-1768-1060.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />O niemal ćwiartkę punktu procentowego wzrosła średnia ze stawek proponowanych przez banki w rankingu kredytów hipotecznych Bankier.pl. Okresowo stałe oprocentowanie pnie się w",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kupić gotowy dom czy budować od zera? Oto najświeższe dane z rynku",
+      "link": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-domow-jednorodzinnych-II-kw-2026-r-Raport-9212458.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/6/b762337c168046-948-568-0-74-1995-1196.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Korekta na rynku domów jednorodzinnych powróciła równie szybko, co z niego zniknęła. Po wzrostach z początku roku, w II kw. 2026 r. średnie stawki transakcyjne wyraźnie się usta",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wojna na szczycie tanich linii. József Váradi drwi z prognoz O'Leary'ego",
+      "link": "https://www.bankier.pl/wiadomosc/Wojna-na-szczycie-tanich-linii-Jozsef-Varadi-drwi-z-prognoz-O-Leary-ego-9213082.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/4/d5b3ed0a1e55be-948-568-129-0-1789-1073.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Szef Wizz Air mówi \"sprawdzam\", przypominając wiosenne prognozy Michaela O'Leary'ego, który wieścił bankurctwa dwóch - trzech linii lotniczych pod koniec roku. Wśród kandydatów",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Na lotnisku nie masz szans na odzyskanie kaucji za butelkę. Czy będzie zmiana zasad?",
+      "link": "https://www.bankier.pl/wiadomosc/System-kaucyjny-na-lotnisku-kupujesz-butelke-ale-na-odzyskanie-zwrotu-nie-masz-szans-Czy-bedzie-zmiana-zasad-9213236.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/a/23bad36a573301-948-568-0-42-1161-696.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />System kaucyjny obejmuje polskie lotniska, ale tylko częściowo. Osoby wylatujące z Polski po przekroczeniu strefy bezpieczeństwa kupią butelkę kaucyjną, ale nie mają możliwości j",
+      "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "\"Musiałam przejść przez scenę\". Sędzia o kulisach pracy w Trybunale Konstytucyjnym",
+      "link": "https://businessinsider.com.pl/prawo/opinie/trybunal-konstytucyjny-pod-presja-protestow-sedzia-magdalena-bentkowska-odslania/ggqcmvw",
+      "summary": "— Aby dojść do furtki, musiałam wejść i przejść przez scenę — mówi Magdalena Bentkowska, sędzia TK o drodze do pracy w czwartek. I odsłania kulisy tego, co się działo w środę w Trybunale Konstytucyjnym. Podkreśla, że nowi sędziowie starają się krok po kroku działać w pełni legalnie.",
+      "published": "Fri, 16 Oct 2026 04:00:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Nawet 300 zł zdziała cuda przy kredycie. Bank raczej ci tego nie powie [KALKULATOR]",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/kalkulator-nadplat-kredytu-sprawdz-ile-mozesz-oszczedzic-dzieki-malym-kwotom/4et220b",
+      "summary": "Wystarczy zrezygnować z jednego rodzinnego obiadu \"na mieście\" w miesiącu, żeby kredyt był tańszy o ponad 100 tys. zł. A już 500 zł czy 1 tys. zł regularnej nadpłaty kredytu potrafi zdziałać cuda. Stworzyliśmy kalkulator, który czarno na białym to pokazuje.",
+      "published": "Fri, 16 Oct 2026 03:55:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Tesla finally delivers on its promise to create a flying car",
+      "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+      "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
+      "published": "Fri, 16 Oct 2026 02:42:00 GMT",
+      "source": "MarketWatch",
       "category": "us"
     }
   ]
