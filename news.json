@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:40:56.679872",
+  "generated_at": "2026-11-06T22:57:43.664515",
   "articles": [
     {
       "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
@@ -98,30 +98,6 @@
       "category": "us"
     },
     {
-      "title": "Drugie podejście do zmian w podatkach. Sejm uchwalił ustawę",
-      "link": "https://www.money.pl/podatki/drugie-podejscie-do-zmian-w-podatkach-sejm-uchwalil-ustawe-7347856435632608a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5304ff38-a9fd-4b08-8d11-37423dee79e8\" width=\"308\" /> W czwartek Sejm po raz drugi uchwalił ustawę, która dodaje nową, 24-proc. stawkę w PIT, zmienia progi podatkowe i podnosi stawkę CIT dla największych firm do 22 proc.",
-      "published": "Thu, 05 Nov 2026 21:27:16 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Nóż w plecy Trumpa\". Ruszyła walka o władzę w Białym Domu",
-      "link": "https://www.money.pl/gospodarka/noz-w-plecy-trumpa-ruszyla-walka-o-wladze-w-bialym-domu-7347761579522528a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ef90978e-7250-4939-8a18-17b7f56c18d0\" width=\"308\" /> J.D. Vance ogłosił, że republikanie przegrali wybory połówkowe z powodu wojny w Iranie, co jest \"wbiciem noża w plecy\" Donalda Trumpa. W Białym Domu szuka się winnych klęski, a jednocześnie ruszyła batalia o prezydenturę w 2028 roku.",
-      "published": "Thu, 05 Nov 2026 20:23:36 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Amerykańska giełda na czerwono. \"Powszechna wyprzedaż\"",
-      "link": "https://www.money.pl/gielda/amerykanska-gielda-na-czerwono-powszechna-wyprzedaz-7347821317679584a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/02180115-9be5-44fb-a304-78f49f75dacf\" width=\"308\" /> W czwartek akcje na amerykańskiej giełdzie gwałtownie tracą na wartości, a miażdżąca przewaga demokratów budzi obawy o spółki powiązane z AI - zwraca uwagę agencja Bloomberga. Na Wall Street traci zarówno indeks S&amp;P 500, jak i Nasdaq oraz B500.",
-      "published": "Thu, 05 Nov 2026 19:26:47 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
       "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
       "summary": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
@@ -154,6 +130,102 @@
       "category": "us"
     },
     {
+      "title": "S&P obniża rating Polski. Agencja ostrzega przed długiem i deficytem",
+      "link": "https://www.bankier.pl/wiadomosc/S-P-obniza-rating-Polski-Agencja-ostrzega-przed-dlugiem-i-deficytem-9225364.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/2/20ca0a8f24156e-948-568-65-390-3105-1863.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Agencja S&amp;P Global Ratings potwierdziła w piątek wieczorem długoterminowy rating Polski w walucie obcej na poziomie \"A-\", a w walucie lokalnej obniżyła długoterminowy rati",
+      "published": "Fri, 6 Nov 2026 22:17:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wall Street odrabia straty. Nvidia i spółki AI wracają do gry",
+      "link": "https://www.bankier.pl/wiadomosc/Wall-Street-odrabia-straty-Nvidia-i-spolki-AI-wracaja-do-gry-9225362.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/7/68ac93fff2efa1-948-568-0-74-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Piątkowa sesja na Wall Street przyniosła przewagę wzrostów i odrabianie części strat po czwartkowej mocnej wyprzedaży. Do łask inwestorów wracają akcje spółek związanych ze sztu",
+      "published": "Fri, 6 Nov 2026 22:08:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump stawia na twardogłowego doradcę. Stephen Miller przejmuje stery w Białym Domu",
+      "link": "https://www.bankier.pl/wiadomosc/Trump-stawia-na-twardoglowego-doradce-Stephen-Miller-przejmuje-stery-w-Bialym-Domu-9225341.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/a/881291fa8fcdac-948-568-16-28-2160-1296.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump ogłosił w piątek, że jeden z jego najbliższych doradców Stephen Miller zostanie nowym szefem personelu Białego Domu. Miller zastąpi w tej kluczowej r",
+      "published": "Fri, 6 Nov 2026 20:46:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Miał być całkowity zakaz reklamy alkoholu. Senat zrobił wyłom",
+      "link": "https://www.bankier.pl/wiadomosc/Mial-byc-calkowity-zakaz-reklamy-alkoholu-Senat-zrobil-wylom-9225006.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/0/251d17205afa51-948-568-1130-1490-1950-1170.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Senat opowiedział się w piątek za nowelizacją ustawy o wychowaniu w trzeźwości z poprawkami. Mają one m.in. umożliwić reklamę piwa 0 proc. i nocną sprzedaż alkoholu na lotn",
+      "published": "Fri, 6 Nov 2026 20:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Przełom w sprawie Polimerów Police. Sąd otworzył drogę do przejęcia przez Orlen",
+      "link": "https://www.bankier.pl/wiadomosc/Sad-zatwierdzil-uklad-czesciowy-z-wierzycielami-Grupy-Azoty-Polyolefins-9225306.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/9/85a9a840cdb824-948-568-7-82-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sąd zatwierdził układ częściowy z wierzycielami Grupy Azoty Polyolefins - podała Grupa Azoty w komunikacie prasowym. Wskazano, że decyzja przybliża grupę do rozwiązania kwestii ",
+      "published": "Fri, 6 Nov 2026 19:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zawiesił kampanię, a i tak wygrał. Oto najbardziej niezwykli zwycięzcy wyborów w USA",
+      "link": "https://www.bankier.pl/wiadomosc/Zaskoczyli-Ameryke-Oto-politycy-ktorzy-zapisali-sie-w-historii-tych-wyborow-9225285.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/9/14de5d0c5879d0-945-560-17-280-3482-2089.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Tegoroczne wybory połówkowe w USA przyniosły nie tylko polityczne trzęsienie ziemi i zwycięstwo Demokratów, którzy przejęli kontrolę nad obiema izbami Kongresu. Wyłoniły też g",
+      "published": "Fri, 6 Nov 2026 19:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wielki wyciek danych pasażerów. Hakerzy mogli przejąć numery paszportów",
+      "link": "https://www.bankier.pl/wiadomosc/Wielki-wyciek-danych-pasazerow-Hakerzy-mogli-przejac-numery-paszportow-9225288.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/c/dba98e64c39096-948-567-0-67-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dane pracowników ponad 190 norweskich instytucji państwowych, podróżujących samolotami, a także firm mogły zostać wykradzione przez hakerów; doszło do rozległego wycieku wrażliwy",
+      "published": "Fri, 6 Nov 2026 19:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rząd chce zamrozić ceny gazu na 2027 rok",
+      "link": "https://www.bankier.pl/wiadomosc/Rzad-chce-zamrozic-ceny-gazu-na-2027-rok-9225253.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/d/40642fd531bb6a-948-568-216-115-1704-1022.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Projekt resortu energii o ochronie niektórych odbiorców paliw gazowych w 2027 r. będzie zakładać zagwarantowanie maksymalnej ceny paliw gazowych w rozliczeniach m.in. z gospo",
+      "published": "Fri, 6 Nov 2026 18:19:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Majątek finansowy Polaków bije rekordy. Ponad 4,2 bln zł na kontach i w inwestycjach",
+      "link": "https://www.bankier.pl/wiadomosc/Majatek-finansowy-Polakow-bije-rekordy-Ponad-4-2-bln-zl-na-kontach-i-w-inwestycjach-9225269.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/0/6b7b36e39122d7-948-568-0-0-2557-1534.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wartość aktywów finansowych posiadanych przez polskie gospodarstwa domowe osiągnęła rekordowy poziomo 4,2 bln zł - przekazał w piątek Polski Fundusz Rozwoju (PFR). Jak zauważyli ",
+      "published": "Fri, 6 Nov 2026 18:04:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Łatwogang pod ostrzałem po ogłoszeniu o pracę. Teraz się tłumaczy. „Płacę serio bardzo dobrze”",
+      "link": "https://www.bankier.pl/wiadomosc/Latwogang-pod-ostrzalem-po-ogloszeniu-o-prace-Teraz-sie-tlumaczy-Place-serio-bardzo-dobrze-9225150.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/3/80b86f8a769894-948-569-10-46-1016-610.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Łatwogang znalazł się w centrum internetowej burzy po opublikowaniu ogłoszenia o pracę dla asystenta lub asystentki. Internauci zwrócili uwagę na wysokie wymagania wobec kandyda",
+      "published": "Fri, 6 Nov 2026 18:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Norweski gigant stracił ponad 160 mld dolarów. Największy spadek od lat",
+      "link": "https://www.bankier.pl/wiadomosc/Norweski-gigant-stracil-ponad-160-mld-dolarow-Najwiekszy-spadek-od-lat-9225250.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/c1433f0d85123c-948-568-0-186-2488-1492.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Norweski fundusz gazowy stracił na wartości ponad 160 mld dolarów w ciągu ostatnich czterech miesięcy – poinformowały w piątek władze tej instytucji. To największa od lat utrat",
+      "published": "Fri, 6 Nov 2026 17:42:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Pensje nauczycieli w górę. Sejm uchwalił ważną zmianę",
+      "link": "https://www.bankier.pl/wiadomosc/Pensje-nauczycieli-w-gore-Sejm-uchwalil-wazna-zmiane-9225240.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/5/0bd592b4084c80-948-568-0-202-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sejm uchwalił nowelizację ustawy podwyższającą wskaźnik do obliczania średniego wynagrodzenia nauczycieli początkujących do 122,76 proc. kwoty bazowej. W efekcie ich średnie wy",
+      "published": "Fri, 6 Nov 2026 17:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
       "title": "Wynikowy piątek na GPW: tąpnięcia Orlenu, Dino i Grupy Azoty. Zielono na Modivo, XTB i Asbisie",
       "link": "https://www.bankier.pl/wiadomosc/Wynikowy-piatek-na-GPW-tapniecia-Orlenu-Dino-i-Grupy-Azoty-Zielono-na-Modivo-XTB-i-Asbisie-9225228.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/4/d5a851b42831b5-948-568-106-29-2499-1499.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kluczowe indeksy na GPW zanurkowały rano pod wpływem fatalnego sentymentu na rynkach bazowych i pod ciężarem publikacji raportów finansowych największych spółek. Chociaż po po",
@@ -166,14 +238,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Tesla-ograniczy-produkcje-Cybertrucka-na-rzecz-autonomicznych-taksowek-9225227.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/1/c3cef3aa47cf3a-948-568-0-40-2004-1202.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Tesla ograniczy w przyszłym roku produkcję Cybertrucka, futurystycznego elektrycznego pick-upa, aby zrobić miejsce dla produkcji autonomicznych elektrycznych taksówek – poinform",
       "published": "Fri, 6 Nov 2026 17:16:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Małpki\" wreszcie z kaucją. Resort klimatu chce uszczelnić system",
-      "link": "https://www.bankier.pl/wiadomosc/Malpki-wreszcie-z-kaucja-Resort-klimatu-chce-uszczelnic-system-9225191.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/8/7f4ad4a30f6e9a-948-568-0-0-4342-2605.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo Klimatu i Środowiska przygotowało wniosek o wpisanie do wykazu prac rządu projektu nowelizacji ustawy, która pozwoli objąć kaucją jednorazowe opakowania szklane po n",
-      "published": "Fri, 6 Nov 2026 17:10:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -194,50 +258,10 @@
       "category": "pl"
     },
     {
-      "title": "Nie żyje dziedzic fortuny Rockefellerów. Przez lata zasiadał w Senacie USA",
-      "link": "https://www.bankier.pl/wiadomosc/Nie-zyje-dziedzic-fortuny-Rockefellerow-Przez-lata-zasiadal-w-Senacie-USA-9225154.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/7/276d69eeba5a0e-948-568-96-336-1576-945.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zmarł były demokratyczny senator John D. „Jay” Rockefeller IV, polityk walczący o prawa najuboższych, dziedzic wielkiej fortuny i umiarkowanej, liberalnej tradycji politycznej ",
-      "published": "Fri, 6 Nov 2026 16:55:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Technologia wywiadowcza dla polskiej armii? Kontrowersje wokół umowy z Palantirem",
-      "link": "https://www.bankier.pl/wiadomosc/Technologia-wywiadowcza-dla-polskiej-armii-Kontrowersje-wokol-umowy-z-Palantirem-9225145.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/7/5c725723cc7ee4-948-568-20-10-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz podkreślił, że z oprogramowania firmy Palantir korzysta obecnie wiele armii, a współpraca Polski z tym przedsiębiorstwem „nie je",
-      "published": "Fri, 6 Nov 2026 16:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Awantura w Sejmie, nagranie obiegło sieć. Jest wniosek o ukaranie posła PiS",
       "link": "https://www.bankier.pl/wiadomosc/Awantura-w-Sejmie-nagranie-obieglo-siec-Jest-wniosek-o-ukaranie-posla-PiS-9225127.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/4/2a88da27094828-948-568-10-0-4360-2616.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Marszałek Sejmu Włodzimierz Czarzasty poinformował w piątek, że skierował do komisji etyki wniosek o ukaranie posła PiS Dariusza Mateckiego w związku z jego zachowaniem podczas ",
       "published": "Fri, 6 Nov 2026 16:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Łódź szykuje się na kolejową rewolucję. Rusza budowa tunelu KDP",
-      "link": "https://www.bankier.pl/wiadomosc/Lodz-szykuje-sie-na-kolejowa-rewolucje-Rusza-budowa-tunelu-KDP-9225099.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/f/fad7a7980870fa-948-568-0-53-1018-610.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W piątek w Łodzi opuszczono tarczę TBM do drążenia tunelu Kolei Dużych Prędkości pod miastem. Operacja trwała kilka godzin i ważące ponad 400 ton urządzenie znalazło się w komorz",
-      "published": "Fri, 6 Nov 2026 16:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zełenski uderza w Kliczkę. „Najtrudniejsza sytuacja jest w Kijowie”",
-      "link": "https://www.bankier.pl/wiadomosc/Zelenski-uderza-w-Kliczke-Najtrudniejsza-sytuacja-jest-w-Kijowie-9225132.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/6/5894d7c1a7cf9d-948-568-0-0-1773-1063.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski, podsumowując naradę na temat dostaw energii w regionach, oświadczył w piątek, że najtrudniejsza sytuacja panuje w Kijowie. Jako przyczynę ws",
-      "published": "Fri, 6 Nov 2026 15:42:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump stawia na AI mimo giełdowych turbulencji. „To złoto”",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-stawia-na-AI-mimo-gieldowych-turbulencji-To-zloto-9225089.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/d/f84d33413cda00-948-568-0-600-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump zadeklarował w piątek, że będzie współpracował z amerykańskimi stanami, które chcą rozwijać technologie sztucznej inteligencji. Deklaracja ta padła k",
-      "published": "Fri, 6 Nov 2026 15:40:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -250,23 +274,7 @@
       "category": "pl"
     },
     {
-      "title": "„Payrollsy” znów zaskoczyły ekonomistów. Miało wyjść zupełnie inaczej",
-      "link": "https://www.bankier.pl/wiadomosc/Dane-z-amerykanskiego-rynku-pracy-w-pazdzierniku-2026-Mialo-wyjsc-zupelnie-inaczej-9224890.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/e/a576f2c30e4998-948-568-580-170-3420-2051.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Solidny wzrost zatrudnienia i spadek stopy bezrobocia otwierają drogę drugiej podwyżce stóp procentowych w Rezerwie Federalnej. Taki stan rzeczy zaskoczył zdecydowaną większo",
-      "published": "Fri, 6 Nov 2026 14:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Skarbówka straci część dostępu do kont bankowych. Senat zdecydował",
-      "link": "https://www.bankier.pl/wiadomosc/Skarbowka-straci-czesc-dostepu-do-kont-bankowych-Senat-zdecydowal-9225035.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/03fac53225558d-948-568-0-165-4724-2834.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W piątek Senat zgłosił poprawki do ustawy ograniczającej Krajowej Administracji Skarbowej dostęp do danych o rachunkach bankowych. Senackimi poprawkami zajmie się teraz Sejm.</",
-      "published": "Fri, 6 Nov 2026 14:22:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Jak NBP dochodził do złotego celu. Czy dokupił kilka ton na początku listopada?",
+      "title": "Glapiński ogłosił sukces, ale jest zagadka. Czy NBP dokupił jeszcze kilka ton złota?",
       "link": "https://www.bankier.pl/wiadomosc/Jak-NBP-dochodzil-do-zlotego-celu-Czy-NBP-dokupil-kilka-ton-na-poczatku-listopada-9225031.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/c/5a32bb985909d3-948-568-0-48-1280-767.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Narodowy Bank Polski zgromadził już 700 ton złota, realizując cel postanowiony w styczniu – stwierdził w czwartek prezes NBP Adam Glapiński. Jednak z szacunków Bankier.pl wynika,",
       "published": "Fri, 6 Nov 2026 14:19:00 +0100",
@@ -282,36 +290,196 @@
       "category": "pl"
     },
     {
-      "title": "Senat odwołał Koteckiego i Litwiniuka z RPP. Wakaty po transferze do zarządu NBP",
-      "link": "https://www.bankier.pl/wiadomosc/Senat-odwolal-Koteckiego-i-Litwiniuka-z-RPP-Wakatypo-transferze-do-zarzadu-NBP-9224928.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/e/3dc459e427a1ce-948-568-0-71-2048-1228.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W związku z powołaniem Ludwika Koteckiego i Przemysława Litwiniuka do zarządu Narodowego Banku Polskiego Senat w piątek zdecydował o odwołaniu ich z Rady Polityki Pieniężnej. Wc",
-      "published": "Fri, 6 Nov 2026 12:50:00 +0100",
-      "source": "Bankier.pl",
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
+      "published": "Fri, 06 Nov 2026 21:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "summary": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+      "published": "Fri, 06 Nov 2026 21:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+      "published": "Fri, 06 Nov 2026 21:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "published": "Fri, 06 Nov 2026 21:24:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+      "published": "Fri, 06 Nov 2026 21:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+      "published": "Fri, 06 Nov 2026 21:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Jest decyzja w sprawie ratingu Polski. To poważne ostrzeżenie",
+      "link": "https://businessinsider.com.pl/gospodarka/jest-decyzja-w-sprawie-ratingu-polski-to-powazne-ostrzezenie/s1pl0js",
+      "summary": "Agencja S&amp;P potwierdziła rating Polski w walucie obcej na poziomie \"A-\", ale obniżyła perspektywę do negatywnej. To pierwszy krok, po którym może dojść do bolesnego cięcia oceny.",
+      "published": "Fri, 06 Nov 2026 21:07:03 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+      "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
+      "published": "Fri, 06 Nov 2026 20:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Obajtek skomentował wyniki Orlenu. Kowalski: przestań pisać głupoty",
+      "link": "https://www.money.pl/gospodarka/obajtek-skomentowal-wyniki-orlenu-kowalski-przestan-pisac-glupoty-7348189149747680a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/44a7e164-2519-4a9f-8133-53038df92337\" width=\"308\" /> \"Daniel, przestań pisać głupoty\" – tak poseł Janusz Kowalski odpowiedział Danielowi Obajtkowi, który przypisał sukces finansowy Orlenu m.in. przeprowadzonym za jego kadencji fuzjom. Poseł ostro skrytykował byłego prezesa koncernu i zarzucił mu \"łupienie Polaków\" na cenach",
+      "published": "Fri, 06 Nov 2026 20:50:14 +0100",
+      "source": "Money.pl",
       "category": "pl"
     },
     {
-      "title": "Znana marka kawy zmieni właściciela. Słynny hotel, spożywczy gigant i presja Buffetta",
-      "link": "https://www.bankier.pl/wiadomosc/Imperium-na-ktorym-sparzyl-sie-Warren-Buffett-wyprzedaje-aktywa-Znana-marka-kawy-Maxwell-House-pod-mlotkiem-9224896.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/3/8e60e0f7382bf2-948-569-15-42-1516-910.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kraft Heinz pozbywa się swoich kultowych marek kawy, w tym słynnej Maxwell House. Transakcja o wartości 650 milionów dolarów to kolejny zwrot w burzliwej historii giganta spożyw",
-      "published": "Fri, 6 Nov 2026 12:30:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Daniel Obajtek: weźcie z Orlenu 5-6 mld zł, zawróćcie ceny paliw",
+      "link": "https://businessinsider.com.pl/polityka/ceny-paliw-wedlug-daniela-obajtka-wezcie-z-orlenu-5-6-mld-zl-zawroccie-ceny-paliw/hn7yc7f",
+      "summary": "Daniel Obajtek w rozmowie z \"Rzeczpospolitą\" odniósł się w piątek do konfliktu wokół Trybunału Konstytucyjnego, sytuacji na rynku paliw oraz przyszłości politycznej Prawa i Sprawiedliwości. Były prezes Orlenu zaproponował także wykorzystanie części zysków koncernu do obniżenia cen paliw i ocenił, z kim PiS powinno współpracować przed kolejnymi wyborami.",
+      "published": "Fri, 06 Nov 2026 20:36:01 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Jest decyzja w sprawie łuku Donalda Trumpa",
+      "link": "https://businessinsider.com.pl/prawo/luk-triumfalny-donalda-trumpa-na-razie-nie-powstanie-sad-bada-legalnosc-projektu/1vk66h4",
+      "summary": "Amerykański sąd tymczasowo wstrzymał prace nad monumentalnym łukiem triumfalnym, który z inicjatywy Donalda Trumpa miałby stanąć w Waszyngtonie. Zakaz obowiązuje przez dwa tygodnie. W tym czasie sąd ma zbadać zgodność projektu z prawem.",
+      "published": "Fri, 06 Nov 2026 20:20:36 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "summary": "“My brother had no job and needed a place to live.”",
+      "published": "Fri, 06 Nov 2026 20:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Ważny ruch ws. Polimerów Police. Gigant bliżej przejęcia",
+      "link": "https://www.money.pl/gospodarka/wazny-ruch-ws-polimerow-police-gigant-blizej-przejecia-7348182313200064a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/49941517-da96-4885-88da-ea838ddd8bb0\" width=\"308\" /> Ważny krok w sprawie Polimerów Police. Sąd zatwierdził układ częściowy Grupy Azoty Polyolefins z wierzycielami, co przybliża sprzedaż spółki Orlenowi. Decyzja nie jest jednak prawomocna, a przejęcie wciąż zależy od spełnienia warunków uzgodnionych przez strony.",
+      "published": "Fri, 06 Nov 2026 19:53:58 +0100",
+      "source": "Money.pl",
       "category": "pl"
     },
     {
-      "title": "\"Czarny tydzień w handlu\" przed samymi świętami. Związkowcy planują protest",
-      "link": "https://www.bankier.pl/wiadomosc/Protest-w-handlu-tuz-przed-swietami-W-tych-sklepach-moze-byc-trudniej-zrobic-zakupy-9224894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/c/d1bd7a9ab85eae-948-568-688-699-3539-2123.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W Biedronce, Dino, Lidlu, Kauflandzie, Aldi, Rossmannie i Pepco może być trudniej zrobić zakupy tuż przez Bożym Narodzeniem. OPZZ Konfederacja Pracy planuje przeprowadzić tam",
-      "published": "Fri, 6 Nov 2026 12:28:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Rachunki za prąd wzrosną. Resort energii proponuje wyższą opłatę",
+      "link": "https://businessinsider.com.pl/finanse/rachunki-za-prad-w-2027-r-oplata-kogeneracyjna-moze-pojsc-w-gore-o-te-kwote/5b0ys4v",
+      "summary": "Ministerstwo Energii proponuje podniesienie w 2027 r. opłaty kogeneracyjnej doliczanej do rachunków za energię elektryczną. Stawka miałaby wzrosnąć z obecnych 3 zł do 3,83 zł za megawatogodzinę. Resort oszacował, jak to przełoży się na rachunki przeciętnej rodziny.",
+      "published": "Fri, 06 Nov 2026 19:38:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Ważna decyzja sądu w sprawie głośnej inwestycji państwowej spółki. Orlen w grze",
+      "link": "https://businessinsider.com.pl/biznes/sad-zatwierdzil-uklad-grupy-azoty-polyolefins-orlen-coraz-blizej-przejecia/vfy31hw",
+      "summary": "Sąd zatwierdził układ częściowy Grupy Azoty Polyolefins z wierzycielami. Decyzja może otworzyć drogę do przejęcia spółki przez Orlen i pomóc Grupie Azoty ograniczyć obciążenia związane z inwestycją Polimery Police. Postanowienie nie jest jeszcze prawomocne.",
+      "published": "Fri, 06 Nov 2026 18:55:17 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
+      "published": "Fri, 06 Nov 2026 18:54:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+      "published": "Fri, 06 Nov 2026 18:53:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: „Nie mogę się doczekać krachu” — Kiyosaki kupuje Bitcoina, złoto i srebro na przecenie",
+      "link": "https://comparic.pl/nie-moge-sie-doczekac-krachu-kiyosaki-kupuje-bitcoina-zloto-i-srebro-na-przecenie/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Robert Kiyosaki, autor bestsellera „Bogaty ojciec, biedny ojciec”, przyznał, że wykorzystał ostatnią przecenę Bitcoina, złota i srebra, żeby zwiększyć swoje poz",
+      "published": "Fri, 06 Nov 2026 18:49:02 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
     },
     {
-      "title": "Spór w rządzie o drogi pellet. Hennig-Kloska odpiera zarzuty o ograniczenia wycinki",
-      "link": "https://www.bankier.pl/wiadomosc/Spor-w-rzadzie-o-drogi-pellet-Hennig-Kloska-odpiera-zarzuty-o-ograniczenia-wycinki-9224830.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/e/27d8854357e094-948-568-16-82-3275-1965.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Choć sezon grzewczy rozkręca się na dobre, temperatura w debacie publicznej rośnie z zupełnie innego powodu. Ceny pelletu drzewnego w handlu detalicznym poszybowały w górę, a w",
-      "published": "Fri, 6 Nov 2026 12:00:00 +0100",
-      "source": "Bankier.pl",
+      "title": "Piątkowy zwrot na rynku złota. Dane z USA psują nastroje, ale historia daje kupującym mocny argument",
+      "link": "https://comparic.pl/piatkowy-zwrot-na-rynku-zlota-dane-z-usa-psuja-nastroje-ale-historia-daje-kupujacym-mocny-argument/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/gold-cc-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Najnowsze dane z amerykańskiego rynku pracy przerwały w piątek odbicie złota, a cena uncji spadła o 0,68%, do 4 061 USD. Inwestorzy podnieśli szanse na grudniową podwyżkę stóp prz",
+      "published": "Fri, 06 Nov 2026 18:30:29 +0000",
+      "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Strive zarobiła 509 mln USD na Bitcoinie. Teraz chce wyprzedzić gigantów",
+      "link": "https://comparic.pl/strive-zarobila-509-mln-usd-na-bitcoinie-teraz-chce-wyprzedzic-gigantow/",
+      "summary": "<p><img alt=\"Bitcoin\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/AI-Bitcoin-BTC-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Amerykańska spółka Strive, notowana na Nasdaq, zakończyła trzeci kwartał 2026 roku z zyskiem przekraczającym 509 mln USD netto. Za imponującym wynikiem stoją przede ",
+      "published": "Fri, 06 Nov 2026 18:23:19 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Uchylenie immunitetu Bogdana Święczkowskiego i zatrzymanie. Wiadomo, kiedy zapadną decyzje",
+      "link": "https://businessinsider.com.pl/prawo/17-listopada-kluczowe-glosowanie-w-tk-co-dalej-z-bogdanem-swieczkowskim/rzm14ec",
+      "summary": "Jeszcze w tym miesiącu Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego ma zająć się wnioskami prokuratora generalnego o uchylenie immunitetu Bogdanowi Święczkowskiemu. Jeden z nich obejmuje również zgodę na jego ewentualne zatrzymanie i tymczasowe aresztowanie.",
+      "published": "Fri, 06 Nov 2026 18:18:41 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rząd szykuje zmiany w cenach gazu. W grze rachunki Polaków",
+      "link": "https://www.money.pl/gospodarka/rachunki-za-gaz-jest-ruch-rzadu-7348159991093696a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1517812c-4307-45a1-b95f-3897751421bf\" width=\"308\" /> Rząd szykuje nowe rozwiązania dotyczące cen gazu w 2027 r. Ministerstwo Energii chce zagwarantować gospodarstwom domowym maksymalną cenę paliwa, aby chronić je przed podwyżkami. Projekt zakłada też rekompensaty dla firm energetycznych i specjalną 10-procentową daninę.",
+      "published": "Fri, 06 Nov 2026 18:13:30 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kurs Dino Polska zaliczył największy dzienny spadek od miesięcy. Co pokazały wyniki za III kwartał 2026?",
+      "link": "https://comparic.pl/kurs-dino-polska-zaliczyl-najwiekszy-dzienny-spadek-od-miesiecy-co-pokazaly-wyniki-za-iii-kwartal-2026/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/03/Dino-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Akcje Dino Polska spadły w piątek o 6,15%, do 37,40 zł, i oddaliły się od najwyższych poziomów od marca. Inwestorzy realizowali zyski po publikacji wyników za III kwartał 2026 r. Wyn",
+      "published": "Fri, 06 Nov 2026 18:02:37 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ceny gazu w 2027 r. z limitami. Ministerstwo Energii chce specjalnej ochrony",
+      "link": "https://businessinsider.com.pl/gospodarka/cena-gazu-dla-gospodarstw-domowych-pod-kontrola-rzad-szykuje-zmiany-na-2027-r/8b11e3z",
+      "summary": "Ministerstwo Energii chce, aby w 2027 r. gospodarstwa domowe oraz inni odbiorcy chronieni korzystali z maksymalnej ceny gazu. Nowy projekt przewiduje także rekompensaty dla przedsiębiorstw energetycznych oraz daninę od części firm osiągających przychody ze sprzedaży gazu na krajowym rynku.",
+      "published": "Fri, 06 Nov 2026 17:31:59 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Złoto pod presją polityki Fed-u. Goldman Sachs zmienia prognozy na 2026 i 2027 rok",
@@ -336,6 +504,14 @@
       "published": "Fri, 06 Nov 2026 17:01:15 +0000",
       "source": "Comparic.pl",
       "category": "pl"
+    },
+    {
+      "title": "Tesla kończy produkcję Cybertrucka. Elon Musk stawia na coś innego",
+      "link": "https://businessinsider.com.pl/technologie/motoryzacja/tesla-konczy-produkcje-cybertrucka-elon-musk-stawia-na-cybercab/3e2semn",
+      "summary": "Tesla żegna się z Cybertruckiem. Elon Musk poinformował, że produkcja elektrycznego pickupa zostanie zakończona, aby zwolnić miejsce dla Tesli Cybercab. Próba podboju amerykańskiego rynku pickupów przez Teslę nie poszła zgodnie z planem.",
+      "published": "Fri, 06 Nov 2026 16:52:33 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
     },
     {
       "title": "Automatyczny handel na Forex — jak podłączyć strategię do API FOREX.com?",
@@ -370,22 +546,6 @@
       "category": "other"
     },
     {
-      "title": "PKO Bank Polski przedstawi strategię do 2030 r. Celem 30% rynku detalicznego i 20% korporacyjnego",
-      "link": "https://comparic.pl/pko-bank-polski-przedstawi-strategie-do-2030-r-celem-30-rynku-detalicznego-i-20-korporacyjnego/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/Strategia-wzrostu-w-finansach-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>PKO Bank Polski rozpoczął prace nad aktualizacją strategii z horyzontem do 2030 r. i zamierza przedstawić ją wiosną 2027 r. Decyzja wynika z osiągnięcia kluc",
-      "published": "Fri, 06 Nov 2026 16:22:35 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polskie ETF-y w aplikacji europejskiego giganta. UniCredit stawia na BETA ETF",
-      "link": "https://comparic.pl/polskie-etf-y-w-aplikacji-europejskiego-giganta-unicredit-stawia-na-beta-etf/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-4-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Klienci UniCredit w Polsce mogą od teraz kupować i sprzedawać w aplikacji banku kolejne certyfikaty funduszy ETF notowanych na GPW. Wśró",
-      "published": "Fri, 06 Nov 2026 16:18:15 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Wielka inwestycja okazała się porażką. Minister uderza w PiS",
       "link": "https://www.money.pl/gospodarka/wielka-inwestycja-okazala-sie-porazka-minister-uderza-w-pis-7348116118911456v.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4e770ee2-d786-4e71-868c-8a971af4686d\" width=\"308\" /> Elektrownia Ostrołęka miała być symbolem sukcesu rządów PiS, a okazała się gigantyczną porażką polskiej energetyki. Jeden z najnowocześniejszych bloków węglowych w Europie nie powstał, a straty przekraczają miliard zł. CBA zatrzymało 25 osób. W piątek w programie \"Tłit\" W",
@@ -400,6 +560,14 @@
       "published": "Fri, 06 Nov 2026 15:44:32 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
+    },
+    {
+      "title": "PKO Bank Polski przedstawi strategię do 2030 r. Celem 30% rynku detalicznego i 20% korporacyjnego",
+      "link": "https://comparic.pl/pko-bank-polski-przedstawi-strategie-do-2030-r-celem-30-rynku-detalicznego-i-20-korporacyjnego/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/Strategia-wzrostu-w-finansach-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>PKO Bank Polski rozpoczął prace nad aktualizacją strategii z horyzontem do 2030 r. i zamierza przedstawić ją wiosną 2027 r. Decyzja wynika z osiągnięcia kluc",
+      "published": "Fri, 06 Nov 2026 15:22:35 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "ABW sprawdzi przejęcie TVN. Minister zwrócił się o konkretną analizę",
@@ -456,6 +624,14 @@
       "published": "Fri, 06 Nov 2026 14:21:48 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
+    },
+    {
+      "title": "Polskie ETF-y w aplikacji europejskiego giganta. UniCredit stawia na BETA ETF",
+      "link": "https://comparic.pl/polskie-etf-y-w-aplikacji-europejskiego-giganta-unicredit-stawia-na-beta-etf/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-4-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Klienci UniCredit w Polsce mogą od teraz kupować i sprzedawać w aplikacji banku kolejne certyfikaty funduszy ETF notowanych na GPW. Wśró",
+      "published": "Fri, 06 Nov 2026 14:18:15 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "Nasdaq-100 zaliczył nowy dołek poniżej lipcowego minimum. Co teoria fal Elliotta mówi o powrocie wzrostów?",
@@ -586,28 +762,12 @@
       "category": "other"
     },
     {
-      "title": "Sąd Najwyższy zdecydował. Chodzi o skargę prezesa TK w sprawie Święczkowskiego",
+      "title": "Sąd Najwyższy zdecydował. Chodzi o odwołanie prezesa TK Bogdana Święczkowskiego",
       "link": "https://businessinsider.com.pl/prawo/sedzia-sadu-najwyzszego-nie-rozpatrzy-skargi-prezesa-tk-sprawa-trafia-dalej/2sf1pls",
-      "summary": "Sędzia Sądu Najwyższego Zbigniew Korzeniowski wydał ważne postanowienie w sprawie skargi prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego i wiceprezesa Bartłomieja Sochańskiego. Uznał, że nie może się nimi zająć. Chodzi o odsunięcie ich od pracy.",
+      "summary": "Sędzia Sądu Najwyższego Zbigniew Korzeniowski wydał ważne postanowienie w sprawie skarg prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego i wiceprezesa Bartłomieja Sochańskiego. Uznał, że nie może się nimi zająć. Chodzi o odsunięcie ich od pracy.",
       "published": "Fri, 06 Nov 2026 12:23:58 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Kurs złotego wraca do spadków! Co dzieje się z dolarem, euro, frankiem i funtem?",
-      "link": "https://comparic.pl/kurs-zlotego-wraca-do-spadkow-co-dzieje-sie-z-dolarem-euro-frankiem-i-funtem-06-11-2026/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>W piątek, 6 listopada 2026 r., średnie kursy walut Narodowego Banku Polskiego (NBP) kształtują się następująco: dolar amerykański (USD/PLN) kosztuje 3",
-      "published": "Fri, 06 Nov 2026 12:18:12 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Modivo, Toya, Asbis, XTB, KGHM, Orlen i Dino – analiza w trakcie sesji GPW? 7 spółek pod lupą",
-      "link": "https://comparic.pl/modivo-toya-asbis-xtb-kghm-orlen-i-dino-analiza-w-trakcie-sesji-gpw-7-spolek-pod-lupa/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/10/w-trakcie-sesji-analiza-gpw-przeglad-hossa-AI-324525-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Modivo mocno zyskuje po publikacji wstępnych wyników, Toya pokazuje solidny wzrost zysków, a Asbis prezentuje rekordowy kwartał. Na dru",
-      "published": "Fri, 06 Nov 2026 12:07:23 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
     },
     {
       "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
@@ -626,92 +786,12 @@
       "category": "other"
     },
     {
-      "title": "Senat przyjął reformę PIT, CIT i ryczałtu. Został tylko podpis prezydenta",
-      "link": "https://businessinsider.com.pl/prawo/podatki/senat-uchwalil-ustawe-o-nowych-progach-pit-i-wyzszych-podatkach-dla-firm/jb453zc",
-      "summary": "Senat uchwalił ustawę, która podnosi próg PIT do 130 tys. zł, dodaje nową, 24-proc. stawkę PIT, a także podnosi stawkę CIT dla największych firm do 22 proc. i obniża limit ryczałtu. W praktyce to zmiany korzystne dla ok. 3,5 mln etatowców i niekorzystne dla ok. 60 tys. przedsiębiorców.",
-      "published": "Fri, 06 Nov 2026 11:49:27 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Domański ostro o poprawce Petru. \"Skrajnie nieodpowiedzialna\"",
       "link": "https://www.money.pl/podatki/domanski-ostro-o-poprawce-petru-skrajnie-nieodpowiedzialna-7348050554751424a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/949d9310-c9e8-4398-b866-0808ea4b2b5c\" width=\"308\" /> – Poseł Petru jest znany z niekonwencjonalnych działań – powiedział w piątek w TVN24 minister finansów Andrzej Domański. Nie szczędził krytyki parlamentarzyście za poprawkę do ustawy podatkowej, która pokrzyżowała rządowe plany podwyżki CIT. – To poprawka skrajnie nieodpo",
       "published": "Fri, 06 Nov 2026 11:28:34 +0100",
       "source": "Money.pl",
       "category": "pl"
-    },
-    {
-      "title": "Ma doświadczenie w dyplomacji i edukacji. \"Prawa ręka\" prezesa NBP wraca do gry",
-      "link": "https://businessinsider.com.pl/gospodarka/przerwa-w-karierze-trwala-tylko-kilka-miesiecy-marta-kightley-wraca-do-nbp/0kn4njx",
-      "summary": "Po kilku miesiącach od zakończenia kadencji na stanowisku wiceprezesa Narodowego Banku Polskiego Marta Kightley powraca do swojej dawnej roli. Aktualnie pracuje jako wykładowczyni, ma też doświadczenie w dyplomacji.",
-      "published": "Fri, 06 Nov 2026 11:28:12 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Orlen traci grunt pod nogami! 14% przeceny w 10 sesji i kolejne problemy przed inwestorami",
-      "link": "https://comparic.pl/orlen-traci-grunt-pod-nogami-14-przeceny-w-10-sesji-i-kolejne-problemy-przed-inwestorami/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/10/Orlen-AI-akcje-kurs-3424cc-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Akcje Orlenu spadają dzisiaj o 2,6%, a przecena największej polskiej spółki paliwowej trwa już od kilku tygodni. Wyniki za III kwartał 2026 roku przyniosły rozc",
-      "published": "Fri, 06 Nov 2026 11:18:07 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Burger Drwala wraca do McDonald’s. Znamy termin i cenę",
-      "link": "https://businessinsider.com.pl/finanse/handel/burger-drwala-2026-kiedy-premiera-i-ile-kosztuje/qdwsvzf",
-      "summary": "Burger Drwala ponownie pojawi się w menu McDonald’s. W restauracjach pojawi się 12 listopada 2026 r., a tegoroczna premiera sezonowego produktu odbędzie się w Kielcach.",
-      "published": "Fri, 06 Nov 2026 11:08:11 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ministerstwo ogłasza nowe ceny maksymalne paliw. Tankowanie coraz tańsze",
-      "link": "https://businessinsider.com.pl/wiadomosci/ceny-maksymalne-paliw-w-polsce-znowu-spadaja-rzad-oglosil-stawki-na-weekend/rx75yxk",
-      "summary": "Rząd opublikował ceny maksymalne paliw, które będą obowiązywały na polskich stacjach w najbliższy weekend i poniedziałek. Za litr benzyny 95 zapłacimy 6 zł 12 gr, najmniej odkąd funkcjonuje trzecia edycja programu CPN.",
-      "published": "Fri, 06 Nov 2026 11:07:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bitcoin i Ethereum pod presją. Inwestorzy wycofali 530 mln USD z funduszy ETF",
-      "link": "https://comparic.pl/bitcoin-i-ethereum-pod-presja-inwestorzy-wycofali-530-mln-usd-z-funduszy-etf/",
-      "summary": "<p><img alt=\"Bitcoin i Ethereum\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-Bitcoin-BTC-Ethereum-ETH-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Amerykańskie fundusze ETF oparte na Bitcoinie (BTC) i Ethereum (ETH) zakończyły czwartkową sesję odpływem kapitału przekraczającym 530 mln US",
-      "published": "Fri, 06 Nov 2026 10:59:40 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Donald Trump podjął decyzję w sprawie Gabinetu Owalnego. \"Nikt nie będzie mógł go tknąć\"",
-      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-podjal-decyzje-w-sprawie-gabinetu-owalnego-bedzie-pomnikiem-narodowym/cbdhnh9",
-      "summary": "Prezydent USA Donald Trump chce uniknąć zmian w Gabinecie Owalnym Białego Domu, do których mogłoby dojść po porażce Republikanów w wyborach środka kadencji. Podpisał proklamację, która w praktyce uniemożliwi jego przeciwnikom wszelkie ruchy.",
-      "published": "Fri, 06 Nov 2026 10:50:51 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Rząd przeznacza miliony na TVN i Polsat. Znamy szczegóły umów",
-      "link": "https://businessinsider.com.pl/biznes/media/ponad-36-mln-zl-dla-tvn-i-polsatu-od-rzadu-donalda-tuska/05n3r09",
-      "summary": "Ponad 3,6 mln zł trafi do TVN i Telewizji Polsat na podstawie siedmiu umów zawartych w październiku z instytucjami rządowymi. Największym beneficjentem został Polsat, który otrzyma ponad 2,4 mln zł.",
-      "published": "Fri, 06 Nov 2026 10:28:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Hegseth pod ostrzałem własnej partii. Głosowanie nad impeachmentem w przyszłym tygodniu",
-      "link": "https://businessinsider.com.pl/wiadomosci/pete-hegseth-pod-ogromna-presja-impeachment-coraz-bardziej-realny/mtdfqtf",
-      "summary": "Karty do głosowania zostały już policzone, ale frustracja po porażce w wyborach śródokresowych wśród wielu Republikanów jest ogromna. Znajdujący się pod presją sekretarz obrony Pete Hegseth ma już w przyszłym tygodniu stanąć w obliczu procedury impeachmentu. I nie chcą tego nawet zwycięzcy wyborów — Hegsetha chcą się pozbyć jego partyjni koledzy, ponieważ uświadomili sobie, że za ich słaby wynik m",
-      "published": "Fri, 06 Nov 2026 10:17:59 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Po latach pracy żegnają się z Polsatem. Odchodzi dwoje znanych prezenterów",
-      "link": "https://businessinsider.com.pl/lifestyle/duze-zmiany-w-polsacie-z-anteny-znikna-dwie-znane-twarze-prezenterow/58t4d8y",
-      "summary": "Szykują się zmiany w załodze jednej z największych stacji telewizyjnych w Polsce. Z końcem listopada z Grupy Polsat Plus odchodzą znani prezenterzy — Beata Cholewińska i Mariusz Abramowicz — ustalił portal Wirtualne Media. Stacja odmówiła komentarza.",
-      "published": "Fri, 06 Nov 2026 10:03:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Rząd rozbraja bombę z pozwami o darmowy kredyt. Kto oberwie odłamkami?",
