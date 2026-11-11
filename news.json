@@ -1,6 +1,414 @@
 {
-  "generated_at": "2026-11-11T01:09:54.944913",
+  "generated_at": "2026-11-11T10:39:26.215605",
   "articles": [
+    {
+      "title": "Prezes ujawnia kulisy branży. \"Ta sama fabryka, inna metka\"",
+      "link": "https://www.money.pl/pieniadze/prezes-ujawnia-kulisy-branzy-ta-sama-fabryka-inna-metka-7349825876343264v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wphcdn.cloud/32af6ee2-fb2d-4035-86a0-5ae8ce6260bc.png\" width=\"308\" /> Buty marki premium i luksusowego domu mody mogą zejść z tej samej linii produkcyjnej. Różnią się metką i ceną. – Jest wiele takich przypadków – mówi w Biznes Klasie Artur Kazienko, założyciel i prezes Kazaru.",
+      "published": "Wed, 11 Nov 2026 11:17:42 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+      "link": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+      "summary": "Following Tuesday’s hot CPI data , Goldman Sachs is now pencilling in additional Fed tightening.",
+      "published": "Wed, 11 Nov 2026 10:37:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Położenie to duża przewaga Polski. Filar naszej gospodarki rośnie najszybciej w Europie",
+      "link": "https://businessinsider.com.pl/gospodarka/chinczycy-wybrali-polske-transport-napedza-gospodarke/y11jv59",
+      "summary": "To nie produkcja, ale usługi są już najmocniejszym filarem polskiej gospodarki. Z usług najszybciej natomiast rośnie transport i do tego rośnie najszybciej w Europie. Polska staje się centrum logistycznym kontynentu, co zawdzięcza korzystnemu położeniu geograficznemu.",
+      "published": "Wed, 11 Nov 2026 10:31:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with an outstanding balance of $295,000.”",
+      "published": "Wed, 11 Nov 2026 10:30:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Domański ucina spekulacje wokół PPK: Środki Polaków w żaden sposób nie są zagrożone",
+      "link": "https://www.bankier.pl/wiadomosc/Domanski-ucina-spekulacje-wokol-PPK-To-bzdura-i-manipulacja-9227297.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/4/711e8e65eea56e-948-568-158-558-1459-875.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Domański został w środę zapytany o doniesienia ws. rozważanych zmian dotyczących inwestowania środków z Pracowniczych Planów Kapitałowych, które w ostatnich dniach skomentował",
+      "published": "Wed, 11 Nov 2026 10:30:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Zaczynał od 20 tys. marek. Dziś ma firmę wartą miliardy",
+      "link": "https://www.money.pl/pieniadze/zaczynal-od-20-tys-marek-dzis-ma-firme-warta-miliardy-7349816295541184v.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/wptv-upload-api.wphcdn.cloud/be905a38-54a5-4766-9368-86bc36c363fd.png\" width=\"308\" /> LPP to jedna z największych prywatnych firm w Polsce. Jej kapitalizacja na giełdzie sięga 50 miliardów dolarów. Spółka ma w swoim portfolio takie marki jak Reserved, czy Sinsay. Jej założyciel pilnie strzeże swojego wizerunku. W \"Biznes Klasie\" Łukasz Kijka opowiedział, jakie był",
+      "published": "Wed, 11 Nov 2026 10:28:23 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "Wed, 11 Nov 2026 10:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Protest przed Trybunałem Konstytucyjnym w Święto Niepodległości. Al. Szucha zablokowana",
+      "link": "https://www.bankier.pl/wiadomosc/Protest-przed-Trybunalem-Konstytucyjnym-w-Swieto-Niepodleglosci-Al-Szucha-zablokowana-9227290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/0/43b9ad916661d3-948-568-0-187-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W środę rano przed siedzibą Trybunału Konstytucyjnego protestowało kilkadziesiąt osób. Manifestujący planują przed południem dołączyć do zbiórki przed Marszem Niepodległości. A",
+      "published": "Wed, 11 Nov 2026 10:10:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investors renewed confidence in CoreWeave’s business.",
+      "published": "Wed, 11 Nov 2026 10:05:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
+      "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
+      "summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
+      "published": "Wed, 11 Nov 2026 10:03:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nordea skazana w sprawie o pranie pieniędzy. Uniknie miliardowej kary",
+      "link": "https://www.bankier.pl/wiadomosc/Nordea-skazana-w-sprawie-o-pranie-pieniedzy-Uniknie-miliardowej-kary-9226581.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/3/8df9b166d20133-948-568-0-0-3983-2390.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ponad dziesięć lat po tym, jak przeciwko Nordei złożono zawiadomienie o podejrzeniu popełnienia przestępstwa, zapadł wyrok w głośnej sprawie.</p>",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Inwestor z Kataru nie dowiózł, więc państwo bierze stery. Wyścig o port w Świnoujściu",
+      "link": "https://www.bankier.pl/wiadomosc/Inwestor-z-Kataru-nie-dowiozl-wiec-panstwo-bierze-stery-Wyscig-o-port-w-Swinoujsciu-9222783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/12caad12f4497f-948-567-0-57-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Budowa portu zewnętrznego w Świnoujściu z terminalem kontenerowym ma trwać 2,5 roku i kosztować 2,5 mld zł. Dyrektor Urzędu Morskiego w Szczecinie Wojciech Zdanowicz poinformował",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wybierzesz polski lek, zapłacisz o 30 proc. mniej. Szykują się duże zmiany w aptekach",
+      "link": "https://www.bankier.pl/wiadomosc/Wybierzesz-polski-lek-zaplacisz-o-30-proc-mniej-Szykuja-sie-duze-zmiany-w-aptekach-9224663.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/0/645120630efdc8-948-568-2-57-997-598.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rada Ministrów przyjęła projekt nowelizacji ustawy refundacyjnej. Zawiera blisko 200 zmian, które mają m.in. wzmocnić bezpieczeństwo lekowe Polski, wesprzeć krajową produkcję farm",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tajne teczki bezpieki trafiły do sieci. Tysiące Węgrów dowie się, kto z bliskich donosił",
+      "link": "https://www.bankier.pl/wiadomosc/Tajne-teczki-bezpieki-trafily-do-sieci-Tysiace-Wegrow-dowie-sie-kto-z-bliskich-donosil-9223276.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/ba50cdf970af1c-948-567-5-17-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Władze Węgier, realizując jedną z przedwyborczych obietnic premiera Petera Magyara, ujawnią w środę akta tajnych informatorów z czasów komunistycznej dyktatury lat 1945-89. Dokume",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
+      "link": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
+      "summary": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
+      "published": "Wed, 11 Nov 2026 09:59:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Orlen wypowiedział umowę Katarczykom. To koniec wieloletniej współpracy",
+      "link": "https://businessinsider.com.pl/biznes/orlen-wypowiedzial-umowe-qatarenergy-to-koniec-wieloletniej-wspolpracy/cxh2jzn",
+      "summary": "Orlen zakończył współpracę z QatarEnergy w zakresie dostaw skroplonego gazu ziemnego. Bloomberg podkreśla, że to pierwszy długoterminowy kontrakt Katarczyków, który został zerwany przez kontrahenta. Koncern zapewnia jednak, że zaopatrzenie kraju pozostaje stabilne.",
+      "published": "Wed, 11 Nov 2026 09:24:21 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Liga Traderów XV – III faza: wyniki, tabele i rozpiska 4 kolejki spotkań",
+      "link": "https://comparic.pl/liga-traderow-xv-iii-faza-wyniki-tabele-i-rozpiska-4-kolejki-spotkan/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/08/successful-trader-liga-traderow-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Trwają rozgrywki w ramach XV edycji Ligi Traderów &#8211; najstarszego konkursu tradingowego w Polsce. W turnieju bierze udział 90 zawodników. Życzymy wszy",
+      "published": "Wed, 11 Nov 2026 09:22:30 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Oto drugi prom marki Polsca. Zajrzeliśmy do środka [ZDJĘCIA]",
+      "link": "https://businessinsider.com.pl/gospodarka/oto-drugi-prom-polsca-zobaczylismy-jak-wyglada-w-srodku/qm52vm0",
+      "summary": "Debiutuje Bursztyn Unity — drugi prom marki Polsca. To bardzo istotny statek dla polskich władz, bo będzie pływał pod rodzimą banderą, a jego portem macierzystym będzie Szczecin, a nie na przykład Limassol. Zajrzeliśmy na pokład jednostki — w tym do części, do których pasażerowie nie mają zazwyczaj wstępu.",
+      "published": "Wed, 11 Nov 2026 09:08:56 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Chiński wywiad celował w szefa Nvidii. Pekin kupił chipy AI Nvidii mimo sankcji",
+      "link": "https://www.bankier.pl/wiadomosc/Chinski-wywiad-celowal-w-szefa-Nvidii-Pekin-kupil-chipy-AI-Nvidii-mimo-sankcji-9227274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/3/4a63a355fd7274-948-568-0-404-2250-1349.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Uczelnia powiązana z armią Chin i objęta sankcjami USA nabyła zaawansowane układy AI H200 firmy Nvidia — ujawnił Reuters, który dotarł do dokumentacji przetargowej. Sprawa obna",
+      "published": "Wed, 11 Nov 2026 08:57:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Impeachment Pete'a Hegsetha odroczony. Zdecydowało kilka głosów",
+      "link": "https://businessinsider.com.pl/wiadomosci/impeachment-petea-hegsetha-odroczony-zdecydowalo-kilka-glosow/ne7zggj",
+      "summary": "Izba Reprezentantów zdecydowała o przekazaniu sprawy impeachmentu Pete'a Hegsetha do komisji sądownictwa. Decyzja oznacza odroczenie ostatecznego rozstrzygnięcia w sprawie ministra obrony USA.",
+      "published": "Wed, 11 Nov 2026 08:45:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Domański o stałych bazach wojsk USA: Te koszty udźwigniemy",
+      "link": "https://www.bankier.pl/wiadomosc/Domanski-o-stalych-bazach-wojsk-USA-Te-koszty-udzwigniemy-9227271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/0/505514bda8fabe-948-568-36-0-2783-1669.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Środki na sfinansowanie stałej obecności wojsk USA w Polsce się znajdą - zapewnił w środę minister finansów i gospodarki Andrzej Domański. Jak dodał, w tej chwili potrzeba jeszc",
+      "published": "Wed, 11 Nov 2026 08:43:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Cyberatak na ePUAP. System prewencyjnie odłączony",
+      "link": "https://businessinsider.com.pl/technologie/cyberatak-na-epuap-system-prewencyjnie-odlaczony/hgtwzwn",
+      "summary": "Ministerstwo Cyfryzacji nie podało, kiedy system ePUAP wróci do pełnej funkcjonalności po cyberataku. Prace nad przywróceniem platformy prowadzi Centralny Ośrodek Informatyki. Atak wyjaśnia Agencja Bezpieczeństwa Wewnętrznego.",
+      "published": "Wed, 11 Nov 2026 08:38:40 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Bessent opuścił dom z rodziną. Po groźbach Iranu zamieszkał w \"obiekcie wojskowym\"",
+      "link": "https://www.bankier.pl/wiadomosc/Bessent-opuscil-dom-z-rodzina-Po-grozbach-Iranu-zamieszkal-w-obiekcie-wojskowym-9227269.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/a/7a12e08771fa3e-948-568-0-70-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo skarbu (finansów) USA potwierdziło, że w obliczu gróźb ze strony Iranu szef resortu Scott Bessent przeniósł się z domu do bazy wojskowej - przekazał w środę portal ",
+      "published": "Wed, 11 Nov 2026 08:31:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Nowy właściciel TVN znowu zwalnia. Są nazwiska ok. 30 osób",
+      "link": "https://businessinsider.com.pl/biznes/nowy-wlasciciel-tvn-kontynuuje-zwolnienia-jest-lista-nazwisk/xz5znj3",
+      "summary": "Skydance po przejęciu Warner Bros. Discovery redukuje kolejne etaty. Tym razem nowy właściciel TVN zwolnił 25 osób z działu gier.",
+      "published": "Wed, 11 Nov 2026 08:26:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Fundusze grają przeciwko spółkom z GPW. Nowe ujawnienia na akcjach Kruk i Kęty, redukcja na akcjach Creotech Quantum",
+      "link": "https://comparic.pl/fundusze-graja-przeciwko-spolkom-z-gpw-nowe-ujawnienia-na-akcjach-kruk-i-kety-redukcja-na-akcjach-creotech-quantum/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/10/shorty-bessa-AI-dsfs324-freepik-cc-3245sdfdsf-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Początek tygodnia przyniósł nowe informacje dotyczące krótkiej sprzedaży na trzech spółkach z GPW. Najwięcej dzieje się wokół Grupy Kęty, gdz",
+      "published": "Wed, 11 Nov 2026 08:17:08 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Atak na banki może uderzyć w całą gospodarkę. NBP wskazuje słaby punkt",
+      "link": "https://www.bankier.pl/wiadomosc/Atak-na-banki-moze-uderzyc-w-cala-gospodarke-NBP-wskazuje-slaby-punkt-9223249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/e/2b6915867d681e-948-568-8-116-3322-1993.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polski system finansowy jest dobrze przygotowany na ataki, ale długotrwałe i powtarzające się działania mogą prowadzić do zakłóceń - ocenia Paweł Szałamacha, członek zarządu Na",
+      "published": "Wed, 11 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Czy AI właśnie zabija sprawdzony model polskich funduszy venture capital?",
+      "link": "https://www.bankier.pl/wiadomosc/Czy-AI-wlasnie-zabilo-sprawdzony-model-polskich-funduszy-venture-capital-9226805.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/d/a76adec9d68bd5-948-568-247-0-2580-1547.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />AI obniża koszt tworzenia oprogramowania i podważa część założeń, na których polskie VC budowało swoje portfele. Fundusze muszą ponownie ocenić, za jaką przewagę płacą i co mog",
+      "published": "Wed, 11 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Pensje idą w górę, a Polaków od lat stać na tyle samo metrów mieszkania. Są jednak kraje, gdzie jest gorzej",
+      "link": "https://businessinsider.com.pl/gospodarka/wynagrodzenia-rosna-marzenia-mieszkaniowe-stoja-w-miejscu-polacy-bez-przelomu/kk4qyfc",
+      "summary": "Z danych Eurostatu wynika, że wzrost płac w Polsce w ogóle nie przekłada się na nasze możliwości nabywcze mieszkań. Ilekroć dostajemy podwyżkę, ceny mieszkań rosną niemal dokładnie w tym samym tempie. Dzieje się tak już od przynajmniej dwóch dekad. Pocieszenie jest tylko w tym, że mogło być gorzej — na przykład tak jak w Portugalii.",
+      "published": "Wed, 11 Nov 2026 07:57:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Rozmowy USA z Rosją a sprawa polska. Ekonomiści ostrzegają przed skutkami dealu",
+      "link": "https://businessinsider.com.pl/gospodarka/deal-trumpa-z-rosja-a-polska-gospodarka-eksperci-ostrzegaja-przed-pulapka/sb72xjv",
+      "summary": "Administracja Donalda Trumpa kolejny raz siada do rozmów z ludźmi Władimira Putina. Choć zakończenie wojny w Ukrainie będzie wiązać się z euforią na rynkach, zasady dealu z Rosją będą napawać niepokojem, zwłaszcza w Polsce. Ekonomiści wskazują na najbardziej pożądane i ryzykowne scenariusze dla krajowej gospodarki i biznesu.",
+      "published": "Wed, 11 Nov 2026 07:56:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Pół tony gipsu podczas ferii. SOR w Zakopanem bije kolejne rekordy przyjęć",
+      "link": "https://www.bankier.pl/wiadomosc/Pol-tony-gipsu-podczas-ferii-SOR-w-Zakopanem-bije-kolejne-rekordy-przyjec-9227255.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/4/afd60ec9b5223c-948-568-0-157-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ponad 21,4 tys. pacjentów przyjął w 2025 r. Szpitalny Oddział Ratunkowy w Zakopanem, z czego mieszkańcy stanowili niespełna 48 proc. wszystkich przyjętych. Oznacza to, że więks",
+      "published": "Wed, 11 Nov 2026 07:48:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Te 3 dywidendowe ETF-y pokonały MSCI World. Jeden zyskał 27%",
+      "link": "https://comparic.pl/te-3-dywidendowe-etf-y-pokonaly-msci-world-jeden-zyskal-27/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/12/freepik-etf-exchange-traded-fund-fundusz-fundusze-4-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Trzy dywidendowe ETF-y nie tylko oparły się ostatniej przecenie na rynku akcji, ale również wyraźnie pokonały indeks MSCI World w ujęciu",
+      "published": "Wed, 11 Nov 2026 07:22:14 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 11.11.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-11-11-2026-7349768596240832a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e0ba71a8-9c02-482d-85dd-ebac5362ee3b\" width=\"308\" /> Kurs dolara - 11.11.2026. W środę za jednego dolara (USD) trzeba zapłacić 3.9389 zł.",
+      "published": "Wed, 11 Nov 2026 07:05:01 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 11.11.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-11-11-2026-7349768537057760a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/c374eefc-9e8b-424a-aaa7-91759b47d116\" width=\"308\" /> Kurs funta szterlinga - 11.11.2026. W środę za jednego funta brytyjskiego (GBP) trzeba zapłacić 5.2559 zł.",
+      "published": "Wed, 11 Nov 2026 07:04:47 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 11.11.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-11-11-2026-7349768373684672a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b1c04e3f-7bce-4c35-b03c-7a8d7b0adc65\" width=\"308\" /> Kurs franka szwajcarskiego - 11.11.2026. W środę za jednego franka (CHF) trzeba zapłacić 4.7675 zł.",
+      "published": "Wed, 11 Nov 2026 07:04:07 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 11.11.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-11-11-2026-7349768321587648a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cf3a8300-d9c9-461f-9fbc-2f314332a28c\" width=\"308\" /> Kurs euro - 11.11.2026. W środę za jedno euro (EUR) trzeba zapłacić 4.396 zł.",
+      "published": "Wed, 11 Nov 2026 07:03:54 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "AI w domach Polaków jako nocny powiernik: Nie ocenia i jest zawsze pod ręką",
+      "link": "https://www.bankier.pl/wiadomosc/AI-w-domach-Polakow-jako-nocny-powiernik-Nie-ocenia-i-jest-zawsze-pod-reka-9227249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/3/f8f3741bdef221-948-568-80-10-3920-2351.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Z narzędzi sztucznej inteligencji korzysta obecnie 67,4 proc. dorosłych Polaków obecnych w sieci, jednak zdecydowana większość z nich (78,7 proc.) sprzeciwia się wchodzeniu z t",
+      "published": "Wed, 11 Nov 2026 07:01:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Strategia PSV: Po CPI Nasdaq 100 odbija, a DAX szykuje test szczytów",
+      "link": "https://comparic.pl/strategia-psv-po-cpi-nasdaq-100-odbija-a-dax-szykuje-test-szczytow/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/cc-psv-AI-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Wall Street zakończyła wtorkową sesję pod presją wyższej inflacji i jastrzębich sygnałów z Fed, ale DAX i Nasdaq 100 szybko odrobiły nocne spadki. NQ obronił ważny zakres wspa",
+      "published": "Wed, 11 Nov 2026 06:27:29 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Kurs JPY/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-dzisiaj-po-ile-jest-jen-japonski-11-listopada-2026-r/ps7qp9f",
+      "summary": "Jadąc do Japonii czy to w celach turystycznych, czy też biznesowych, warto znać aktualny kurs jena (JPY). Z tego artykułu dowiesz się, jaki jest aktualny kurs japońskiej waluty na dzień 11 listopada 2026, a także jak kurs zmienia się w ujęciu tygodniowym. Ułatwi to podjąć decyzję, kiedy kupić jeny.",
+      "published": "Wed, 11 Nov 2026 06:04:52 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs EUR/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-11-listopada-2026-r/fyjgmem",
+      "summary": "Bieżący kurs waluty euro z dnia 11 listopada 2026 z godziny 7 rano oraz zmiany kursu dzień do dnia i tydzień do tygodnia. Jak się zmienił kurs w tym okresie i czy warto dziś wymieniać złotówki na euro? Aktualny kurs euro interesuje turystów, ale przede wszystkim przedsiębiorców, którzy zajmują się importem i eksportem usług oraz towarów. Wczoraj kurs euro wynosił: 4,3955 zł",
+      "published": "Wed, 11 Nov 2026 06:04:50 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs USD/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-dzisiaj-po-ile-jest-dolar-amerykanski-11-listopada-2026-r/dfjc56z",
+      "summary": "Przedstawiamy notowania bieżącego kursu USD z dnia 11 listopada 2026. Wczorajsza wartość dolara to 3,9397 zł. Od tego, jaki jest kurs USD, zależy cena wielu importowanych towarów oraz usług, których transakcje rozliczane są w dolarach. By pokazać perspektywę, w tym artykule pokazujemy zmianę kursu USD w ujęciu tygodniowym i dziennym.",
+      "published": "Wed, 11 Nov 2026 06:04:49 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs CHF/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-dzisiaj-po-ile-jest-frank-szwajcarski-11-listopada-2026-r/0yntkee",
+      "summary": "Oto bieżące notowania kursu franka szwajcarskiego (CHF). Poznaj, jak zmienia się kurs franka w stosunku do polskiej waluty (PLN). Czy polska waluta umacnia się, czy osłabia? Wczoraj kurs franka wynosił: 4,7676 zł. O dzisiejszych zmianach dowiesz się z tego artykułu.",
+      "published": "Wed, 11 Nov 2026 06:04:48 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs GBP/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funta-dzisiaj-po-ile-jest-funt-brytyjski-11-listopada-2026-r/jp36qqf",
+      "summary": "Prezentujemy bieżące notowania kursu waluty GBP oraz zmiany kursu w ujęciu dziennym. Poniżej znajduje się kurs na dzień 11 listopada 2026 — jak zmienił się on w stosunku do złotego? Wczorajszy kurs wynosił 5,2557 zł, jeśli chcesz dowiedzieć się, jak sytuacja wygląda dziś, przeczytaj artykuł.",
+      "published": "Wed, 11 Nov 2026 06:04:47 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs CZK/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-11-listopada-2026-r/h5ksn55",
+      "summary": "Prezentujemy aktualne notowania kursu korony czeskiej z 11 listopada 2026. Kurs CZK z wczoraj wynosił 0,1805 zł. Sprawdź, czy obecnie nasza waluta zyskuje, czy traci na wartości.",
+      "published": "Wed, 11 Nov 2026 06:04:45 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs NOK/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-11-listopada-2026-r/d89kr4r",
+      "summary": "Pokazujemy bieżące notowania kursu korony norweskiej oraz zmiany kursu w ujęciu dziennym. Wczoraj kurs NOK wynosił 0,4145 zł. Dzisiejszą zmianę sprawdzisz w poniższym artykule.",
+      "published": "Wed, 11 Nov 2026 06:04:44 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs SEK/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-szwedzkiej-dzisiaj-po-ile-jest-korona-11-listopada-2026-r/x8dzk1z",
+      "summary": "Prezentujemy aktualne notowania kursu waluty korony szwedzkiej (SEK) na dzień 11 listopada 2026. Warto zwrócić uwagę, że kurs korony może mieć wpływ na ceny importowanych towarów i usług.",
+      "published": "Wed, 11 Nov 2026 06:04:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs DKK/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-dunskiej-dzisiaj-po-ile-jest-korona-11-listopada-2026-r/2vjchlh",
+      "summary": "Interesuje cię wymiana waluty i chcesz poznać bieżący kurs korony duńskiej? Tutaj znajdziesz aktualne notowania DKK i będziesz mógł sprawdzić, czy polski złoty umacnia się, czy słabnie względem tej waluty. Wczoraj kurs wynosił: 0,5881 zł.",
+      "published": "Wed, 11 Nov 2026 06:04:41 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs HUF/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-forinta-dzisiaj-po-ile-jest-forint-wegierski-11-listopada-2026-r/9yz87ls",
+      "summary": "Jadąc na urlop nad Balaton lub prowadząc biznesy z wegierskimi firmami, warto znać bieżacy kurs forinta. W tym artykule przedstawiamy notowania HUF/PLN na dzień 11 listopada 2026 oraz zmiany wartości w czasie.",
+      "published": "Wed, 11 Nov 2026 06:04:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Kurs TRY/PLN 11 listopada 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-dzisiaj-po-ile-jest-lira-turecka-11-listopada-2026-r/7k4xgbm",
+      "summary": "Oto bieżący kurs liry tureckiej. Poznaj wahania waluty Turcji w ujęciu dziennym, a także tygodniowym. Aktualny kurs liry warto poznać m.in. przed wyjazdem na wakacje do jednego z tureckich kurortów.",
+      "published": "Wed, 11 Nov 2026 06:04:39 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Wzrost cen wyhamował a na kupca czeka się już nawet cztery miesiące, Zobacz, gdzie wynegocjujesz najwięcej",
+      "link": "https://www.bankier.pl/wiadomosc/Ile-negocjowac-kupujac-mieszkanie-9226772.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/f/fcb02ba684ca9d-948-568-0-139-1978-1187.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Choć negocjacje na rynku nieruchomości wciąż są trudniejsze niż pod koniec ubiegłego roku, III kwartał 2026 r. przyniósł poprawę sytuacji kupujących. Wzrost średnich cen transa",
+      "published": "Wed, 11 Nov 2026 06:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Rutte zestawił Portugalię z Polską. Lizbona oburzona uwagami szefa NATO",
+      "link": "https://www.bankier.pl/wiadomosc/Rutte-zestawil-Portugalie-z-Polska-Lizbona-oburzona-uwagami-szefa-NATO-9227215.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/9/0b0cd4205312bc-948-567-5-67-995-596.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ministerstwo spraw zagranicznych Portugalii krytycznie oceniło we wtorek uwagi sekretarza generalnego NATO Marka Rutte o rzekomym bagatelizowaniu przez ten kraj zagrożenia ze stro",
+      "published": "Wed, 11 Nov 2026 04:33:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+      "summary": "The chain has been contending with falling birth rates, cautious consumers, stiff competition and $881 million in debt.",
+      "published": "Wed, 11 Nov 2026 01:54:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
     {
       "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
       "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
@@ -10,34 +418,10 @@
       "category": "us"
     },
     {
-      "title": "Impeachment Pete'a Hegsetha odroczony. Tylko jeden zagłosował przeciwko własnej partii",
-      "link": "https://www.bankier.pl/wiadomosc/Impeachment-Pete-a-Hegsetha-odroczony-Tylko-jeden-zaglosowal-przeciwko-wlasnej-partii-9227202.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/9/a/cd86d70af8dfe7-948-568-30-67-2970-1781.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Izba Reprezentantów zagłosowała w środę za skierowaniem wniosku o impeachment szefa Pentagonu Pete'a Hegsetha do komisji sądownictwa. Oznacza to w praktyce, że przynajmniej na ",
-      "published": "Wed, 11 Nov 2026 00:16:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump machnął ręką na chińska agentkę. I zabrał szefa Nvidii do Pekinu",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-machnal-reka-na-chinska-agentke-I-zabral-szefa-Nvidii-do-Pekinu-9227201.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/1/18821403f3d186-948-568-5-101-2382-1429.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wbrew zaprzeczeniom prezydenta Donalda Trumpa, sekretarz stanu Marco Rubio poinformował go o romansie szefa Nvidii Jensena Huanga z Alice Huang, uważaną za agentkę chińskiego w",
-      "published": "Wed, 11 Nov 2026 00:10:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
       "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
       "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "There is already a demographic ‘run’ on Social Security.",
-      "published": "Tue, 10 Nov 2026 23:30:00 GMT",
       "source": "MarketWatch",
       "category": "us"
     },
@@ -58,30 +442,6 @@
       "category": "us"
     },
     {
-      "title": "Spadki na Wall Street. Wyprzedaż akcji Nvidii i wyższa inflacja uderzają w amerykańskie indeksy",
-      "link": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Wyprzedaz-akcji-Nvidii-i-wyzsza-inflacja-uderzaja-w-amerykanskie-indeksy-9227196.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/e/b10e0629d66bfc-948-568-0-59-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wtorkowa sesja na Wall Street zakończyła się spadkami głównych indeksów. W centrum uwagi była wyprzedaż akcji firmy Nvidia, pojawiły się też ponownie obawy o podwyżkę stóp proce",
-      "published": "Tue, 10 Nov 2026 23:20:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
-      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-      "summary": "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
-      "published": "Tue, 10 Nov 2026 22:56:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Koniec problemów Zakładów Chemicznych „Police”? Do gry wkracza właściciel z wielkimi pieniędzmi",
-      "link": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-bada-mozliwosc-dokapitalizowania-Zakladow-Chemiczne-Police-9227194.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/9/85a9a840cdb824-948-568-7-82-2992-1795.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grupa Azoty i Grupa Azoty Zakłady Chemiczne „Police” podpisały we wtorek list intencyjny dotyczący dokapitalizowania przez Azoty spółki zależnej w Policach. Możliwa transakcja o",
-      "published": "Tue, 10 Nov 2026 22:54:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
       "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
       "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
@@ -90,58 +450,10 @@
       "category": "us"
     },
     {
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "summary": "It’s one thing for money to shift between stocks, but it’s another thing for customers to shift their supplier relationships.",
-      "published": "Tue, 10 Nov 2026 22:37:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-      "summary": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades until it reaches key “lines in the sand,” that define technical battleground areas above and below current levels.",
-      "published": "Tue, 10 Nov 2026 22:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
-      "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
-      "summary": "Joon Kim just joined the Wachtell Lipton law firm last month and now will lead an independent investigation into whether Nvidia’s CEO was the target of a China spy operation",
-      "published": "Tue, 10 Nov 2026 22:05:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
-      "published": "Tue, 10 Nov 2026 21:42:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Cyberatak na państwowy system ePUAP. ABW natychmiast wkracza do akcji",
+      "title": "Cyberatak na państwowy system ePUAP. Nie wiadomo, kiedy w pełni wróci",
       "link": "https://www.bankier.pl/wiadomosc/Cyberatak-na-panstwowy-system-ePUAP-ABW-natychmiast-wkracza-do-akcji-9227177.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/2/72124ec3eac2ea-948-568-0-67-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wykryto i zatrzymano cyberatak na państwowy system ePUAP - poinformował we wtorek wicepremier, minister cyfryzacji Krzysztof Gawkowski. Dodał, że trwają prace techniczne nad prz",
       "published": "Tue, 10 Nov 2026 21:32:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "How the stock market has performed after Veterans Day over the past decade",
-      "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
-      "summary": "The stock market is open Wednesday on Veterans Day, but not the bond market",
-      "published": "Tue, 10 Nov 2026 21:29:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Szpieg Putina w mundurze amerykańskiej armii. Pilna akcja brytyjskich antyterrorystów i FBI",
-      "link": "https://www.bankier.pl/wiadomosc/Szpieg-Putina-w-mundurze-amerykanskiej-armii-Pilna-akcja-brytyjskich-antyterrorystow-i-FBI-9227167.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/6/b2f8906e3c414f-948-568-0-1257-2573-1544.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />41-letni żołnierz amerykańskiej armii został aresztowany we wtorek w Wielkiej Brytanii pod zarzutem szpiegostwa na rzecz Rosji - przekazała londyńska policja metropolitalna. D",
-      "published": "Tue, 10 Nov 2026 20:53:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -152,46 +464,6 @@
       "published": "Tue, 10 Nov 2026 20:50:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Tyle zebrano w sieci po ataku w Krakowie. Rekordowe wpłaty Polaków",
-      "link": "https://businessinsider.com.pl/finanse/prawie-10-mln-zl-w-ciagu-kilku-dni-tyle-zebrano-w-sieci-po-ataku-w-krakowie/bndrkjl",
-      "summary": "Odzew na internetowe zbiórki na pomoc poszkodowanym w sobotnim ataku w Krakowie przerósł oczekiwania. Zebrano łącznie prawie 10 mln zł, z czego ponad 7 mln zł na pomoc policjantom, którzy zatrzymali sprawcę strzelaniny.",
-      "published": "Tue, 10 Nov 2026 20:17:05 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Błyskawiczny zwrot w Sądzie Najwyższym. Święczkowski \"odwieszony\", a w TK wrze",
-      "link": "https://www.bankier.pl/wiadomosc/Blyskawiczny-zwrot-w-Sadzie-Najwyzszym-Swieczkowski-odwieszony-a-w-TK-wrze-9227149.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/f/70974fcfc266cb-948-568-0-0-1819-1091.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zarządzenia o natychmiastowej przerwie w czynnościach Bogdana Święczkowskiego i Bartłomieja Sochańskiego zostają uchylone – poinformował we wtorek Sąd Najwyższy. Sędzia Anna Korw",
-      "published": "Tue, 10 Nov 2026 20:05:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wielkie zwolnienia, a teraz rekrutacyjny zwrot. Meta znów potrzebuje ludzi",
-      "link": "https://www.bankier.pl/wiadomosc/Wielkie-zwolnienia-a-teraz-rekrutacyjny-zwrot-Meta-znow-potrzebuje-ludzi-9226648.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/6/0ad924dfe86437-948-568-0-120-3983-2390.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" /></p>",
-      "published": "Tue, 10 Nov 2026 20:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Tomahawki i stała obecność US Army w Polsce. Kosiniak-Kamysz w Pentagonie",
-      "link": "https://www.bankier.pl/wiadomosc/Tomahawki-i-stala-obecnosc-US-Army-w-Polsce-Kosiniak-Kamysz-w-Pentagonie-9227143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/5/b53225fdea71a9-948-568-37-67-2950-1769.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Ze strony Pentagonu jest zielone światło dla stałej obecności wojsk USA w Polsce – oświadczył we wtorek wicepremier, szef MON Władysław Kosiniak-Kamysz po spotkaniu z ministrem",
-      "published": "Tue, 10 Nov 2026 19:53:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Polska i USA podpisały umowę o współpracy. \"Polska stała się strategicznym partnerem\"",
-      "link": "https://businessinsider.com.pl/gospodarka/minister-obrony-spotkal-sie-z-szefem-pentagonu-podpisali-wazne-porozumienie/gm3gb2d",
-      "summary": "Minister obrony narodowej Władysław Kosiniak-Kamysz spotkał się we wtorek z szefem Pentagonu Pete’em Hegsethem. Podpisali ważną dla Polski umowę. Jest też zielone światło dla stałej amerykańskiej bazy wojskowej w Polsce.",
-      "published": "Tue, 10 Nov 2026 19:29:34 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Przegląd dnia Comparic.pl: Bitcoin spada do 73 tys. USD, z ETF-ów uciekło 1,28 mld USD. Czas na panikę?",
@@ -218,42 +490,10 @@
       "category": "pl"
     },
     {
-      "title": "Spór między TK a Sądem Najwyższym. Chodzi o sprawę prezesa i wiceprezesa",
-      "link": "https://businessinsider.com.pl/prawo/bogdan-swieczkowski-odsuniety-od-pracy-sad-najwyzszy-wydal-wazny-werdykt/rzvr457",
-      "summary": "Sąd Najwyższy wydał ważne orzeczenia, choć kwestionowane. Uchylił decyzje odsuwające od pracy prezesa TK Bogdana Święczkowskiego i wiceprezesa Bartłomieja Sochańskiego. Kierująca TK sędzia Anna Korwin-Piotrowska opublikowała komunikat w tej sprawie. Podważyła w nim kompetencje SN.",
-      "published": "Tue, 10 Nov 2026 18:12:10 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Amerykański dziennik pisze o słabości Polski. \"Gra poniżej swojego potencjału\"",
-      "link": "https://businessinsider.com.pl/gospodarka/wsj-podzialy-polityczne-oslabiaja-pozycje-polski-gra-ponizej-swojego-potencjalu/5kh4glc",
-      "summary": "Dziennik \"Wall Street Journal\" zwrócił uwagę na podziały polityczne, które powodują, że Polska nie wykorzystuje w pełni swojego potencjału na arenie międzynarodowej. Nie pomagają ani silna gospodarka, ani wysokie wydatki na wojsko.",
-      "published": "Tue, 10 Nov 2026 18:07:13 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Polska na celowniku rosyjskich hakerów. Do akcji wkracza Microsoft",
       "link": "https://www.bankier.pl/wiadomosc/Polska-na-celowniku-rosyjskich-hakerow-Do-akcji-wkracza-Microsoft-9227071.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/c/98e78afb85381f-948-568-18-9-1782-1069.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wzmocnienie odporności instytucji publicznych, infrastruktury krytycznej, usług kluczowych i lepsze przygotowanie państwa na zakłócenia cybernetyczne i hybrydowe – to główne cel",
       "published": "Tue, 10 Nov 2026 17:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Pomoc dla Ukrainy. Tyle kosztuje to każdego obywatela Polski od początku wojny",
-      "link": "https://businessinsider.com.pl/gospodarka/pomoc-dla-ukrainy-tyle-kosztuje-to-kazdego-obywatela-polski-od-poczatku-wojny/v0vh1s9",
-      "summary": "Pod względem kwoty wsparcia udzielonego Ukrainie od początku wojny, w przeliczeniu na jednego mieszkańca, Polska plasuje się w dolnej części wykresu — według raportu Instytutu Gospodarki Światowej w Kilonii. Zdecydowanym liderem jest Norwegia — informuje \"Berliner Zeitung\".",
-      "published": "Tue, 10 Nov 2026 17:43:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Przecena Orlenu zatrzymana. Uderzenie popytu w ostatnich minutach sesji",
-      "link": "https://www.bankier.pl/wiadomosc/Przecena-Orlenu-zatrzymana-Uderzenie-popytu-w-ostatnich-minutach-sesji-9227046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/9/e518b2c618d8e8-948-568-370-0-1613-967.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podczas gdy Wall Street uginała się pod ciężarem jastrzębich obaw o politykę Rezerwy Federalnej, na GPW i pozostałych rynkach Europy dominowały wzrosty, co tłumaczono gwałtownym",
-      "published": "Tue, 10 Nov 2026 17:24:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
     },
@@ -263,22 +503,6 @@
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/10/freepik-USD-dolar-dollar-10-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Dolar drożeje, bo inflacja w USA nie chce hamować, chociaż ropa potaniała w niespełna dwa tygodnie o ponad 20 USD. Październikowe dane o inflacji w USA wzmocnił",
       "published": "Tue, 10 Nov 2026 17:22:52 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wywiad ujawnia nowy plan Rosjan. Chcą uderzyć w czuły punkt Ukrainy",
-      "link": "https://businessinsider.com.pl/gospodarka/wywiad-ujawnia-nowy-plan-rosjan-maja-uderzyc-w-kluczowa-branze/gsn3hd5",
-      "summary": "Według ustaleń ukraińskiego wywiadu wojskowego (HUR) rosyjskie wojska przygotowują ataki na zakłady przemysłu spożywczego na terytorium Ukrainy. Ich ofiarą mogą paść zarówno ukraińskie, jak i zagraniczne firmy — informuje we wtorek agencja Interfax Ukraina.",
-      "published": "Tue, 10 Nov 2026 17:10:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Myślą, że kupią Putina lukratywnymi dealami. Eksperci bezlitośni dla amerykańskich negocjatorów",
-      "link": "https://www.bankier.pl/wiadomosc/Mysla-ze-kupia-Putina-lukratywnymi-dealami-Eksperci-bezlitosni-dla-amerykanskich-negocjatorow-9226998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/a/8958c7ac986cf2-948-568-427-254-2500-1499.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Biznesowe zachęty administracji USA nie skłonią Władimira Putina do ustępstw i rozejmu w wojnie przeciw Ukrainie. Ale Kreml sygnalizuje, że chce kontynuować „tango” z Donalde",
-      "published": "Tue, 10 Nov 2026 16:40:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -298,38 +522,6 @@
       "category": "pl"
     },
     {
-      "title": "Kto ustąpi pierwszy? Dyplomatyczna przepychanka przed szczytem USA, Chin i Rosji",
-      "link": "https://www.bankier.pl/wiadomosc/Kto-ustapi-pierwszy-Dyplomatyczna-przepychanka-przed-szczytem-USA-Chin-i-Rosji-9226959.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/9/36a79c3fdf29ae-948-568-0-0-4128-2476.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sekretarz stanu USA powiedział we wtorek, że Stany Zjednoczone chcą doprowadzić do spotkania przywódców USA, Chin i Rosji i pracują nad jego organizacją. Odmówił jednak określeni",
-      "published": "Tue, 10 Nov 2026 16:02:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Fatalna sytuacja rafinerii w Rosji. Spadki nawet o 200 tys. ton dziennie",
-      "link": "https://businessinsider.com.pl/gospodarka/ukrainskie-drony-uderzaja-w-rafinerie-rosji-dziewiec-zakladow-dotknietych/xy9nwtz",
-      "summary": "Zdolności przetwórcze rosyjskich rafinerii mogły spaść od końca października nawet o 30 proc. po ostatnich ukraińskich atakach na infrastrukturę Rosji — informuje Reuters, opierając się na źródłach z branży. Ukraina kontynuuje swój plan.",
-      "published": "Tue, 10 Nov 2026 15:41:47 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Afera wokół marki “Polska”. Mróz-Gorgoń przerywa milczenie: Nie postawiono mi zarzutów",
-      "link": "https://www.bankier.pl/wiadomosc/Afera-wokol-marki-Polska-Mroz-Gorgon-przerywa-milczenie-Nie-postawiono-mi-zarzutow-9226934.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/0/3f3df328b6be17-948-568-0-138-3072-1843.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Była już pełnomocniczka rządu ds. promocji marki Polski , Barbara Mróz-Gorgoń, opublikowała w mediach społecznościowych obszerne oświadczenie odnoszące się do kontrowersji wokó",
-      "published": "Tue, 10 Nov 2026 15:41:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Twórca Claude wejdzie na giełdę. Turbulencje obniżyły wycenę",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/ipo-anthropica-pod-presja-rynku-czy-tworca-claude-zostanie-miliarderem/09rq4vm",
-      "summary": "Anthropic celuje w wycenę sięgającą 1,4 bln dol. w ramach zbliżającej się oferty giełdowej, wyraźnie niższą od wcześniejszych prognoz po globalnej wyprzedaży akcji związanych ze sztuczną inteligencją.",
-      "published": "Tue, 10 Nov 2026 15:27:19 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
       "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
       "summary": "Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.",
@@ -346,22 +538,6 @@
       "category": "pl"
     },
     {
-      "title": "Rozmowy pokojowe w sprawie Ukrainy. Wysłannik Trumpa podsumował pierwszy dzień",
-      "link": "https://businessinsider.com.pl/wiadomosci/negocjacje-w-sprawie-ukrainy-jared-kushner-pojawily-sie-dobre-pomysly/ey080v0",
-      "summary": "Pierwszy dzień negocjacji w Abu Zabi dobiegł końca po czterech godzinach intensywnych dyskusji. Przedstawiciele USA, Jared Kushner i Steve Witkoff, stwierdzili, że pojawiły się \"dobre pomysły na to, jak zniwelować\" różnice między oczekiwaniami Moskwy a Kijowa wobec porozumienia pokojowego.",
-      "published": "Tue, 10 Nov 2026 15:05:01 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Giganci naciskają na Donalda Trumpa. Grożą porażką w wyścigu z Chinami",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/zakaz-importu-z-chin-uderza-w-gigantow-ai-naciskaja-na-donalda-trumpa/ybkcv5t",
-      "summary": "Giganci technologiczni mają coraz mocniej naciskać na Donalda Trumpa i jego administrację, by wstrzymał plany zakazu importu kluczowego komponentu używanego w centrach danych AI — podaje Reuters. Firmy grożą utratą przewagi USA nad Chinami.",
-      "published": "Tue, 10 Nov 2026 15:03:05 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Cena Bitcoina znów zanurkowała. Kryptowaluty nie korzystają z odbicia Wall Street i tańszej ropy?",
       "link": "https://comparic.pl/cena-bitcoina-znow-zanurkowala-kryptowaluty-nie-korzystaja-z-odbicia-wall-street-i-tanszej-ropy/",
       "summary": "<p><img alt=\"bitcoin\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-BTC-Bitcoin-17-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Bitcoin ponownie znalazł się pod presją i przy cenie około 74 tys. USD oddał niemal połowę wzrostu rozpoczętego w okolicach 60 tys. USD i prowadzącego jesien",
@@ -375,14 +551,6 @@
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2023/04/freepik-USD-dolar-stopy-procentowe-Fed-FOMC-Rezerwa-Federalna-Interest-rate-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Dolar wyraźnie zyskał, a złoto straciło ponad 2% po tym, jak inflacja CPI w USA okazała się w październiku wyższ",
       "published": "Tue, 10 Nov 2026 14:52:48 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zamachowiec z Krakowa użył specjalnej amunicji? Nowy wątek po sekcjach zwłok ofiar",
-      "link": "https://www.bankier.pl/wiadomosc/Zamachowiec-z-Krakowa-uzyl-specjalnej-amunicji-Nowy-watek-po-sekcjach-zwlok-ofiar-9226894.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/b/ddbd4c67f45dda-948-568-247-314-2462-1477.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />We wtorek po południu zakończyła się sekcja zwłok sprawcy sobotniego ataku na Rynku Głównym w Krakowie. Wstępne wyniki sekcji zwłok ofiar ataku potwierdzają, że zginęli od ob",
-      "published": "Tue, 10 Nov 2026 14:52:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -410,38 +578,6 @@
       "category": "pl"
     },
     {
-      "title": "Francuski bank zapowiada zwolnienia w Polsce. Długi, nerwowy czas dla pracowników",
-      "link": "https://businessinsider.com.pl/praca/zwolnienia-w-bnp-paribas-bank-polska-automatyzacja-zmienia-rynek-pracy/8y1yl1f",
-      "summary": "BNP Paribas Bank Polska zamierza przeprowadzić zwolnienia grupowe, które mogą objąć do 400 osób. Redukcja zatrudnienia została rozłożona na lata 2027-2029, ale niepewność wśród pracowników zaczyna się już teraz. Decyzja zapadła w czasie, gdy bank poprawia dochody, zwiększa skalę działalności i mocno inwestuje w cyfryzację.",
-      "published": "Tue, 10 Nov 2026 14:16:22 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Zakupy 11 listopada. Niektóre sklepy zmieniły grafik przed świętem",
-      "link": "https://businessinsider.com.pl/finanse/sklepy-11-listopada-2026-biedronka-lidl-dino-godziny-otwarcia-we-wtorek-10-listopada/94jkmyd",
-      "summary": "W środę, 11 listopada, obchodzimy Narodowe Święto Niepodległości. Sprzedaż w placówkach handlowych podlega tego dnia świątecznym ograniczeniom.",
-      "published": "Tue, 10 Nov 2026 14:12:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Duża premia czy niskie opłaty? Tak warto porównywać konta osobiste",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/konto-osobiste-z-premia-czy-niskimi-oplatami-sprawdzamy-co-sie-bardziej-oplaca/0d8h6q0",
-      "summary": "Wysoka premia za otwarcie konta w banku przyciąga uwagę, ale o opłacalności rachunku decyduje również to, ile klient zapłaci za jego codzienne używanie. Czasami pozory mylą i konto, które miało być darmowe, może całkiem sporo kosztować. Najlepsza oferta to nie zawsze ta z największym bonusem, lecz ta, która pozostaje tania także po zakończeniu promocji.",
-      "published": "Tue, 10 Nov 2026 14:00:14 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Rosja zastawia pułapkę na Zachód. Stawką może być bezpieczeństwo Polski",
-      "link": "https://www.bankier.pl/wiadomosc/Rosja-zastawia-pulapke-na-Zachod-Stawka-moze-byc-bezpieczenstwo-Polski-9226650.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/3/dfefcf716a1531-948-568-0-45-950-570.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Francuski dziennik „Le Parisien” ocenił we wtorek, komentując rozmowy amerykańsko-rosyjsko-ukraińskie w Abu Zabi, że Rosja stara się zastawić „pułapkę”, próbując powiązać kwestię ",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Wskaźnik inflacji w USA – czy będzie to game changer?",
       "link": "https://comparic.pl/wskaznik-inflacji-w-usa-czy-bedzie-to-game-changer/",
       "summary": "<p><img alt=\"Dariusz Dargo zaprasza na przegląd wykresów na żywo o 17:30\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2022/01/gwzzpthw7yk-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Redaktor Comparic.pl oraz trader z wieloletnim doświadczeniem, Dariusz Dargo, zaprasza na przegląd wybranych wykresów",
@@ -450,36 +586,12 @@
       "category": "pl"
     },
     {
-      "title": "Ławrow stawia zaporowy warunek! Rosja chce przehandlować rozejm za ustępstwa NATO",
-      "link": "https://www.bankier.pl/wiadomosc/Lawrow-stawia-zaporowy-warunek-Rosja-chce-przehandlowac-rozejmem-za-ustepstwa-NATO-9226833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/5/75331ce3a74d5a-948-568-119-125-1955-1173.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Minister spraw zagranicznych Rosji Siergiej Ławrow powiedział we wtorek - komentując trójstronne rozmowy w Abu Zabi - że Rosja nie może zgodzić się na natychmiastowe zawiesze",
-      "published": "Tue, 10 Nov 2026 13:56:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Nieoficjalnie: były ekonomista Banku Światowego kandydatem do RPP",
-      "link": "https://businessinsider.com.pl/gospodarka/nieoficjalnie-prof-marcin-piatkowski-kandydatem-lewicy-do-rpp/3vyr1sw",
-      "summary": "Po tym, jak dwóch członków RPP znalazło się w zarządzie Narodowego Banku Polskiego, w radzie zostały dwa wolne miejsca, które mają być obsadzone do 6 lutego 2027 r. W poniedziałek ruszyła procedura zgłaszania kandydatów. Proces ten ma potrwać do 25 listopada.",
-      "published": "Tue, 10 Nov 2026 13:50:49 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "XTB rośnie 3 dzień z rzędu! Czy to kolejna 8-10% korekta? Ekspert ocenia najnowsze dane o liczbie klientów",
       "link": "https://comparic.pl/xtb-rosnie-3-dzien-z-rzedu-czy-to-kolejna-8-10-korekta-ekspert-ocenia-najnowsze-dane-o-liczbie-klientow/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/01/XTB-Opcje-1-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>XTB próbuje odrabiać straty, ale na razie trudno mówić o trwałym odwróceniu niekorzystnej tendencji. We wtorek akcje brokera zyskują niespełna 2%, przedłużając serię wzrostową ",
       "published": "Tue, 10 Nov 2026 13:46:53 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Inflacja w USA z dużym znakiem zapytania. Ceny wzrosły szybciej od prognoz",
-      "link": "https://businessinsider.com.pl/gospodarka/inflacja-w-usa-donald-trump-nie-panuje-nad-drozyzna/54j5s54",
-      "summary": "Porażka Donalda Trumpa i jego obozu politycznego w wyborach połówkowych była efektem w dużej mierze niezadowolenia Amerykanów z trudów codziennego życia, które wzmocniła drożyzna. Drogie paliwa rozlały się szerzej na ceny innych towarów i usług. Właśnie opublikowane dane pokazują, że inflacja w USA rośnie szybciej, niż prognozowali ekonomiści, ale wyjątkowo nie poznaliśmy odczytu rocznego wskaźnik",
-      "published": "Tue, 10 Nov 2026 13:43:06 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Sejm szykuje decyzję ws. Glapińskiego. NBP stanowczo odpowiada",
@@ -496,14 +608,6 @@
       "published": "Tue, 10 Nov 2026 13:33:40 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Pierwsza taka publikacja od lat. Donald Tusk ogłasza \"początek nowej ery\"",
-      "link": "https://businessinsider.com.pl/prawo/donald-tusk-oglasza-decyzje-w-sprawie-uchwaly-o-tk-oglasza-poczatek-nowej-ery/37t8t1x",
-      "summary": "Premier Donald Tusk poinformował we wtorek przed posiedzeniem rządu, że podejmuje decyzję o publikacji uchwały Zgromadzenia Ogólnego Sędziów Trybunału Konstytucyjnego w sprawie zmiany regulaminu TK. — Chyba mogę ogłosić początek nowej ery — dodał.",
-      "published": "Tue, 10 Nov 2026 13:29:29 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "\"Ponadstandardowa pomoc\" po zamachu. Tusk składa obietnicę",
@@ -546,14 +650,6 @@
       "category": "us"
     },
     {
-      "title": "Ukraina wykazuje \"elastyczność\" w kwestii terytorium — twierdzą amerykańscy negocjatorzy",
-      "link": "https://businessinsider.com.pl/wiadomosci/kulisy-rozmow-ukraina-rosja-w-abu-zabi-elastycznosc-w-kwestii-terytorium/q19wxw6",
-      "summary": "Zarówno Moskwa, jak i Kijów prywatnie zasygnalizowały gotowość do poczynienia ustępstw przed rozmowami w Abu Zabi.",
-      "published": "Tue, 10 Nov 2026 12:53:08 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Po strzelaninie w Krakowie kupcy proszą o jedno. Jest apel",
       "link": "https://www.money.pl/finanse/po-strzelaninie-w-krakowie-kupcy-prosza-o-jedno-jest-apel-7349494691760576a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ff6a1dd9-d927-40bc-9d2c-c64c11749ef4\" width=\"308\" /> Krakowska Kongregacja Kupiecka zaapelowała do mieszkańców i turystów, aby po sobotnim ataku na Rynku Głównym nie rezygnowali z odwiedzania sklepów, lokali i krakowskich ulic. Nie zostawiajcie nas, bądźcie z nami – napisali kupcy, podkreślając, że wspólnoty nie można złama",
@@ -570,27 +666,11 @@
       "category": "pl"
     },
     {
-      "title": "Rynki akcji zyskują, bo FED rezygnuje z trzech podwyżek stóp w 2027 r.",
-      "link": "https://comparic.pl/rynki-akcji-zyskuja-bo-fed-rezygnuje-z-trzech-podwyzek-stop-w-2027-r/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/lpgpoaj9sgq-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Negatywna narracja szybko ucieka z rynków. Wczorajsze zachowanie się indeksów na Wall Street było dość pozytywne, a ropa nadal mocno tanieje. Inwestorzy odwracają zakłady na po",
-      "published": "Tue, 10 Nov 2026 12:36:37 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Ogłosił bojkot. Krytykują Sakiewicza. Wskazują: to polskie sklepy",
       "link": "https://www.money.pl/biznes/chce-bojkotowac-polskie-sklepy-w-sieci-oburzenie-7349469799000544a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e05e1dda-c955-4ade-87cc-d46432c90ec7\" width=\"308\" /> Tomasz Sakiewicz apeluje do widzów TV Republika, żeby przestali robić zakupy w polskiej sieci RTV EURO AGD. To odpowiedź na wycofanie emisji reklam tych sklepów ze stacji Sakiewicza. Komentatorzy wytykają mu hipokryzję.",
       "published": "Tue, 10 Nov 2026 12:20:40 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Złoto traci ponad 1,5% w jedną sesję. Czy dane o inflacji w USA pogłębią przecenę kruszcu?",
-      "link": "https://comparic.pl/zloto-traci-ponad-15-w-jedna-sesje-czy-dane-o-inflacji-w-usa-poglebia-przecene-kruszcu/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-zloto-GOLD-XAU-10-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Wystarczyła jedna sesja, by złoto oddało niemal wszystko, co zyskało na początku tygodnia. Kruszec tanieje o 1,55% do 4 076 USD za uncję, bo inwestorzy wolą zabe",
-      "published": "Tue, 10 Nov 2026 12:20:21 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
@@ -602,106 +682,10 @@
       "category": "pl"
     },
     {
-      "title": "Czekać na tańszy kredyt hipoteczny? Ekspert odradza, a zdolność kredytowa rodzin spadła w rok o ponad 5%",
-      "link": "https://comparic.pl/czekac-na-tanszy-kredyt-hipoteczny-ekspert-odradza-a-zdolnosc-kredytowa-rodzin-spadla-w-rok-o-ponad-5/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-dom-home-housa-nieruchomosci-mieszkanie-wynajem-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Przeciętnie zarabiający singiel mógł w październiku wybierać w Warszawie spośród zaledwie 692 nowych mieszkań &#8211; o 26% mniej ni",
-      "published": "Tue, 10 Nov 2026 11:58:31 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Nvidia w centrum skandalu szpiegowskiego. USA mogą zaostrzyć ograniczenia eksportu chipów do Chin",
-      "link": "https://comparic.pl/nvidia-w-centrum-skandalu-szpiegowskiego-usa-moga-zaostrzyc-ograniczenia-eksportu-chipow-do-chin/",
-      "summary": "<p><img alt=\"Nvidia.\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/AI-Nvidia-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Skandal wokół Jensena Huanga, prezesa Nvidii, może mieć poważne konsekwencje dla amerykańskiego sektora technologicznego. Doniesienia o jego relacji z kobietą podejrzewan",
-      "published": "Tue, 10 Nov 2026 11:52:17 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Stawką rozmów przyszłość Ukrainy. To on usiądzie przy stole w Abu Zabi",
-      "link": "https://businessinsider.com.pl/wiadomosci/rozmowy-ukraina-usa-rosja-w-abu-zabi-kim-jest-steve-witkoff/dfx9mzj",
-      "summary": "W Abu Zabi ruszają trójstronne rozmowy Ukraina-USA-Rosja. Przy stole usiądzie m.in. wieloletni przyjaciel Donalda Trumpa.",
-      "published": "Tue, 10 Nov 2026 11:47:23 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Polacy w ten sposób ulokowali w ostatnim miesiącu ponad 8 mld zł. Nastąpiło przyspieszenie",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/oszczedzanie/oszczednosci-polakow-plyna-do-obligacji-sprawdz-co-wybieraja-najchetniej/40212nq",
-      "summary": "Co Polacy robią z oszczędzonymi pieniędzmi? Spora część kupuje za nie obligacje. Ponownie zwiększyły się zakupy detalicznych obligacji skarbowych. W październiku Polacy przeznaczyli na nie ok. 8,2 mld zł, o 300 mln zł więcej niż we wrześniu. To kwota o 1,9 mld zł wyższa niż w październiku poprzedniego roku.",
-      "published": "Tue, 10 Nov 2026 11:45:35 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Tyle ma kosztować paliwo w długi weekend. Nie każdy się ucieszy",
-      "link": "https://businessinsider.com.pl/gospodarka/tyle-zaplacimy-za-paliwa-w-listopadowke/xxeqb5g",
-      "summary": "W hotelach długi weekend ma być najtańszym w tym roku. Ale na stacjach też nie wydamy fortuny. Eksperci prognozują relatywnie niskie stawki — możliwe, że na pylonach zobaczymy nawet wartości poniżej 6 zł w przypadku benzyny 95.",
-      "published": "Tue, 10 Nov 2026 11:35:48 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Fiskus ruszył do akcji. Miliony z mandatów. Te branże są pod lupą",
       "link": "https://www.money.pl/gospodarka/fiskus-ruszyl-do-akcji-miliony-z-mandatow-te-branze-sa-pod-lupa-7349461806852576a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5194d5f3-4be6-4afe-9d1c-2c55bfe148c6\" width=\"308\" /> Skarbówka ujawnia miliardowe nieprawidłowości. W ciągu dziewięciu miesięcy 2026 r. kontrole celno-skarbowe przyniosły ustalenia na niemal 4,1 mld zł. KAS przeprowadziła też ponad 50 tys. zakupów kontrolnych. Nieprawidłowości wykryto w ponad jednej trzeciej przypadków.",
       "published": "Tue, 10 Nov 2026 11:02:18 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Dolar słabnie. Rynek czeka na inflację w USA",
-      "link": "https://www.money.pl/waluty/dolar-slabnie-rynek-czeka-na-inflacje-w-usa-7349462165207488a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/2aa19684-87d4-42d8-9697-a42fc4e1e61e\" width=\"308\" /> Kurs dolara lekko spada, a rentowność amerykańskich obligacji skarbowych pozostaje stabilna przed publikacją danych o inflacji konsumenckiej w USA. Presję na walutę wywierają niższe ceny energii i większa skłonność inwestorów do ryzyka – podaje \"Wall Street Journal\".",
-      "published": "Tue, 10 Nov 2026 10:36:50 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Co z rachunkami Polaków za gaz? Jest ruch rządu. Projekt jeszcze w tym miesiącu",
-      "link": "https://www.money.pl/finanse/co-z-rachunkami-polakow-za-gaz-jest-ruch-rzadu-projekt-jeszcze-w-tym-miesiacu-7349464869857760a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1749ca2b-01cc-4c76-ae28-7fdbf3c2f706\" width=\"308\" /> Rząd szykuje mechanizm maksymalnej ceny gazu. Ma zapewnić, by ceny dla gospodarstw domowych nie wzrosły od nowego roku, mimo wzrostu cen surowca na światowych rynkach nawet o 60-100 proc. Projekt ustawy w tej sprawie ma trafić do parlamentu jeszcze w listopadzie – poinfor",
-      "published": "Tue, 10 Nov 2026 10:31:59 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kim jest Alice Huang? Chińska agentka, która uwiodła prezesa Nvidii",
-      "link": "https://www.bankier.pl/wiadomosc/Kim-jest-Alice-Huang-Chinska-agentka-ktora-uwiodla-prezesa-Nvidii-9226538.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/5/aabd8ccb0606dd-948-568-51-0-1490-894.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Niewielka liczba publicznych informacji, luki w życiorysie i tajemnicze zniknięcie podsycają spekulacje na temat Alice Huang - domniemanej kochanki prezesa Nvidii i prawdopodobne",
-      "published": "Tue, 10 Nov 2026 10:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Trump ogłosił zwrot ws. Iranu. Oto co się dzieje z cenami ropy",
-      "link": "https://www.money.pl/gospodarka/trump-oglosil-zwrot-ws-iranu-oto-co-sie-dzieje-z-cenami-ropy-7349433818085856a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/211e882b-426f-4b29-be0d-4aa9a62573ea\" width=\"308\" /> Ropa naftowa ponownie tanieje po słowach Donalda Trumpa, który stwierdził, że dalsze ataki USA na Iran nie będą potrzebne. Eksperci wskazują, że zmianę tonu prezydenta mogły wymusić wyniki wyborów do Kongresu.",
-      "published": "Tue, 10 Nov 2026 09:09:30 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Nowe zarzuty dla Piesiewicza. W tle faktury na miliony złotych",
-      "link": "https://www.money.pl/gospodarka/problemy-radoslawa-piesiewicza-w-tle-faktury-na-miliony-zlotych-7349442085202368a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b3c63017-7ce5-4f9a-8ac0-3a2b6ab7ea1b\" width=\"308\" /> Były prezes Polskiego Komitetu Olimpijskiego Radosław Piesiewicz usłyszał kolejne zarzuty dotyczące wystawiania faktur na miliony złotych. Śledztwo obejmuje działalność podmiotów związanych z polską koszykówką i PKOl – podaje TVN24.",
-      "published": "Tue, 10 Nov 2026 09:06:27 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Chiny przekroczyły magiczną granicę. Świat kupuje od nich na potęgę",
-      "link": "https://www.money.pl/gospodarka/chiny-przekroczyly-magiczna-granice-swiat-kupuje-na-potege-7349428770580928a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/cc37a6fd-780e-4d44-b36c-e29a2d0fcc0f\" width=\"308\" /> Chiny przekroczyły granicę biliona dolarów nadwyżki handlowej już po dziesięciu miesiącach 2026 r. Eksport gwałtownie rośnie, szczególnie do Azji, USA i Europy. Jednak za imponującymi wynikami kryją się problemy gospodarcze. Chińczycy wciąż wydają za mało.",
-      "published": "Tue, 10 Nov 2026 08:16:16 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wielka afera w Polsce. Jest finał głośnej sprawy PCZ. Poszkodowani \"zostawieni na lodzie\"",
-      "link": "https://www.money.pl/finanse/wielka-afera-w-polsce-jest-final-10-lat-wiezienia-a-skazany-uciekl-7349419779275200a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/84b3a7e0-e636-46f0-9174-761d35847c6e\" width=\"308\" /> Sąd Najwyższy zakończył sprawę karną dotyczącą afery Polskiego Centrum Zdrowia, w której 600 osób i firm straciło 80 mln zł. Oddalił wszystkie trzy kasacje od prawomocnego wyroku. Romuald Ściborski, twórca grupy i były prezes spółki, został skazany na 10 lat więzienia, al",
-      "published": "Tue, 10 Nov 2026 07:59:07 +0100",
       "source": "Money.pl",
       "category": "pl"
     },
@@ -808,6 +792,14 @@
       "published": "Mon, 09 Nov 2026 12:00:01 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Wydaj 100 zł, dostaniesz 100 zł z powrotem. Na czym polega promocja Revoluta?",
+      "link": "https://www.bankier.pl/wiadomosc/Wydaj-100-zl-dostaniesz-100-zl-z-powrotem-Na-czym-polega-promocja-Revoluta-9224915.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/6/9719097d8736f4-779-467-65-0-779-467.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Revolut prowadzi dla nowych klientów promocję z bardzo prostym warunkiem. Kto założy konto i zrobi pierwsze zakupy kartą za 100 zł, odzyska tyle, ile wydał. Liczy się jednak czas,",
+      "published": "Fri, 6 Nov 2026 13:04:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
