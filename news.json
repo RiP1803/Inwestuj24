@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:30:07.895431",
+  "generated_at": "2026-11-14T01:22:12.491457",
   "articles": [
     {
       "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
@@ -130,6 +130,14 @@
       "category": "pl"
     },
     {
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
+      "published": "Sat, 14 Nov 2026 00:40:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
       "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
       "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
       "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
@@ -218,6 +226,94 @@
       "category": "us"
     },
     {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "Fri, 13 Nov 2026 23:12:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "4 expert tips for signing up for Medicare",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "summary": "A day in the life of a Medicare counselor",
+      "published": "Fri, 13 Nov 2026 22:45:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+      "published": "Fri, 13 Nov 2026 22:21:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "published": "Fri, 13 Nov 2026 22:04:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
+      "published": "Fri, 13 Nov 2026 22:00:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+      "published": "Fri, 13 Nov 2026 21:32:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+      "published": "Fri, 13 Nov 2026 21:26:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
+      "published": "Fri, 13 Nov 2026 21:10:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+      "published": "Fri, 13 Nov 2026 21:09:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Darowizny dla ofiar ataku w Krakowie i ich rodzin. Jest decyzja o podatku",
+      "link": "https://businessinsider.com.pl/prawo/podatki/darowizny-dla-ofiar-ataku-w-krakowie-i-ich-rodzin-jest-decyzja-o-podatku/8rgmfvv",
+      "summary": "Ministerstwo Finansów przedstawiło projekt zwolnienia z podatku od spadków i darowizn dla osób, które ucierpiały w ataku terrorystycznym oraz rodzin ofiar tragedii. Ministerstwo opublikowało dokument w piątek na stronach Rządowego Centrum Legislacji. Resort proponuje również wydłużenie terminu na dopełnienie formalności podatkowych.",
+      "published": "Fri, 13 Nov 2026 20:41:53 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Chińczycy oblegają magazyny w Polsce. Historyczny popyt",
+      "link": "https://businessinsider.com.pl/biznes/chinskie-firmy-napedzaja-boom-magazynowy-polski-sektor-bije-rekordy/c9s92bd",
+      "summary": "Cła na małe przesyłki, powiększone od listopada jeszcze o opłatę manipulacyjną, zmieniły strategię chińskich firm. Teraz opłaci się sprzedawać z terenu Unii, a Polska jest obiektem szczególnie wysokiego popytu na powierzchnie magazynowe. Polski rynek odnotował w 2026 r. historyczne wyniki w pierwszych trzech kwartałach.",
+      "published": "Fri, 13 Nov 2026 20:23:08 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
       "title": "Srebro testuje roczne minima! Jak nisko może zejść?",
       "link": "https://comparic.pl/srebro-testuje-roczne-minima-jak-nisko-moze-zejsc/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/03/AI-Srebro-Silver-Krach-1-1-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Srebro kontynuuje przecenę i traci dziś blisko 2%, schodząc w okolice 49 USD za uncję. To tegoroczne minima, a zarazem najniższe poziomy od 21 listopada 2025 r. ",
@@ -274,36 +370,12 @@
       "category": "pl"
     },
     {
-      "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-      "summary": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
-      "published": "Fri, 13 Nov 2026 19:26:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Państwo rezygnuje z podatku od pomocy dla ofiar tragedii w Krakowie i Ostrowcu Świętokrzyskim",
       "link": "https://www.bankier.pl/wiadomosc/Panstwo-rezygnuje-z-podatku-od-pomocy-dla-ofiar-tragedii-w-Krakowie-i-Ostrowcu-Swietokrzyskim-9228754.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/c/b02fdd463feff0-948-568-0-270-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Zwolnienie z podatku od spadków i darowizn środków przekazanych ofiarom ataku w Krakowie i ich rodzinom, a także rodzinie zabitych w Ostrowcu Świętokrzyskim - przewiduje projek",
       "published": "Fri, 13 Nov 2026 19:26:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-      "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-      "published": "Fri, 13 Nov 2026 19:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
-      "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
-      "summary": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
-      "published": "Fri, 13 Nov 2026 19:19:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Nagła decyzja w Białym Domu. Nowy szef personelu wprowadza zakaz dla urzędników",
@@ -322,14 +394,6 @@
       "category": "pl"
     },
     {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-      "published": "Fri, 13 Nov 2026 19:16:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Kreml przejął zachodnie firmy. Teraz wpłacają środki na armię",
       "link": "https://businessinsider.com.pl/gospodarka/zachodnie-marki-pod-kontrola-rosji-pieniadze-trafiaja-na-front/2241jm2",
       "summary": "Rosyjskie oddziały zachodnich i japońskich przedsiębiorstw, które przejął Kreml, przekazują środki na wsparcie armii walczącej w Ukrainie. Agencja Bloomberg ustaliła, że zarządcy przejętych firm wpłacają pieniądze na zakup sprzętu dla rosyjskich żołnierzy.",
@@ -346,28 +410,12 @@
       "category": "pl"
     },
     {
-      "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
-      "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
-      "summary": "A widespread Outlook outage delayed a corporate earnings report, and left users scrambling to submit their schoolwork or find alternate forms of communication.",
-      "published": "Fri, 13 Nov 2026 19:01:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Przegląd dnia Comparic.pl: Krwawy piątek na rynku kryptowalut. 175 tys. traderów straciło pozycje – BTC najniżej od 3 miesięcy",
       "link": "https://comparic.pl/przeglad-dnia-comparic-pl-krwawy-piatek-na-rynku-kryptowalut-175-tys-traderow-stracilo-pozycje-btc-najnizej-od-3-miesiecy/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Bitcoina (BTC) spadł w piątek 13 listopada poniżej 68,5 tys. USD i znalazł się najniżej od blisko trzech miesięcy. Najmocniej oberwali inwestorzy grający z dźwi",
       "published": "Fri, 13 Nov 2026 18:59:05 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "What really happens during Medicare open enrollment? High stakes and lots of uncertainty.",
-      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-      "summary": "Open enrollment can bring unexpected challenges for seniors.",
-      "published": "Fri, 13 Nov 2026 18:59:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Sojusz gigantów pcha kurs Allegro! Czy kolejna hossa zakończy się po 8 miesiącach i czy akcje są już zbyt drogie – oceny ekspertów",
@@ -386,36 +434,12 @@
       "category": "pl"
     },
     {
-      "title": "Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage",
-      "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
-      "summary": "The outage could result in a $100 million to $400 million negative impact to Microsoft if the company offers credits and other compensation to customers, one analyst said.",
-      "published": "Fri, 13 Nov 2026 18:38:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Rząd zamrozi ceny gazu na 2027 r. Oszczędności nawet 1,9 tys. zł",
       "link": "https://businessinsider.com.pl/gospodarka/miliony-polakow-odetchna-z-ulga-rachunki-za-gaz-nie-wzrosna-w-2027/tqz8ybw",
       "summary": "Rząd przygotował projekt przedłużenia zamrożenia cen gazu dla gospodarstw domowych na cały przyszły rok. Nowe przepisy mają uchronić miliony Polaków przed wzrostem rachunków za ogrzewanie i gotowanie.",
       "published": "Fri, 13 Nov 2026 18:34:29 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-      "published": "Fri, 13 Nov 2026 18:30:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The epic $29 trillion battle for Social Security has begun",
-      "link": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
-      "summary": "The future of Social Security affects everyone. Too many people aren’t paying attention.",
-      "published": "Fri, 13 Nov 2026 18:25:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Plotka o PPK nabrała rozpędu. Wyjątkowo szkodliwe wpisy polityków [OPINIA]",
@@ -440,14 +464,6 @@
       "published": "Fri, 13 Nov 2026 17:56:20 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "I am turning 18 next month and want to start investing. What do I do first?",
-      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
-      "summary": "“I have not tried investing before.”",
-      "published": "Fri, 13 Nov 2026 17:56:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Microsoft przeprasza. Są nowe informacje o wielkiej awarii",
@@ -722,14 +738,6 @@
       "category": "pl"
     },
     {
-      "title": "\"Idziemy sami\". Mateusz Morawiecki deklaruje",
-      "link": "https://businessinsider.com.pl/wiadomosci/widze-te-zachety-mateusz-morawiecki-nie-chce-startowac-z-pis/ht1fq8x",
-      "summary": "Idziemy do wyborów sami — zadeklarował w Poznaniu lider Rozwoju Plus oraz były premier Mateusz Morawiecki. Ocenił jednocześnie, że na polskiej prawicy nie ma obecnie hegemona, tak jak to było kiedyś.",
-      "published": "Fri, 13 Nov 2026 12:04:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Wielkie hamowanie w stolicy gigantów IT. Zaskakujące dane o rekrutacji w Amazonie, Google i Apple",
       "link": "https://www.bankier.pl/wiadomosc/Wielkie-hamowanie-w-stolicy-gigantow-IT-Zaskakujace-dane-o-rekrutacji-w-Amazonie-Google-i-Apple-9228317.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/4/1/96bb5ac77b536e-948-568-390-52-2610-1565.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Irlandzki sektor technologiczny, od lat będący europejskim centrum dla największych światowych korporacji, przechodzi wyraźną transformację. Z najnowszych danych Ministerstwa ",
@@ -744,14 +752,6 @@
       "published": "Fri, 13 Nov 2026 11:50:17 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Miliony złotych dla lekarzy od otyłości w Polsce. Medycy nie chcą się do tego przyznawać",
-      "link": "https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/producenci-lekow-placa-lekarzom-za-wspolprace-wiekszosc-tego-nie-ujawnia/74n82bd",
-      "summary": "Leczenie otyłości w Polsce pochłania ogromne pieniądze, z których część płynie od firm farmaceutycznych na rzecz lekarzy, ekspertów i fundacji. Rynek leków to co najmniej 1,5 mld zł rocznie — podaje \"Rzeczpospolita\". Tyle w przybliżeniu zapłacili Polacy w 2025 r.",
-      "published": "Fri, 13 Nov 2026 11:49:30 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Tak źle nie było od 12 lat! Gigantyczna presja na akcjach i kolejne rozczarowanie. Co dalej z kursem AmRest?",
