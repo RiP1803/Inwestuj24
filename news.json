@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:55:31.681198",
+  "generated_at": "2026-11-21T02:08:10.747230",
   "articles": [
     {
       "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
@@ -154,14 +154,6 @@
       "category": "pl"
     },
     {
-      "title": "Benzyna i diesel taniej. Takie ceny zobaczą kierowcy w piątek",
-      "link": "https://www.money.pl/gospodarka/wszystkie-rodzaje-paliw-taniej-takie-ceny-zobacza-kierowcy-w-piatek-7352700954114048a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/4af3dc5b-4849-4735-917a-eb893f60f9df\" width=\"308\" /> W piątek 20 listopada maksymalna cena dla benzyny Pb95 wynosić będzie 5,93 zł/l, dla benzyny Pb98 6,58 zł/l, a dla oleju napędowego 7,45 zł/l - poinformował minister energii w obwieszczeniu ws. maksymalnych cen paliw.",
-      "published": "Thu, 19 Nov 2026 14:00:20 +0100",
-      "source": "Money.pl",
-      "category": "pl"
-    },
-    {
       "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
       "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
       "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
@@ -176,6 +168,126 @@
       "published": "Mon, 16 Nov 2026 21:03:36 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "summary": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+      "published": "Fri, 20 Nov 2026 22:46:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+      "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+      "summary": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+      "published": "Fri, 20 Nov 2026 22:44:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+      "published": "Fri, 20 Nov 2026 21:58:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+      "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+      "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+      "summary": "A looming oversupply problem could weigh on the stock over the next year",
+      "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+      "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+      "published": "Fri, 20 Nov 2026 21:36:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
+      "published": "Fri, 20 Nov 2026 21:34:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+      "published": "Fri, 20 Nov 2026 21:25:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Przegląd dnia Comparic.pl: Czarny piątek na rynkach. Bitcoin najniżej od 2024 roku, złoto testuje 3 500 USD, a Wall Street tonie",
+      "link": "https://comparic.pl/bitcoin-najnizej-od-2024-roku-zloto-%e2%88%9237-od-rekordu-czy-to-poczatek-bessy/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/03/freepik-wzrost-chart-wykres-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Piątek przyniósł jedną z najgwałtowniejszych wyprzedaży od miesięcy &#8211; pod presją znalazły się jednocześnie kryptowaluty, metale szlachetne i akcje. Bitcoi",
+      "published": "Fri, 20 Nov 2026 21:18:08 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Polska przedłuża obowiązek dywersyfikacji gazu. Nowe zasady obejmą LNG",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-przedluza-obowiazek-dywersyfikacji-gazu-Nowe-zasady-obejma-LNG-9232889.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/0/d/cd4dcf7dea62f1-948-568-28-28-1107-664.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Do konsultacji publicznych trafił projekt rozporządzenia przedłużającego do 2036 r. obowiązek dywersyfikacji dostaw gazu ziemnego z zagranicy. Projekt utrzymuje limit 33 proc. u",
+      "published": "Fri, 20 Nov 2026 21:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Drugi dzień Anthropic na giełdzie. Oto co się dzieje z akcjami",
+      "link": "https://www.money.pl/gielda/drugi-dzien-anthropic-na-gieldzie-oto-co-sie-dzieje-z-akcjami-7353153257691168a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/97183ae8-a9c8-4249-8ac9-f47fb87e2e73\" width=\"308\" /> Jeden z liderów branży AI, firma Anthropic, traci w piątek na giełdzie około 10 proc. po tym, jak zamknął dzień debiutu 17-procentowym wzrostem.",
+      "published": "Fri, 20 Nov 2026 21:05:54 +0100",
+      "source": "Money.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+      "published": "Fri, 20 Nov 2026 21:04:48 GMT",
+      "source": "CNBC",
+      "category": "us"
+    },
+    {
+      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+      "published": "Fri, 20 Nov 2026 21:01:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
+    },
+    {
+      "title": "Rekordowy przelew dla Polski. W grudniu popłynie 55 mld zł",
+      "link": "https://www.bankier.pl/wiadomosc/Rekordowy-przelew-dla-Polski-W-grudniu-poplynie-55-mld-zl-9232884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/d/ea636de10ff56a-720-431-1200-379-720-431.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W grudniu br. do Polski wpłynie ostatnie 55 mld zł z Krajowego Planu Odbudowy - poinformowała w piątek nowo powołana minister funduszy i polityki regionalnej Agnieszka Bartol.",
+      "published": "Fri, 20 Nov 2026 20:56:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Euforia wokół Anthropic gaśnie. Akcje tracą 10%, rynek AI w odwrocie",
@@ -202,44 +314,12 @@
       "category": "pl"
     },
     {
-      "title": "Spooked by Nvidia’s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-      "published": "Fri, 20 Nov 2026 19:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "The Fed is too busy fighting inflation to rescue the stock market",
-      "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
-      "summary": "Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.",
-      "published": "Fri, 20 Nov 2026 19:53:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
-      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-      "summary": "The S&amp;P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
-      "published": "Fri, 20 Nov 2026 19:43:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Święczkowski straci połowę wynagrodzenia, a nie 150 proc. TK wydał komunikat",
       "link": "https://www.bankier.pl/wiadomosc/Swieczkowski-straci-polowe-wynagrodzenia-a-nie-150-proc-TK-wydal-komunikat-9232859.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/c/049820dc1aadc3-948-568-0-120-3397-2038.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie sumuje się obniżek wynagrodzenia wynikających z wykonywanych jednocześnie uchwał o uchyleniu immunitetu. Równoczesne obniżenie wynagrodzenia Bogdana Święczkowskiego w trzec",
       "published": "Fri, 20 Nov 2026 19:43:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
-      "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
-      "summary": "Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.",
-      "published": "Fri, 20 Nov 2026 19:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Bitcoin runął poniżej 59 tys. USD! Rynek kryptowalut pogrąża się w wyprzedaży",
@@ -250,14 +330,6 @@
       "category": "pl"
     },
     {
-      "title": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
-      "summary": "Investors may be worried that the “long-feared AI bubble-burst moment” is coming, one expert said.",
-      "published": "Fri, 20 Nov 2026 19:14:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "Bitcoin poniżej 60 000 USD po raz pierwszy od lipca. Z ETF-ów odpłynęło 3,47 mld USD",
       "link": "https://comparic.pl/bitcoin-ponizej-60-000-usd-po-raz-pierwszy-od-lipca-z-etf-ow-odplynelo-347-mld-usd/",
       "summary": "<p><img alt=\"bitcoin\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/freepik-BTC-Bitcoin-17-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Bitcoin spadł w piątek poniżej 60 000 USD po raz pierwszy od lipca, a od końca października stracił już ponad 23% wartości. Przecenę pogłębiają inwestorzy wy",
@@ -266,28 +338,12 @@
       "category": "pl"
     },
     {
-      "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-      "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased over $900 billion in market value in the past seven days.",
-      "published": "Fri, 20 Nov 2026 19:04:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
       "title": "\"FT\": to dlatego Trumpowi tak się spieszy w sprawie Ukrainy",
       "link": "https://businessinsider.com.pl/wiadomosci/trumpowi-spieszy-w-sprawie-ukrainy-ft-oto-powod/4hdsl52",
       "summary": "Donald Trump chce doprowadzić do porozumienia między Rosją a Ukrainą, zanim w styczniu Demokraci przejmą kontrolę nad Kongresem — przekazuje dziennik \"Financial Times\", powołując się na źródła znające szczegóły tego planu.",
       "published": "Fri, 20 Nov 2026 19:03:36 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
-      "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
-      "summary": "The companies behind the artificial-intelligence buildout have been working to build their next frontier abroad, amid growing wariness of data centers from politicians and ordinary Americans.",
-      "published": "Fri, 20 Nov 2026 18:57:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "Peter Schiff ostrzega przed krachem Bitcoina. USA mogą ucierpieć najbardziej",
@@ -306,12 +362,12 @@
       "category": "pl"
     },
     {
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-      "published": "Fri, 20 Nov 2026 18:15:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
+      "title": "Performance Analytics od FOREX.com – osobisty trener, który pomoże okiełznać emocje w tradingu",
+      "link": "https://comparic.pl/performance-analytics-od-forex-com-osobisty-trener-ktory-pomoze-okielznac-emocje-w-tradingu/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/02/freepik-trading-forex-chart-charts-wykres-notowania-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Treść artykułu dostarczona przez Partnera w ramach współpracy komercyjnej. Przedwczesne zamykanie zyskownych pozycji, impulsywne decyzje",
+      "published": "Fri, 20 Nov 2026 18:10:53 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
     },
     {
       "title": "\"Uzgodniliśmy z Xi\". Donald Trump mówi o porozumieniu dotyczącym AI",
@@ -336,22 +392,6 @@
       "published": "Fri, 20 Nov 2026 18:03:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
-    },
-    {
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-      "published": "Fri, 20 Nov 2026 18:00:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
-      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
-      "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
-      "published": "Fri, 20 Nov 2026 17:49:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
     },
     {
       "title": "KNF podejrzewa insider trading na akcjach Sygnity. Chodzi o ponad 433 tys. zł",
@@ -384,14 +424,6 @@
       "published": "Fri, 20 Nov 2026 17:27:20 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
-      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-      "published": "Fri, 20 Nov 2026 17:20:29 GMT",
-      "source": "CNBC",
-      "category": "us"
     },
     {
       "title": "NATO reaguje na naruszenie polskiej przestrzeni powietrznej. Rutte zabrał głos",
@@ -682,14 +714,6 @@
       "category": "pl"
     },
     {
-      "title": "Orlen może sprzedać magazyny gazu. Jest oferta od spółki Gaz-Systemu",
-      "link": "https://www.bankier.pl/wiadomosc/Gas-Storage-Poland-z-Grupy-Gaz-System-chce-nabyc-magazyny-gazu-nalezace-do-Orlenu-9232552.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/8/8/dc703e0c9747d9-948-568-0-249-3544-2126.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Gas Storage Poland z Grupy Gaz-System chce nabyć magazyny gazu należące do Orlenu i złożył niewiążącą ofertę zakupu instalacji magazynowych - podał Gas Storage w komunikacie. R",
-      "published": "Fri, 20 Nov 2026 13:40:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Wall Street znowu spada. Debiut Anthropic nie zatrzymał wyprzedaży",
       "link": "https://comparic.pl/wall-street-znowu-spada-debiut-anthropic-nie-zatrzymal-wyprzedazy/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/bgozp8aqywa-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Wczorajszy debiut Anthropic na Wall Street nie stał się pretekstem do odreagowania rynków, tylko do &#8230;przyspieszenia wyprzedaży. I to nie jest dobry sygnał w średnim termi",
@@ -738,35 +762,11 @@
       "category": "pl"
     },
     {
-      "title": "Fundusz JSW na czarną godzinę do likwidacji. Z miliardów złotych zostały drobne",
-      "link": "https://www.bankier.pl/wiadomosc/RN-JSW-wyrazila-zgode-na-umorzenie-certyfikatow-FIZ-serii-C-o-wartosci-ok-85-6-mln-zl-9232488.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/8/7934b1fb0b2a63-945-567-0-0-2073-1244.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rada nadzorcza JSW wyraziła zgodę na umorzenie Certyfikatów Inwestycyjnych Stabilizacyjnego Funduszu Inwestycyjnego Zamkniętego serii C w liczbie 55.500 szt. o szacowanej kwocie ",
-      "published": "Fri, 20 Nov 2026 12:46:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Burza wokół 800 plus. Ujawniamy, czego naprawdę chciała KNF",
       "link": "https://www.money.pl/banki/nadzor-chcial-ostroznosci-ws-800-plus-banki-poszly-po-bandzie-7353000557856768a.html",
       "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7d49ed7b-8cc5-4046-9d29-8ce58e42fe9a\" width=\"308\" /> Banki powołują się na nadzór i przestają wliczać świadczenie 800 plus do zdolności kredytowej. Tyle że nadzór tego od nich nie oczekiwał. Jak ustalił money.pl, banki zinterpretowały na wyrost zalecenia pokontrolne – i nie ma to nic wspólnego z planami wygaszania świadczen",
       "published": "Fri, 20 Nov 2026 12:26:28 +0100",
       "source": "Money.pl",
-      "category": "pl"
-    },
-    {
-      "title": "15 gigantów finansowych posiada 33% akcji Strategy. Co to oznacza?",
-      "link": "https://comparic.pl/15-gigantow-finansowych-posiada-33-akcji-strategy-co-to-oznacza/",
-      "summary": "<p><img alt=\"Michael Saylor (Strategy)\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/AI-Strategy-Michael-Saylor-Bitcoin-BTC-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Mimo utrzymującej się niepewności na rynku kryptowalut największe instytucje finansowe z Wall Street zwiększały swoje zaang",
-      "published": "Fri, 20 Nov 2026 12:18:43 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Kurs złotego nurkuje! Dolar powyżej 4,06 zł! Co wydarzyło się dziś w Polsce?",
-      "link": "https://comparic.pl/kurs-zlotego-nurkuje-dolar-powyzej-406-zl-co-wydarzylo-sie-dzis-w-polsce/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/05/ChatGPT-Image-25-maj-2026-13_31_01-1-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>W piątek 20 listopada 2026 r. doszło do naruszenia polskiej przestrzeni powietrznej w trakcie rosyjskiego, zmasowanego ataku na Ukrainę. W godzinach p",
-      "published": "Fri, 20 Nov 2026 12:11:27 +0000",
-      "source": "Comparic.pl",
       "category": "pl"
     },
     {
