@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:09:02.368992",
+  "generated_at": "2026-11-22T10:59:46.977844",
   "articles": [
     {
       "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
@@ -122,20 +122,220 @@
       "category": "us"
     },
     {
-      "title": "Anthropic debiutuje na giełdzie. Oto kurs akcji",
-      "link": "https://www.money.pl/gielda/anthropic-debiutuje-na-gieldzie-oto-kurs-akcji-7352763026315296a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/0f955f04-afcf-4c4d-bf76-96e50964f40d\" width=\"308\" /> W czwartek, w dzień giełdowego debiutu, handel akcjami firmy Anthropic rozpoczął się na poziomie 111,50 dolarów za akcję. To 34 proc. więcej, niż wyniosła cena z pierwszej oferty publicznej – zwraca uwagę agencja Bloomberga.",
-      "published": "Thu, 19 Nov 2026 18:15:56 +0100",
+      "title": "Złoto przestaje chronić przed inflacją. Czy cena wróci do 3 200-3 400 USD, a srebro do 35 USD?",
+      "link": "https://comparic.pl/zloto-przestaje-chronic-przed-inflacja-czy-cena-wroci-do-3-200-3-400-usd-a-srebro-do-35-usd/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-zloto-GOLD-XAU-srebro-silver-XAG-3-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Złoto traci atut, który przez ostatnie lata przyciągał do niego kapitał, a status zabezpieczenia przed inflacją zaczyna obracać się przeciwko kru",
+      "published": "Sun, 22 Nov 2026 11:39:53 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Szczyt klimatyczny może zakończyć się fiaskiem. Trwają negocjacje o główny punkt",
+      "link": "https://businessinsider.com.pl/gospodarka/cop31-w-antalyi-na-krawedzi-zalamania-spor-o-paliwa-kopalne-i-klimat/770qk00",
+      "summary": "Rozmowy klimatyczne ONZ w Antalyi weszły w decydującą fazę. Jak informuje Reuters, przedstawiciele Australii i Turcji, które kierują obradami COP31, próbują zdobyć poparcie dla nowego projektu porozumienia. Rozmowy mogą jednak zakończyć się fiaskiem za sprawą podejścia do paliw kopalnych.",
+      "published": "Sun, 22 Nov 2026 10:44:35 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Autopay ujawnia szczegóły cyberataku. Banki reagują",
+      "link": "https://businessinsider.com.pl/gospodarka/autopay-informuje-o-incydencie-banki-reaguja-na-wyciek-danych-klientow/3v71k0h",
+      "summary": "Cyberatak na Autopay wywołał reakcję banków. Ich przedstawiciele zapewniają, że nie ma powodów do paniki, choć wprowadzono nadzwyczajne działania.",
+      "published": "Sun, 22 Nov 2026 09:51:06 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Miliardowe zyski to już za mało! XTB, KGHM, PZU, CD Projekt i Orlen – te 5 spółek zszokowało GPW w tym tygodniu",
+      "link": "https://comparic.pl/miliardowe-zyski-to-juz-za-malo-xtb-kghm-pzu-cd-projekt-i-orlen-te-5-spolek-zszokowalo-gpw-w-tym-tygodniu/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/gorace-spolki-tygodnia-o-nich-bylo-glosno-najglosciej-GPW-AI-234234234-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Tydzień od 16 do 20 listopada 2026 r. przyniósł na warszawskim parkiecie kilka wydarzeń, które wyraźnie wpłynęły na ",
+      "published": "Sun, 22 Nov 2026 09:41:08 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Shorty atakują GPW! Fundusze zwiększają presję na Kruka, JSW i kolejne spółki. Gdzie może dojść do short squeeze?",
+      "link": "https://comparic.pl/shorty-atakuja-gpw-fundusze-zwiekszaja-presje-na-kruka-jsw-i-kolejne-spolki-gdzie-moze-dojsc-do-short-squeeze/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/shorty-spadki-bessa-AI-32423-gpw-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Miniony tydzień przyniósł kolejne istotne przetasowania w pozycjach krótkich na GPW. Najbardziej aktywny był Kruk, gdzie Qube Research &#38; Technologies ",
+      "published": "Sun, 22 Nov 2026 09:39:43 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Apokalipsa AI na rynku pracy? Nowe prognozy mówią coś innego",
+      "link": "https://businessinsider.com.pl/praca/ai-moze-zwiekszyc-zatrudnienie-nowe-prognozy-dla-rynku-pracy/q5ls23h",
+      "summary": "Według prognoz firmy Gartner rozwój sztucznej inteligencji doprowadzi do powstania netto ok. 1,7 mln miejsc pracy do 2030 r. To jednak nie znaczy, że technologiczna rewolucja nie pozostawi ofiar.",
+      "published": "Sun, 22 Nov 2026 09:30:43 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Polimex Mostostal, CD Projekt, PGE, JSW i Modivo przed publikacją raportów. Sezon wyników na GPW przyspiesza – kalendarz 23-27 listopada",
+      "link": "https://comparic.pl/polimex-mostostal-cd-projekt-pge-jsw-i-modivo-przed-publikacja-raportow-sezon-wynikow-na-gpw-przyspiesza-kalendarz-23-27-listopada/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/kalendarz-gpw-AI-3244234-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Sezon publikacji wyników za III kwartał 2026 r. wszedł w intensywną fazę, a w mijającym tygodniu raporty przedstawiły zarówno duże spółki z WIG20, jak i firmy z m",
+      "published": "Sun, 22 Nov 2026 09:15:57 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ponad 35%, 45% i 55% potencjału wzrostu. Analitycy wydali nowe rekomendacje. Te spółki mogą zaskoczyć na GPW",
+      "link": "https://comparic.pl/ponad-35-45-i-55-potencjalu-wzrostu-analitycy-wydali-nowe-rekomendacje-te-spolki-moga-zaskoczyc-na-gpw/",
+      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/10/hossa-AI-wzrosty-gpw-AI-3453-przeglad-rekomendacje-wyceny-3423r24-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Najnowsza rekomendacja dla Artifex Mundi pochodzi z 16 listopada 2026 r. Erste Group utrzymał zalecenie „kupuj” i wyznacz",
+      "published": "Sun, 22 Nov 2026 09:11:18 +0000",
+      "source": "Comparic.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Trump zabiegał o spotkanie z Kimem. Korea Północna powiedziała „nie”",
+      "link": "https://www.bankier.pl/wiadomosc/Trump-zabiegal-o-spotkanie-z-Kimem-Korea-Polnocna-powiedziala-nie-9233098.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/8/21a3aeff1d2345-945-567-16-137-2163-1298.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump zabiegał o szczyt z przywódcą Korei Północnej Kim Dzong Unem podczas podróży do Azji w ubiegłym tygodniu; spotkanie nie doszło jednak do skutku, pon",
+      "published": "Sun, 22 Nov 2026 09:10:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Unia Europejska z umową o wolnym handlu z kolejnym krajem. To ma być szansa dla Europy",
+      "link": "https://businessinsider.com.pl/gospodarka/unia-europejska-z-umowa-o-wolnym-handlu-z-kolejnym-krajem-to-ma-byc-szansa-dla-europy/fc9ww4s",
+      "summary": "Komisja Europejska podpisała umowę o wolnym handlu z kolejnym krajem. Zniesienie ceł ma pomóc m.in. rolnikom i przemysłowi.",
+      "published": "Sun, 22 Nov 2026 08:55:24 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Cyberatak na Autopay. Firma ujawnia szczegóły, zagrożenie może dotyczyć kolejnych",
+      "link": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Autopay-Firma-ujawnia-szczegoly-zagrozenie-moze-dotyczyc-kolejnych-9233094.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/d/b840007f2c96a3-948-568-0-271-3441-2065.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Spółka Autopay przekazała zespołowi CSIR KNF i instytucjom finansowym szczegóły dot. sposobu działania sprawców cyberataku, który miał miejsce w ubiegłym tygodniu - poifnormowa",
+      "published": "Sun, 22 Nov 2026 08:53:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tysiące osób mogły stracić dach nad głową. Sąd zablokował plan Trumpa",
+      "link": "https://www.bankier.pl/wiadomosc/Tysiace-osob-mogly-stracic-dach-nad-glowa-Sad-zablokowal-plan-Trumpa-9233083.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/a/6b84ff56d8132c-948-567-0-67-1000-599.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Sędzia federalna z Rhode Island Mary S. McElroy zablokowała projekt administracji Donalda Trumpa przekierowanie 1,3 mld dolarów z pomocy mieszkaniowej dla bezdomnych na programy ",
+      "published": "Sun, 22 Nov 2026 08:40:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Strajk w Niemczech obejmie 23 tys. pracowników. Na liście Mercedes i Siemens",
+      "link": "https://www.bankier.pl/wiadomosc/Strajk-w-Niemczech-obejmie-23-tys-pracownikow-Na-liscie-Mercedes-i-Siemens-9233073.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/e/a02dc29d423802-948-568-325-0-1460-875.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Związek zawodowy IG Metall poinformował w niedzielę, że w poniedziałek rozpocznie kolejny 24-godzinny strajk. W ramach eskalacji sporu płacowego do przerwania pracy wezwał 23 ty",
+      "published": "Sun, 22 Nov 2026 08:35:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Wrze na ulicach portugalskich miast. „Chcemy tanich mieszkań!”",
+      "link": "https://www.bankier.pl/wiadomosc/Wrze-na-ulicach-portugalskich-miast-Chcemy-tanich-mieszkan-9233075.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/a/3ccd11df3d6163-948-568-20-0-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Kilkadziesiąt tysięcy demonstrantów wyległo w sobotę na ulice największych portugalskich miast w protestach przeciwko wysokim czynszom oraz rosnącym kosztom życia. W demonstacja",
+      "published": "Sun, 22 Nov 2026 08:34:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Pieniądze na wypadek wojny. Eksperci radzą, jak zabezpieczyć oszczędności",
+      "link": "https://www.money.pl/finanse/pieniadze-na-wypadek-wojny-eksperci-radza-jak-zabezpieczyc-oszczednosci-7353676633155584a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8fe5e7da-f035-401a-8166-b19226129957\" width=\"308\" /> W razie kryzysu, w tym wojny, dostęp do konta i bankomatów może być utrudniony. Jak na taką ewentualność zabezpieczyć oszczędności? Eksperci, z którymi rozmawiała \"Rzeczpospolita\", wskazują najrozsądniejsze rozwiązania. Wśród nich są rachunki w różnych bankach. Pytanie: w",
+      "published": "Sun, 22 Nov 2026 08:30:39 +0100",
       "source": "Money.pl",
       "category": "pl"
     },
     {
-      "title": "NBP zablokował kasę dla TK. Będzie ruch rządu",
-      "link": "https://www.money.pl/finanse/zablokowane-konta-tk-minister-finansow-powiedzial-co-robi-rzad-7352745833580576a.html",
-      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/e1253b8e-4ece-4558-ae2a-64ebfa906572\" width=\"308\" /> Minister finansów i gospodarki Andrzej Domański poinformował w czwartek, że trwają prace nad przywróceniem możliwości realizowania płatności z rachunków Trybunału Konstytucyjnego. Szef resortu zaapelował też o szybkie podpisanie przez prezydenta Karola Nawrockiego zmian w",
-      "published": "Thu, 19 Nov 2026 17:36:11 +0100",
+      "title": "Trump pokazał zdjęcia ze szczytu w Chinach. Jeden podpis wywołał falę komentarzy",
+      "link": "https://www.bankier.pl/wiadomosc/Trump-pokazal-zdjecia-ze-szczytu-w-Chinach-Jeden-podpis-wywolal-fale-komentarzy-9233072.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/7/6ba46c598d42f1-948-568-834-412-2234-1340.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent USA Donald Trump opublikował w sobotę w serwisie społecznościowym Truth Social serię zdjęć z niedawnej wizyty w Chinach. Jedna z opublikowanych grafik przedstawia T",
+      "published": "Sun, 22 Nov 2026 08:22:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Widzew trzyma ceny w ryzach. Fenomen łódzkiego rynku mieszkaniowego",
+      "link": "https://www.bankier.pl/wiadomosc/Widzew-trzyma-ceny-w-ryzach-Fenomen-lodzkiego-rynku-mieszkaniowego-9230037.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/6/0/babd72480719b4-948-568-0-0-3983-2390.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Choć w tym roku sprzedaż nowych mieszkań w Łodzi wyraźnie wzrosła, ceny pozostają stabilne. Z danych BIG DATA RynekPierwotny.pl wynika, że klucza do wyjaśnienia tego fenomenu nal",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Tajny fundusz i równoległa księgowość. Tak włoski Deutsche Bank ukrywał problemy",
+      "link": "https://www.bankier.pl/wiadomosc/Tajny-fundusz-i-rownolegla-ksiegowosc-Tak-wloski-Deutsche-Bank-ukrywal-problemy-9231537.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/f/cd284231e8ac8d-945-560-0-0-1500-899.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Włoski oddział Deutsche Banku ukrywał straty sięgające 800 mln euro poprzez prowadzone przez ponad 10 lat transakcje na instrumentach pochodnych oraz równoległą księgowość, a jego",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Koniec eldorado w IT? Firmy ograniczają kontrakty, a podwyżek nie będzie",
+      "link": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-w-IT-Firmy-ograniczaja-kontrakty-a-podwyzek-nie-bedzie-9230631.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/e/4dd2c2e2e5916b-948-568-0-120-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Na polskim rynku IT przybywa rekrutacji na umowę o pracę, a maleje liczba projektów realizowanych w modelu B2B. Pracodawcy coraz częściej oczekują też obecności pracowników w b",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Atak na Hugging Face i 80 incydentów. Kalifornia pozywa OpenAI",
+      "link": "https://www.bankier.pl/wiadomosc/Atak-na-Hugging-Face-i-80-incydentow-Kalifornia-pozywa-OpenAI-9229856.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/3/67907e1d67e7ba-948-568-0-0-3600-2159.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prokurator generalny Kalifornii Rob Bonta poinformował, że pozwał OpenAI w związku z atakiem jej modeli AI na Hugging Face i inne firmy. Zarzuty dotyczą „rozwijania niebezpieczny",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Ponad połowa cudzoziemców doświadczyła przemocy w Polsce",
+      "link": "https://www.bankier.pl/wiadomosc/Ponad-polowa-cudzoziemcow-doswiadczyla-przemocy-w-Polsce-9229575.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/9/932dc190366a96-948-568-0-52-997-598.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />72,5 proc. cudzoziemców deklaruje, że czuje się w Polsce bezpiecznie, mimo to ponad połowa doświadczyła zachowań przemocowych, najczęściej nieprzyjemnych komentarzy i wyzwisk - wy",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Polacy coraz chętniej kupują nieruchomości w Hiszpanii. Padł kolejny rekord",
+      "link": "https://www.bankier.pl/wiadomosc/Polacy-coraz-chetniej-kupuja-nieruchomosci-w-Hiszpanii-Padl-kolejny-rekord-9229782.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/9/df049ce4ee639f-948-568-0-34-1995-1196.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Polski boom gospodarczy sprawia, że coraz więcej Polaków inwestuje i zarabia na rynku nieruchomości w Hiszpanii – podał dziennik „El Economista”. Poinformował, że do września br",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Więcej ofiar niż w całym 2025 roku. ONZ podała nowe dane z Ukrainy",
+      "link": "https://www.bankier.pl/wiadomosc/Wiecej-ofiar-niz-w-calym-2025-roku-ONZ-podala-nowe-dane-z-Ukrainy-9230628.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/d/26ca5868423173-948-568-0-10-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W 2026 roku odnotowano na Ukrainie znacznie więcej ofiar cywilnych niż w analogicznych okresach poprzednich lat od rozpoczęcia pełnoskalowej inwazji Rosji w lutym 2022 r. Poinfo",
+      "published": "Sun, 22 Nov 2026 08:00:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
+    },
+    {
+      "title": "Petycja: koniec 13. i 14. emerytury. Ekspert wskazuje, kto może zyskać",
+      "link": "https://www.money.pl/finanse/petycja-koniec-13-i-14-emerytury-ekspert-wskazuje-kto-moze-zyskac-7353666213713920a.html",
+      "summary": "<img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/8bf8a695-9204-4f5f-9699-6a26709703fa\" width=\"308\" /> Do Senatu trafiła petycja dotycząca likwidacji trzynastej i czternastej emerytury. Zakłada ona, że pieniądze na ten cel miałyby zasilić regularne świadczenia. Dr Tomasz Lasocki, specjalista od ubezpieczeń społecznych z Politechniki Warszawskiej, w rozmowie z \"Faktem\" wska",
+      "published": "Sun, 22 Nov 2026 07:40:04 +0100",
       "source": "Money.pl",
       "category": "pl"
+    },
+    {
+      "title": "Bruksela wkracza do \"cichej\" wojny handlowej. Na ten ruch wobec Chin czekano od lat",
+      "link": "https://businessinsider.com.pl/gospodarka/bruksela-reaguje-na-handel-z-chinami-tak-chce-zatrzymac-ekspansje-pekinu/jgsm8v9",
+      "summary": "Unia Europejska przymyka drzwi przed Chinami, ale nie chce ich zatrzasnąć. Bruksela wprowadziła ograniczenia na samochody i chciałaby interweniować w kolejnych sektorach. To Pekin ma jednak więcej kart w obecnej batalii handlowej, a chińskie firmy niedawno domknęły kilka spektakularnych transakcji na Starym Kontynencie.",
+      "published": "Sun, 22 Nov 2026 06:30:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "Musimy biec szybciej niż zachodnia Europa – prezes PKO BP o szansach dla polskiej gospodarki",
+      "link": "https://businessinsider.com.pl/gospodarka/szymon-midera-polska-przedsiebiorczosc-i-ai-kluczami-do-wzrostu-gospodarki/2w6w8mv",
+      "summary": "Polska gospodarka wciąż może rosnąć szybciej niż bogatsza część Europy, ale coraz wyraźniejszym ograniczeniem staje się demografia. Odpowiedzią mają być m.in. kapitał zagraniczny, przemyślana polityka migracyjna oraz znacznie szybsze wdrażanie sztucznej inteligencji — przekonuje prezes największego polskiego banku. — Zróbmy z Polski najbardziej efektywny hub wdrażania nowoczesnej technologii — mów",
+      "published": "Sun, 22 Nov 2026 05:59:00 GMT",
+      "source": "BusinessInsider.pl",
+      "category": "other"
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "Sun, 22 Nov 2026 01:15:00 GMT",
+      "source": "MarketWatch",
+      "category": "us"
     },
     {
       "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
@@ -154,17 +354,9 @@
       "category": "us"
     },
     {
-      "title": "Sikorski uderza w Nawrockiego. „Nie mamy systemu prezydenckiego”",
-      "link": "https://www.bankier.pl/wiadomosc/Sikorski-uderza-w-Nawrockiego-Nie-mamy-systemu-prezydenckiego-9233064.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/5/3756f372866618-948-568-15-202-2985-1790.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MSZ Radosław Sikorski podkreślił, że w kwestii ambasadorów – podobnie jak w wypadku sędziów – prezydent Karol Nawrocki nie może mianować, kogo chce, tylko „j",
-      "published": "Sat, 21 Nov 2026 21:52:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Alarmy i eksplozje przy rosyjskiej bazie Floty Bałtyckiej. Doniesienia z obwodu królewieckiego",
+      "title": "Alarmy i eksplozje przy rosyjskiej bazie. Pojawił się wątek możliwej prowokacji",
       "link": "https://www.bankier.pl/wiadomosc/Alarmy-i-eksplozje-przy-rosyjskiej-bazie-Floty-Baltyckiej-Doniesienia-z-obwodu-krolewieckiego-9233062.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/d/89b106a39e8fe3-948-568-0-89-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W obwodzie królewieckim, rosyjskiej eksklawie graniczącej z Polską i Litwą, odnotowano eksplozje i aktywność dronów w pobliżu bazy morskiej Floty Bałtyckiej w Bałtyjsku. W regio",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/d/89b106a39e8fe3-948-568-0-89-3000-1799.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />W obwodzie królewieckim, rosyjskiej eksklawie graniczącej z Polską i Litwą, doszło do serii niepokojących zdarzeń. Mieszkańcy informowali o eksplozjach, odgłosach dronów i dział",
       "published": "Sat, 21 Nov 2026 21:43:00 +0100",
       "source": "Bankier.pl",
       "category": "pl"
@@ -186,36 +378,12 @@
       "category": "pl"
     },
     {
-      "title": "UE otwiera nowy rynek dla eksporterów. Umowa z Indonezją zniesie niemal wszystkie cła",
-      "link": "https://www.bankier.pl/wiadomosc/UE-otwiera-nowy-rynek-dla-eksporterow-Umowa-z-Indonezja-zniesie-niemal-wszystkie-cla-9233046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/d/543ddcbf148281-948-568-6-42-1194-716.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Unia Europejska i Indonezja podpisały w sobotę umowę o wolnym handlu. Przewiduje ona zniesienie większości ceł na unijny eksport do tego kraju. Komisja Europejska spodziewa się, ",
-      "published": "Sat, 21 Nov 2026 20:30:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Szczątki rakiet przywiezione przez służby? Rząd ujawnia nowe teorie dezinformacyjne",
-      "link": "https://www.bankier.pl/wiadomosc/Szczatki-rakiet-przywiezione-przez-sluzby-Rzad-ujawnia-nowe-teorie-dezinformacyjne-9233039.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/a/f766846f327434-948-568-0-270-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dobę po naruszeniu polskiej przestrzeni powietrznej pojawiły się nowe wątki fałszywych narracji, m.in. że szczątki rakiet zostały przywiezione przez służby - poinformował w sob",
-      "published": "Sat, 21 Nov 2026 20:26:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
       "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
       "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
       "published": "Sat, 21 Nov 2026 20:15:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Polska otrzyma silne wsparcie NATO. Ważne spotkanie już w poniedziałek",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-otrzyma-silne-wsparcie-NATO-Wazne-spotkanie-juz-w-poniedzialek-9233051.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/2/5/a50f29cea7dfb6-948-568-15-87-2032-1219.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował, że w najbliższym czasie Polska otrzyma od sojuszników z NATO silne wsparcie wzmacniające ochronę wschodniej granic",
-      "published": "Sat, 21 Nov 2026 20:13:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Strach i niepewność na Wall Street. Co dalej z Nvidią, dokąd zmierza inflacja?",
@@ -250,22 +418,6 @@
       "category": "us"
     },
     {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "published": "Sat, 21 Nov 2026 19:23:00 GMT",
-      "source": "MarketWatch",
-      "category": "us"
-    },
-    {
-      "title": "Z Wrocławia do Warszawy w 100 minut. Port Polska przedstawia nowe plany",
-      "link": "https://www.bankier.pl/wiadomosc/Z-Wroclawia-do-Warszawy-w-100-minut-Port-Polska-przedstawia-nowe-plany-9230951.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/c/b/03083d6486f8e8-945-567-63-0-3313-1988.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Podróż z Wrocławia do Warszawy zajmie około 100 minut - zapewnili przedstawiciele Portu Polska i Polskich Linii Kolejowych. Przedstawili koncepcję Zintegrowanej Sieci Kolejowej ",
-      "published": "Sat, 21 Nov 2026 19:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
       "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
       "summary": "This one, simple, low-pain tax solves all the problems.",
@@ -280,30 +432,6 @@
       "published": "Sat, 21 Nov 2026 18:19:00 GMT",
       "source": "MarketWatch",
       "category": "us"
-    },
-    {
-      "title": "Kolejny weekend protestów we Francji. 21,5 tys. osób na ulicach Paryża",
-      "link": "https://www.bankier.pl/wiadomosc/Kolejny-weekend-protestow-we-Francji-21-5-tys-osob-na-ulicach-Paryza-9233027.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/f/a/676e6118e822bb-948-568-0-0-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Tysiące ludzi zgromadziły się w sobotę na demonstracjach we Francji, zorganizowanych, kolejny weekend z rzędu, pod hasłami protestu przeciwko rosnącym kosztom życia. W pochodzie ",
-      "published": "Sat, 21 Nov 2026 17:01:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "„Nie można już liczyć na USA”. Mocne słowa na forum bezpieczeństwa",
-      "link": "https://www.bankier.pl/wiadomosc/Nie-mozna-juz-liczyc-na-USA-Mocne-slowa-na-forum-bezpieczenstwa-9232928.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/3/4/58bbb3dbde0ce6-948-568-0-20-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Nie można już liczyć na USA jako przewidywalnego lidera - powiedział w piątek Peter Van Praagh, przewodniczący Międzynarodowego Forum Bezpieczeństwa, które rozpoczęło się w piąt",
-      "published": "Sat, 21 Nov 2026 17:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zełenski o wynikach szczytu w Shenzhen: „Jałta 2.0” się nie udała",
-      "link": "https://www.bankier.pl/wiadomosc/Zelenski-o-wynikach-szczytu-w-Shenzhen-Jalta-2-0-sie-nie-udala-9233021.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/7/6/31edb3959f6546-948-568-0-7-1035-621.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Prezydent Ukrainy Wołodymyr Zełenski ocenił, że Władimirowi Putinowi nie udało się zrealizować planu „Jałty 2.0”, zakładającego nowy podział świata i zmianę granic, podczas rozmów",
-      "published": "Sat, 21 Nov 2026 16:56:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
@@ -330,44 +458,12 @@
       "category": "pl"
     },
     {
-      "title": "Rosyjski śmigłowiec wtargnął do Finlandii. Nowy incydent nad Zatoką Fińską",
-      "link": "https://www.bankier.pl/wiadomosc/Rosyjski-smiglowiec-wtargnal-do-Finlandii-Nowy-incydent-nad-Zatoka-Finska-9233024.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/d/a/a5c8ca8f0c5d9a-948-568-0-0-1779-1067.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Rosyjski śmigłowiec jest podejrzewany o naruszenie fińskiej przestrzeni powietrznej – poinformowało w sobotę ministerstwo obrony Finlandii.</p>",
-      "published": "Sat, 21 Nov 2026 16:36:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Zełenski: Bez Polski nie będzie negocjacji pokojowych",
-      "link": "https://www.bankier.pl/wiadomosc/Zelenski-Bez-Polski-nie-bedzie-negocjacji-pokojowych-9233008.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/a/c/7a3eb0c976a3cb-948-568-0-43-1905-1143.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Bez Polski nie może być negocjacji pokojowych, podobnie jak bez innych państw Europy, które będą reprezentowane przez pięć krajów: Wielką Brytanię, Niemcy, Francję, Włochy i Pol",
-      "published": "Sat, 21 Nov 2026 16:33:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Costa proponuje nowy budżet UE. Jest też pomysł na podatek od gigantów technologicznych",
-      "link": "https://www.bankier.pl/wiadomosc/Costa-proponuje-nowy-budzet-UE-Jest-tez-pomysl-na-podatek-od-gigantow-technologicznych-9232997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/1/e/3c118b0f9b399e-948-568-155-542-3512-2107.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przewodniczący Rady Europejskiej Antonio Costa zaproponował w sobotę, by nowy budżet UE na lata 2028-34 był o 10 proc. mniejszy w stosunku do pierwotnego projektu. Wydatki na",
-      "published": "Sat, 21 Nov 2026 15:55:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Gigant finansowy tnie zatrudnienie. 150 osób bez pracy po Nowym Roku",
       "link": "https://businessinsider.com.pl/praca/firma-od-dlugow-tnie-zatrudnienie-150-osob-bez-pracy-po-nowym-roku/w7p25wh",
       "summary": "Jedna z największych polskich firm specjalizujących się w zarządzaniu wierzytelnościami i odzyskiwaniu długów zapowiedziała grupowe zwolnienia. Zatrudnienie straci 150 pracowników Grupy Kruk. To ok. 10 proc. całej załogi — podaje portal PulsHR.",
       "published": "Sat, 21 Nov 2026 15:52:23 GMT",
       "source": "BusinessInsider.pl",
       "category": "other"
-    },
-    {
-      "title": "Długość życia w Polsce rośnie, ale dystans do średniej UE się nie zmniejsza",
-      "link": "https://www.bankier.pl/wiadomosc/Dlugosc-zycia-w-Polsce-rosnie-ale-dystans-do-sredniej-UE-sie-nie-zmniejsza-9229305.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/b/b/4875f03291dae0-948-568-0-0-4000-2399.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Przeciętne dalsze trwanie życia w Polsce wydłuża się, ale dystans do średniej UE się nie zmniejsza - wynika z raportu \"Sytuacja demograficzna Polski. Raport 2025\", przygotowanego",
-      "published": "Sat, 21 Nov 2026 15:50:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
     },
     {
       "title": "PiS chce zmienić prawo bankowe. Twierdzi, że dla dobra rodzin",
@@ -546,28 +642,12 @@
       "category": "pl"
     },
     {
-      "title": "GTA VI pobiło rekord wszech czasów. Takiego wyniku nie osiągnął nawet Hollywood",
-      "link": "https://www.bankier.pl/wiadomosc/GTA-VI-pobila-rekord-wszech-czasow-Takiego-wyniku-nie-osiagnal-nawet-Hollywood-9232923.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/e/fa74f2f4ca27ad-948-568-20-130-3980-2387.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Grand Theft Auto VI pobiła sprzedażowy rekord wszechczasów na rynku gier komputerowych, osiągając sprzedaż detaliczną na poziomie 3,79 mld dolarów w pierwszym dniu od premiery",
-      "published": "Sat, 21 Nov 2026 09:00:00 +0100",
-      "source": "Bankier.pl",
-      "category": "pl"
-    },
-    {
       "title": "Wielkie sprzedaże insiderów na GPW! Akcje MOL, Bumech i Cyfrowy Polsat wśród spółek z największymi transakcjami",
       "link": "https://comparic.pl/wielkie-sprzedaze-insiderow-na-gpw-akcje-mol-bumech-i-cyfrowy-polsat-wsrod-spolek-z-najwiekszymi-transakcjami/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/10/inside-trading-insiderzy-gpw-hossa-AI-dffsdf32432-freepik-cc-3243252-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Największą aktywnością po stronie kupujących wyróżnia się FORBUILD, gdzie pięciu członków rady nadzorczej nabyło łączn",
       "published": "Sat, 21 Nov 2026 08:38:08 +0000",
       "source": "Comparic.pl",
       "category": "pl"
-    },
-    {
-      "title": "Ile gotówki warto trzymać w domu i gdzie ją przechowywać? [WYJAŚNIAMY]",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/czy-trzymanie-gotowki-w-domu-to-dobry-pomysl-wyjasniamy/r5sgrwg",
-      "summary": "Brytyjski rząd zaleca gospodarstwom domowym zgromadzenie bezpiecznego zapasu gotówki na wypadek sytuacji kryzysowych w związku z rosnącą liczbą cyberataków. Oto co z brytyjskich porad można wyciągnąć dla siebie także w Polsce.",
-      "published": "Sat, 21 Nov 2026 08:35:13 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
     },
     {
       "title": "Ważny tydzień na GPW! Mirbud, Unibep, PKO BP, Diagnostyka, Wittchen i inne spółki z nowymi komunikatami",
@@ -578,43 +658,11 @@
       "category": "pl"
     },
     {
-      "title": "Najważniejszy maraton Andrzeja Domańskiego. Kluczowe zadania dla nowego wicepremiera",
-      "link": "https://businessinsider.com.pl/gospodarka/nowy-wicepremier-domanski-z-kluczowa-misja-czy-sprosta-wyzwaniom-polskiej-gospodarki/htlczh7",
-      "summary": "Andrzej Domański został nowym wicepremierem. Oficjalnie zyskał większą odpowiedzialność za kluczowe obszary gospodarki. W praktyce sprowadzi się to do koordynacji działań rządu w tym obszarze w kluczowym przedwyborczym okresie. Czy to wystarczy, by sprostać wyzwaniom stojącym przed polskim rozwojem? Zadania, na których powinien się skupić, to strategia gospodarcza, legislacyjna i podatkowa państwa",
-      "published": "Sat, 21 Nov 2026 08:13:25 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Akcje tych spółek musisz posiadać w tym tygodniu (23-27.11.26), aby wziąć udział w dywidendzie!",
       "link": "https://comparic.pl/akcje-tych-spolek-musisz-posiadac-w-tym-tygodniu-23-27-11-26-aby-wziac-udzial-w-dywidendzie/",
       "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/03/dywidendy-freepik-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Za chwilę minie ostatnia szansa na zakup akcji spółek, aby załapać się na wypłatę dywidendy, czyli części zysku wypłacanego akcjonariuszom w formie gotówki albo dodatkow",
       "published": "Sat, 21 Nov 2026 07:55:06 +0000",
       "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Podatkowy rachunek sumienia przed końcem roku. Oto ulgi, o których klasa średnia zapomina",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/o-czym-nalezy-pamietac-przed-koncem-roku-poradnik-finansowy/2v04z7s",
-      "summary": "Prezydent Karol Nawrocki podpisał niedawno likwidację ulgi na internet, a do 27 listopada zdecyduje o nowej skali PIT. Dla Polaków w drugim progu podatkowym grudzień to ostatni moment na odliczenia warte nawet kilka tysięcy złotych. W tym artykule przedstawiam ulgi, o których klasa średnia często zapomina, i terminy, których w żaden sposób nie da się przesunąć na później.",
-      "published": "Sat, 21 Nov 2026 07:42:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Bruksela źle zrozumiała intencje Chin. Ekspert: może to bardzo dużo kosztować",
-      "link": "https://businessinsider.com.pl/gospodarka/chiny-kontra-unia-europejska-eskalacja-wojny-handlowej-coraz-blizej/w5hn6t6",
-      "summary": "Dalsza eskalacja jest w dużej mierze nieunikniona. W Europie coś pękło - przekonuje wicedyrektor Ośrodka Studiów Wschodnich.",
-      "published": "Sat, 21 Nov 2026 07:40:00 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "GTA 6 bije rekordy, giełdy dostają zadyszki. Złoto tonie, bitcoin drży, a miliardy płyną do AI",
-      "link": "https://www.bankier.pl/wiadomosc/GTA-6-bije-rekordy-gieldy-dostaja-zadyszki-Zloto-tonie-bitcoin-drzy-a-miliardy-plyna-do-AI-9232342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/5/e/72dd5ad4f02032-948-568-66-153-1945-1167.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Dzień dobry, tutaj Inwestor Wojtek. W tym tygodniu rynki finansowe wchodzą w okres podwyższonej niepewności. Mocniejszy dolar spycha złoto i srebro do najniższych poziomów od ",
-      "published": "Sat, 21 Nov 2026 06:00:00 +0100",
-      "source": "Bankier.pl",
       "category": "pl"
     },
     {
@@ -682,50 +730,10 @@
       "category": "pl"
     },
     {
-      "title": "\"FT\": to dlatego Trumpowi tak się spieszy w sprawie Ukrainy",
-      "link": "https://businessinsider.com.pl/wiadomosci/trumpowi-spieszy-w-sprawie-ukrainy-ft-oto-powod/4hdsl52",
-      "summary": "Donald Trump chce doprowadzić do porozumienia między Rosją a Ukrainą, zanim w styczniu Demokraci przejmą kontrolę nad Kongresem — przekazuje dziennik \"Financial Times\", powołując się na źródła znające szczegóły tego planu.",
-      "published": "Fri, 20 Nov 2026 19:03:36 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
       "title": "Peter Schiff ostrzega przed krachem Bitcoina. USA mogą ucierpieć najbardziej",
       "link": "https://comparic.pl/peter-schiff-ostrzega-przed-krachem-bitcoina-usa-moga-ucierpiec-najbardziej/",
       "summary": "<p><img alt=\"Peter Schiff\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/06/AI-Peter-Schiff-Bitcoin-BTC-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Peter Schiff ponownie ostrzega przed poważnym załamaniem rynku kryptowalut. Tym razem ekonomista przekonuje, iż potencjalny krach Bitcoina może szc",
       "published": "Fri, 20 Nov 2026 18:28:51 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Czarny tydzień na Wall Street. S&P 500 traci 7%, Nasdaq 8,5%. Czy to początek bessy?",
-      "link": "https://comparic.pl/czarny-tydzien-na-wall-street-sp-500-traci-7-nasdaq-85-czy-to-poczatek-bessy/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/11/Freepik-panic-panika-crash-kryzys-banka-bessa-wyprzedaz-spadek-spadki-strach-lost-3-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Wall Street przechodzi najgłębszą od miesięcy korektę. Indeks S&#38;P 500 traci w piątek 1,55% do 7 051 ",
-      "published": "Fri, 20 Nov 2026 18:15:12 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Performance Analytics od FOREX.com – osobisty trener, który pomoże okiełznać emocje w tradingu",
-      "link": "https://comparic.pl/performance-analytics-od-forex-com-osobisty-trener-ktory-pomoze-okielznac-emocje-w-tradingu/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2024/02/freepik-trading-forex-chart-charts-wykres-notowania-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Treść artykułu dostarczona przez Partnera w ramach współpracy komercyjnej. Przedwczesne zamykanie zyskownych pozycji, impulsywne decyzje",
-      "published": "Fri, 20 Nov 2026 18:10:53 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "\"Uzgodniliśmy z Xi\". Donald Trump mówi o porozumieniu dotyczącym AI",
-      "link": "https://businessinsider.com.pl/gospodarka/uzgodnilismy-z-xi-trump-mowi-o-porozumieniu-dotyczacym-ai/rs33llk",
-      "summary": "Prezydent USA Donald Trump poinformował, że uzgodnił z przywódcą Chin Xi Jinpingiem, że stworzą pewne wspólne \"mechanizmy bezpieczeństwa\" w rozwoju sztucznej inteligencji. Ogłosił też, że nie pozwoli firmom ze Stanów Zjednoczonych na budowę centrów danych poza krajem.",
-      "published": "Fri, 20 Nov 2026 18:09:20 GMT",
-      "source": "BusinessInsider.pl",
-      "category": "other"
-    },
-    {
-      "title": "Ile zapłacimy za paliwo? Diesel może potanieć o kolejne kilkanaście groszy",
-      "link": "https://comparic.pl/ile-zaplacimy-za-paliwo-diesel-moze-potaniec-o-kolejne-kilkanascie-groszy/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/10/freepik-oil-wti-brent-crude-ropa-naftowa-barylka-ropy-naftowej-3-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Kierowcy zapłacą w weekend mniej za tankowanie. Minister Energii obniżył maksymalne ceny paliw obowiązujące od soboty 21 li",
-      "published": "Fri, 20 Nov 2026 17:41:56 +0000",
       "source": "Comparic.pl",
       "category": "pl"
     },
@@ -738,28 +746,20 @@
       "category": "pl"
     },
     {
-      "title": "Rynek nieruchomości w USA hamuje? Wnioski o kredyty hipoteczne spadają o 2,3%",
-      "link": "https://comparic.pl/rynek-nieruchomosci-w-usa-hamuje-wnioski-o-kredyty-hipoteczne-spadaja-o-23/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2025/03/freepik-rynek-nieruchomosci-sprzedaz-domow-dom-house-home-budownictwo-budowlanka-mieszkanie-kredyt-hipoteka-hipoteczny-150x150.jpg\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Popyt na kredyty hipoteczne w USA ponownie słabnie po kilku tygodniac",
-      "published": "Fri, 20 Nov 2026 16:57:13 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
-      "title": "Wall Street płaci mniej za zyski spółek tech niż przez ostatnie 5 lat. Powód jest niepokojący",
-      "link": "https://comparic.pl/wall-street-placi-mniej-za-zyski-spolek-tech-niz-przez-ostatnie-5-lat-powod-jest-niepokojacy/",
-      "summary": "<p><img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://comparic.pl/wp-content/uploads/2026/11/daniel-kostecki-cmc-150x150.webp\" style=\"margin-bottom: 15px; height: auto;\" width=\"150\" /></p>Spadek cen akcji amerykańskich spółek technologicznych może odzwierciedlać obawy, że wzrost zysków na akcję (EPS) wyhamuje szybciej, nim analitycy z Wall Street zmieni",
-      "published": "Fri, 20 Nov 2026 16:00:35 +0000",
-      "source": "Comparic.pl",
-      "category": "pl"
-    },
-    {
       "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
       "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
       "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
       "published": "Fri, 20 Nov 2026 15:50:27 GMT",
       "source": "CNBC",
       "category": "us"
+    },
+    {
+      "title": "Korekta na złocie, krach srebra i nowy rekord w Polsce. \"To nie maszynka do zarabiania\"",
+      "link": "https://www.bankier.pl/wiadomosc/Korekta-na-zlocie-krach-srebra-i-nowy-rekord-w-Polsce-To-nie-maszynka-do-zarabiania-9232565.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "summary": "<p><img align=\"left\" alt=\"\" class=\"webfeedsFeaturedVisual\" height=\"560\" src=\"http://galeria.bankier.pl/p/e/1/78761571fda541-948-568-0-321-4024-2414.jpg\" style=\"display: block; margin-bottom: 5px; clear: both;\" width=\"945\" />Po rekordowym początku roku na rynku metali szlachetnych doszło do gwałtownego tąpnięcia - od historycznych maksimów złoto potaniało o ponad jedną trzecią, a srebro straciło na",
+      "published": "Fri, 20 Nov 2026 14:15:00 +0100",
+      "source": "Bankier.pl",
+      "category": "pl"
     },
     {
       "title": "Domański nowym wicepremierem. Wskazał priorytet rządu Tuska",
